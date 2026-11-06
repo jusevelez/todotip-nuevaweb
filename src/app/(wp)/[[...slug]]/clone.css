@@ -1,0 +1,27 @@
+/* Elementor keeps popup templates out of the page until a trigger opens them. */
+body > [data-elementor-type="popup"] {
+  display: none;
+}
+
+.clone-form-notice {
+  margin-top: 10px;
+}
+
+/* reCAPTCHA v2 keys are bound to www.todoip.com; keep the widget's 304x78 slot. */
+.elementor-g-recaptcha[data-type="v2_checkbox"]:empty {
+  box-sizing: border-box;
+  display: flex;
+  align-items: center;
+  width: 304px;
+  height: 78px;
+  padding: 0 12px;
+  border: 1px solid #d3d3d3;
+  border-radius: 3px;
+  background: #f9f9f9;
+  color: #555;
+  font: 12px/1.4 Roboto, Arial, sans-serif;
+}
+
+.elementor-g-recaptcha[data-type="v2_checkbox"]:empty::after {
+  content: "reCAPTCHA pendiente de conexión en la versión migrada";
+}

@@ -1,0 +1,333 @@
+/**
+ * Products Addon - Styles
+ * Custom colors: #F1F1F1 cards, #EEFFDC icon bg, #8DC74D icons/line, #A7A7A7 borders
+ */
+
+/* ===== Base Styles ===== */
+.pa-products-catalog {
+    font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+    background-color: #ffffff;
+    color: #1b2523;
+    padding: 80px 0;
+    width: 100%;
+}
+
+.pa-products-catalog.pa-full-width {
+    width: 100vw;
+    margin-left: calc(-50vw + 50%);
+    position: relative;
+    left: 0;
+}
+
+.pa-catalog-container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+.pa-products-catalog.pa-full-width .pa-catalog-container {
+    max-width: 1400px;
+}
+
+/* ===== Header ===== */
+.pa-catalog-header {
+    display: flex;
+    align-items: flex-start;
+    gap: 24px;
+    margin-bottom: 64px;
+}
+
+.pa-catalog-border {
+    width: 4px;
+    height: 80px;
+    background-color: #8DC74D;
+    flex-shrink: 0;
+}
+
+.pa-catalog-subtitle {
+    display: block;
+    font-size: 13px;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.2em;
+    color: #1b2523;
+    margin-bottom: 12px;
+}
+
+.pa-catalog-title {
+    font-size: 42px;
+    font-weight: 800;
+    line-height: 1.15;
+    color: #1b2523;
+    margin: 0;
+    letter-spacing: -0.02em;
+}
+
+/* ===== Category Section ===== */
+.pa-category-section {
+    margin-bottom: 64px;
+}
+
+.pa-category-header {
+    padding: 0 16px;
+    margin-bottom: 32px;
+}
+
+.pa-category-title-wrapper {
+    display: flex;
+    align-items: center;
+    gap: 16px;
+    margin-bottom: 8px;
+}
+
+.pa-category-icon {
+    font-size: 32px;
+    color: #1b2523;
+    font-variation-settings: 'wght' 400;
+}
+
+.pa-category-title {
+    font-size: 24px;
+    font-weight: 700;
+    letter-spacing: -0.01em;
+    color: #1b2523;
+    margin: 0;
+}
+
+.pa-category-description {
+    font-size: 17px;
+    font-weight: 400;
+    color: #000000;
+    margin: 0;
+    line-height: 1.6;
+    max-width: 640px;
+}
+
+/* ===== Products Grid ===== */
+.pa-products-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 32px;
+    padding: 16px;
+}
+
+@media (max-width: 991px) {
+    .pa-products-grid {
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
+
+@media (max-width: 767px) {
+    .pa-products-grid {
+        grid-template-columns: 1fr;
+    }
+}
+
+/* ===== Product Card ===== */
+.pa-product-card {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    padding: 28px;
+    background-color: #F1F1F1;
+    border: 1px solid #A7A7A7;
+    border-radius: 12px;
+    transition: all 0.25s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.pa-product-card:hover {
+    box-shadow: 0 8px 25px rgba(27, 37, 35, 0.1);
+    transform: translateY(-2px);
+}
+
+.pa-product-icon-wrapper {
+    width: 64px;
+    height: 64px;
+    background-color: #f5ffea;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.pa-product-icon {
+    font-size: 28px;
+    color: #8DC74D;
+    font-variation-settings: 'wght' 400;
+}
+
+.pa-product-content {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.pa-product-title {
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 1.35;
+    color: #1b2523;
+    margin: 0;
+    letter-spacing: -0.01em;
+}
+
+.pa-product-description {
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 1.6;
+    color: #000000;
+    margin: 0;
+}
+
+.pa-product-link {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    font-size: 14px;
+    font-weight: 600;
+    color: #8DC74D;
+    text-decoration: none;
+    margin-top: 8px;
+    transition: all 0.2s ease;
+}
+
+.pa-product-link:hover {
+    color: #7ab53e;
+    gap: 10px;
+}
+
+/* ===== CTA Section ===== */
+.pa-cta-section {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    gap: 32px;
+    padding: 40px 48px;
+    background-color: #1b2523;
+    border-radius: 16px;
+    margin-top: 48px;
+}
+
+@media (max-width: 767px) {
+    .pa-cta-section {
+        flex-direction: column;
+        text-align: center;
+        padding: 32px 24px;
+    }
+}
+
+.pa-cta-content {
+    flex: 1;
+}
+
+.pa-cta-title {
+    font-size: 22px;
+    font-weight: 700;
+    color: #ffffff;
+    margin: 0 0 8px 0;
+    letter-spacing: -0.01em;
+}
+
+.pa-cta-description {
+    font-size: 15px;
+    font-weight: 400;
+    color: rgba(255, 255, 255, 0.7);
+    margin: 0;
+    line-height: 1.6;
+}
+
+.pa-cta-button {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    padding: 14px 32px;
+    background-color: #8DC74D;
+    color: #ffffff;
+    font-size: 14px;
+    font-weight: 700;
+    text-decoration: none;
+    border-radius: 8px;
+    transition: all 0.2s ease;
+    white-space: nowrap;
+    flex-shrink: 0;
+}
+
+.pa-cta-button:hover {
+    background-color: #7ab53e;
+    transform: translateY(-1px);
+    box-shadow: 0 4px 12px rgba(141, 199, 77, 0.3);
+    color: #ffffff;
+}
+
+/* ===== Responsive Adjustments ===== */
+@media (max-width: 767px) {
+    .pa-products-catalog {
+        padding: 48px 0;
+    }
+    
+    .pa-catalog-container {
+        padding: 0 16px;
+    }
+    
+    .pa-catalog-header {
+        margin-bottom: 40px;
+    }
+    
+    .pa-catalog-title {
+        font-size: 32px;
+    }
+    
+    .pa-catalog-border {
+        height: 60px;
+    }
+    
+    .pa-category-section {
+        margin-bottom: 40px;
+    }
+    
+    .pa-category-title {
+        font-size: 18px;
+    }
+    
+    .pa-category-icon {
+        font-size: 26px;
+    }
+}
+
+/* ===== Dark Mode Support ===== */
+@media (prefers-color-scheme: dark) {
+    .pa-products-catalog {
+        background-color: #0f1413;
+        color: #f8fafc;
+    }
+    
+    .pa-catalog-subtitle,
+    .pa-catalog-title,
+    .pa-category-title,
+    .pa-product-title {
+        color: #f8fafc;
+    }
+    
+    .pa-category-icon {
+        color: #f8fafc;
+    }
+    
+    .pa-product-card {
+        background-color: #1a2024;
+        border-color: #2d3748;
+    }
+    
+    .pa-product-icon-wrapper {
+        background-color: #EEFFDC;
+    }
+    
+    .pa-product-icon {
+        color: #8DC74D;
+    }
+    
+    .pa-category-description,
+    .pa-product-description {
+        color: rgba(255, 255, 255, 0.8);
+    }
+}

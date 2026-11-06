@@ -1,0 +1,192 @@
+/* Egeiro WhatsApp Floating Action Button */
+.egeiro-whfab {
+    position: fixed;
+    bottom: 24px;
+    right: 24px;
+    z-index: 9999;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    gap: 12px;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+}
+
+.egeiro-whfab__menu {
+    display: none;
+    flex-direction: column;
+    gap: 10px;
+    margin-bottom: 4px;
+    animation: egeiro-whfab-fade-up 0.25s ease-out;
+}
+
+.egeiro-whfab__menu.is-open {
+    display: flex;
+}
+
+.egeiro-whfab__option {
+    display: inline-flex;
+    align-items: center;
+    gap: 12px;
+    background: #ffffff;
+    color: #334155;
+    padding: 12px 16px;
+    border-radius: 16px;
+    box-shadow: 0 10px 25px -5px rgba(0, 0, 0, 0.15), 0 4px 10px -4px rgba(0, 0, 0, 0.1);
+    border: 1px solid #f1f5f9;
+    text-decoration: none;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 1.4;
+    white-space: nowrap;
+    transition: transform 0.2s ease, box-shadow 0.2s ease, background-color 0.2s ease;
+}
+
+.egeiro-whfab__option:hover,
+.egeiro-whfab__option:focus {
+    transform: translateY(-2px) scale(1.02);
+    box-shadow: 0 14px 32px -6px rgba(0, 0, 0, 0.18), 0 6px 14px -5px rgba(0, 0, 0, 0.12);
+    background-color: #f8fafc;
+    color: #0f172a;
+    outline: none;
+}
+
+.egeiro-whfab__label {
+    white-space: nowrap;
+}
+
+.egeiro-whfab__icon {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    flex-shrink: 0;
+    background: #8DC74D !important;
+    color: rgb(22, 22, 22) !important;
+}
+
+.egeiro-whfab__icon svg {
+    width: 22px;
+    height: 22px;
+    fill: currentColor !important;
+}
+
+#egeiro-whfab .egeiro-whfab__button {
+    display: inline-flex !important;
+    align-items: center;
+    gap: 10px;
+    padding: 12px 20px 12px 16px !important;
+    border-radius: 5px !important;
+    border: none !important;
+    background: #8DC74D !important;
+    color: rgb(22, 22, 22) !important;
+    box-shadow: 0 10px 25px -5px rgba(141, 199, 77, 0.4), 0 4px 10px -4px rgba(0, 0, 0, 0.1) !important;
+    cursor: pointer;
+    font-size: 15px !important;
+    font-weight: 600 !important;
+    line-height: 1;
+    transition: transform 0.2s ease, box-shadow 0.2s ease, background-color 0.2s ease;
+    -webkit-tap-highlight-color: transparent;
+}
+
+#egeiro-whfab .egeiro-whfab__button:hover,
+#egeiro-whfab .egeiro-whfab__button:focus {
+    background: #7ab83f !important;
+    color: rgb(22, 22, 22) !important;
+    transform: translateY(-2px) scale(1.02);
+    box-shadow: 0 14px 32px -6px rgba(141, 199, 77, 0.5), 0 6px 14px -5px rgba(0, 0, 0, 0.12) !important;
+    outline: none;
+}
+
+#egeiro-whfab .egeiro-whfab__button svg {
+    fill: currentColor !important;
+    color: rgb(22, 22, 22) !important;
+}
+
+#egeiro-whfab .egeiro-whfab__button:active {
+    transform: translateY(0) scale(0.98);
+}
+
+.egeiro-whfab__button-icon {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 28px;
+    height: 28px;
+    flex-shrink: 0;
+}
+
+.egeiro-whfab__button-icon svg {
+    width: 100%;
+    height: 100%;
+}
+
+.egeiro-whfab__button-text {
+    white-space: nowrap;
+}
+
+@keyframes egeiro-whfab-fade-up {
+    from {
+        opacity: 0;
+        transform: translateY(12px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+/* Mobile adjustments */
+@media (max-width: 480px) {
+    .egeiro-whfab {
+        bottom: 16px;
+        right: 16px;
+    }
+
+    .egeiro-whfab__button {
+        padding: 10px 16px 10px 12px;
+        font-size: 14px;
+    }
+
+    .egeiro-whfab__button-icon {
+        width: 24px;
+        height: 24px;
+    }
+
+    .egeiro-whfab__option {
+        padding: 10px 14px;
+        font-size: 13px;
+    }
+
+    .egeiro-whfab__icon {
+        width: 34px;
+        height: 34px;
+    }
+
+    .egeiro-whfab__icon svg {
+        width: 18px;
+        height: 18px;
+    }
+}
+
+/* Respect reduced motion preferences */
+@media (prefers-reduced-motion: reduce) {
+    .egeiro-whfab__menu,
+    .egeiro-whfab__option,
+    .egeiro-whfab__button {
+        animation: none;
+        transition: none;
+    }
+}
+
+/* Hide button text on very small screens when menu is open to avoid overlap */
+@media (max-width: 360px) {
+    .egeiro-whfab__button-text {
+        display: none;
+    }
+
+    .egeiro-whfab__button {
+        padding: 12px;
+    }
+}

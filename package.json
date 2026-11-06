@@ -1,0 +1,35 @@
+{
+  "name": "todoip-next",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev -H 0.0.0.0 -p 4317",
+    "prebuild": "node scripts/check-seo-env.mjs",
+    "build": "next build",
+    "start": "next start -H 0.0.0.0 -p 4318",
+    "lint": "eslint",
+    "typecheck": "tsc --noEmit",
+    "capture": "node scripts/capture/crawl.mjs && node scripts/capture/probe.mjs && node scripts/capture/localize-css.mjs",
+    "generate": "node scripts/generate/generate.mjs",
+    "test:seo": "node scripts/test/seo.mjs",
+    "test:links": "node scripts/test/links.mjs",
+    "test:visual": "node scripts/test/visual.mjs"
+  },
+  "dependencies": {
+    "next": "16.4.5",
+    "react": "19.3.0",
+    "react-dom": "19.3.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "cheerio": "^1.2.0",
+    "eslint": "^9",
+    "eslint-config-next": "16.4.5",
+    "pixelmatch": "^8.0.0",
+    "playwright-core": "^1.65.0",
+    "pngjs": "^7.0.0",
+    "typescript": "^5"
+  }
+}

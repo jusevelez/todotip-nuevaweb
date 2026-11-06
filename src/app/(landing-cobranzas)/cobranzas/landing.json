@@ -1,0 +1,47 @@
+{
+  "path": "/cobranzas/",
+  "title": "TodoIP Cobranzas | Arquitectura de Recaudo con IA",
+  "robots": "noindex, follow",
+  "htmlAttrs": {
+    "lang": "es"
+  },
+  "bodyAttrs": {},
+  "head": [
+    {
+      "tag": "meta",
+      "attrs": {
+        "name": "description",
+        "content": "Automatiza la consulta de saldos, humaniza el contacto con WhatsApp Voice y cierra acuerdos de pago al instante. Operación 24/7 para tu cartera."
+      }
+    },
+    {
+      "tag": "link",
+      "attrs": {
+        "rel": "preconnect",
+        "href": "https://fonts.googleapis.com"
+      }
+    },
+    {
+      "tag": "jsonld",
+      "attrs": {
+        "class": null
+      },
+      "text": "{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"Service\",\"@id\":\"https://www.todoip.com/cobranzas#service\",\"name\":\"TodoIP Cobranzas - Arquitectura de Recaudo con IA\",\"description\":\"Cobranza masiva por WhatsApp para carteras grandes. Automatiza la consulta de saldos, contacta con WhatsApp Voice y cierra acuerdos de pago con un alto volumen de deudores, 24/7\",\"provider\":{\"@type\":\"Organization\",\"name\":\"TodoIP\",\"url\":\"https://www.todoip.com\"},\"serviceType\":\"Debt Collection Automation\",\"areaServed\":{\"@type\":\"Country\",\"name\":\"Colombia\"},\"audience\":{\"@type\":\"Audience\",\"name\":\"Gerentes y directores de cartera en empresas de cobranza, financieras, clínicas e IPS\"},\"offers\":{\"@type\":\"Offer\",\"availability\":\"https://schema.org/InStock\",\"priceCurrency\":\"COP\"},\"hasOfferCatalog\":{\"@type\":\"OfferCatalog\",\"name\":\"Soluciones de recaudo con IA\",\"itemListElement\":[{\"@type\":\"Service\",\"name\":\"Llamadas de voz nativas por WhatsApp\",\"description\":\"Cuenta verificada con llamadas de voz nítidas dentro de WhatsApp para humanizar el cobro\"},{\"@type\":\"Service\",\"name\":\"Consulta de saldos 24/7\",\"description\":\"IA conectada a tu base de datos que consulta saldos en tiempo real sin intervención humana\"},{\"@type\":\"Service\",\"name\":\"Links de pago dinámicos\",\"description\":\"Genera enlaces de pago (Wompi, Mercado Pago) directamente en la conversación de WhatsApp\"},{\"@type\":\"Service\",\"name\":\"Desborde inteligente\",\"description\":\"Transferencia automática a asesor humano cuando el cliente solicita renegociar o acuerdo especial\"}]},\"category\":[\"FinTech\",\"Cobranza Digital\",\"Automatización de Recaudo\",\"WhatsApp Business\"]},{\"@type\":\"WebPage\",\"@id\":\"https://www.todoip.com/cobranzas#webpage\",\"url\":\"https://www.todoip.com/cobranzas\",\"name\":\"TodoIP Cobranzas | Arquitectura de Recaudo con IA\",\"description\":\"Cobranza masiva por WhatsApp para carteras grandes. Automatiza la consulta de saldos, contacta con WhatsApp Voice y cierra acuerdos de pago, 24/7.\",\"inLanguage\":\"es\",\"isPartOf\":{\"@id\":\"https://www.todoip.com/#website\"}}]}"
+    }
+  ],
+  "stylesheets": [
+    {
+      "id": null,
+      "href": "https://fonts.googleapis.com/css2?family=Geologica:wght@400;500;600;700;800&display=swap",
+      "media": null
+    },
+    {
+      "id": null,
+      "href": "https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,300..500,0..1,0&display=swap",
+      "media": null
+    },
+    {
+      "inline": "wph-d62d1d2155:d62d1d2155"
+    }
+  ]
+}

@@ -1,0 +1,1388 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Omnicanal &#8211; Todo IP</title>
+	<atom:link href="https://www.todoip.com/category/analysis/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.todoip.com</link>
+	<description></description>
+	<lastBuildDate>Wed, 28 Oct 2026 15:50:15 +0000</lastBuildDate>
+	<language>es</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=7.1.4</generator>
+
+<image>
+	<url>https://www.todoip.com/wp-content/uploads/2024/11/cropped-cropped-Todoip-fav-32x32.webp</url>
+	<title>Omnicanal &#8211; Todo IP</title>
+	<link>https://www.todoip.com</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Resolución 256: cómo cumplir la ley sin enloquecer a tu equipo</title>
+		<link>https://www.todoip.com/resolucion-256-como-cumplir-la-ley-sin-enloquecer-a-tu-equipo/</link>
+					<comments>https://www.todoip.com/resolucion-256-como-cumplir-la-ley-sin-enloquecer-a-tu-equipo/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Tue, 22 Sep 2026 13:57:23 +0000</pubDate>
+				<category><![CDATA[Omnicanal]]></category>
+		<guid isPermaLink="false">https://www.todoip.com/?p=991840</guid>
+
+					<description><![CDATA[Cumplir con la Resolución 256 del Ministerio de Salud ya no tiene que ser un dolor de cabeza ni obligarte a cambiar toda la infraestructura telefónica de tu clínica.]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-large"><img fetchpriority="high" decoding="async" width="1024" height="538" src="https://www.todoip.com/wp-content/uploads/2026/09/Imagen-resolucion-256-1024x538.png" alt="Imagen resolucion 256" class="wp-image-991841" title="Resolución 256: cómo cumplir la ley sin enloquecer a tu equipo 1" srcset="https://www.todoip.com/wp-content/uploads/2026/09/Imagen-resolucion-256-1024x538.png 1024w, https://www.todoip.com/wp-content/uploads/2026/09/Imagen-resolucion-256-300x158.png 300w, https://www.todoip.com/wp-content/uploads/2026/09/Imagen-resolucion-256-768x403.png 768w, https://www.todoip.com/wp-content/uploads/2026/09/Imagen-resolucion-256.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p class="wp-block-paragraph">Un <strong>software de call center para salud</strong> que cumple con la Resolución 256 no exige cambiar tu conmutador ni comprar teléfonos nuevos: se conecta a la plataforma que ya usa tu clínica (Asterisk, Cisco, Grandstream o similar), agrega la encuesta de satisfacción al final de cada llamada, y entrega el reporte listo para subir a PISIS / SISPRO. Así de simple es, en la práctica, cumplir con una obligación legal que muchas IPS y EPS todavía resuelven a mano o no resuelven del todo.</p>
+
+
+
+<p class="wp-block-paragraph">Medir la satisfacción de los pacientes es importante para cualquier centro médico, pero en Colombia es también una obligación legal. La Resolución 256 de 2016 del Ministerio de Salud exige a las IPS y EPS realizar encuestas continuas, incluir si el paciente recomendaría la institución, y cargar toda esa información en la plataforma PISIS / SISPRO.</p>
+
+
+
+<h3 class="wp-block-heading"><strong>El dolor de cabeza de cambiar tus teléfonos</strong></h3>
+
+
+
+<p class="wp-block-paragraph">El verdadero reto no es querer hacer la encuesta, sino cómo hacerla. Muchos de los sistemas telefónicos que ya tienen las clínicas son confiables, pero algo antiguos, por lo que no traen una función automática para encuestar al terminar la llamada.</p>
+
+
+
+<p class="wp-block-paragraph">Cuando buscas una solución, muchos proveedores te dicen que debes cambiar toda la infraestructura: comprar aparatos nuevos, instalar redes y soportar semanas de caídas en el servicio. Es un gasto de dinero enorme solo para cumplir con un reporte, y mientras tanto tu equipo médico y administrativo pierde días de productividad acostumbrándose a un sistema nuevo.</p>
+
+
+
+<h3 class="wp-block-heading"><strong>La alternativa fácil: conectar sin desconectar</strong></h3>
+
+
+
+<p class="wp-block-paragraph">La realidad es que no tienes que botar a la basura los equipos que ya te funcionan. TodoIP ofrece una solución mucho más amigable: <a href="https://www.todoip.com/telefoniaip/"><strong>migrar a telefonía en la nube</strong></a> conectando su sistema directamente a tu plataforma actual, sin importar si usas Asterisk, Cisco, Grandstream o similares.</p>
+
+
+
+<p class="wp-block-paragraph">No hay cables nuevos, ni cortes largos de servicio. Tu equipo administrativo y médico sigue usando los mismos teléfonos a los que ya está acostumbrado. Esta es la diferencia clave frente a otros proveedores: no es una <strong>alternativa a PBX tradicional</strong> que obliga a empezar de cero, sino un complemento que se monta encima de lo que ya tienes.</p>
+
+
+
+<h3 class="wp-block-heading"><strong>Así funciona en la práctica</strong></h3>
+
+
+
+<p class="wp-block-paragraph">Implementar este modelo hace que el trabajo pesado se haga solo:</p>
+
+
+
+<ul class="wp-block-list">
+<li>El asesor recibe y maneja la llamada de la clínica con total normalidad.</li>
+
+
+
+<li>Cuando el trámite termina, le avisa rápidamente al paciente que lo pasará a una breve encuesta.</li>
+
+
+
+<li>Al transferir la llamada, el <a href="https://www.todoip.com/agente-virtual-ivr/"><strong>agente virtual IVR</strong></a> toma el control y le hace las preguntas al paciente, sin intervención humana.</li>
+
+
+
+<li>Todas las respuestas se guardan automáticamente, y el sistema entrega el reporte armado, listo para subirlo a PISIS / SISPRO.</li>
+</ul>
+
+
+
+<p class="wp-block-paragraph">Este mismo agente virtual, además de encuestar, puede atender otras tareas repetitivas de tu <a href="https://www.todoip.com/telefoniaip/"><strong>sistema telefónico para empresas</strong></a> del sector salud: confirmar datos básicos, direccionar la llamada al área correcta, o informar horarios de atención, sin sumarle más carga a tu equipo humano.</p>
+
+
+
+<h3 class="wp-block-heading"><strong>Casos reales que ya lo lograron</strong></h3>
+
+
+
+<p class="wp-block-paragraph">No es una idea a futuro, es algo que ya está pasando. Entidades reconocidas como Angiografía de Occidente y Clínica de la Visión ya implementaron esta conexión. Hoy cumplen sin problemas con la Resolución 256, no gastaron una fortuna cambiando sus teléfonos, y su personal sigue trabajando tranquilo con el mismo conmutador de siempre.</p>
+
+
+
+<p class="wp-block-paragraph">Este tipo de resultado es exactamente lo que buscamos con nuestras soluciones para el <a href="https://www.todoip.com/salud/"><strong>sector salud</strong></a>: que la tecnología resuelva un problema real y una obligación legal, sin obligar a la clínica a reinventar su operación completa.</p>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="538" src="https://www.todoip.com/wp-content/uploads/2026/09/Imagen-resolucion-256-2-1024x538.png" alt="Imagen resolucion 256 2" class="wp-image-991842" title="Resolución 256: cómo cumplir la ley sin enloquecer a tu equipo 2" srcset="https://www.todoip.com/wp-content/uploads/2026/09/Imagen-resolucion-256-2-1024x538.png 1024w, https://www.todoip.com/wp-content/uploads/2026/09/Imagen-resolucion-256-2-300x158.png 300w, https://www.todoip.com/wp-content/uploads/2026/09/Imagen-resolucion-256-2-768x403.png 768w, https://www.todoip.com/wp-content/uploads/2026/09/Imagen-resolucion-256-2.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<h3 class="wp-block-heading"><strong>Antes de implementarlo</strong></h3>
+
+
+
+<p class="wp-block-paragraph">Si tu clínica o IPS está evaluando cómo cumplir la Resolución 256, conviene tener clara la respuesta a estas preguntas:</p>
+
+
+
+<ol class="wp-block-list">
+<li>¿Qué marca o plataforma de conmutador usas hoy (Asterisk, Cisco, Grandstream,&nbsp;</li>
+
+
+
+<li>otra)?</li>
+
+
+
+<li>¿Cómo estás reportando hoy la satisfacción del paciente a PISIS / SISPRO: manual, parcial, o no la estás reportando?</li>
+
+
+
+<li>¿Cuántas llamadas de atención al paciente recibe tu clínica en un día promedio?</li>
+</ol>
+
+
+
+<p class="wp-block-paragraph">Con esas respuestas claras, conectar un <strong>software de call center para salud</strong> a tu conmutador actual toma días, no meses, y no implica ningún corte largo de servicio.</p>
+
+
+
+<p class="wp-block-paragraph"><strong>Contactanos y te mostramos cómo funciona nuestra solución</strong></p>
+
+
+
+<p class="wp-block-paragraph"></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.todoip.com/resolucion-256-como-cumplir-la-ley-sin-enloquecer-a-tu-equipo/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>¿Por qué mi número aparece como spam?</title>
+		<link>https://www.todoip.com/por-que-mi-numero-aparece-como-spam/</link>
+					<comments>https://www.todoip.com/por-que-mi-numero-aparece-como-spam/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Tue, 15 Apr 2025 22:02:39 +0000</pubDate>
+				<category><![CDATA[Omnicanal]]></category>
+		<category><![CDATA[Con CTA]]></category>
+		<guid isPermaLink="false">https://www.todoip.com/?p=990899</guid>
+
+					<description><![CDATA[Cada vez más usuarios descubren que sus llamadas son marcadas como "spam" o "posible estafa". Esto puede afectar seriamente la comunicación empresarial. En esta entrada, explicamos por qué ocurre, cómo evitarlo y cómo una solución como el PBX móvil puede ayudarte a proteger tu reputación.]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph">En la era digital, muchos usuarios se sorprenden al ver que su número aparece marcado como «spam», «probable spam» o incluso «probable estafa» en el identificador de llamadas de sus destinatarios. Esto suele ocurrir cuando el número ha sido reportado o detectado como fuente de llamadas no deseadas.</p>
+
+
+
+<p class="wp-block-paragraph"></p>
+
+
+
+<h2 class="wp-block-heading">¿Qué es una llamada no deseada?</h2>
+
+
+
+<p class="wp-block-paragraph">Una llamada no deseada es aquella que se origina desde un número que ha sido catalogado como sospechoso. Tanto los consumidores como los operadores utilizan diferentes mecanismos para identificar llamadas que pudieran ser automáticas, ilegítimas o potencialmente fraudulentas. Los principales problemas asociados a estas llamadas incluyen:</p>
+
+
+
+<ul class="wp-block-list">
+<li><strong>Robocalling:</strong> Llamadas en masa, de corta duración y desde un mismo número.</li>
+
+
+
+<li><strong>Llamadas ilegales:</strong> Iniciadas con fines fraudulentos o engañosos.</li>
+
+
+
+<li><strong>Llamadas no deseadas:</strong> Llamadas que el usuario no solicitó y que pueden interrumpir su rutina diaria.</li>
+</ul>
+
+
+
+<p class="wp-block-paragraph"></p>
+
+
+
+<h2 class="wp-block-heading">¿Por qué se produce la marcación de spam o el bloqueo de llamadas?</h2>
+
+
+
+<p class="wp-block-paragraph">El etiquetado de números como spam responde a acciones tanto de consumidores como de operadores:</p>
+
+
+
+<h3 class="wp-block-heading">Reportes de consumidores:</h3>
+
+
+
+<ul class="wp-block-list">
+<li>Los usuarios pueden marcar un número como sospechoso mediante quejas directas a su operador o mediante aplicaciones especializadas como Truecaller y Hiya.</li>
+
+
+
+<li>Estas aplicaciones cuentan con bases de datos actualizadas que identifican automáticamente números reportados.</li>
+</ul>
+
+
+
+<h3 class="wp-block-heading">Detección por parte de los operadores:</h3>
+
+
+
+<ul class="wp-block-list">
+<li>Los operadores realizan análisis estadísticos de los patrones de llamadas. Números con alto volumen de llamadas, llamadas cortas o sin respuesta pueden ser marcados automáticamente.</li>
+
+
+
+<li>En algunos casos, el propio operador puede bloquear un número si detecta comportamientos sospechosos.</li>
+</ul>
+
+
+
+<p class="wp-block-paragraph">Además, las regulaciones vigentes exigen la implementación de sistemas de autenticación de identificación de llamadas para proteger a los consumidores y evitar actividades ilegales.</p>
+
+
+
+<p class="wp-block-paragraph"></p>
+
+
+
+<h2 class="wp-block-heading">Buenas prácticas para evitar ser marcado como spam</h2>
+
+
+
+<p class="wp-block-paragraph">Adoptar estrategias adecuadas en su sistema de comunicación puede marcar la diferencia. Estas son algunas prácticas recomendadas:</p>
+
+
+
+<h3 class="wp-block-heading">1. Distribuir el volumen de llamadas:</h3>
+
+
+
+<p class="wp-block-paragraph">Si su empresa realiza un alto número de llamadas mensuales, considere dividir su tráfico entre varios números para evitar que un solo número concentre demasiadas actividades.</p>
+
+
+
+<h3 class="wp-block-heading">2. Calidad sobre cantidad:</h3>
+
+
+
+<ul class="wp-block-list">
+<li>Evite llamadas demasiado cortas y sin mensaje. Siempre deje un mensaje de voz explicativo que informe al destinatario del motivo de la llamada.</li>
+
+
+
+<li>Reduzca el número de llamadas no respondidas. Planifique sus horarios y priorice llamadas a clientes que han mostrado interés en sus productos o servicios.</li>
+</ul>
+
+
+
+<h3 class="wp-block-heading">3. Mensaje personalizado:</h3>
+
+
+
+<p class="wp-block-paragraph">Configure un mensaje de bienvenida personalizado para que, al devolver la llamada, el destinatario sepa de inmediato la identidad y el propósito de la misma.</p>
+
+
+
+<h3 class="wp-block-heading">4. Registro en listas de confianza:</h3>
+
+
+
+<p class="wp-block-paragraph">Inscríbase en servicios de protección contra spam y registre sus números en bases de datos reconocidas para aumentar su credibilidad. Por ejemplo, en Estados Unidos puede consultar el Registro Nacional No Llame.</p>
+
+
+
+<p class="wp-block-paragraph"></p>
+
+
+
+<h2 class="wp-block-heading">Cómo PBX móvil potencia la efectividad de su comunicación</h2>
+
+
+
+<p class="wp-block-paragraph">Nuestro PBX móvil es una solución integral diseñada para empresas que buscan maximizar la eficiencia de sus comunicaciones sin caer en problemas relacionados con el spam. Entre sus beneficios destacan:</p>
+
+
+
+<ul class="wp-block-list">
+<li><strong>Gestión eficiente de llamadas:</strong> Distribuya y administre llamadas entrantes y salientes de manera organizada, reduciendo el riesgo de que su número se marque automáticamente.</li>
+
+
+
+<li><strong>Flexibilidad y escalabilidad:</strong> Aumente o reduzca la capacidad de su centralita según las necesidades de su negocio, evitando concentrar demasiadas actividades en un solo número.</li>
+
+
+
+<li><strong>Integración con sistemas de autenticación:</strong> Nuestro sistema cumple con las normativas de identificación de llamadas, lo que ayuda a mejorar la reputación de sus números y a evitar bloqueos injustificados.</li>
+
+
+
+<li><strong>Soporte y asesoría especializada:</strong> Reciba recomendaciones y mejores prácticas para optimizar la gestión de llamadas, asegurando que sus comunicaciones sean siempre de la más alta calidad.</li>
+</ul>
+
+
+
+<p class="wp-block-paragraph"></p>
+
+
+
+<h2 class="wp-block-heading">Conclusión</h2>
+
+
+
+<p class="wp-block-paragraph">El problema de que un número aparezca como spam es un desafío real que afecta a muchas empresas y usuarios. Adoptar las prácticas recomendadas y contar con soluciones tecnológicas modernas, como el PBX móvil, puede marcar una gran diferencia en la percepción y la efectividad de sus comunicaciones. Recuerde que, al mejorar la calidad de sus llamadas, no solo protege su reputación, sino que también garantiza una mejor experiencia para sus clientes.</p>
+
+
+
+<p class="wp-block-paragraph">Para conocer más sobre cómo implementar estas soluciones en su empresa, le recomendamos visitar TodoIP y explorar todas las ventajas de contar con un sistema de comunicación integrado y eficiente.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.todoip.com/por-que-mi-numero-aparece-como-spam/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Guía completa sobre chatbots para WhatsApp Business </title>
+		<link>https://www.todoip.com/guia-completa-sobre-chatbots-para-whatsapp-business/</link>
+					<comments>https://www.todoip.com/guia-completa-sobre-chatbots-para-whatsapp-business/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Mon, 27 Jan 2025 15:45:38 +0000</pubDate>
+				<category><![CDATA[Omnicanal]]></category>
+		<category><![CDATA[Con CTA]]></category>
+		<guid isPermaLink="false">https://www.todoip.com/?p=990759</guid>
+
+					<description><![CDATA[La comunicación inmediata impulsa el éxito empresarial; los chatbots mejoran atención al cliente y optimizan procesos.]]></description>
+										<content:encoded><![CDATA[
+<h2 class="wp-block-heading"><strong>Guía completa sobre chatbots para WhatsApp Business</strong>&nbsp;</h2>
+
+
+
+<p class="wp-block-paragraph">En un mundo donde la comunicación inmediata es clave para el éxito empresarial, los chatbots se han convertido en aliados imprescindibles para mejorar la atención al cliente y optimizar procesos. En esta guía, exploraremos en detalle todo lo que necesitas saber sobre los chatbots, especialmente en WhatsApp Business, y cómo pueden transformar tu negocio.&nbsp;&nbsp;</p>
+
+
+
+<p class="wp-block-paragraph">En esta guía encontrarás:&nbsp;</p>
+
+
+
+<ul class="wp-block-list">
+<li><strong>¿Qué es un chatbot?</strong>&nbsp;</li>
+</ul>
+
+
+
+<ul class="wp-block-list">
+<li><strong>¿Qué es un chatbot para WhatsApp Business?</strong>&nbsp;</li>
+</ul>
+
+
+
+<ul class="wp-block-list">
+<li><strong>¿Cómo funciona un chatbot en WhatsApp?</strong>&nbsp;</li>
+</ul>
+
+
+
+<ul class="wp-block-list">
+<li><strong>¿Cuáles son sus ventajas?</strong>&nbsp;</li>
+</ul>
+
+
+
+<ul class="wp-block-list">
+<li><strong>¿Cuánto cuesta un bot de WhatsApp?</strong>&nbsp;</li>
+</ul>
+
+
+
+<ul class="wp-block-list">
+<li><strong>Empieza ahora a construir tu propio bot para WhatsApp</strong>&nbsp;</li>
+</ul>
+
+
+
+<p class="wp-block-paragraph"></p>
+
+
+
+<h2 class="wp-block-heading"><strong>¿Qué es un chatbot?</strong>&nbsp;</h2>
+
+
+
+<p class="wp-block-paragraph">Un chatbot es un software que simula una conversación humana con un usuario final. No todos los chatbots cuentan con <a href="https://www-ibm-com.translate.goog/topics/artificial-intelligence?_x_tr_sl=en&amp;_x_tr_tl=es&amp;_x_tr_hl=es&amp;_x_tr_pto=rq" target="_blank" rel="noreferrer noopener nofollow">inteligencia artificial</a> (IA), pero los chatbots modernos si utilizan cada vez más técnicas <a href="https://www-ibm-com.translate.goog/topics/conversational-ai?_x_tr_sl=en&amp;_x_tr_tl=es&amp;_x_tr_hl=es&amp;_x_tr_pto=rq" target="_blank" rel="noreferrer noopener nofollow">de IA conversacional</a> (<a href="https://www-ibm-com.translate.goog/topics/natural-language-processing?_x_tr_sl=en&amp;_x_tr_tl=es&amp;_x_tr_hl=es&amp;_x_tr_pto=rq" target="_blank" rel="noreferrer noopener nofollow">procesamiento de lenguaje natural</a> (PLN), para comprender las preguntas de los usuarios y automatizar las respuestas).&nbsp;</p>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="419" src="https://www.todoip.com/wp-content/uploads/2025/01/que-es-un-chatbot-1024x419.webp" alt="que es un chatbot" class="wp-image-990760" title="Guía completa sobre chatbots para WhatsApp Business  3" srcset="https://www.todoip.com/wp-content/uploads/2025/01/que-es-un-chatbot-1024x419.webp 1024w, https://www.todoip.com/wp-content/uploads/2025/01/que-es-un-chatbot-300x123.webp 300w, https://www.todoip.com/wp-content/uploads/2025/01/que-es-un-chatbot-768x314.webp 768w, https://www.todoip.com/wp-content/uploads/2025/01/que-es-un-chatbot.webp 1378w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p class="wp-block-paragraph">Estos sistemas son capaces de responder preguntas, resolver problemas y realizar tareas específicas sin intervención humana directa. Los chatbots se utilizan ampliamente en diversas plataformas, como páginas web, redes sociales y aplicaciones de mensajería, para mejorar la experiencia del usuario y optimizar los procesos de atención al cliente.&nbsp;</p>
+
+
+
+<h2 class="wp-block-heading"><strong>¿Qué es un chatbot para WhatsApp Business?</strong>&nbsp;</h2>
+
+
+
+<p class="wp-block-paragraph">Un chatbot para WhatsApp Business es una solución diseñada específicamente para automatizar la comunicación en la plataforma de mensajería más utilizada en el mundo. A través de la API de WhatsApp Business, las empresas pueden integrar un «bot WhatsApp» que automatice respuestas, procese solicitudes y realice acciones como:&nbsp;</p>
+
+
+
+<ul class="wp-block-list">
+<li>Confirmar pedidos&nbsp;</li>
+</ul>
+
+
+
+<ul class="wp-block-list">
+<li>Agendar citas&nbsp;</li>
+</ul>
+
+
+
+<ul class="wp-block-list">
+<li>Generar tickets de soporte técnico&nbsp;</li>
+</ul>
+
+
+
+<ul class="wp-block-list">
+<li>Entregar saldos, fechas de pago, entre otros.&nbsp;</li>
+</ul>
+
+
+
+<ul class="wp-block-list">
+<li>Enviar notificaciones personalizadas&nbsp;</li>
+</ul>
+
+
+
+<p class="wp-block-paragraph"></p>
+
+
+
+<p class="wp-block-paragraph">Por ejemplo, un «chat bot en Facebook» puede complementar la estrategia de marketing digital al redirigir clientes potenciales hacia WhatsApp, donde el bot puede continuar la conversación de manera eficiente y eficaz.&nbsp;</p>
+
+
+
+<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-1 is-layout-flex wp-block-gallery-is-layout-flex">
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="800" height="696" data-id="990762" src="https://www.todoip.com/wp-content/uploads/2025/01/iStock-1048818328.webp" alt="iStock 1048818328" class="wp-image-990762" title="Guía completa sobre chatbots para WhatsApp Business  4" srcset="https://www.todoip.com/wp-content/uploads/2025/01/iStock-1048818328.webp 800w, https://www.todoip.com/wp-content/uploads/2025/01/iStock-1048818328-300x261.webp 300w, https://www.todoip.com/wp-content/uploads/2025/01/iStock-1048818328-768x668.webp 768w" sizes="(max-width: 800px) 100vw, 800px" /></figure>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="568" data-id="990761" src="https://www.todoip.com/wp-content/uploads/2025/01/botwhatsapp-1024x568.webp" alt="botwhatsapp" class="wp-image-990761" title="Guía completa sobre chatbots para WhatsApp Business  5" srcset="https://www.todoip.com/wp-content/uploads/2025/01/botwhatsapp-1024x568.webp 1024w, https://www.todoip.com/wp-content/uploads/2025/01/botwhatsapp-300x167.webp 300w, https://www.todoip.com/wp-content/uploads/2025/01/botwhatsapp-768x426.webp 768w, https://www.todoip.com/wp-content/uploads/2025/01/botwhatsapp.webp 1254w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+</figure>
+
+
+
+<p class="wp-block-paragraph"></p>
+
+
+
+<h2 class="wp-block-heading"><strong>¿Cómo funciona un chatbot en WhatsApp?</strong>&nbsp;</h2>
+
+
+
+<p class="wp-block-paragraph">El funcionamiento de un chatbot en WhatsApp combina tecnologías avanzadas de inteligencia artificial y reglas predefinidas. Así es como opera:&nbsp;</p>
+
+
+
+<ol start="1" class="wp-block-list">
+<li><strong>Conexión a la API:</strong> El chatbot se vincula a la API de WhatsApp Business, permitiendo la gestión de mensajes entre la empresa y los usuarios.&nbsp;</li>
+</ol>
+
+
+
+<ol start="2" class="wp-block-list">
+<li><strong>Procesamiento de consultas:</strong> Utiliza procesamiento de lenguaje natural (PLN) para interpretar las preguntas y solicitudes de los clientes.&nbsp;</li>
+</ol>
+
+
+
+<ol start="3" class="wp-block-list">
+<li><strong>Respuestas automatizadas:</strong> Dependiendo del contexto, el chatbot ofrece respuestas preconfiguradas o genera contenido dinámico basado en IA.&nbsp;</li>
+</ol>
+
+
+
+<ol start="4" class="wp-block-list">
+<li><strong>Escalamiento a humanos:</strong> En situaciones complejas, donde no se puede automatizar la respuesta, el chatbot puede transferir la conversación a un agente humano mediante un «chat multiasesor» o «chat multiagente».&nbsp;</li>
+</ol>
+
+
+
+<ol start="5" class="wp-block-list">
+<li><strong>Análisis de datos:</strong> Registra y analiza las interacciones para optimizar el rendimiento y mejorar la experiencia del usuario.&nbsp;</li>
+</ol>
+
+
+
+<p class="wp-block-paragraph"></p>
+
+
+
+<p class="wp-block-paragraph">Esto hace que los «chatbots omnicanales» sean herramientas indispensables para ofrecer soporte en diversas plataformas, incluyendo «bots para Instagram» y «chatbot on Facebook».&nbsp;</p>
+
+
+
+<h2 class="wp-block-heading"><strong>¿Cuáles son sus ventajas?</strong>&nbsp;</h2>
+
+
+
+<p class="wp-block-paragraph">Implementar un «bot de WhatsApp» trae numerosas ventajas, tanto para las empresas como para los usuarios. Estas incluyen:&nbsp;</p>
+
+
+
+<ol start="1" class="wp-block-list">
+<li><strong>Disponibilidad continua:</strong> Los chatbots ofrecen atención 24/7, eliminando tiempos de espera y mejorando la satisfacción del cliente.&nbsp;</li>
+</ol>
+
+
+
+<ol start="2" class="wp-block-list">
+<li><strong>Eficiencia operativa:</strong> Automatizan tareas repetitivas, permitiendo que los agentes humanos se concentren en actividades más importantes.&nbsp;</li>
+</ol>
+
+
+
+<ol start="3" class="wp-block-list">
+<li><strong>Escalabilidad:</strong> Manejan un volumen ilimitado de consultas de manera simultánea, algo esencial para empresas con grandes bases de clientes.&nbsp;</li>
+</ol>
+
+
+
+<ol start="4" class="wp-block-list">
+<li><strong>Integración con redes sociales:</strong> Permiten gestionar consultas desde «bots para Instagram», «chatbot FB» y «chatbots for Facebook», creando una experiencia omnicanal.&nbsp;</li>
+</ol>
+
+
+
+<ol start="5" class="wp-block-list">
+<li><strong>Personalización:</strong> Gracias a la inteligencia artificial, los «AI chat bots» pueden adaptar las respuestas según las necesidades y preferencias de cada usuario.&nbsp;</li>
+</ol>
+
+
+
+<p class="wp-block-paragraph"></p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="341" src="https://www.todoip.com/wp-content/uploads/2025/01/API-1-1024x341.jpg" alt="API 1" class="wp-image-990765" title="Guía completa sobre chatbots para WhatsApp Business  6" srcset="https://www.todoip.com/wp-content/uploads/2025/01/API-1-1024x341.jpg 1024w, https://www.todoip.com/wp-content/uploads/2025/01/API-1-300x100.jpg 300w, https://www.todoip.com/wp-content/uploads/2025/01/API-1-768x256.jpg 768w, https://www.todoip.com/wp-content/uploads/2025/01/API-1-1536x512.jpg 1536w, https://www.todoip.com/wp-content/uploads/2025/01/API-1.jpg 1773w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p class="wp-block-paragraph"></p>
+
+
+
+<h2 class="wp-block-heading"><strong>¿Cuánto cuesta un bot de WhatsApp?</strong>&nbsp;</h2>
+
+
+
+<p class="wp-block-paragraph">El precio de un «bot WhatsApp» puede variar dependiendo de varios factores:&nbsp;</p>
+
+
+
+<ul class="wp-block-list">
+<li><strong>Funcionalidades avanzadas:</strong> Bots con capacidades como integraciones con CRM, respuestas automatizadas complejas y aprendizaje automático suelen ser más costosos.&nbsp;</li>
+</ul>
+
+
+
+<ul class="wp-block-list">
+<li><strong>Volumen de usuarios:</strong> Algunos proveedores fijan tarifas en función del número de interacciones o usuarios activos.&nbsp;</li>
+</ul>
+
+
+
+<ul class="wp-block-list">
+<li><strong>Personalización:</strong> Diseñar un «chatbot inteligencia artificial» adaptado a necesidades específicas puede incrementar los costos.&nbsp;</li>
+</ul>
+
+
+
+<ul class="wp-block-list">
+<li><strong>Licencias y soporte:</strong> Los costos pueden incluir tarifas por uso de la API de WhatsApp Business y servicios de mantenimiento.&nbsp;</li>
+</ul>
+
+
+
+<p class="wp-block-paragraph"></p>
+
+
+
+<p class="wp-block-paragraph">Como desarrolladores de soluciones omnicanal ofrecemos «software para chatbots en redes sociales» que se adapta a tus requerimientos y presupuesto. Nuestros «chatbots IA» no solo son eficientes, sino también accesibles para empresas de todos los tamaños.&nbsp;</p>
+
+
+
+<h2 class="wp-block-heading"><strong>Empieza ahora a construir tu propio bot para WhatsApp</strong>&nbsp;</h2>
+
+
+
+<p class="wp-block-paragraph">En <strong>TodoIP</strong>, somos líderes en el desarrollo de soluciones de «AI bot» para WhatsApp y otras plataformas como Instagram y Facebook. Nuestro enfoque está en proporcionar herramientas robustas y flexibles que incluyan:&nbsp;</p>
+
+
+
+<ul class="wp-block-list">
+<li><strong>Tecnología avanzada:</strong> Implementamos inteligencia artificial de última generación para garantizar la mejor experiencia al usuario.&nbsp;</li>
+</ul>
+
+
+
+<ul class="wp-block-list">
+<li><strong>Soporte multicanal:</strong> Nuestros «chatbots omnicanales» centralizan la atención de tus clientes desde diferentes plataformas.&nbsp;</li>
+</ul>
+
+
+
+<ul class="wp-block-list">
+<li><strong>Escalabilidad y personalización:</strong> Creamos soluciones que crecen con tu negocio y se adaptan a tus necesidades específicas.&nbsp;</li>
+</ul>
+
+
+
+<p class="wp-block-paragraph"></p>
+
+
+
+<p class="wp-block-paragraph">Ya sea que busques «bots para WhatsApp» o «bots para Instagram», TodoIP es tu aliado ideal para transformar la forma en que interactúas con tus clientes.&nbsp;</p>
+
+
+
+<p class="wp-block-paragraph">¡Contáctanos hoy y comienza a aprovechar los beneficios de la automatización en tus comunicaciones!&nbsp;</p>
+
+
+
+<p class="wp-block-paragraph"></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.todoip.com/guia-completa-sobre-chatbots-para-whatsapp-business/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>En TodoIP te entregamos leads calificados en tiempo récord aumenta tus ventas con nuestra ayuda.</title>
+		<link>https://www.todoip.com/en-todoip-te-entregamos-leads-calificados-en-tiempo-record-aumenta-tus-ventas-con-nuestra-ayuda/</link>
+					<comments>https://www.todoip.com/en-todoip-te-entregamos-leads-calificados-en-tiempo-record-aumenta-tus-ventas-con-nuestra-ayuda/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Fri, 27 Dec 2024 13:48:11 +0000</pubDate>
+				<category><![CDATA[Omnicanal]]></category>
+		<category><![CDATA[Con CTA]]></category>
+		<guid isPermaLink="false">https://www.todoip.com/?p=990741</guid>
+
+					<description><![CDATA[Conecta con clientes ideales en tiempo récord y aumenta tus ventas con las herramientas de TodoIP.
+
+
+
+
+
+]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="683" src="https://www.todoip.com/wp-content/uploads/2024/12/leads-1-1-1024x683.webp" alt="leads 1 1" class="wp-image-990751" title="En TodoIP te entregamos leads calificados en tiempo récord aumenta tus ventas con nuestra ayuda. 7" srcset="https://www.todoip.com/wp-content/uploads/2024/12/leads-1-1-1024x683.webp 1024w, https://www.todoip.com/wp-content/uploads/2024/12/leads-1-1-300x200.webp 300w, https://www.todoip.com/wp-content/uploads/2024/12/leads-1-1-768x512.webp 768w, https://www.todoip.com/wp-content/uploads/2024/12/leads-1-1-1536x1024.webp 1536w, https://www.todoip.com/wp-content/uploads/2024/12/leads-1-1.webp 1800w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p class="wp-block-paragraph"></p>
+
+
+
+<p class="wp-block-paragraph"><strong>En TodoIP te conectamos con tus clientes ideales en tiempo récord</strong></p>
+
+
+
+<p class="wp-block-paragraph">Cuando hablamos de <strong>leads</strong>, nos referimos a personas que han mostrado interés en lo que ofreces, ya sea un producto o un servicio. Es decir, son posibles compradores que han interactuado contigo en internet, dejando pistas de que podrían convertirse en tus próximos clientes.</p>
+
+
+
+<p class="wp-block-paragraph">Los leads son esenciales para cualquier estrategia de marketing digital porque te ayudan a identificar y entender mejor a tu audiencia. Esto permite que te enfoques en aquellos que realmente están interesados en lo que ofreces, maximizando tus oportunidades de venta.</p>
+
+
+
+<p class="wp-block-paragraph"><strong>Tipos de leads: ¿quién es quién?</strong></p>
+
+
+
+<p class="wp-block-paragraph">Podemos dividir a los leads en tres categorías principales:</p>
+
+
+
+<ol class="wp-block-list">
+<li><strong>Marketing Qualified Lead (MQL)</strong><br>Son contactos que han mostrado interés en tus productos o servicios, como visitar tu sitio web o interactuar en redes sociales. Aunque aún no han tomado la decisión de compra, están muy atentos a lo que ofreces. Aquí es clave seguir nutriendo a estos leads con contenido interesante y valioso para acercarlos a la conversión.</li>
+
+
+
+<li><strong>Sales Qualified Lead (SQL)</strong><br>Estos son leads que ya están listos para dar el siguiente paso. Interactúan constantemente contigo y demuestran un alto interés en comprar. En este punto, tu equipo de ventas debe contactarles para concretar la oportunidad.</li>
+
+
+
+<li><strong>Product Qualified Lead (PQL)</strong><br>Son usuarios que ya conocen y usan tu producto, pero podrían estar interesados en una versión premium o en funciones adicionales. Aquí es donde tu equipo comercial entra en acción, mostrando cómo puedes satisfacer aún más sus necesidades.</li>
+</ol>
+
+
+
+<p class="wp-block-paragraph"></p>
+
+
+
+<p class="wp-block-paragraph"><strong>¿Cómo conseguir más leads?</strong></p>
+
+
+
+<p class="wp-block-paragraph"></p>
+
+
+
+<p class="wp-block-paragraph">Sabemos que todas las empresas quieren aumentar su base de contactos y, con ello, sus ventas. Pero, ¿cómo lograrlo? La clave está en diseñar una estrategia efectiva.</p>
+
+
+
+<p class="wp-block-paragraph"><strong>1. Define una oferta de valor</strong></p>
+
+
+
+<p class="wp-block-paragraph">Ofrece algo útil y relevante que resuelva una necesidad específica de tus potenciales clientes. Puede ser un demo, un webinar o un contenido descargable que aporte valor.</p>
+
+
+
+<p class="wp-block-paragraph"><strong>2. Usa los canales adecuados</strong></p>
+
+
+
+<p class="wp-block-paragraph">Promociona tu oferta en redes sociales o a través de botones de llamada a la acción (CTAs) en tu página web o artículos de blog más populares. Asegúrate de que sea fácil de encontrar y atractiva para el usuario.</p>
+
+
+
+<p class="wp-block-paragraph"><strong>3. Presenta tu oferta comercial con tacto</strong></p>
+
+
+
+<p class="wp-block-paragraph">Si un lead descarga tu contenido, inclúyele información sobre tus productos o servicios, pero evita ser invasivo. La idea es despertar interés, no incomodar.</p>
+
+
+
+<p class="wp-block-paragraph"><strong>4. Mantén la comunicación activa</strong></p>
+
+
+
+<p class="wp-block-paragraph">Este proceso, conocido como <strong>lead nurturing</strong>, se trata de enviar mensajes personalizados y automatizados para educar y conectar con tus leads en el momento adecuado. Incluso si no concretas una venta, este seguimiento te ayudará a mejorar tus estrategias y aprender más sobre tu audiencia.</p>
+
+
+
+<p class="wp-block-paragraph"><strong>¿Qué hacemos en TodoIP?</strong></p>
+
+
+
+<p class="wp-block-paragraph">En TodoIP contamos con herramientas diseñadas para revolucionar la forma en que consigues y calificas leads.</p>
+
+
+
+<ul class="wp-block-list">
+<li><strong>Filtramos a los mejores prospectos:</strong> Cuando un cliente potencial te escribe por WhatsApp, nuestro Chat Bot se encarga de hacer preguntas clave para identificar a quienes tienen una intención real de compra.</li>
+
+
+
+<li><strong>Automatizamos las llamadas:</strong> Conectamos automáticamente a tus clientes potenciales con tu equipo de ventas en tiempo real, aumentando la productividad y generando más cotizaciones para tu negocio.</li>
+
+
+
+<li><strong>Visualizamos interacciones fácilmente:</strong> Puedes ver todas las interacciones con tus usuarios, ya sea que hayan ocurrido en redes sociales o por llamada, de forma sencilla y automática.</li>
+</ul>
+
+
+
+<p class="wp-block-paragraph"></p>
+
+
+
+<p class="wp-block-paragraph">En TodoIP, hacemos que conectar con tus clientes sea más rápido y eficiente.</p>
+
+
+
+<p class="wp-block-paragraph"></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.todoip.com/en-todoip-te-entregamos-leads-calificados-en-tiempo-record-aumenta-tus-ventas-con-nuestra-ayuda/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Se vienen las redes 5G ¿Está usted preparado?</title>
+		<link>https://www.todoip.com/se-vienen-las-redes-5g-esta-usted-preparado/</link>
+					<comments>https://www.todoip.com/se-vienen-las-redes-5g-esta-usted-preparado/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Fri, 27 Dec 2024 13:31:59 +0000</pubDate>
+				<category><![CDATA[Omnicanal]]></category>
+		<category><![CDATA[sin CTA]]></category>
+		<guid isPermaLink="false">https://www.todoip.com/?p=990730</guid>
+
+					<description><![CDATA[La tecnología 5G ofrece mayor velocidad, baja latencia y conexión masiva, revolucionando la comunicación y servicios empresariales.]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1024" height="683" src="https://www.todoip.com/wp-content/uploads/2024/12/5G-1024x683-1.jpg" alt="5G 1024x683 1" class="wp-image-990731" title="Se vienen las redes 5G ¿Está usted preparado? 8" srcset="https://www.todoip.com/wp-content/uploads/2024/12/5G-1024x683-1.jpg 1024w, https://www.todoip.com/wp-content/uploads/2024/12/5G-1024x683-1-300x200.jpg 300w, https://www.todoip.com/wp-content/uploads/2024/12/5G-1024x683-1-768x512.jpg 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p class="wp-block-paragraph">La tecnología móvil evoluciona cada vez más rápido y es así que el país ya está en proceso de implementación de las redes de 5G (Quinta Generación).</p>
+
+
+
+<p class="wp-block-paragraph">Desde sus inicios, cada vez es menor la tasa de implementación entre una tecnología y otra. Las redes 1G aparecieron en 1979, luego las 2G en 1991, las 3G en el 2000, las 4G en el 2010 y 5G en el 2015. Este último gran salto se dio más rápido de lo esperado y según estudios se espera que para 2024 las redes 5G lleguen aproximadamente a un 40% de la población mundial.<sup><a href="https://okdiario.com/curiosidades/que-significa-1g-2g-3g-4g-5g-3223153" target="_blank" rel="noreferrer noopener nofollow"><strong>1</strong></a></sup></p>
+
+
+
+<p class="wp-block-paragraph"><strong>¿Cualés son las características principales de la tecnología 5G?</strong></p>
+
+
+
+<p class="wp-block-paragraph">Las redes 5G tienen aproximadamente 100 veces más velocidad que las redes de 4G, alcanzando hasta 20 Gbps (Gigabits por segundo) que agiliza la transferencia de grandes cantidades de datos, así, por ejemplo, una película descargaría en segundos. Otro punto a favor es el bajo consumo de energía de las antenas utilizadas que se optimizan haciendo uso de fuentes de poder que hibernan para ahorrar energía.</p>
+
+
+
+<p class="wp-block-paragraph">&nbsp;Las redes 5G tienen una latencia entre 30 a 50 veces menor en comparación a 4G, es decir una señal retorna 30 o 50 veces más rápido en una red 5G vs. una 4G.&nbsp; Esto representa un beneficio gigantesco pensando en el internet de las cosas – IoT, que permite que diferentes dispositivos del hogar o el entorno establezcan conexiones inteligentes con internet y facilitan muchas tareas de los usuarios.&nbsp;</p>
+
+
+
+<p class="wp-block-paragraph">Así mismo, se obtienen grandes beneficios en tareas de monitoreo en tiempo real, telemedicina, domótica, juegos, entre otros. Las redes 5G tienen una densidad de uso 100 veces más amplia que 4G, facilitando conexión de hasta 1.000.000 de dispositivos por Km<sup>2&nbsp;</sup>sin afectar significativamente la velocidad de conexión.</p>
+
+
+
+<figure class="wp-block-image aligncenter"><img decoding="async" src="https://lh3.googleusercontent.com/U3D65ON6eQLQoTX4Yaqpf3gT-okmaBm4akgSu0iXq0YWg_Bd3ZX96MLCVzcstfS_idOODbrkv1bxhj75n-yuDhilLxRNKquz99EfDSW7YsYSQ9Yr9_AxPfycawMalreZwp20bA8R" alt="U3D65ON6eQLQoTX4Yaqpf3gT okmaBm4akgSu0iXq0YWg Bd3ZX96MLCVzcstfS idOODbrkv1bxhj75n" title="Se vienen las redes 5G ¿Está usted preparado? 9"></figure>
+
+
+
+<p class="wp-block-paragraph"></p>
+
+
+
+<p class="wp-block-paragraph"><em>Fuente: Plan 5G Colombia – Evolución en servicios entre los diferentes tipos de redes. <sup><a href="https://mintic.gov.co/micrositios/plan_5g//764/articles-162230_recurso_1.pdf" target="_blank" rel="noreferrer noopener nofollow">2</a></sup></em></p>
+
+
+
+<p class="wp-block-paragraph"></p>
+
+
+
+<figure class="wp-block-image aligncenter"><img decoding="async" src="https://lh6.googleusercontent.com/sZXmyF_RXASSJijWTkK369fZx_j4Jzr2VifqcyPe6ekS4d00c5mghGv4pmKS60Ggm0uawP_r2TwCc7EJugwOd_f-ud7qWVL2fGUe72XT_4O5FVq3nVgg-7yibNxdOV70YaPRy4gb" alt="sZXmyF RXASSJijWTkK369fZx j4Jzr2VifqcyPe6ekS4d00c5mghGv4pmKS60Ggm0uawP r2TwCc7EJugwOd f ud7qWVL2fGUe72XT 4O5FVq3nVgg" title="Se vienen las redes 5G ¿Está usted preparado? 10"></figure>
+
+
+
+<p class="wp-block-paragraph"></p>
+
+
+
+<p class="wp-block-paragraph"><em>Fuente: Telesemana – Proyección de uso de conexiones móviles 5G en diferentes países (En Millones de conexiones). <sup><a href="https://www.telesemana.com/blog/2021/12/03/proyeccion-de-conexiones-moviles-5g-en-paises-seleccionados-de-todo-el-mundo-para-2025/" target="_blank" rel="noreferrer noopener nofollow">3</a></sup></em></p>
+
+
+
+<p class="wp-block-paragraph"><strong>¿Cómo avanza la implementación de las redes 5G en Colombia?</strong></p>
+
+
+
+<p class="wp-block-paragraph">En 2019 en Colombia iniciaron los trámites jurídicos, reglamentaciones y los procesos para la asignación de espectro, vitales para que funcionen las redes 5G, bajo la supervisión de la Comisión de Regulación de Comunicaciones – CRC. Para especialistas en telecomunicaciones en el país “Según organismos internacionales se tiene proyectado tener los usuarios colombianos en 5G en 2025, pero con la pandemia, el retraso en la subasta y en un año de elecciones ese tiempo se podría prolongar dos años aproximadamente.”<sup><a href="https://www.portafolio.co/economia/gobierno/pilotos-de-5g-avanzan-pero-el-despliegue-aun-se-ve-lejano-562305" rel="nofollow noopener" target="_blank"><strong>4</strong></a></sup></p>
+
+
+
+<p class="wp-block-paragraph"><strong>¿Y cómo aprovechar la tecnología móvil?</strong></p>
+
+
+
+<p class="wp-block-paragraph">El objetivo de masificar el uso de los móviles es una tendencia mundial y con el tiempo se ha venido demostrando que seguir contando con los números fijos… pronto será cosa del pasado. La versatilidad, movilidad y facilidad de marcado de la telefonía móvil la han convertido en el referente de contacto para las compañías.&nbsp;</p>
+
+
+
+<p class="wp-block-paragraph">Una de las principales razones es la posibilidad de integración con otras herramientas que le permite a las compañías ampliar la gama de servicios al cliente, ofreciéndole múltiples canales de atención simultánea, integración con robots, obtención de estadísticas en tiempo real, CRM, entre muchos otros, ahorrando así tiempo y dinero.</p>
+
+
+
+<p class="wp-block-paragraph"><strong>No espere a que llegue la tecnología 5G de forma definitiva para empezar a integrar a su esquema de telefonía </strong></p>
+
+
+
+<p class="wp-block-paragraph">Un PBX móvil facilita a sus usuarios o clientes poder establecer comunicación fácilmente desde el móvil, dejando de un lado los tediosos indicativos (Que si son obligatorio en los números fijos).&nbsp;</p>
+
+
+
+<p class="wp-block-paragraph">Con un PBX móvil, su compañía puede integrar diferentes herramientas y optimizar su esquema de atención, implementando atención inmediata, en donde todas las llamadas serán atendidas sin importar cuantas ingresen de forma simultánea.</p>
+
+
+
+<p class="wp-block-paragraph">Así mismo, podrá contar con indicadores para identificar cuellos de botella, extensiones o áreas poco eficientes en la atención, entre otros factores que mejoran el servicio al cliente.</p>
+
+
+
+<p class="wp-block-paragraph">Cuando su compañía cambia a PBX móvil será visible a todos sus clientes y con un número celular integrado, libre de planes, y compatible con todas las funcionalidades de un número celular.</p>
+
+
+
+<p class="wp-block-paragraph">Piense en sus usuarios y/o clientes, facilite la comunicación con su compañía. Recuerde que cuando un cliente no se puede comunicar rápidamente, es prácticamente un cliente perdido.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.todoip.com/se-vienen-las-redes-5g-esta-usted-preparado/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Ventajas de tener un PBX Móvil en su empresa</title>
+		<link>https://www.todoip.com/ventajas-de-tener-un-pbx-movil/</link>
+					<comments>https://www.todoip.com/ventajas-de-tener-un-pbx-movil/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Fri, 27 Dec 2024 13:06:19 +0000</pubDate>
+				<category><![CDATA[Omnicanal]]></category>
+		<category><![CDATA[Con CTA]]></category>
+		<guid isPermaLink="false">https://www.todoip.com/?p=990697</guid>
+
+					<description><![CDATA[Un PBX móvil garantiza atención inmediata, optimiza costos, mejora trazabilidad, y adapta tu empresa a la nueva normalidad.]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1024" height="576" src="https://www.todoip.com/wp-content/uploads/2024/12/Nuevo-proyecto39-1024x576-1.jpg" alt="Nuevo proyecto39 1024x576 1" class="wp-image-990698" title="Ventajas de tener un PBX Móvil en su empresa 11" srcset="https://www.todoip.com/wp-content/uploads/2024/12/Nuevo-proyecto39-1024x576-1.jpg 1024w, https://www.todoip.com/wp-content/uploads/2024/12/Nuevo-proyecto39-1024x576-1-300x169.jpg 300w, https://www.todoip.com/wp-content/uploads/2024/12/Nuevo-proyecto39-1024x576-1-768x432.jpg 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p class="wp-block-paragraph">Contar con un número único&nbsp;<strong>PBX móvil</strong>&nbsp;garantiza que sus clientes, prospectos, proveedores, etc., guarden su número de contacto empresarial en sus dispositivos móviles; a este número le podrán llamar o escribir al WhatsApp, sin necesidad de estar marcando a múltiples números o buscando en Internet un número fijo.</p>
+
+
+
+<p class="wp-block-paragraph">Si en su compañía tienen varios números de contacto (Ej. Un fijo y tres celulares) y está recibiendo más de 2 llamadas simultáneas por cada uno, podría estar afectando la identidad de su empresa. Además, La pandemia del covid19 nos enseñó que el contacto telefónico debe ser fácil, y rápido. Preferiblemente, 24 horas al día, de lo contrario podría estar alejando a sus clientes.</p>
+
+
+
+<p class="wp-block-paragraph">Si en su compañía tienen una planta análoga o de Telefonía IP con sistemas de simcard a través de Gateways GSM o plantas celulares de 2G o 3G, es urgente el cambio de estos sistemas, ya que solo permiten manejar una (1) llamada simultánea.</p>
+
+
+
+<p class="wp-block-paragraph">En estos esquemas de telefonía, si sus clientes realizan más de una llamada a estos números, esta se les corta, sonará ocupada, entre otros, generando en el cliente una imagen de que sus números están malos y terminará por llamar a su</p>
+
+
+
+<figure class="wp-block-image aligncenter size-full is-resized"><img loading="lazy" decoding="async" width="500" height="644" src="https://www.todoip.com/wp-content/uploads/2024/12/Blog1-Pbx-movil-21.jpg" alt="Blog1 Pbx movil 21" class="wp-image-990699" style="width:370px;height:auto" title="Ventajas de tener un PBX Móvil en su empresa 12" srcset="https://www.todoip.com/wp-content/uploads/2024/12/Blog1-Pbx-movil-21.jpg 500w, https://www.todoip.com/wp-content/uploads/2024/12/Blog1-Pbx-movil-21-233x300.jpg 233w" sizes="(max-width: 500px) 100vw, 500px" /></figure>
+
+
+
+<p class="wp-block-paragraph"><strong>Tecnología obsoleta:</strong></p>
+
+
+
+<p class="wp-block-paragraph">Los números fijos (locales) están quedando relegados y más con el cambio de marcación que inició desde el mes de Septiembre de 2021; hecho que causó que muchas personas ya no se interesen por aprender cómo llamar a un fijo, simplemente buscan un celular de contacto, que es más práctico y permite establecer una comunicación rápida a nivel nacional sin necesidad de manejar ningún indicativo.</p>
+
+
+
+<p class="wp-block-paragraph">Contar un número PBX móvil en su empresa asociado al sistema de Telefonía IP es el esquema ideal a manejar, dado que por temas de movilidad, disponibilidad e integración de servicios, convierte este tipo de comunicaciones en un pilar fundamental para las estrategias de mercadeo y expansión de las compañías.</p>
+
+
+
+<p class="wp-block-paragraph">Prueba de ello, es que a través de la tecnología móvil y con la experiencia de la actual pandemia, las compañías pudieron mantener las comunicaciones internas entre empleados, pero con un agravante, muchos perdieron la privacidad del número personal para no perder el contacto con los clientes… Esto es un tema preocupante si usted es el Gerente o dueño de la compañía, está pasando que los clientes llaman directo a los celulares personales de los comerciales, técnicos, entre otros, perdiendo el control, la trazabilidad y gestión de las llamadas, pilar fundamental en el área de servicio al cliente.</p>
+
+
+
+<p class="wp-block-paragraph"><strong>El teletrabajo y la nueva normalidad:</strong></p>
+
+
+
+<p class="wp-block-paragraph">Con el auge del teletrabajo y la modalidad de trabajo híbridos (presencial y remoto), las empresas se han visto en la tarea de fortalecer sus sistemas de comunicación con los clientes y apostarle a tecnologías que se adapten a la nueva realidad; entonces… hacia dónde mirar… si la tecnología ya está… ya todos la tenemos al alcance de la mano, entonces ¿Cómo implementarla? Aquí es donde surge la alternativa de solución que representa la implementación de un PBX móvil que le permite entre muchos otros beneficios, disfrutar de lo siguiente:</p>
+
+
+
+<ul class="wp-block-list">
+<li>Recibir y hacer llamadas simultáneas sobre el mismo número celular, así ninguna llamada deja de ser contestada, es decir, el cliente siempre recibe atención.</li>
+
+
+
+<li>Redirigir las llamadas entrantes a agentes internos de su compañía para atención personalizada, pero con la ventaja de que el empleado puede estar en cualquier parte y puede atender la llamada directamente en su celular, lo cual permite a su compañía siempre estar disponible para el cliente.</li>
+
+
+
+<li>Olvídese de infraestructura, ya que la implementación se hace en la nube y por tanto ya no es necesario el tedioso cableado de redes en las sedes físicas, ni estar cambiando equipos de telecomunicaciones, ni actualizando equipos ya que gran parte de la implementación se basa en la tecnología móvil.</li>
+
+
+
+<li>El uso de este tipo de servicios permite un mayor crecimiento empresarial ya que disminuye costos en contratos con operadores, minimiza infraestructura y amplia el portafolio de servicios y herramientas disponibles para el cliente, lo cual desemboca en un mayor alcance del nicho de mercado y por ende incremento en ventas o servicios.</li>
+
+
+
+<li>Con un PBX móvil puede integrar múltiples herramientas y disfrutar de ventajas como la identificación de cuellos de botella para optimizar el flujo de las comunicaciones, grabación de llamadas, uso de métricas para análisis y estadísticas, integración con robots telefónicos que mediante el uso de bases de datos, proporciona información automática 24/7 a los usuarios que es un plus vital hoy en día en un mundo que avanza a pasos agigantados.</li>
+</ul>
+
+
+
+<p class="wp-block-paragraph">La tecnología móvil según los estudios recientes, a nivel mundial moverá 42 mil millones de dólares para el 2026 y los esquemas basados en la telefonía en la nube a la fecha, registran una tasa de crecimiento anual de más del 17 %.<sup>1</sup></p>
+
+
+
+<p class="wp-block-paragraph">La telefonía celular, Internet y la Nube… ahora son los medios a usar… Porque en los lugares donde no llega la televisión, por medio del móvil llegan las noticias y donde no llega la red bancaria física… llega la información bancaria por las APPs y compras por dispositivos móviles, por lo que se ha convertido en una de las más importantes herramientas de inclusión.&nbsp;<sup>2</sup></p>
+
+
+
+<p class="wp-block-paragraph">¡Recuerde… un cliente que llama y no es atendido… es potencialmente un cliente que se va a la competencia!!!</p>
+
+
+
+<p class="wp-block-paragraph"><strong>Referencias:</strong></p>
+
+
+
+<ul class="wp-block-list">
+<li><a href="https://www.emprosoft.com/el-crecimiento-de-la-telefonia-en-la-nube-en-2021/" rel="nofollow noopener" target="_blank">https://www.emprosoft.com/el-crecimiento-de-la-telefonia-en-la-nube-en-2021/</a></li>
+
+
+
+<li><a href="https://www.portafolio.co/innovacion/el-movil-seguira-siendo-el-rey-de-la-tecnologia-en-el-futuro-531740" rel="nofollow noopener" target="_blank">https://www.portafolio.co/innovacion/el-movil-seguira-siendo-el-rey-de-la-tecnologia-en-el-futuro-531740</a></li>
+
+
+
+<li><a href="https://www.laopinion.com.co/innovaciones/de-que-trata-la-telefonia-en-la-nube" rel="nofollow noopener" target="_blank">https://www.laopinion.com.co/innovaciones/de-que-trata-la-telefonia-en-la-nube</a></li>
+</ul>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.todoip.com/ventajas-de-tener-un-pbx-movil/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Revolucionamos la comunicación omnicanal: lanzamiento de nuestras nuevas soluciones.</title>
+		<link>https://www.todoip.com/revolucionamos-la-comunicacion-omnicanal-lanzamiento-de-nuestras-nuevas-soluciones/</link>
+					<comments>https://www.todoip.com/revolucionamos-la-comunicacion-omnicanal-lanzamiento-de-nuestras-nuevas-soluciones/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Fri, 27 Dec 2024 12:53:48 +0000</pubDate>
+				<category><![CDATA[Omnicanal]]></category>
+		<category><![CDATA[sin CTA]]></category>
+		<guid isPermaLink="false">https://www.todoip.com/?p=990687</guid>
+
+					<description><![CDATA[TodoIP revoluciona la comunicación omnicanal con nuevas soluciones innovadoras para clientes, aliados y proveedores.]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>¡TodoIP revoluciona la comunicación omnicanal con sus nuevas soluciones!</strong></p>
+
+
+
+<p class="wp-block-paragraph">Estamos emocionados de compartir con todos nuestros clientes, aliados, proveedores y público en general que hemos dado un paso adelante al desarrollar soluciones innovadoras basadas en WhatsApp y Telefonía.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="683" src="https://www.todoip.com/wp-content/uploads/2024/12/Evento-3-1536x1024-1-1024x683.jpg" alt="Evento 3 1536x1024 1" class="wp-image-990689" title="Revolucionamos la comunicación omnicanal: lanzamiento de nuestras nuevas soluciones. 13" srcset="https://www.todoip.com/wp-content/uploads/2024/12/Evento-3-1536x1024-1-1024x683.jpg 1024w, https://www.todoip.com/wp-content/uploads/2024/12/Evento-3-1536x1024-1-300x200.jpg 300w, https://www.todoip.com/wp-content/uploads/2024/12/Evento-3-1536x1024-1-768x512.jpg 768w, https://www.todoip.com/wp-content/uploads/2024/12/Evento-3-1536x1024-1.jpg 1536w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p class="wp-block-paragraph">Nuestra más reciente adición es el Robot de WhatsApp, una solución diseñada especialmente para empresas con una alta demanda de servicio al cliente o call centers. Con esta innovadora solución, podrás brindar una atención rápida y eficiente, optimizando tus operaciones y mejorando la experiencia de tus clientes.</p>
+
+
+
+<p class="wp-block-paragraph">Pero eso no es todo. Para aquellos en el campo del marketing, hemos creado un calificador de leads impulsado por Inteligencia Artificial. Esta herramienta te permitirá identificar a los clientes potenciales con una verdadera intención de compra, ahorrando tiempo y recursos al enfocarte en las oportunidades más prometedoras.</p>
+
+
+
+<p class="wp-block-paragraph">Y no podríamos estar más emocionados de presentar nuestra solución de mensajes salientes para campañas de WhatsApp. Ahora podrás enviar mensajes personalizados y estratégicos a tus clientes, aumentando la efectividad de tus campañas de marketing y generando un mayor compromiso con tu audiencia.</p>
+
+
+
+<p class="wp-block-paragraph">El pasado viernes 7 de Julio, celebramos el lanzamiento de estas nuevas soluciones en nuestra oficina . Fue un evento especial en el que tuvimos el honor de contar con la presencia de distribuidores, aliados, proveedores y colaboradores. Resultó ser una gran oportunidad para demostrar cómo nuestra pasión por la innovación y la tecnología nos impulsa a superar los límites y ofrecer lo mejor a nuestros clientes.</p>
+
+
+
+<div class="wp-block-columns is-layout-flex wp-container-core-columns-is-layout-7387b849 wp-block-columns-is-layout-flex">
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="683" src="https://www.todoip.com/wp-content/uploads/2024/12/Evento-2-1536x1024-1-1024x683.jpg" alt="Evento 2 1536x1024 1" class="wp-image-990690" title="Revolucionamos la comunicación omnicanal: lanzamiento de nuestras nuevas soluciones. 14" srcset="https://www.todoip.com/wp-content/uploads/2024/12/Evento-2-1536x1024-1-1024x683.jpg 1024w, https://www.todoip.com/wp-content/uploads/2024/12/Evento-2-1536x1024-1-300x200.jpg 300w, https://www.todoip.com/wp-content/uploads/2024/12/Evento-2-1536x1024-1-768x512.jpg 768w, https://www.todoip.com/wp-content/uploads/2024/12/Evento-2-1536x1024-1.jpg 1536w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+</div>
+
+
+
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="683" src="https://www.todoip.com/wp-content/uploads/2024/12/Evento-1-1536x1024-1-1024x683.jpg" alt="Evento 1 1536x1024 1" class="wp-image-990691" title="Revolucionamos la comunicación omnicanal: lanzamiento de nuestras nuevas soluciones. 15" srcset="https://www.todoip.com/wp-content/uploads/2024/12/Evento-1-1536x1024-1-1024x683.jpg 1024w, https://www.todoip.com/wp-content/uploads/2024/12/Evento-1-1536x1024-1-300x200.jpg 300w, https://www.todoip.com/wp-content/uploads/2024/12/Evento-1-1536x1024-1-768x512.jpg 768w, https://www.todoip.com/wp-content/uploads/2024/12/Evento-1-1536x1024-1.jpg 1536w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+</div>
+</div>
+
+
+
+<p class="wp-block-paragraph">En TodoIP, estamos comprometidos con impulsar el crecimiento y el éxito de tu negocio. Estas nuevas soluciones son solo el comienzo de un futuro prometedor en materia de comunicación omnicanal. Mantente atento a las próximas actualizaciones, ¡porque hay mucho más por venir!</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.todoip.com/revolucionamos-la-comunicacion-omnicanal-lanzamiento-de-nuestras-nuevas-soluciones/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>¿Cómo reducir la inasistencia a las citas médicas?</title>
+		<link>https://www.todoip.com/como-reducir-la-inasistencia-a-las-citas-medicas/</link>
+					<comments>https://www.todoip.com/como-reducir-la-inasistencia-a-las-citas-medicas/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Fri, 13 Dec 2024 14:28:15 +0000</pubDate>
+				<category><![CDATA[Omnicanal]]></category>
+		<category><![CDATA[Con CTA]]></category>
+		<guid isPermaLink="false">https://www.todoip.com/?p=990661</guid>
+
+					<description><![CDATA[Descubre cómo reducir la inasistencia a citas médicas con soluciones innovadoras como WhatsApp API, mejorando accesibilidad y eficiencia.]]></description>
+										<content:encoded><![CDATA[
+<h4 class="wp-block-heading"><strong>Guía completa sobre cómo reducir la inasistencia a las citas médicas con chatbots de WhatsApp Business</strong></h4>
+
+
+
+<p class="wp-block-paragraph">En la actualidad, mejorar la eficiencia en los servicios de salud es clave, pero la inasistencia a las citas médicas continúa siendo un obstáculo importante. Aunque los sistemas de <strong>plataforma IPS</strong> y <strong>los módulos de agendamiento </strong>han mejorado en su efectividad, no han logrado disminuir significativamente las ausencias de los pacientes. Para abordar este problema, la automatización a través de WhatsApp Business se presenta como una solución efectiva.</p>
+
+
+
+<p class="wp-block-paragraph">En esta guía encontrarás:&nbsp;</p>
+
+
+
+<ul class="wp-block-list">
+<li><strong>¿Por qué los sistemas de agendamiento no reducen la inasistencia?</strong></li>
+
+
+
+<li><strong>Las limitaciones de los recordatorios tradicionales</strong></li>
+
+
+
+<li><strong>Automatización y agendamiento con chatbots en WhatsApp Business</strong></li>
+
+
+
+<li><strong>Beneficios de los chatbots para reducir la inasistencia</strong></li>
+
+
+
+<li><strong>Impacto en la eficiencia operativa de las entidades de salud</strong></li>
+
+
+
+<li><strong>Empieza ahora a implementar chatbots en tu sistema de agendamiento</strong></li>
+</ul>
+
+
+
+<p class="wp-block-paragraph"></p>
+
+
+
+<h4 class="wp-block-heading">¿Cómo reducir la inasistencia a las citas médicas?</h4>
+
+
+
+<p class="wp-block-paragraph">La inasistencia a las citas médicas es uno de los principales desafíos que enfrentan las entidades de salud. Aunque la implementación de una <strong>plataforma IPS</strong> y el uso de <strong>software de gestión médico</strong> han optimizado la programación de citas, estos sistemas no garantizan la asistencia de los pacientes. </p>
+
+
+
+<p class="wp-block-paragraph">Uno de los principales retos continua siendo la falta de confirmación efectiva. La <strong>confirmación de citas con WhatsApp</strong> se presenta como una solución clave, permitiendo a las entidades de salud establecer una comunicación directa y fluida con los pacientes. A través del <strong>WhatsApp Business agenda</strong>, es posible enviar recordatorios interactivos y facilitar la reprogramación en caso de imprevistos, reduciendo así la inasistencia y mejorando la efectividad en el agendamiento. </p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="365" src="https://www.todoip.com/wp-content/uploads/2024/12/agenda2-1024x365.webp" alt="agenda2" class="wp-image-990792" title="¿Cómo reducir la inasistencia a las citas médicas? 16" srcset="https://www.todoip.com/wp-content/uploads/2024/12/agenda2-1024x365.webp 1024w, https://www.todoip.com/wp-content/uploads/2024/12/agenda2-300x107.webp 300w, https://www.todoip.com/wp-content/uploads/2024/12/agenda2-768x274.webp 768w, https://www.todoip.com/wp-content/uploads/2024/12/agenda2.webp 1254w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<h4 class="wp-block-heading">Limitaciones de los sistemas actuales</h4>
+
+
+
+<ul class="wp-block-list">
+<li><strong>Asignación manual:</strong> En algunos casos, los pacientes solo pueden solicitar citas dejando sus datos en la página web. Luego, deben esperar una respuesta por correo electrónico que, frecuentemente, no es inmediata o nunca llega.</li>
+
+
+
+<li><strong>Automatización parcial:</strong> Aunque algunos sistemas han automatizado el agendamiento, no siempre logran satisfacer a pacientes que no están familiarizados con herramientas tecnológicas.</li>
+
+
+
+<li><strong>Confirmación ineficaz:</strong> Las llamadas telefónicas y los SMS de una sola vía han sido usados para recordar citas, pero a menudo no garantizan la asistencia del paciente.</li>
+</ul>
+
+
+
+<p class="wp-block-paragraph"></p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="483" src="https://www.todoip.com/wp-content/uploads/2024/12/manual2-1024x483.webp" alt="manual2" class="wp-image-990800" title="¿Cómo reducir la inasistencia a las citas médicas? 17" srcset="https://www.todoip.com/wp-content/uploads/2024/12/manual2-1024x483.webp 1024w, https://www.todoip.com/wp-content/uploads/2024/12/manual2-300x142.webp 300w, https://www.todoip.com/wp-content/uploads/2024/12/manual2-768x363.webp 768w, https://www.todoip.com/wp-content/uploads/2024/12/manual2.webp 1400w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<h4 class="wp-block-heading">Innovación con WhatsApp API</h4>
+
+
+
+<p class="wp-block-paragraph">TodoIP ha desarrollado una solución innovadora utilizando WhatsApp API, logrando la interoperabilidad con los softwares hospitalarios y las agendas médicas. Este mecanismo permite que los pacientes puedan:</p>
+
+
+
+<ul class="wp-block-list">
+<li>Consultar la disponibilidad de citas.</li>
+
+
+
+<li>Programar, cancelar y confirmar sus citas mediante el <strong>WhatsApp Business agenda</strong>.</li>
+
+
+
+<li>Realizar todas estas gestiones desde su teléfono celular, de manera fácil y personalizada.</li>
+</ul>
+
+
+
+<h4 class="wp-block-heading">Beneficios de la programación de citas por WhatsApp</h4>
+
+
+
+<p class="wp-block-paragraph">El uso de WhatsApp para la gestión de citas médicas ofrece una experiencia amigable y accesible para los pacientes. Entre sus principales ventajas se encuentran:</p>
+
+
+
+<ul class="wp-block-list">
+<li><strong>Disponibilidad 24/7:</strong> Los pacientes pueden gestionar sus citas en cualquier momento y lugar.</li>
+
+
+
+<li><strong>Oportunidad para nuevos pacientes:</strong> Las cancelaciones automáticas liberan espacios en la agenda médica.</li>
+
+
+
+<li><strong>Confirmación eficiente:</strong> Más del 70% de las citas se confirman o cancelan a través de este medio.</li>
+
+
+
+<li><strong>Encuesta de satisfacción:</strong> Se pueden automatizar encuestas post-atención para medir la calidad del servicio.</li>
+</ul>
+
+
+
+<p class="wp-block-paragraph"></p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="483" src="https://www.todoip.com/wp-content/uploads/2024/12/wapp2-1024x483.webp" alt="wapp2" class="wp-image-990804" title="¿Cómo reducir la inasistencia a las citas médicas? 18" srcset="https://www.todoip.com/wp-content/uploads/2024/12/wapp2-1024x483.webp 1024w, https://www.todoip.com/wp-content/uploads/2024/12/wapp2-300x142.webp 300w, https://www.todoip.com/wp-content/uploads/2024/12/wapp2-768x363.webp 768w, https://www.todoip.com/wp-content/uploads/2024/12/wapp2.webp 1400w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<h4 class="wp-block-heading">Impacto positivo en el sector salud</h4>
+
+
+
+<p class="wp-block-paragraph">La implementación de WhatsApp API ha demostrado ser altamente efectiva, generando beneficios tanto para los pacientes como para las entidades de salud:</p>
+
+
+
+<ul class="wp-block-list">
+<li><strong>Protección de datos sensibles.</strong></li>
+
+
+
+<li><strong>Programación centralizada a través de un número único.</strong></li>
+
+
+
+<li><strong>Capacidad para soportar altos volúmenes de agendamiento simultáneo.</strong></li>
+
+
+
+<li><strong>Disminución de quejas</strong> <strong>relacionadas con la gestión de citas.</strong></li>
+
+
+
+<li><strong>Aseguramiento de la ocupación médica.</strong></li>
+
+
+
+<li><strong>Reducción de procesos operativos.</strong></li>
+</ul>
+
+
+
+<h4 class="wp-block-heading">Conclusión</h4>
+
+
+
+<p class="wp-block-paragraph">La solución de WhatsApp API desarrollada por TodoIP se posiciona como una herramienta innovadora para optimizar la gestión de citas médicas. Este sistema no solo facilita el acceso a los servicios de salud, sino que también contribuye significativamente a mejorar los indicadores de calidad del sector.</p>
+
+
+
+<p class="wp-block-paragraph">Gracias a su facilidad de uso y eficacia comprobada, esta tecnología ha generado un impacto positivo en la <strong>encuesta de satisfacción</strong> de los usuarios y en la reducción de las tasas de inasistencia. Permite a las entidades de salud ofrecer un servicio moderno y eficiente, alineado con las demandas actuales de accesibilidad y automatización en la atención médica.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.todoip.com/como-reducir-la-inasistencia-a-las-citas-medicas/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>No pierdas oportunidades de venta: En TodoIP te entregamos leads calificados en tiempo record</title>
+		<link>https://www.todoip.com/no-pierdas-oportunidades-de-venta-en-todoip-te-entregamos-leads-calificados-en-tiempo-record/</link>
+					<comments>https://www.todoip.com/no-pierdas-oportunidades-de-venta-en-todoip-te-entregamos-leads-calificados-en-tiempo-record/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Mon, 17 Jul 2023 15:16:41 +0000</pubDate>
+				<category><![CDATA[Omnicanal]]></category>
+		<category><![CDATA[Con CTA]]></category>
+		<guid isPermaLink="false">https://beratung.vamtam.com/?p=7023</guid>
+
+					<description><![CDATA[Los leads calificados son esenciales para el crecimiento de tu negocio, y en TodoIP te ayudamos a convertirlos en clientes.]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="7023" class="elementor elementor-7023" data-elementor-post-type="post">
+						<section class="elementor-section elementor-top-section elementor-element elementor-element-1318b830 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="1318b830" data-element_type="section" data-e-type="section">
+						<div class="elementor-container elementor-column-gap-no">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-7ca3cced" data-id="7ca3cced" data-element_type="column" data-e-type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-599d3121 elementor-widget elementor-widget-text-editor" data-id="599d3121" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
+									<p><strong>¿Qué son los leads y por qué son importantes para tu negocio?</strong></p><p>Los leads son personas que han mostrado interés en tu producto o servicio, ya sea a través de tu sitio web, redes sociales o cualquier otro canal de marketing. Se consideran una oportunidad de venta, ya que tienen una alta probabilidad de realizar la compra y convertirse en clientes.</p><p><strong>Tipos de leads y cómo identificarlos:</strong></p><p>No todos los leads son iguales. Es importante comprender los diferentes tipos de leads para poder enfocar tus esfuerzos de marketing y ventas de manera efectiva.</p><ul><li><strong>Marketing Qualified Lead (MQL):</strong> Estos leads han interactuado con tu marca, pero aún no están listos para comprar. Es importante nutrirlos con contenido de valor para que avancen en el proceso de compra.</li><li><strong>Sales Qualified Lead (SQL):</strong> Estos leads han demostrado un mayor interés en tu producto o servicio y están listos para hablar con un representante de ventas.</li><li><strong>Product Qualified Lead (PQL):</strong> Estos leads ya son clientes tuyos y están utilizando tu producto o servicio. Es importante ofrecerles oportunidades para que compren más productos o servicios, o para que se suscriban a planes premium.</li></ul><p><strong>Estrategias para aumentar tus leads y convertirlos en clientes:</strong></p><ul><li><strong>Define una propuesta de valor clara y atractiva:</strong> ¿Qué hace que tu producto o servicio sea único y valioso? Debes ser capaz de comunicar tu propuesta de valor de manera clara y concisa para captar la atención de los leads.</li><li><strong>Crea contenido de alta calidad:</strong> El contenido es una excelente manera de atraer e interactuar con leads. Crea contenido que sea informativo, útil y relevante para tu público objetivo.</li><li><strong>Utiliza las redes sociales para promocionar tu negocio:</strong> Las redes sociales son una herramienta poderosa para llegar a nuevos leads y generar interés en tu marca.</li><li><strong>Invierte en publicidad online:</strong> La publicidad online puede ayudarte a llegar a un público más amplio y generar leads más calificados.</li><li><strong>Optimiza tu sitio web para la conversión:</strong> Tu sitio web debe ser fácil de usar y navegar, y debe incluir llamadas a la acción que inciten a los leads a tomar la siguiente acción, como descargar un contenido gratuito o suscribirse a tu boletín de noticias.</li></ul><p><strong>En TodoIP te ayudamos a generar leads calificados y convertirlos en clientes:</strong></p><p>En TodoIP, comprendemos la importancia de los leads para el éxito de tu negocio. Por eso, te ofrecemos una serie de herramientas y servicios para ayudarte a generar leads calificados y convertirlos en clientes.</p><ul><li><strong>Prospección:</strong> Te ayudamos a identificar leads potenciales a través de diferentes canales, como tu sitio web, redes sociales o email marketing.</li><li><strong>Calificación:</strong> Evaluamos el interés de los leads y determinamos si están listos para comprar.</li><li><strong>Conexión:</strong> Conectamos los leads con tu equipo de ventas en tiempo real para que puedan cerrar la venta.</li></ul><p><strong>Hemos desarrollado una serie de herramientas que cambian la forma que prospectas y calificas los Leads.</strong></p><ul><li><strong>Automatizar la generación de leads:</strong> Ahorra tiempo y recursos al automatizar el proceso de generación de leads.</li><li><strong>Segmentar tus leads:</strong> Personaliza tus mensajes y ofertas para cada tipo de lead.</li><li><strong>Medir tus resultados:</strong> Rastrea el rendimiento de tus campañas de marketing y ventas para optimizarlas y mejorar tus resultados.</li></ul><p>¡Automáticamente conectamos a tus clientes potenciales con tu equipo de ventas a través de llamada, en tiempo real!</p><p><strong>¿Quieres aumentar tus ventas y hacer crecer tu negocio?</strong></p><p><strong>Visita la sección sobre <a href="https://www.todoip.com/calificador-leads/">Calificador de Leads</a> para saber cómo TodoIP puede ayudarte a generar leads calificados y convertirlos en clientes.</strong></p>								</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				</div>
+		]]></content:encoded>
+					
+					<wfw:commentRss>https://www.todoip.com/no-pierdas-oportunidades-de-venta-en-todoip-te-entregamos-leads-calificados-en-tiempo-record/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Un Robot que trabaja por su empresa las 24 horas, los 7 días de la semana.</title>
+		<link>https://www.todoip.com/un-robot-que-trabaja-por-su-empresa-las-24-horas-los-7-dias-de-la-semana/</link>
+					<comments>https://www.todoip.com/un-robot-que-trabaja-por-su-empresa-las-24-horas-los-7-dias-de-la-semana/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Mon, 17 Jul 2023 15:12:17 +0000</pubDate>
+				<category><![CDATA[Omnicanal]]></category>
+		<category><![CDATA[Con CTA]]></category>
+		<guid isPermaLink="false">https://beratung.vamtam.com/?p=7025</guid>
+
+					<description><![CDATA[Un robot de WhatsApp optimiza la interacción con clientes, reduciendo tiempos de respuesta y mejorando la eficiencia del servicio.]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="7025" class="elementor elementor-7025" data-elementor-post-type="post">
+						<section class="elementor-section elementor-top-section elementor-element elementor-element-13f2af4 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="13f2af4" data-element_type="section" data-e-type="section">
+						<div class="elementor-container elementor-column-gap-no">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-151eba98" data-id="151eba98" data-element_type="column" data-e-type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-226d9d95 elementor-widget elementor-widget-image" data-id="226d9d95" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
+															<img loading="lazy" decoding="async" width="1024" height="683" src="https://www.todoip.com/wp-content/uploads/2023/07/2348125-1024x683-1.webp" class="attachment-2048x2048 size-2048x2048 wp-image-988249" alt="2348125 1024x683 1" srcset="https://www.todoip.com/wp-content/uploads/2023/07/2348125-1024x683-1.webp 1024w, https://www.todoip.com/wp-content/uploads/2023/07/2348125-1024x683-1-300x200.webp 300w, https://www.todoip.com/wp-content/uploads/2023/07/2348125-1024x683-1-768x512.webp 768w" sizes="(max-width: 1024px) 100vw, 1024px" title="Un Robot que trabaja por su empresa las 24 horas, los 7 días de la semana. 19">															</div>
+				<div class="elementor-element elementor-element-10186e9a elementor-widget elementor-widget-text-editor" data-id="10186e9a" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
+									<p><strong>Para empezar ¿Qué es un chatbot de WhatsApp?</strong></p><p>Un chatbot de WhatsApp es un desarrollo tecnológico que permite realizar una integración con el CRM/ERP o base de datos de su compañía, permitiéndole entregar datos en tiempo real. En algunos casos se utiliza inteligencia artificial para resolver dudas comunes e interactuar con el cliente y así brindar de forma automática soluciones efectivas a requerimientos generales.</p><p>Desde finales de 2018 cuando inició el auge de los bots se ha visto un incremento importante en su uso como lo demuestran las estadísticas. Por ejemplo, solo en los primeros meses del 2019 mostraron un crecimiento importante en la forma en la cual los bots superan a los agentes humanos respondiendo mensajes:</p><div class="wp-block-spacer" aria-hidden="true"> </div><figure class="wp-block-image"><img decoding="async" src="https://lh6.googleusercontent.com/qL4sNMQHgDG370Eh6VidEfo9m9Yx-byP6TY6jtBQAnzgDRoPC7JMYJOXrUf7Cj_vucjS9HOZc68q2CrCB7ur5JaQ9SR-mTOZcZp_umQoJXFi7mC4Fpel3uqyfhDMqzoXFA0FcXaE" alt="qL4sNMQHgDG370Eh6VidEfo9m9Yx byP6TY6jtBQAnzgDRoPC7JMYJOXrUf7Cj vucjS9HOZc68q2CrCB7ur5JaQ9SR mTOZcZp umQoJXFi7mC4Fpel3uqyfhDMqzoXFA0FcXaE" title="Un Robot que trabaja por su empresa las 24 horas, los 7 días de la semana. 20"></figure><p class="has-text-align-center"><strong>Fuente: LandBot.io (Helpshift2019) </strong></p><p>La asistencia que los bots pueden proporcionar abarca una gran cantidad de procesos comerciales, desde los internos hasta los orientados al cliente. Los datos muestran que la implementación de la <strong>inteligencia artificial </strong>conversacional puede mejorar el servicio al cliente en general. </p><p>Además, también permite a las organizaciones lograr una alta satisfacción del cliente (CSAT) consistente, así como mejores tiempo de respuesta instantáneo (TTFR ) y mejores tiempos promedios de resolución(TRR) sin aumentar significativamente el número de agentes a medida que una empresa crece.<sup>1</sup></p><p><strong>Comunicación Asincrónica: La nueva forma de atención al cliente por chat. </strong></p><p>Una investigación realizada por la compañía Helpshift (Plataforma de servicio al cliente) atribuye la popularidad y la satisfacción de los canales de mensajería a su capacidad de albergar conversaciones asincrónicas. Es decir,  los usuarios pueden enviar sus consultas y seguir con su trabajo o permanecer atento esperando la respuesta. Si lo hicieran en la web, tendrían que esperar a que el agente esté disponible. Como se observa a continuación la mayor calificación (Sobre una escala de 5) la obtienen los canales de comunicación asociados a mensajes:</p><div class="wp-block-spacer" aria-hidden="true"> </div><figure class="wp-block-image"><img decoding="async" src="https://lh4.googleusercontent.com/1COF0rt14-_uPT4xISQAszNupBePEO_9ZM34Ay-GU3sw2i2MLwISKS98tvdG76tFdmMuAyzNgOsNPlmqJGpBI51RTrsQD5-2kvCz-7WqmYlhrBkSOY5_4TMijVnvZdYTu-QzrIaK" alt="1COF0rt14 uPT4xISQAszNupBePEO 9ZM34Ay GU3sw2i2MLwISKS98tvdG76tFdmMuAyzNgOsNPlmqJGpBI51RTrsQD5 2kvCz 7WqmYlhrBkSOY5 4TMijVnvZdYTu QzrIaK" title="Un Robot que trabaja por su empresa las 24 horas, los 7 días de la semana. 21"></figure><p class="has-text-align-center">Fuente: LandBot.io (Helpshift2019) </p><p>Así pues y como lo muestran las tendencias está asegurado el éxito de los bots. Todo ello radica en su función de rapidez y eficiencia, utilizando inteligencia artificial, dado que los usuarios siempre están a la espera de una respuesta inmediata, que sea fácil y que sea funcional a su necesidad o requerimiento. Entonces es una necesidad la adopción de inteligencia artificial por parte de las empresas para estar preparadas, adaptarse a los consumidores y ofrecer experiencias personalizadas que al final se traduzcan en ingresos y lealtad del usuario.</p><p><strong>Datos a tener en cuenta:</strong></p><ul class="wp-block-list"><li>Los costos en atención al cliente puede reducirse en hasta un 30% con la implementación de chatbots. <sup>2</sup> </li><li>En 2020, las compañías notaron una reducción de hasta el 70% en llamadas, chats y mails después de implementar herramientas de automatización.<sup>3</sup></li><li>Se estima que las organizaciones ahorrarán alrededor de 8 mil millones de dólares al año en 2022 gracias a la implementación de bots. <sup>4</sup></li></ul><ul class="wp-block-list"><li>Se estima que el mercado de los chatbots crecerá de 2.6 mil millones de dólares a 9.4 mil millones en 2024 con un crecimiento anual del 29,7%. En 2023, el 30% de los servicios de atención al cliente será proactivo al utilizar inteligencia artificial en el proceso e inteligencia continúa. <sup>5</sup></li><li>En 2019, se invirtió 13.9 mil millones de dólares en inteligencia artificial aplicada a la experiencia de usuario y 42.7 mil millones en bigdata y analíticas. Se espera un crecimiento de ambas hasta los 90 mil millones en 2022. <sup>6</sup></li></ul><p> </p><p><strong>Nuestros Chatbots: </strong></p><p>¿Quiere tener a sus clientes satisfechos cuando se contactan con su empresa? ¿Quiere mejorar los tiempos de respuesta? Si es así contáctenos y analizamos la forma de automatizar e implementar nuestro chatbot para WhatsApp y con ello hacer más eficiente el contacto con sus usuarios.</p><p>Visítenos en nuestra página web y conozca más de nuestro robot. <a href="https://www.todoip.com/chatbots/">https://www.todoip.com/chatbots/</a></p><p><strong>Referencias:</strong></p><p><sup>1</sup> <a href="https://landbot.io/es/blog/estadisticas-ia-conversacional/" rel="nofollow noopener" target="_blank">https://landbot.io/es/blog/estadisticas-ia-conversacional/</a></p><p><sup>2</sup> <a href="https://chatbotsjournal.com/why-your-business-needs-voice-bots-to-survive-a4679dbf444" rel="nofollow noopener" target="_blank">https://chatbotsjournal.com/why-your-business-needs-voice-bots-to-survive-a4679dbf444</a></p><p><sup>3</sup><a href="https://www.gartner.com/en/newsroom/press-releases/2018-02-19-gartner-says-25-percent-of-customer-service-operations-will-use-virtual-customer-assistants-by-2020" rel="nofollow noopener" target="_blank">https://www.gartner.com/en/newsroom/press-releases/2018-02-19-gartner-says-25-percent-of-customer-service-operations-will-use-virtual-customer-assistants-by-2020</a></p><p><sup>4</sup><a href="https://www2.deloitte.com/content/dam/Deloitte/nl/Documents/financial-services/deloitte-nl-fsi-chatbots-adopting-the-power-of-conversational-ux.pdf" rel="nofollow noopener" target="_blank">https://www2.deloitte.com/content/dam/Deloitte/nl/Documents/financial-services/deloitte-nl-fsi-chatbots-adopting-the-power-of-conversational-ux.pdf</a></p><p><sup>5</sup> <a href="https://www.gartner.com/smarterwithgartner/improve-customer-experience-with-artificial-intelligence/" rel="nofollow noopener" target="_blank">https://www.gartner.com/smarterwithgartner/improve-customer-experience-with-artificial-intelligence/</a></p><p><sup>6</sup> <a href="https://n9.cl/erb8a" rel="nofollow noopener" target="_blank">https://n9.cl/erb8a</a></p>								</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				</div>
+		]]></content:encoded>
+					
+					<wfw:commentRss>https://www.todoip.com/un-robot-que-trabaja-por-su-empresa-las-24-horas-los-7-dias-de-la-semana/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

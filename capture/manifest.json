@@ -1,0 +1,1242 @@
+{
+  "capturedAt": "2026-11-06T18:24:38.267Z",
+  "origin": "https://www.todoip.com",
+  "pages": {
+    "/": {
+      "path": "/",
+      "status": 200,
+      "headers": {
+        "connection": "Keep-Alive",
+        "content-encoding": "br",
+        "content-type": "text/html; charset=UTF-8",
+        "date": "Fri, 06 Nov 2026 18:24:01 GMT",
+        "etag": "\"3-1793807715;br\"",
+        "keep-alive": "timeout=5, max=100",
+        "link": "<https://www.todoip.com/wp-json/>; rel=\"https://api.w.org/\", <https://www.todoip.com/wp-json/wp/v2/pages/910>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://www.todoip.com/>; rel=shortlink",
+        "server": "LiteSpeed",
+        "transfer-encoding": "chunked",
+        "vary": "Accept-Encoding",
+        "x-litespeed-cache": "hit",
+        "x-powered-by": "PHP/8.1.34"
+      },
+      "file": "html/home.html"
+    },
+    "/bots/": {
+      "path": "/bots/",
+      "status": 200,
+      "headers": {
+        "accept-ranges": "bytes",
+        "connection": "Keep-Alive",
+        "content-encoding": "br",
+        "content-length": "33873",
+        "content-type": "text/html; charset=UTF-8",
+        "date": "Fri, 06 Nov 2026 18:24:02 GMT",
+        "keep-alive": "timeout=5, max=100",
+        "last-modified": "Tue, 03 Nov 2026 17:14:59 GMT",
+        "server": "LiteSpeed",
+        "vary": "Accept-Encoding"
+      },
+      "file": "html/bots.html"
+    },
+    "/salud/": {
+      "path": "/salud/",
+      "status": 200,
+      "headers": {
+        "accept-ranges": "bytes",
+        "connection": "Keep-Alive",
+        "content-encoding": "br",
+        "content-length": "32652",
+        "content-type": "text/html; charset=UTF-8",
+        "date": "Fri, 06 Nov 2026 18:24:02 GMT",
+        "keep-alive": "timeout=5, max=100",
+        "last-modified": "Tue, 03 Nov 2026 17:15:15 GMT",
+        "server": "LiteSpeed",
+        "vary": "Accept-Encoding"
+      },
+      "file": "html/salud.html"
+    },
+    "/cobranzas/": {
+      "path": "/cobranzas/",
+      "status": 200,
+      "headers": {
+        "accept-ranges": "bytes",
+        "connection": "Keep-Alive",
+        "content-encoding": "br",
+        "content-length": "33044",
+        "content-type": "text/html; charset=UTF-8",
+        "date": "Fri, 06 Nov 2026 18:24:02 GMT",
+        "keep-alive": "timeout=5, max=100",
+        "last-modified": "Tue, 03 Nov 2026 17:15:29 GMT",
+        "server": "LiteSpeed",
+        "vary": "Accept-Encoding"
+      },
+      "file": "html/cobranzas.html"
+    },
+    "/turismo/": {
+      "path": "/turismo/",
+      "status": 200,
+      "headers": {
+        "accept-ranges": "bytes",
+        "connection": "Keep-Alive",
+        "content-encoding": "br",
+        "content-length": "32728",
+        "content-type": "text/html; charset=UTF-8",
+        "date": "Fri, 06 Nov 2026 18:24:03 GMT",
+        "keep-alive": "timeout=5, max=100",
+        "last-modified": "Tue, 03 Nov 2026 17:15:43 GMT",
+        "server": "LiteSpeed",
+        "vary": "Accept-Encoding"
+      },
+      "file": "html/turismo.html"
+    },
+    "/aviso-de-privacidad/": {
+      "path": "/aviso-de-privacidad/",
+      "status": 200,
+      "headers": {
+        "connection": "Keep-Alive",
+        "content-encoding": "br",
+        "content-length": "28092",
+        "content-type": "text/html; charset=UTF-8",
+        "date": "Fri, 06 Nov 2026 18:24:03 GMT",
+        "etag": "\"44-1793920764;br\"",
+        "keep-alive": "timeout=5, max=100",
+        "link": "<https://www.todoip.com/wp-json/>; rel=\"https://api.w.org/\", <https://www.todoip.com/wp-json/wp/v2/pages/990284>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://www.todoip.com/?p=990284>; rel=shortlink",
+        "server": "LiteSpeed",
+        "vary": "Accept-Encoding",
+        "x-litespeed-cache": "hit",
+        "x-powered-by": "PHP/8.1.34"
+      },
+      "file": "html/aviso-de-privacidad.html"
+    },
+    "/registro-exitoso/": {
+      "path": "/registro-exitoso/",
+      "status": 200,
+      "headers": {
+        "connection": "Keep-Alive",
+        "content-encoding": "br",
+        "content-type": "text/html; charset=UTF-8",
+        "date": "Fri, 06 Nov 2026 18:24:05 GMT",
+        "etag": "\"56-1793989445;br\"",
+        "keep-alive": "timeout=5, max=100",
+        "link": "<https://www.todoip.com/wp-json/>; rel=\"https://api.w.org/\", <https://www.todoip.com/wp-json/wp/v2/pages/990112>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://www.todoip.com/?p=990112>; rel=shortlink",
+        "server": "LiteSpeed",
+        "transfer-encoding": "chunked",
+        "vary": "Accept-Encoding",
+        "x-litespeed-cache": "miss",
+        "x-litespeed-cache-control": "public,max-age=604800",
+        "x-litespeed-tag": "10b_page,10b_URL.9cdab25696f7298ef639e85448ffd849,10b_Po.990112,10b_PGS,10b_",
+        "x-powered-by": "PHP/8.1.34"
+      },
+      "file": "html/registro-exitoso.html"
+    },
+    "/reportes-telefonia/": {
+      "path": "/reportes-telefonia/",
+      "status": 200,
+      "headers": {
+        "connection": "Keep-Alive",
+        "content-encoding": "br",
+        "content-length": "14823",
+        "content-type": "text/html; charset=UTF-8",
+        "date": "Fri, 06 Nov 2026 18:24:05 GMT",
+        "etag": "\"1-1793807556;br\"",
+        "keep-alive": "timeout=5, max=100",
+        "link": "<https://www.todoip.com/wp-json/>; rel=\"https://api.w.org/\", <https://www.todoip.com/wp-json/wp/v2/pages/989144>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://www.todoip.com/?p=989144>; rel=shortlink",
+        "server": "LiteSpeed",
+        "vary": "Accept-Encoding",
+        "x-litespeed-cache": "hit",
+        "x-powered-by": "PHP/8.1.34"
+      },
+      "file": "html/reportes-telefonia.html"
+    },
+    "/blog/": {
+      "path": "/blog/",
+      "status": 200,
+      "headers": {
+        "connection": "Keep-Alive",
+        "content-encoding": "br",
+        "content-length": "27081",
+        "content-type": "text/html; charset=UTF-8",
+        "date": "Fri, 06 Nov 2026 18:24:05 GMT",
+        "etag": "\"27-1793855755;br\"",
+        "keep-alive": "timeout=5, max=100",
+        "link": "<https://www.todoip.com/wp-json/>; rel=\"https://api.w.org/\", <https://www.todoip.com/wp-json/wp/v2/pages/990595>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://www.todoip.com/?p=990595>; rel=shortlink",
+        "server": "LiteSpeed",
+        "vary": "Accept-Encoding",
+        "x-litespeed-cache": "hit",
+        "x-powered-by": "PHP/8.1.34"
+      },
+      "file": "html/blog.html"
+    },
+    "/pbx-movil/": {
+      "path": "/pbx-movil/",
+      "status": 200,
+      "headers": {
+        "connection": "Keep-Alive",
+        "content-encoding": "br",
+        "content-length": "26421",
+        "content-type": "text/html; charset=UTF-8",
+        "date": "Fri, 06 Nov 2026 18:24:06 GMT",
+        "etag": "\"2-1793807573;br\"",
+        "keep-alive": "timeout=5, max=100",
+        "link": "<https://www.todoip.com/wp-json/>; rel=\"https://api.w.org/\", <https://www.todoip.com/wp-json/wp/v2/pages/6953>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://www.todoip.com/?p=6953>; rel=shortlink",
+        "server": "LiteSpeed",
+        "vary": "Accept-Encoding",
+        "x-litespeed-cache": "hit",
+        "x-powered-by": "PHP/8.1.34"
+      },
+      "file": "html/pbx-movil.html"
+    },
+    "/chatbots-con-ia-whatsapp/": {
+      "path": "/chatbots-con-ia-whatsapp/",
+      "status": 200,
+      "headers": {
+        "connection": "Keep-Alive",
+        "content-encoding": "br",
+        "content-length": "28566",
+        "content-type": "text/html; charset=UTF-8",
+        "date": "Fri, 06 Nov 2026 18:24:06 GMT",
+        "etag": "\"34-1793882804;br\"",
+        "keep-alive": "timeout=5, max=100",
+        "link": "<https://www.todoip.com/wp-json/>; rel=\"https://api.w.org/\", <https://www.todoip.com/wp-json/wp/v2/pages/991054>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://www.todoip.com/?p=991054>; rel=shortlink",
+        "server": "LiteSpeed",
+        "vary": "Accept-Encoding",
+        "x-litespeed-cache": "hit",
+        "x-powered-by": "PHP/8.1.34"
+      },
+      "file": "html/chatbots-con-ia-whatsapp.html"
+    },
+    "/telefoniaip/": {
+      "path": "/telefoniaip/",
+      "status": 200,
+      "headers": {
+        "connection": "Keep-Alive",
+        "content-encoding": "br",
+        "content-length": "26625",
+        "content-type": "text/html; charset=UTF-8",
+        "date": "Fri, 06 Nov 2026 18:24:07 GMT",
+        "etag": "\"13-1793817933;br\"",
+        "keep-alive": "timeout=5, max=100",
+        "link": "<https://www.todoip.com/wp-json/>; rel=\"https://api.w.org/\", <https://www.todoip.com/wp-json/wp/v2/pages/988518>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://www.todoip.com/?p=988518>; rel=shortlink",
+        "server": "LiteSpeed",
+        "vary": "Accept-Encoding",
+        "x-litespeed-cache": "hit",
+        "x-powered-by": "PHP/8.1.34"
+      },
+      "file": "html/telefoniaip.html"
+    },
+    "/agente-virtual-ivr/": {
+      "path": "/agente-virtual-ivr/",
+      "status": 200,
+      "headers": {
+        "connection": "Keep-Alive",
+        "content-encoding": "br",
+        "content-type": "text/html; charset=UTF-8",
+        "date": "Fri, 06 Nov 2026 18:24:07 GMT",
+        "etag": "\"36-1793899930;br\"",
+        "keep-alive": "timeout=5, max=100",
+        "link": "<https://www.todoip.com/wp-json/>; rel=\"https://api.w.org/\", <https://www.todoip.com/wp-json/wp/v2/pages/988424>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://www.todoip.com/?p=988424>; rel=shortlink",
+        "server": "LiteSpeed",
+        "transfer-encoding": "chunked",
+        "vary": "Accept-Encoding",
+        "x-litespeed-cache": "hit",
+        "x-powered-by": "PHP/8.1.34"
+      },
+      "file": "html/agente-virtual-ivr.html"
+    },
+    "/lectura-inteligente-de-documentos/": {
+      "path": "/lectura-inteligente-de-documentos/",
+      "status": 200,
+      "headers": {
+        "connection": "Keep-Alive",
+        "content-encoding": "br",
+        "content-type": "text/html; charset=UTF-8",
+        "date": "Fri, 06 Nov 2026 18:24:07 GMT",
+        "etag": "\"7-1793811938;br\"",
+        "keep-alive": "timeout=5, max=100",
+        "link": "<https://www.todoip.com/wp-json/>; rel=\"https://api.w.org/\", <https://www.todoip.com/wp-json/wp/v2/pages/991056>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://www.todoip.com/?p=991056>; rel=shortlink",
+        "server": "LiteSpeed",
+        "transfer-encoding": "chunked",
+        "vary": "Accept-Encoding",
+        "x-litespeed-cache": "hit",
+        "x-powered-by": "PHP/8.1.34"
+      },
+      "file": "html/lectura-inteligente-de-documentos.html"
+    },
+    "/agente-de-voz-con-ia-voicebot/": {
+      "path": "/agente-de-voz-con-ia-voicebot/",
+      "status": 200,
+      "headers": {
+        "connection": "Keep-Alive",
+        "content-encoding": "br",
+        "content-length": "28055",
+        "content-type": "text/html; charset=UTF-8",
+        "date": "Fri, 06 Nov 2026 18:24:08 GMT",
+        "etag": "\"31-1793871525;br\"",
+        "keep-alive": "timeout=5, max=100",
+        "link": "<https://www.todoip.com/wp-json/>; rel=\"https://api.w.org/\", <https://www.todoip.com/wp-json/wp/v2/pages/991058>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://www.todoip.com/?p=991058>; rel=shortlink",
+        "server": "LiteSpeed",
+        "vary": "Accept-Encoding",
+        "x-litespeed-cache": "hit",
+        "x-powered-by": "PHP/8.1.34"
+      },
+      "file": "html/agente-de-voz-con-ia-voicebot.html"
+    },
+    "/chatbots/": {
+      "path": "/chatbots/",
+      "status": 200,
+      "headers": {
+        "connection": "Keep-Alive",
+        "content-encoding": "br",
+        "content-length": "26362",
+        "content-type": "text/html; charset=UTF-8",
+        "date": "Fri, 06 Nov 2026 18:24:08 GMT",
+        "etag": "\"30-1793871524;br\"",
+        "keep-alive": "timeout=5, max=100",
+        "link": "<https://www.todoip.com/wp-json/>; rel=\"https://api.w.org/\", <https://www.todoip.com/wp-json/wp/v2/pages/988681>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://www.todoip.com/?p=988681>; rel=shortlink",
+        "server": "LiteSpeed",
+        "vary": "Accept-Encoding",
+        "x-litespeed-cache": "hit",
+        "x-powered-by": "PHP/8.1.34"
+      },
+      "file": "html/chatbots.html"
+    },
+    "/referidos/": {
+      "path": "/referidos/",
+      "status": 200,
+      "headers": {
+        "connection": "Keep-Alive",
+        "content-encoding": "br",
+        "content-type": "text/html; charset=UTF-8",
+        "date": "Fri, 06 Nov 2026 18:24:09 GMT",
+        "etag": "\"15-1793819836;br\"",
+        "keep-alive": "timeout=5, max=100",
+        "link": "<https://www.todoip.com/wp-json/>; rel=\"https://api.w.org/\", <https://www.todoip.com/wp-json/wp/v2/pages/990097>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://www.todoip.com/?p=990097>; rel=shortlink",
+        "server": "LiteSpeed",
+        "transfer-encoding": "chunked",
+        "vary": "Accept-Encoding",
+        "x-litespeed-cache": "hit",
+        "x-powered-by": "PHP/8.1.34"
+      },
+      "file": "html/referidos.html"
+    },
+    "/calificador-leads/": {
+      "path": "/calificador-leads/",
+      "status": 200,
+      "headers": {
+        "connection": "Keep-Alive",
+        "content-encoding": "br",
+        "content-type": "text/html; charset=UTF-8",
+        "date": "Fri, 06 Nov 2026 18:24:09 GMT",
+        "etag": "\"19-1793826724;br\"",
+        "keep-alive": "timeout=5, max=100",
+        "link": "<https://www.todoip.com/wp-json/>; rel=\"https://api.w.org/\", <https://www.todoip.com/wp-json/wp/v2/pages/988734>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://www.todoip.com/?p=988734>; rel=shortlink",
+        "server": "LiteSpeed",
+        "transfer-encoding": "chunked",
+        "vary": "Accept-Encoding",
+        "x-litespeed-cache": "hit",
+        "x-powered-by": "PHP/8.1.34"
+      },
+      "file": "html/calificador-leads.html"
+    },
+    "/agente-de-whatsapp-para-agencias-de-viajes-cotiza-rapido-y-no-pierdas-ventas-fuera-de-horario/": {
+      "path": "/agente-de-whatsapp-para-agencias-de-viajes-cotiza-rapido-y-no-pierdas-ventas-fuera-de-horario/",
+      "status": 200,
+      "headers": {
+        "connection": "Keep-Alive",
+        "content-encoding": "br",
+        "content-type": "text/html; charset=UTF-8",
+        "date": "Fri, 06 Nov 2026 18:24:09 GMT",
+        "etag": "\"8-1793812591;br\"",
+        "keep-alive": "timeout=5, max=100",
+        "link": "<https://www.todoip.com/wp-json/>; rel=\"https://api.w.org/\", <https://www.todoip.com/wp-json/wp/v2/posts/991865>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://www.todoip.com/?p=991865>; rel=shortlink",
+        "server": "LiteSpeed",
+        "transfer-encoding": "chunked",
+        "vary": "Accept-Encoding",
+        "x-litespeed-cache": "hit",
+        "x-pingback": "https://www.todoip.com/xmlrpc.php",
+        "x-powered-by": "PHP/8.1.34"
+      },
+      "file": "html/agente-de-whatsapp-para-agencias-de-viajes-cotiza-rapido-y-no-pierdas-ventas-fuera-de-horario.html"
+    },
+    "/de-la-ventanilla-al-celular-como-digitalizar-el-ingreso-de-pacientes-sin-cambiar-de-sistema/": {
+      "path": "/de-la-ventanilla-al-celular-como-digitalizar-el-ingreso-de-pacientes-sin-cambiar-de-sistema/",
+      "status": 200,
+      "headers": {
+        "connection": "Keep-Alive",
+        "content-encoding": "br",
+        "content-type": "text/html; charset=UTF-8",
+        "date": "Fri, 06 Nov 2026 18:24:10 GMT",
+        "etag": "\"9-1793814510;br\"",
+        "keep-alive": "timeout=5, max=100",
+        "link": "<https://www.todoip.com/wp-json/>; rel=\"https://api.w.org/\", <https://www.todoip.com/wp-json/wp/v2/posts/991860>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://www.todoip.com/?p=991860>; rel=shortlink",
+        "server": "LiteSpeed",
+        "transfer-encoding": "chunked",
+        "vary": "Accept-Encoding",
+        "x-litespeed-cache": "hit",
+        "x-pingback": "https://www.todoip.com/xmlrpc.php",
+        "x-powered-by": "PHP/8.1.34"
+      },
+      "file": "html/de-la-ventanilla-al-celular-como-digitalizar-el-ingreso-de-pacientes-sin-cambiar-de-sistema.html"
+    },
+    "/ciberataque-a-ifx-networks-que-podemos-aprender-de-este-incidente/": {
+      "path": "/ciberataque-a-ifx-networks-que-podemos-aprender-de-este-incidente/",
+      "status": 200,
+      "headers": {
+        "connection": "Keep-Alive",
+        "content-encoding": "br",
+        "content-length": "23552",
+        "content-type": "text/html; charset=UTF-8",
+        "date": "Fri, 06 Nov 2026 18:24:10 GMT",
+        "etag": "\"21-1793829383;br\"",
+        "keep-alive": "timeout=5, max=100",
+        "link": "<https://www.todoip.com/wp-json/>; rel=\"https://api.w.org/\", <https://www.todoip.com/wp-json/wp/v2/posts/7027>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://www.todoip.com/?p=7027>; rel=shortlink",
+        "server": "LiteSpeed",
+        "vary": "Accept-Encoding",
+        "x-litespeed-cache": "hit",
+        "x-pingback": "https://www.todoip.com/xmlrpc.php",
+        "x-powered-by": "PHP/8.1.34"
+      },
+      "file": "html/ciberataque-a-ifx-networks-que-podemos-aprender-de-este-incidente.html"
+    },
+    "/revolucionamos-la-comunicacion-omnicanal-lanzamiento-de-nuestras-nuevas-soluciones/": {
+      "path": "/revolucionamos-la-comunicacion-omnicanal-lanzamiento-de-nuestras-nuevas-soluciones/",
+      "status": 200,
+      "headers": {
+        "connection": "Keep-Alive",
+        "content-encoding": "br",
+        "content-type": "text/html; charset=UTF-8",
+        "date": "Fri, 06 Nov 2026 18:24:11 GMT",
+        "etag": "\"50-1793978930;br\"",
+        "keep-alive": "timeout=5, max=100",
+        "link": "<https://www.todoip.com/wp-json/>; rel=\"https://api.w.org/\", <https://www.todoip.com/wp-json/wp/v2/posts/990687>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://www.todoip.com/?p=990687>; rel=shortlink",
+        "server": "LiteSpeed",
+        "transfer-encoding": "chunked",
+        "vary": "Accept-Encoding",
+        "x-litespeed-cache": "hit",
+        "x-pingback": "https://www.todoip.com/xmlrpc.php",
+        "x-powered-by": "PHP/8.1.34"
+      },
+      "file": "html/revolucionamos-la-comunicacion-omnicanal-lanzamiento-de-nuestras-nuevas-soluciones.html"
+    },
+    "/platzi-conf-2023/": {
+      "path": "/platzi-conf-2023/",
+      "status": 200,
+      "headers": {
+        "connection": "Keep-Alive",
+        "content-encoding": "br",
+        "content-length": "23930",
+        "content-type": "text/html; charset=UTF-8",
+        "date": "Fri, 06 Nov 2026 18:24:11 GMT",
+        "etag": "\"28-1793856680;br\"",
+        "keep-alive": "timeout=5, max=100",
+        "link": "<https://www.todoip.com/wp-json/>; rel=\"https://api.w.org/\", <https://www.todoip.com/wp-json/wp/v2/posts/990703>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://www.todoip.com/?p=990703>; rel=shortlink",
+        "server": "LiteSpeed",
+        "vary": "Accept-Encoding",
+        "x-litespeed-cache": "hit",
+        "x-pingback": "https://www.todoip.com/xmlrpc.php",
+        "x-powered-by": "PHP/8.1.34"
+      },
+      "file": "html/platzi-conf-2023.html"
+    },
+    "/se-vienen-las-redes-5g-esta-usted-preparado/": {
+      "path": "/se-vienen-las-redes-5g-esta-usted-preparado/",
+      "status": 200,
+      "headers": {
+        "connection": "Keep-Alive",
+        "content-encoding": "br",
+        "content-length": "25060",
+        "content-type": "text/html; charset=UTF-8",
+        "date": "Fri, 06 Nov 2026 18:24:11 GMT",
+        "etag": "\"22-1793831953;br\"",
+        "keep-alive": "timeout=5, max=100",
+        "link": "<https://www.todoip.com/wp-json/>; rel=\"https://api.w.org/\", <https://www.todoip.com/wp-json/wp/v2/posts/990730>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://www.todoip.com/?p=990730>; rel=shortlink",
+        "server": "LiteSpeed",
+        "vary": "Accept-Encoding",
+        "x-litespeed-cache": "hit",
+        "x-pingback": "https://www.todoip.com/xmlrpc.php",
+        "x-powered-by": "PHP/8.1.34"
+      },
+      "file": "html/se-vienen-las-redes-5g-esta-usted-preparado.html"
+    },
+    "/asistente-virtual-para-clinicas-asi-se-ve-el-fin-de-las-cotizaciones-lentas-por-whatsapp/": {
+      "path": "/asistente-virtual-para-clinicas-asi-se-ve-el-fin-de-las-cotizaciones-lentas-por-whatsapp/",
+      "status": 200,
+      "headers": {
+        "connection": "Keep-Alive",
+        "content-encoding": "br",
+        "content-length": "25540",
+        "content-type": "text/html; charset=UTF-8",
+        "date": "Fri, 06 Nov 2026 18:24:12 GMT",
+        "etag": "\"11-1793814512;br\"",
+        "keep-alive": "timeout=5, max=100",
+        "link": "<https://www.todoip.com/wp-json/>; rel=\"https://api.w.org/\", <https://www.todoip.com/wp-json/wp/v2/posts/991831>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://www.todoip.com/?p=991831>; rel=shortlink",
+        "server": "LiteSpeed",
+        "vary": "Accept-Encoding",
+        "x-litespeed-cache": "hit",
+        "x-pingback": "https://www.todoip.com/xmlrpc.php",
+        "x-powered-by": "PHP/8.1.34"
+      },
+      "file": "html/asistente-virtual-para-clinicas-asi-se-ve-el-fin-de-las-cotizaciones-lentas-por-whatsapp.html"
+    },
+    "/resolucion-256-como-cumplir-la-ley-sin-enloquecer-a-tu-equipo/": {
+      "path": "/resolucion-256-como-cumplir-la-ley-sin-enloquecer-a-tu-equipo/",
+      "status": 200,
+      "headers": {
+        "connection": "Keep-Alive",
+        "content-encoding": "br",
+        "content-length": "24863",
+        "content-type": "text/html; charset=UTF-8",
+        "date": "Fri, 06 Nov 2026 18:24:12 GMT",
+        "etag": "\"10-1793814511;br\"",
+        "keep-alive": "timeout=5, max=100",
+        "link": "<https://www.todoip.com/wp-json/>; rel=\"https://api.w.org/\", <https://www.todoip.com/wp-json/wp/v2/posts/991840>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://www.todoip.com/?p=991840>; rel=shortlink",
+        "server": "LiteSpeed",
+        "vary": "Accept-Encoding",
+        "x-litespeed-cache": "hit",
+        "x-pingback": "https://www.todoip.com/xmlrpc.php",
+        "x-powered-by": "PHP/8.1.34"
+      },
+      "file": "html/resolucion-256-como-cumplir-la-ley-sin-enloquecer-a-tu-equipo.html"
+    },
+    "/no-pierdas-oportunidades-de-venta-en-todoip-te-entregamos-leads-calificados-en-tiempo-record/": {
+      "path": "/no-pierdas-oportunidades-de-venta-en-todoip-te-entregamos-leads-calificados-en-tiempo-record/",
+      "status": 200,
+      "headers": {
+        "connection": "Keep-Alive",
+        "content-encoding": "br",
+        "content-type": "text/html; charset=UTF-8",
+        "date": "Fri, 06 Nov 2026 18:24:13 GMT",
+        "etag": "\"49-1793978926;br\"",
+        "keep-alive": "timeout=5, max=100",
+        "link": "<https://www.todoip.com/wp-json/>; rel=\"https://api.w.org/\", <https://www.todoip.com/wp-json/wp/v2/posts/7023>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://www.todoip.com/?p=7023>; rel=shortlink",
+        "server": "LiteSpeed",
+        "transfer-encoding": "chunked",
+        "vary": "Accept-Encoding",
+        "x-litespeed-cache": "hit",
+        "x-pingback": "https://www.todoip.com/xmlrpc.php",
+        "x-powered-by": "PHP/8.1.34"
+      },
+      "file": "html/no-pierdas-oportunidades-de-venta-en-todoip-te-entregamos-leads-calificados-en-tiempo-record.html"
+    },
+    "/un-robot-que-trabaja-por-su-empresa-las-24-horas-los-7-dias-de-la-semana/": {
+      "path": "/un-robot-que-trabaja-por-su-empresa-las-24-horas-los-7-dias-de-la-semana/",
+      "status": 200,
+      "headers": {
+        "connection": "Keep-Alive",
+        "content-encoding": "br",
+        "content-type": "text/html; charset=UTF-8",
+        "date": "Fri, 06 Nov 2026 18:24:13 GMT",
+        "etag": "\"51-1793979006;br\"",
+        "keep-alive": "timeout=5, max=100",
+        "link": "<https://www.todoip.com/wp-json/>; rel=\"https://api.w.org/\", <https://www.todoip.com/wp-json/wp/v2/posts/7025>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://www.todoip.com/?p=7025>; rel=shortlink",
+        "server": "LiteSpeed",
+        "transfer-encoding": "chunked",
+        "vary": "Accept-Encoding",
+        "x-litespeed-cache": "hit",
+        "x-pingback": "https://www.todoip.com/xmlrpc.php",
+        "x-powered-by": "PHP/8.1.34"
+      },
+      "file": "html/un-robot-que-trabaja-por-su-empresa-las-24-horas-los-7-dias-de-la-semana.html"
+    },
+    "/como-reducir-la-inasistencia-a-las-citas-medicas/": {
+      "path": "/como-reducir-la-inasistencia-a-las-citas-medicas/",
+      "status": 200,
+      "headers": {
+        "connection": "Keep-Alive",
+        "content-encoding": "br",
+        "content-type": "text/html; charset=UTF-8",
+        "date": "Fri, 06 Nov 2026 18:24:13 GMT",
+        "etag": "\"47-1793978922;br\"",
+        "keep-alive": "timeout=5, max=100",
+        "link": "<https://www.todoip.com/wp-json/>; rel=\"https://api.w.org/\", <https://www.todoip.com/wp-json/wp/v2/posts/990661>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://www.todoip.com/?p=990661>; rel=shortlink",
+        "server": "LiteSpeed",
+        "transfer-encoding": "chunked",
+        "vary": "Accept-Encoding",
+        "x-litespeed-cache": "hit",
+        "x-pingback": "https://www.todoip.com/xmlrpc.php",
+        "x-powered-by": "PHP/8.1.34"
+      },
+      "file": "html/como-reducir-la-inasistencia-a-las-citas-medicas.html"
+    },
+    "/ventajas-de-tener-un-pbx-movil/": {
+      "path": "/ventajas-de-tener-un-pbx-movil/",
+      "status": 200,
+      "headers": {
+        "connection": "Keep-Alive",
+        "content-encoding": "br",
+        "content-length": "25549",
+        "content-type": "text/html; charset=UTF-8",
+        "date": "Fri, 06 Nov 2026 18:24:14 GMT",
+        "etag": "\"32-1793872664;br\"",
+        "keep-alive": "timeout=5, max=100",
+        "link": "<https://www.todoip.com/wp-json/>; rel=\"https://api.w.org/\", <https://www.todoip.com/wp-json/wp/v2/posts/990697>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://www.todoip.com/?p=990697>; rel=shortlink",
+        "server": "LiteSpeed",
+        "vary": "Accept-Encoding",
+        "x-litespeed-cache": "hit",
+        "x-pingback": "https://www.todoip.com/xmlrpc.php",
+        "x-powered-by": "PHP/8.1.34"
+      },
+      "file": "html/ventajas-de-tener-un-pbx-movil.html"
+    },
+    "/en-todoip-te-entregamos-leads-calificados-en-tiempo-record-aumenta-tus-ventas-con-nuestra-ayuda/": {
+      "path": "/en-todoip-te-entregamos-leads-calificados-en-tiempo-record-aumenta-tus-ventas-con-nuestra-ayuda/",
+      "status": 200,
+      "headers": {
+        "connection": "Keep-Alive",
+        "content-encoding": "br",
+        "content-type": "text/html; charset=UTF-8",
+        "date": "Fri, 06 Nov 2026 18:24:14 GMT",
+        "etag": "\"48-1793978923;br\"",
+        "keep-alive": "timeout=5, max=100",
+        "link": "<https://www.todoip.com/wp-json/>; rel=\"https://api.w.org/\", <https://www.todoip.com/wp-json/wp/v2/posts/990741>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://www.todoip.com/?p=990741>; rel=shortlink",
+        "server": "LiteSpeed",
+        "transfer-encoding": "chunked",
+        "vary": "Accept-Encoding",
+        "x-litespeed-cache": "hit",
+        "x-pingback": "https://www.todoip.com/xmlrpc.php",
+        "x-powered-by": "PHP/8.1.34"
+      },
+      "file": "html/en-todoip-te-entregamos-leads-calificados-en-tiempo-record-aumenta-tus-ventas-con-nuestra-ayuda.html"
+    },
+    "/guia-completa-sobre-chatbots-para-whatsapp-business/": {
+      "path": "/guia-completa-sobre-chatbots-para-whatsapp-business/",
+      "status": 200,
+      "headers": {
+        "connection": "Keep-Alive",
+        "content-encoding": "br",
+        "content-length": "26006",
+        "content-type": "text/html; charset=UTF-8",
+        "date": "Fri, 06 Nov 2026 18:24:15 GMT",
+        "etag": "\"33-1793881296;br\"",
+        "keep-alive": "timeout=5, max=100",
+        "link": "<https://www.todoip.com/wp-json/>; rel=\"https://api.w.org/\", <https://www.todoip.com/wp-json/wp/v2/posts/990759>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://www.todoip.com/?p=990759>; rel=shortlink",
+        "server": "LiteSpeed",
+        "vary": "Accept-Encoding",
+        "x-litespeed-cache": "hit",
+        "x-pingback": "https://www.todoip.com/xmlrpc.php",
+        "x-powered-by": "PHP/8.1.34"
+      },
+      "file": "html/guia-completa-sobre-chatbots-para-whatsapp-business.html"
+    },
+    "/por-que-mi-numero-aparece-como-spam/": {
+      "path": "/por-que-mi-numero-aparece-como-spam/",
+      "status": 200,
+      "headers": {
+        "connection": "Keep-Alive",
+        "content-encoding": "br",
+        "content-length": "25061",
+        "content-type": "text/html; charset=UTF-8",
+        "date": "Fri, 06 Nov 2026 18:24:15 GMT",
+        "etag": "\"4-1793809286;br\"",
+        "keep-alive": "timeout=5, max=100",
+        "link": "<https://www.todoip.com/wp-json/>; rel=\"https://api.w.org/\", <https://www.todoip.com/wp-json/wp/v2/posts/990899>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://www.todoip.com/?p=990899>; rel=shortlink",
+        "server": "LiteSpeed",
+        "vary": "Accept-Encoding",
+        "x-litespeed-cache": "hit",
+        "x-pingback": "https://www.todoip.com/xmlrpc.php",
+        "x-powered-by": "PHP/8.1.34"
+      },
+      "file": "html/por-que-mi-numero-aparece-como-spam.html"
+    },
+    "/category/inteligencia-artificial/": {
+      "path": "/category/inteligencia-artificial/",
+      "status": 200,
+      "headers": {
+        "connection": "Keep-Alive",
+        "content-encoding": "br",
+        "content-type": "text/html; charset=UTF-8",
+        "date": "Fri, 06 Nov 2026 18:24:15 GMT",
+        "etag": "\"25-1793850577;br\"",
+        "keep-alive": "timeout=5, max=100",
+        "link": "<https://www.todoip.com/wp-json/>; rel=\"https://api.w.org/\", <https://www.todoip.com/wp-json/wp/v2/categories/68>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\"",
+        "server": "LiteSpeed",
+        "transfer-encoding": "chunked",
+        "vary": "Accept-Encoding",
+        "x-litespeed-cache": "hit",
+        "x-powered-by": "PHP/8.1.34"
+      },
+      "file": "html/category__inteligencia-artificial.html"
+    },
+    "/category/analysis/": {
+      "path": "/category/analysis/",
+      "status": 200,
+      "headers": {
+        "connection": "Keep-Alive",
+        "content-encoding": "br",
+        "content-type": "text/html; charset=UTF-8",
+        "date": "Fri, 06 Nov 2026 18:24:16 GMT",
+        "etag": "\"45-1793921672;br\"",
+        "keep-alive": "timeout=5, max=100",
+        "link": "<https://www.todoip.com/wp-json/>; rel=\"https://api.w.org/\", <https://www.todoip.com/wp-json/wp/v2/categories/13>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\"",
+        "server": "LiteSpeed",
+        "transfer-encoding": "chunked",
+        "vary": "Accept-Encoding",
+        "x-litespeed-cache": "hit",
+        "x-powered-by": "PHP/8.1.34"
+      },
+      "file": "html/category__analysis.html"
+    },
+    "/category/seguridad/": {
+      "path": "/category/seguridad/",
+      "status": 200,
+      "headers": {
+        "connection": "Keep-Alive",
+        "content-encoding": "br",
+        "content-type": "text/html; charset=UTF-8",
+        "date": "Fri, 06 Nov 2026 18:24:16 GMT",
+        "etag": "\"46-1793978920;br\"",
+        "keep-alive": "timeout=5, max=100",
+        "link": "<https://www.todoip.com/wp-json/>; rel=\"https://api.w.org/\", <https://www.todoip.com/wp-json/wp/v2/categories/64>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\"",
+        "server": "LiteSpeed",
+        "transfer-encoding": "chunked",
+        "vary": "Accept-Encoding",
+        "x-litespeed-cache": "hit",
+        "x-powered-by": "PHP/8.1.34"
+      },
+      "file": "html/category__seguridad.html"
+    },
+    "/author/admin/": {
+      "path": "/author/admin/",
+      "status": 200,
+      "headers": {},
+      "file": "html/author__admin.html"
+    },
+    "/category/uncategorized/": {
+      "path": "/category/uncategorized/",
+      "status": 200,
+      "headers": {},
+      "file": "html/category__uncategorized.html"
+    }
+  },
+  "special": {
+    "404": {
+      "url": "https://www.todoip.com/esta-url-no-existe-clon-check/",
+      "status": 404,
+      "location": null,
+      "xRobotsTag": null,
+      "contentType": "text/html; charset=UTF-8"
+    },
+    "nonwww_home": {
+      "url": "https://todoip.com/",
+      "status": 301,
+      "location": "https://www.todoip.com/",
+      "xRobotsTag": null,
+      "contentType": "text/html; charset=UTF-8"
+    },
+    "nonwww_path": {
+      "url": "https://todoip.com/pbx-movil/",
+      "status": 301,
+      "location": "https://www.todoip.com/pbx-movil/",
+      "xRobotsTag": null,
+      "contentType": "text/html; charset=UTF-8"
+    },
+    "http_home": {
+      "url": "http://www.todoip.com/",
+      "status": 301,
+      "location": "https://www.todoip.com/",
+      "xRobotsTag": null,
+      "contentType": "text/html; charset=UTF-8"
+    },
+    "noslash:/bots/": {
+      "url": "https://www.todoip.com/bots",
+      "status": 301,
+      "location": "https://www.todoip.com/bots/",
+      "xRobotsTag": null,
+      "contentType": "text/html"
+    },
+    "noslash:/salud/": {
+      "url": "https://www.todoip.com/salud",
+      "status": 301,
+      "location": "https://www.todoip.com/salud/",
+      "xRobotsTag": null,
+      "contentType": "text/html"
+    },
+    "noslash:/cobranzas/": {
+      "url": "https://www.todoip.com/cobranzas",
+      "status": 301,
+      "location": "https://www.todoip.com/cobranzas/",
+      "xRobotsTag": null,
+      "contentType": "text/html"
+    },
+    "noslash:/turismo/": {
+      "url": "https://www.todoip.com/turismo",
+      "status": 301,
+      "location": "https://www.todoip.com/turismo/",
+      "xRobotsTag": null,
+      "contentType": "text/html"
+    },
+    "noslash:/aviso-de-privacidad/": {
+      "url": "https://www.todoip.com/aviso-de-privacidad",
+      "status": 301,
+      "location": "https://www.todoip.com/aviso-de-privacidad/",
+      "xRobotsTag": null,
+      "contentType": "text/html; charset=UTF-8"
+    },
+    "noslash:/registro-exitoso/": {
+      "url": "https://www.todoip.com/registro-exitoso",
+      "status": 301,
+      "location": "https://www.todoip.com/registro-exitoso/",
+      "xRobotsTag": null,
+      "contentType": "text/html; charset=UTF-8"
+    },
+    "noslash:/reportes-telefonia/": {
+      "url": "https://www.todoip.com/reportes-telefonia",
+      "status": 301,
+      "location": "https://www.todoip.com/reportes-telefonia/",
+      "xRobotsTag": null,
+      "contentType": "text/html; charset=UTF-8"
+    },
+    "noslash:/blog/": {
+      "url": "https://www.todoip.com/blog",
+      "status": 301,
+      "location": "https://www.todoip.com/blog/",
+      "xRobotsTag": null,
+      "contentType": "text/html; charset=UTF-8"
+    },
+    "noslash:/pbx-movil/": {
+      "url": "https://www.todoip.com/pbx-movil",
+      "status": 301,
+      "location": "https://www.todoip.com/pbx-movil/",
+      "xRobotsTag": null,
+      "contentType": "text/html; charset=UTF-8"
+    },
+    "noslash:/chatbots-con-ia-whatsapp/": {
+      "url": "https://www.todoip.com/chatbots-con-ia-whatsapp",
+      "status": 301,
+      "location": "https://www.todoip.com/chatbots-con-ia-whatsapp/",
+      "xRobotsTag": null,
+      "contentType": "text/html; charset=UTF-8"
+    },
+    "noslash:/telefoniaip/": {
+      "url": "https://www.todoip.com/telefoniaip",
+      "status": 301,
+      "location": "https://www.todoip.com/telefoniaip/",
+      "xRobotsTag": null,
+      "contentType": "text/html; charset=UTF-8"
+    },
+    "noslash:/agente-virtual-ivr/": {
+      "url": "https://www.todoip.com/agente-virtual-ivr",
+      "status": 301,
+      "location": "https://www.todoip.com/agente-virtual-ivr/",
+      "xRobotsTag": null,
+      "contentType": "text/html; charset=UTF-8"
+    },
+    "noslash:/lectura-inteligente-de-documentos/": {
+      "url": "https://www.todoip.com/lectura-inteligente-de-documentos",
+      "status": 301,
+      "location": "https://www.todoip.com/lectura-inteligente-de-documentos/",
+      "xRobotsTag": null,
+      "contentType": "text/html; charset=UTF-8"
+    },
+    "noslash:/agente-de-voz-con-ia-voicebot/": {
+      "url": "https://www.todoip.com/agente-de-voz-con-ia-voicebot",
+      "status": 301,
+      "location": "https://www.todoip.com/agente-de-voz-con-ia-voicebot/",
+      "xRobotsTag": null,
+      "contentType": "text/html; charset=UTF-8"
+    },
+    "noslash:/chatbots/": {
+      "url": "https://www.todoip.com/chatbots",
+      "status": 301,
+      "location": "https://www.todoip.com/chatbots/",
+      "xRobotsTag": null,
+      "contentType": "text/html; charset=UTF-8"
+    },
+    "noslash:/referidos/": {
+      "url": "https://www.todoip.com/referidos",
+      "status": 301,
+      "location": "https://www.todoip.com/referidos/",
+      "xRobotsTag": null,
+      "contentType": "text/html; charset=UTF-8"
+    },
+    "noslash:/calificador-leads/": {
+      "url": "https://www.todoip.com/calificador-leads",
+      "status": 301,
+      "location": "https://www.todoip.com/calificador-leads/",
+      "xRobotsTag": null,
+      "contentType": "text/html; charset=UTF-8"
+    },
+    "noslash:/agente-de-whatsapp-para-agencias-de-viajes-cotiza-rapido-y-no-pierdas-ventas-fuera-de-horario/": {
+      "url": "https://www.todoip.com/agente-de-whatsapp-para-agencias-de-viajes-cotiza-rapido-y-no-pierdas-ventas-fuera-de-horario",
+      "status": 301,
+      "location": "https://www.todoip.com/agente-de-whatsapp-para-agencias-de-viajes-cotiza-rapido-y-no-pierdas-ventas-fuera-de-horario/",
+      "xRobotsTag": null,
+      "contentType": "text/html; charset=UTF-8"
+    },
+    "noslash:/de-la-ventanilla-al-celular-como-digitalizar-el-ingreso-de-pacientes-sin-cambiar-de-sistema/": {
+      "url": "https://www.todoip.com/de-la-ventanilla-al-celular-como-digitalizar-el-ingreso-de-pacientes-sin-cambiar-de-sistema",
+      "status": 301,
+      "location": "https://www.todoip.com/de-la-ventanilla-al-celular-como-digitalizar-el-ingreso-de-pacientes-sin-cambiar-de-sistema/",
+      "xRobotsTag": null,
+      "contentType": "text/html; charset=UTF-8"
+    },
+    "noslash:/ciberataque-a-ifx-networks-que-podemos-aprender-de-este-incidente/": {
+      "url": "https://www.todoip.com/ciberataque-a-ifx-networks-que-podemos-aprender-de-este-incidente",
+      "status": 301,
+      "location": "https://www.todoip.com/ciberataque-a-ifx-networks-que-podemos-aprender-de-este-incidente/",
+      "xRobotsTag": null,
+      "contentType": "text/html; charset=UTF-8"
+    },
+    "noslash:/revolucionamos-la-comunicacion-omnicanal-lanzamiento-de-nuestras-nuevas-soluciones/": {
+      "url": "https://www.todoip.com/revolucionamos-la-comunicacion-omnicanal-lanzamiento-de-nuestras-nuevas-soluciones",
+      "status": 301,
+      "location": "https://www.todoip.com/revolucionamos-la-comunicacion-omnicanal-lanzamiento-de-nuestras-nuevas-soluciones/",
+      "xRobotsTag": null,
+      "contentType": "text/html; charset=UTF-8"
+    },
+    "noslash:/platzi-conf-2023/": {
+      "url": "https://www.todoip.com/platzi-conf-2023",
+      "status": 301,
+      "location": "https://www.todoip.com/platzi-conf-2023/",
+      "xRobotsTag": null,
+      "contentType": "text/html; charset=UTF-8"
+    },
+    "noslash:/se-vienen-las-redes-5g-esta-usted-preparado/": {
+      "url": "https://www.todoip.com/se-vienen-las-redes-5g-esta-usted-preparado",
+      "status": 301,
+      "location": "https://www.todoip.com/se-vienen-las-redes-5g-esta-usted-preparado/",
+      "xRobotsTag": null,
+      "contentType": "text/html; charset=UTF-8"
+    },
+    "noslash:/asistente-virtual-para-clinicas-asi-se-ve-el-fin-de-las-cotizaciones-lentas-por-whatsapp/": {
+      "url": "https://www.todoip.com/asistente-virtual-para-clinicas-asi-se-ve-el-fin-de-las-cotizaciones-lentas-por-whatsapp",
+      "status": 301,
+      "location": "https://www.todoip.com/asistente-virtual-para-clinicas-asi-se-ve-el-fin-de-las-cotizaciones-lentas-por-whatsapp/",
+      "xRobotsTag": null,
+      "contentType": "text/html; charset=UTF-8"
+    },
+    "noslash:/resolucion-256-como-cumplir-la-ley-sin-enloquecer-a-tu-equipo/": {
+      "url": "https://www.todoip.com/resolucion-256-como-cumplir-la-ley-sin-enloquecer-a-tu-equipo",
+      "status": 301,
+      "location": "https://www.todoip.com/resolucion-256-como-cumplir-la-ley-sin-enloquecer-a-tu-equipo/",
+      "xRobotsTag": null,
+      "contentType": "text/html; charset=UTF-8"
+    },
+    "noslash:/no-pierdas-oportunidades-de-venta-en-todoip-te-entregamos-leads-calificados-en-tiempo-record/": {
+      "url": "https://www.todoip.com/no-pierdas-oportunidades-de-venta-en-todoip-te-entregamos-leads-calificados-en-tiempo-record",
+      "status": 301,
+      "location": "https://www.todoip.com/no-pierdas-oportunidades-de-venta-en-todoip-te-entregamos-leads-calificados-en-tiempo-record/",
+      "xRobotsTag": null,
+      "contentType": "text/html; charset=UTF-8"
+    },
+    "noslash:/un-robot-que-trabaja-por-su-empresa-las-24-horas-los-7-dias-de-la-semana/": {
+      "url": "https://www.todoip.com/un-robot-que-trabaja-por-su-empresa-las-24-horas-los-7-dias-de-la-semana",
+      "status": 301,
+      "location": "https://www.todoip.com/un-robot-que-trabaja-por-su-empresa-las-24-horas-los-7-dias-de-la-semana/",
+      "xRobotsTag": null,
+      "contentType": "text/html; charset=UTF-8"
+    },
+    "noslash:/como-reducir-la-inasistencia-a-las-citas-medicas/": {
+      "url": "https://www.todoip.com/como-reducir-la-inasistencia-a-las-citas-medicas",
+      "status": 301,
+      "location": "https://www.todoip.com/como-reducir-la-inasistencia-a-las-citas-medicas/",
+      "xRobotsTag": null,
+      "contentType": "text/html; charset=UTF-8"
+    },
+    "noslash:/ventajas-de-tener-un-pbx-movil/": {
+      "url": "https://www.todoip.com/ventajas-de-tener-un-pbx-movil",
+      "status": 301,
+      "location": "https://www.todoip.com/ventajas-de-tener-un-pbx-movil/",
+      "xRobotsTag": null,
+      "contentType": "text/html; charset=UTF-8"
+    },
+    "noslash:/en-todoip-te-entregamos-leads-calificados-en-tiempo-record-aumenta-tus-ventas-con-nuestra-ayuda/": {
+      "url": "https://www.todoip.com/en-todoip-te-entregamos-leads-calificados-en-tiempo-record-aumenta-tus-ventas-con-nuestra-ayuda",
+      "status": 301,
+      "location": "https://www.todoip.com/en-todoip-te-entregamos-leads-calificados-en-tiempo-record-aumenta-tus-ventas-con-nuestra-ayuda/",
+      "xRobotsTag": null,
+      "contentType": "text/html; charset=UTF-8"
+    },
+    "noslash:/guia-completa-sobre-chatbots-para-whatsapp-business/": {
+      "url": "https://www.todoip.com/guia-completa-sobre-chatbots-para-whatsapp-business",
+      "status": 301,
+      "location": "https://www.todoip.com/guia-completa-sobre-chatbots-para-whatsapp-business/",
+      "xRobotsTag": null,
+      "contentType": "text/html; charset=UTF-8"
+    },
+    "noslash:/por-que-mi-numero-aparece-como-spam/": {
+      "url": "https://www.todoip.com/por-que-mi-numero-aparece-como-spam",
+      "status": 301,
+      "location": "https://www.todoip.com/por-que-mi-numero-aparece-como-spam/",
+      "xRobotsTag": null,
+      "contentType": "text/html; charset=UTF-8"
+    },
+    "noslash:/category/inteligencia-artificial/": {
+      "url": "https://www.todoip.com/category/inteligencia-artificial",
+      "status": 301,
+      "location": "https://www.todoip.com/category/inteligencia-artificial/",
+      "xRobotsTag": null,
+      "contentType": "text/html; charset=UTF-8"
+    },
+    "noslash:/category/analysis/": {
+      "url": "https://www.todoip.com/category/analysis",
+      "status": 301,
+      "location": "https://www.todoip.com/category/analysis/",
+      "xRobotsTag": null,
+      "contentType": "text/html; charset=UTF-8"
+    },
+    "noslash:/category/seguridad/": {
+      "url": "https://www.todoip.com/category/seguridad",
+      "status": 301,
+      "location": "https://www.todoip.com/category/seguridad/",
+      "xRobotsTag": null,
+      "contentType": "text/html; charset=UTF-8"
+    },
+    "file:/robots.txt": {
+      "url": "https://www.todoip.com/robots.txt",
+      "status": 200,
+      "location": null,
+      "contentType": "text/plain; charset=UTF-8"
+    },
+    "file:/llms.txt": {
+      "url": "https://www.todoip.com/llms.txt",
+      "status": 200,
+      "location": null,
+      "contentType": "text/plain; charset=UTF-8"
+    },
+    "file:/sitemap_index.xml": {
+      "url": "https://www.todoip.com/sitemap_index.xml",
+      "status": 200,
+      "location": null,
+      "xRobotsTag": "noindex",
+      "contentType": "text/xml; charset=UTF-8"
+    },
+    "file:/sitemap.xml": {
+      "url": "https://www.todoip.com/sitemap.xml",
+      "status": 301,
+      "location": "https://www.todoip.com/sitemap_index.xml",
+      "contentType": "text/html; charset=UTF-8"
+    },
+    "file:/page-sitemap.xml": {
+      "url": "https://www.todoip.com/page-sitemap.xml",
+      "status": 200,
+      "location": null,
+      "xRobotsTag": "noindex",
+      "contentType": "text/xml; charset=UTF-8"
+    },
+    "file:/post-sitemap.xml": {
+      "url": "https://www.todoip.com/post-sitemap.xml",
+      "status": 200,
+      "location": null,
+      "xRobotsTag": "noindex",
+      "contentType": "text/xml; charset=UTF-8"
+    },
+    "file:/category-sitemap.xml": {
+      "url": "https://www.todoip.com/category-sitemap.xml",
+      "status": 404,
+      "location": null,
+      "contentType": "text/html; charset=UTF-8"
+    },
+    "file:/main-sitemap.xsl": {
+      "url": "https://www.todoip.com/main-sitemap.xsl",
+      "status": 200,
+      "location": null,
+      "xRobotsTag": "noindex",
+      "contentType": "text/xml; charset=UTF-8"
+    },
+    "file:/feed/": {
+      "url": "https://www.todoip.com/feed/",
+      "status": 200,
+      "location": null,
+      "contentType": "application/rss+xml; charset=UTF-8"
+    },
+    "file:/favicon.ico": {
+      "url": "https://www.todoip.com/favicon.ico",
+      "status": 404,
+      "location": null,
+      "contentType": "text/html"
+    },
+    "file:/wp-sitemap.xml": {
+      "url": "https://www.todoip.com/wp-sitemap.xml",
+      "status": 301,
+      "location": "https://www.todoip.com/sitemap_index.xml",
+      "xRobotsTag": null,
+      "contentType": "text/html; charset=UTF-8"
+    },
+    "file:/author/admin/": {
+      "url": "https://www.todoip.com/author/admin/",
+      "status": 200,
+      "location": null,
+      "contentType": "text/html; charset=UTF-8"
+    },
+    "file:/category/uncategorized/": {
+      "url": "https://www.todoip.com/category/uncategorized/",
+      "status": 200,
+      "location": null,
+      "xRobotsTag": null,
+      "contentType": "text/html; charset=UTF-8"
+    },
+    "probe:/author/": {
+      "url": "https://www.todoip.com/author/",
+      "status": 404,
+      "location": null,
+      "xRobotsTag": null,
+      "contentType": "text/html; charset=UTF-8"
+    },
+    "probe:/page/2/": {
+      "url": "https://www.todoip.com/page/2/",
+      "status": 200,
+      "location": null,
+      "xRobotsTag": null,
+      "contentType": "text/html; charset=UTF-8"
+    },
+    "probe:/blog/page/2/": {
+      "url": "https://www.todoip.com/blog/page/2/",
+      "status": 200,
+      "location": null,
+      "xRobotsTag": null,
+      "contentType": "text/html; charset=UTF-8"
+    },
+    "probe:/?s=chatbot": {
+      "url": "https://www.todoip.com/?s=chatbot",
+      "status": 200,
+      "location": null,
+      "xRobotsTag": null,
+      "contentType": "text/html; charset=UTF-8"
+    },
+    "probe:/tag/whatsapp/": {
+      "url": "https://www.todoip.com/tag/whatsapp/",
+      "status": 404,
+      "location": null,
+      "xRobotsTag": null,
+      "contentType": "text/html; charset=UTF-8"
+    },
+    "probe:/comments/feed/": {
+      "url": "https://www.todoip.com/comments/feed/",
+      "status": 200,
+      "location": null,
+      "xRobotsTag": null,
+      "contentType": "application/rss+xml; charset=UTF-8"
+    },
+    "probe:/wp-sitemap.xml": {
+      "url": "https://www.todoip.com/wp-sitemap.xml",
+      "status": 301,
+      "location": "https://www.todoip.com/sitemap_index.xml",
+      "xRobotsTag": null,
+      "contentType": "text/html; charset=UTF-8"
+    }
+  },
+  "assets": {
+    "count": 415,
+    "failed": [
+      {
+        "url": "https://www.todoip.com/wp-content/uploads/2020/09/tabla-1.png",
+        "status": 404
+      },
+      {
+        "url": "https://www.todoip.com/wp-content/uploads/2020/09/tabla-2.png",
+        "status": 404
+      },
+      {
+        "url": "https://www.todoip.com/wp-content/uploads/2020/09/TABLA-4.png",
+        "status": 404
+      },
+      {
+        "url": "https://www.todoip.com/wp-content/uploads/2020/09/Tabla-3.png",
+        "status": 404
+      }
+    ]
+  },
+  "feeds": {
+    "/agente-de-whatsapp-para-agencias-de-viajes-cotiza-rapido-y-no-pierdas-ventas-fuera-de-horario/feed/": {
+      "status": 200,
+      "contentType": "application/rss+xml; charset=UTF-8",
+      "file": "feeds/agente-de-whatsapp-para-agencias-de-viajes-cotiza-rapido-y-no-pierdas-ventas-fuera-de-horario__feed.xml"
+    },
+    "/asistente-virtual-para-clinicas-asi-se-ve-el-fin-de-las-cotizaciones-lentas-por-whatsapp/feed/": {
+      "status": 200,
+      "contentType": "application/rss+xml; charset=UTF-8",
+      "file": "feeds/asistente-virtual-para-clinicas-asi-se-ve-el-fin-de-las-cotizaciones-lentas-por-whatsapp__feed.xml"
+    },
+    "/author/admin/feed/": {
+      "status": 200,
+      "contentType": "application/rss+xml; charset=UTF-8",
+      "file": "feeds/author__admin__feed.xml"
+    },
+    "/category/analysis/feed/": {
+      "status": 200,
+      "contentType": "application/rss+xml; charset=UTF-8",
+      "file": "feeds/category__analysis__feed.xml"
+    },
+    "/category/inteligencia-artificial/feed/": {
+      "status": 200,
+      "contentType": "application/rss+xml; charset=UTF-8",
+      "file": "feeds/category__inteligencia-artificial__feed.xml"
+    },
+    "/category/seguridad/feed/": {
+      "status": 200,
+      "contentType": "application/rss+xml; charset=UTF-8",
+      "file": "feeds/category__seguridad__feed.xml"
+    },
+    "/category/uncategorized/feed/": {
+      "status": 200,
+      "contentType": "application/rss+xml; charset=UTF-8",
+      "file": "feeds/category__uncategorized__feed.xml"
+    },
+    "/ciberataque-a-ifx-networks-que-podemos-aprender-de-este-incidente/feed/": {
+      "status": 200,
+      "contentType": "application/rss+xml; charset=UTF-8",
+      "file": "feeds/ciberataque-a-ifx-networks-que-podemos-aprender-de-este-incidente__feed.xml"
+    },
+    "/como-reducir-la-inasistencia-a-las-citas-medicas/feed/": {
+      "status": 200,
+      "contentType": "application/rss+xml; charset=UTF-8",
+      "file": "feeds/como-reducir-la-inasistencia-a-las-citas-medicas__feed.xml"
+    },
+    "/de-la-ventanilla-al-celular-como-digitalizar-el-ingreso-de-pacientes-sin-cambiar-de-sistema/feed/": {
+      "status": 200,
+      "contentType": "application/rss+xml; charset=UTF-8",
+      "file": "feeds/de-la-ventanilla-al-celular-como-digitalizar-el-ingreso-de-pacientes-sin-cambiar-de-sistema__feed.xml"
+    },
+    "/en-todoip-te-entregamos-leads-calificados-en-tiempo-record-aumenta-tus-ventas-con-nuestra-ayuda/feed/": {
+      "status": 200,
+      "contentType": "application/rss+xml; charset=UTF-8",
+      "file": "feeds/en-todoip-te-entregamos-leads-calificados-en-tiempo-record-aumenta-tus-ventas-con-nuestra-ayuda__feed.xml"
+    },
+    "/guia-completa-sobre-chatbots-para-whatsapp-business/feed/": {
+      "status": 200,
+      "contentType": "application/rss+xml; charset=UTF-8",
+      "file": "feeds/guia-completa-sobre-chatbots-para-whatsapp-business__feed.xml"
+    },
+    "/no-pierdas-oportunidades-de-venta-en-todoip-te-entregamos-leads-calificados-en-tiempo-record/feed/": {
+      "status": 200,
+      "contentType": "application/rss+xml; charset=UTF-8",
+      "file": "feeds/no-pierdas-oportunidades-de-venta-en-todoip-te-entregamos-leads-calificados-en-tiempo-record__feed.xml"
+    },
+    "/platzi-conf-2023/feed/": {
+      "status": 200,
+      "contentType": "application/rss+xml; charset=UTF-8",
+      "file": "feeds/platzi-conf-2023__feed.xml"
+    },
+    "/por-que-mi-numero-aparece-como-spam/feed/": {
+      "status": 200,
+      "contentType": "application/rss+xml; charset=UTF-8",
+      "file": "feeds/por-que-mi-numero-aparece-como-spam__feed.xml"
+    },
+    "/resolucion-256-como-cumplir-la-ley-sin-enloquecer-a-tu-equipo/feed/": {
+      "status": 200,
+      "contentType": "application/rss+xml; charset=UTF-8",
+      "file": "feeds/resolucion-256-como-cumplir-la-ley-sin-enloquecer-a-tu-equipo__feed.xml"
+    },
+    "/revolucionamos-la-comunicacion-omnicanal-lanzamiento-de-nuestras-nuevas-soluciones/feed/": {
+      "status": 200,
+      "contentType": "application/rss+xml; charset=UTF-8",
+      "file": "feeds/revolucionamos-la-comunicacion-omnicanal-lanzamiento-de-nuestras-nuevas-soluciones__feed.xml"
+    },
+    "/se-vienen-las-redes-5g-esta-usted-preparado/feed/": {
+      "status": 200,
+      "contentType": "application/rss+xml; charset=UTF-8",
+      "file": "feeds/se-vienen-las-redes-5g-esta-usted-preparado__feed.xml"
+    },
+    "/un-robot-que-trabaja-por-su-empresa-las-24-horas-los-7-dias-de-la-semana/feed/": {
+      "status": 200,
+      "contentType": "application/rss+xml; charset=UTF-8",
+      "file": "feeds/un-robot-que-trabaja-por-su-empresa-las-24-horas-los-7-dias-de-la-semana__feed.xml"
+    },
+    "/ventajas-de-tener-un-pbx-movil/feed/": {
+      "status": 200,
+      "contentType": "application/rss+xml; charset=UTF-8",
+      "file": "feeds/ventajas-de-tener-un-pbx-movil__feed.xml"
+    }
+  }
+}
