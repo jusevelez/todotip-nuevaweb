@@ -1,0 +1,101 @@
+/* ========================================
+   Egeiro Forms — Spinner & Messages
+   ======================================== */
+
+/* Spinner overlay */
+.egeiro-forms-spinner {
+    display: none;
+    position: absolute;
+    inset: 0;
+    background: rgba(255, 255, 255, 0.85);
+    backdrop-filter: blur(2px);
+    border-radius: inherit;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    gap: 12px;
+    z-index: 10;
+}
+
+.egeiro-forms-spinner.is-active {
+    display: flex;
+}
+
+.egeiro-forms-spinner__ring {
+    width: 40px;
+    height: 40px;
+    border: 3px solid #e2e8f0;
+    border-top-color: #0197B2;
+    border-radius: 50%;
+    animation: egeiro-spin 0.8s linear infinite;
+}
+
+.egeiro-forms-spinner__text {
+    font-size: 0.875rem;
+    color: #64748b;
+    font-weight: 500;
+}
+
+@keyframes egeiro-spin {
+    to { transform: rotate(360deg); }
+}
+
+/* Message */
+.egeiro-forms-message {
+    display: none;
+    align-items: center;
+    gap: 10px;
+    padding: 14px 16px;
+    border-radius: 10px;
+    font-size: 0.9rem;
+    font-weight: 500;
+    line-height: 1.4;
+    margin-top: 16px;
+    animation: egeiro-fade-in 0.3s ease;
+}
+
+.egeiro-forms-message.is-visible {
+    display: flex;
+}
+
+.egeiro-forms-message--success {
+    background: #dcfce7;
+    color: #166534;
+    border: 1px solid #bbf7d0;
+}
+
+.egeiro-forms-message--error {
+    background: #fee2e2;
+    color: #991b1b;
+    border: 1px solid #fecaca;
+}
+
+.egeiro-forms-message__icon {
+    width: 20px;
+    height: 20px;
+    flex-shrink: 0;
+}
+
+@keyframes egeiro-fade-in {
+    from { opacity: 0; transform: translateY(-6px); }
+    to   { opacity: 1; transform: translateY(0); }
+}
+
+/* Submit button disabled state */
+.egeiro-forms-submit:disabled {
+    opacity: 0.6;
+    cursor: not-allowed;
+}
+
+/* Position relative on form for spinner overlay */
+#egeiro-pqrs-form,
+#egeiro-trabaja-form {
+    position: relative;
+}
+
+/* File upload zone — selected state */
+.egeiro-cv-zone--selected {
+    border-color: #0197B2;
+    background-color: rgba(1, 151, 178, 0.05);
+    color: #0197B2;
+}

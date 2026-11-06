@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Seguridad &#8211; Todo IP</title>
+	<atom:link href="https://www.todoip.com/category/seguridad/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.todoip.com</link>
+	<description></description>
+	<lastBuildDate>Wed, 28 Oct 2026 15:55:49 +0000</lastBuildDate>
+	<language>es</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=7.1.4</generator>
+
+<image>
+	<url>https://www.todoip.com/wp-content/uploads/2024/11/cropped-cropped-Todoip-fav-32x32.webp</url>
+	<title>Seguridad &#8211; Todo IP</title>
+	<link>https://www.todoip.com</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Ciberataque a IFX Networks: ¿Qué podemos aprender de este incidente?</title>
+		<link>https://www.todoip.com/ciberataque-a-ifx-networks-que-podemos-aprender-de-este-incidente/</link>
+					<comments>https://www.todoip.com/ciberataque-a-ifx-networks-que-podemos-aprender-de-este-incidente/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Mon, 17 Jul 2023 15:10:48 +0000</pubDate>
+				<category><![CDATA[Seguridad]]></category>
+		<category><![CDATA[sin CTA]]></category>
+		<guid isPermaLink="false">https://beratung.vamtam.com/?p=7027</guid>
+
+					<description><![CDATA[El 12 de septiembre de 2023, IFX Networks sufrió un ciberataque ransomware que afectó a ministerios en Colombia y empresas en Chile y Argentina.]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="7027" class="elementor elementor-7027" data-elementor-post-type="post">
+						<section class="elementor-section elementor-top-section elementor-element elementor-element-2cbc948d elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="2cbc948d" data-element_type="section" data-e-type="section">
+						<div class="elementor-container elementor-column-gap-no">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-3a6412f9" data-id="3a6412f9" data-element_type="column" data-e-type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-be727d elementor-widget elementor-widget-text-editor" data-id="be727d" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
+									<p><span style="font-weight: 400;">El 12 de septiembre de 2023, IFX Networks, un proveedor de telecomunicaciones que ofrece servicios en la nube en gran parte de América Latina, sufrió un </span><a href="https://es.wikipedia.org/wiki/Ransomware" rel="nofollow noopener" target="_blank"><span style="font-weight: 400;">ciberataque ransomware</span></a><span style="font-weight: 400;"> que afectó el funcionamiento de ministerios en Colombia y empresas de Chile. El ataque también alcanzó a un grupo de pymes y empresas grandes de Argentina que contrataban los servicios de IFX para atender a sus clientes.</span></p><h4><strong>Impacto en Colombia, Chile y Argentina</strong></h4><p><span style="font-weight: 400;">En Colombia se habla de cerca de 65 entidades con sus sistemas caídos, desde superintendencias y ministerios hasta el Consejo Superior de la Judicatura, el órgano que administra la Justicia en el país. En Chile, sitios como Mercado Público y Chile Compra (páginas de ecommerce como Mercado Libre), siguen caídos hasta el momento de publicación de esta nota. </span><a href="https://www.clarin.com/tecnologia/ifx-networks-ciberataque-multinacional-afecta-pymes-grandes-empresas-argentinas_0_73JfZR8VLr.html" rel="nofollow noopener" target="_blank"><span style="font-weight: 400;">Y en Argentina, diversas pymes y empresas más grandes están teniendo problemas para operar por este ransomware que entró a los sistemas de IFX </span></a></p><p><a href="https://www.clarin.com/tecnologia/ifx-networks-ciberataque-multinacional-afecta-pymes-grandes-empresas-argentinas_0_73JfZR8VLr.html" rel="nofollow noopener" target="_blank"><span style="font-weight: 400;">El Gobierno colombiano demandará</span></a><span style="font-weight: 400;"> a la compañía porque tuvo que suspender los sistemas en ministerios y la Justicia . </span><a href="https://tn.com.ar/tecno/novedades/2023/09/21/hackeo-a-ifx-networks-ya-hay-empresas-argentinas-afectadas-que-no-pueden-operar-por-culpa-del-ciberataque/" rel="nofollow noopener" target="_blank"><span style="font-weight: 400;">Según TN Tecno</span></a><span style="font-weight: 400;">, aunque no se denunciaron pérdidas o secuestro de datos, el virus que atacó los sistemas de IFX provocaron desperfectos en el funcionamiento y las operaciones en la nube de una importante cantidad de firmas del país .</span></p><h4><strong>Consejos de Seguridad Cibernética para Prevenir Ataques</strong></h4><p><span style="font-weight: 400;">Para evitar la pérdida de datos empresariales, recuerde también hacer copias de seguridad. No dependa solo del proveedor y almacene su información en la nube y en un disco duro externo sin conexión a Internet. Así mismo:</span></p><ol><li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Mantenga su software actualizado y use contraseñas seguras.</span></li><li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Verifique los enlaces, páginas web y perfiles sociales antes de hacer clic en ellos.</span></li><li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">No abra archivos adjuntos sospechosos o descargue software de sitios web no confiables.</span></li><li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Proteja el acceso al almacenamiento en la nube con una contraseña segura y autenticación de dos factores.</span></li></ol><p><span style="font-weight: 400;">Recuerde que la seguridad cibernética es una tarea continua y que estas medidas pueden ayudar a reducir el riesgo de un ataque, pero no garantizan una protección completa.</span></p>								</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				</div>
+		]]></content:encoded>
+					
+					<wfw:commentRss>https://www.todoip.com/ciberataque-a-ifx-networks-que-podemos-aprender-de-este-incidente/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

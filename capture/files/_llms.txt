@@ -1,0 +1,36 @@
+# TodoIP - Telefonía IP, PBX en la Nube y Chatbots con IA
+
+> Desarrollamos soluciones tecnológicas a la medida para mejorar el servicio al cliente
+
+## ¿Quiénes somos?
+
+TodoIP es una empresa colombiana especializada en soluciones de comunicación empresarial y automatización con inteligencia artificial. Ofrecemos telefonía IP, PBX en la nube, chatbots con IA y agentes de voz inteligentes para empresas que buscan optimizar su atención al cliente.
+
+## Contacto
+
+- WhatsApp: +57 300 912 2820
+- Teléfono: +57 (602) 524 4008
+- Email: info@todoip.com
+- Sitio web: https://www.todoip.com
+
+## Soluciones principales
+
+- [Chatbots con IA & WhatsApp](https://www.todoip.com/bots): Automatiza conversaciones en WhatsApp con IA que entiende texto y audios, se conecta a tu CRM, inventario, agenda y pasarelas de pago, y resuelve procesos completos con desborde a un asesor humano.
+- [TodoIP Salud](https://www.todoip.com/salud): IA para clínicas, IPS y hospitales: agendamiento, cotizador 24/7 de procedimientos particulares, entrega de resultados médicos por WhatsApp y recordatorios para reducir inasistencias.
+- [TodoIP Cobranzas](https://www.todoip.com/cobranzas): Cobranza masiva por WhatsApp: consulta de saldos 24/7, llamadas de voz por WhatsApp, links de pago (Wompi, Mercado Pago) y acuerdos de pago.
+- [TodoIP Turismo](https://www.todoip.com/turismo): IA para agencias de viajes y hoteles: disponibilidad en tiempo real, filtrado de prospectos y reserva con pago en el mismo chat.
+- PBX Móvil en la Nube: extensión telefónica empresarial en la nube.
+- Agente de Voz con IA (Voicebot): contesta, gestiona trámites y analiza conversaciones por voz.
+- Portal de Autogestión Telefónica: integra telefonía y datos para respuestas en tiempo real.
+- Troncales y Telefonía IP: conectividad empresarial y numeración.
+
+## Integraciones
+
+- CRM/ERP: HubSpot, Zoho, Salesforce
+- Calendarios: Google Calendar, Outlook
+- Pasarelas de pago: Wompi, Mercado Pago
+- WhatsApp Business API
+
+## Ubicación
+
+Colombia (operación nacional)

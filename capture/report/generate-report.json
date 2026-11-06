@@ -1,0 +1,291 @@
+{
+  "dropped": {
+    "input[oninvalid]": 7,
+    "input[onchange]": 7,
+    "input[onclick]": 6,
+    "noscript": 4
+  },
+  "droppedScripts": {
+    "\ndocument.addEventListener('DOMContentLoaded', function () {\n    // Find all forms with class name \"dd-ele-form\"\n    var forms = document.querySelectorAll('.dd-": 1,
+    "\ndocument.addEventListener('DOMContentLoaded', function () {\n    // Detectar cuando se muestra el mensaje de error\n    const observer = new MutationObserver(fun": 1,
+    "\n\tfunction getQueryVariable(variable) {\n\t   var query = window.location.search.substring(1);\n\t   var vars = query.split(\"&\");\n\t   for (var i=0; i < vars.length;": 1,
+    "if(void 0===clearValidity){function clearValidity(i){console.log(jQuery(i)); jQuery(i).closest(\".elementor-field-subgroup\").find(\".elementor-field-option input\"": 1
+  },
+  "headDropped": {
+    "link rel=profile https://gmpg.org/xfn…": 1,
+    "link alternate application/json+oembed https://www.todoip.com/wp-json/oembed/1.0/embed?…": 1,
+    "link alternate text/xml+oembed https://www.todoip.com/wp-json/oembed/1.0/embed?…&format=xml": 1,
+    "script jquery-core-js https://www.todoip.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1": 35,
+    "script jquery-migrate-js https://www.todoip.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1": 35,
+    "script pafe-extension-js https://www.todoip.com/wp-content/plugins/piotnet-addons-for-elementor-pro/assets/js/minify/extension.min.js?ver=7.1.74": 35,
+    "script google_gtagjs-js https://www.googletagmanager.com/gtag/js?id=GT-55JLXX5H": 35,
+    "script google_gtagjs-js-after window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(argumen": 35,
+    "link rel=https://api.w.org/ https://www.todoip.com/wp-json/": 35,
+    "link alternate application/json https://www.todoip.com/wp-json/wp/v2/pages…": 1,
+    "link rel=edituri https://www.todoip.com/xmlrpc.php?rsd": 35,
+    "meta generator=WordPress 7.1.4": 35,
+    "link rel=shortlink https://www.todoip.com/": 1,
+    "meta generator=Site Kit by Google 1.187.0": 35,
+    "meta generator=Elementor 4.2.4; features: e_font_icon_svg, additional_custom_breakpoints; settings: css_print_method-external, google_font-enabled, font_display-swap": 35,
+    "script  https://www.googletagmanager.com/gtag/js?id=G-D2PT7HZGP2": 35,
+    "script  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(argu": 35,
+    "script  (function(h,o,t,j,a,r){\n        h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(a": 35,
+    "link rel=shortlink https://www.todoip.com/?p=990284": 1,
+    "link rel=shortlink https://www.todoip.com/?p=990112": 1,
+    "link rel=shortlink https://www.todoip.com/?p=989144": 1,
+    "link rel=shortlink https://www.todoip.com/?p=990595": 1,
+    "link rel=shortlink https://www.todoip.com/?p=6953": 1,
+    "link rel=shortlink https://www.todoip.com/?p=991054": 1,
+    "link rel=shortlink https://www.todoip.com/?p=988518": 1,
+    "link rel=shortlink https://www.todoip.com/?p=988424": 1,
+    "link rel=shortlink https://www.todoip.com/?p=991056": 1,
+    "link rel=shortlink https://www.todoip.com/?p=991058": 1,
+    "link rel=shortlink https://www.todoip.com/?p=988681": 1,
+    "script pafe-form-builder-js https://www.todoip.com/wp-content/plugins/piotnet-addons-for-elementor-pro/assets/js/minify/form-builder.min.js?ver=7.1.74": 1,
+    "link rel=shortlink https://www.todoip.com/?p=990097": 1,
+    "link rel=shortlink https://www.todoip.com/?p=988734": 1,
+    "link alternate application/json https://www.todoip.com/wp-json/wp/v2/posts…": 1,
+    "link rel=shortlink https://www.todoip.com/?p=991865": 1,
+    "link rel=shortlink https://www.todoip.com/?p=991860": 1,
+    "link rel=shortlink https://www.todoip.com/?p=7027": 1,
+    "link rel=shortlink https://www.todoip.com/?p=990687": 1,
+    "link rel=shortlink https://www.todoip.com/?p=990703": 1,
+    "link rel=shortlink https://www.todoip.com/?p=990730": 1,
+    "link rel=shortlink https://www.todoip.com/?p=991831": 1,
+    "link rel=shortlink https://www.todoip.com/?p=991840": 1,
+    "link rel=shortlink https://www.todoip.com/?p=7023": 1,
+    "link rel=shortlink https://www.todoip.com/?p=7025": 1,
+    "link rel=shortlink https://www.todoip.com/?p=990661": 1,
+    "link rel=shortlink https://www.todoip.com/?p=990697": 1,
+    "link rel=shortlink https://www.todoip.com/?p=990741": 1,
+    "link rel=shortlink https://www.todoip.com/?p=990759": 1,
+    "link rel=shortlink https://www.todoip.com/?p=990899": 1,
+    "link alternate application/json https://www.todoip.com/wp-json/wp/v2/categories…": 1,
+    "link alternate application/json https://www.todoip.com/wp-json/wp/v2/users…": 1
+  },
+  "pages": {
+    "/": {
+      "slug": "home",
+      "title": "TodoIP | Telefonía IP, PBX en la Nube y Chatbots con IA",
+      "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    "/aviso-de-privacidad/": {
+      "slug": "aviso-de-privacidad",
+      "title": "Política de datos | Todo IP",
+      "robots": "follow, noindex"
+    },
+    "/registro-exitoso/": {
+      "slug": "registro-exitoso",
+      "title": "PRUEBA CLAUDE - Registro Exitoso",
+      "robots": "nofollow, noindex"
+    },
+    "/reportes-telefonia/": {
+      "slug": "reportes-telefonia",
+      "title": "Reportes Telefonía | Todo IP",
+      "robots": "nofollow, noindex"
+    },
+    "/blog/": {
+      "slug": "blog",
+      "title": "Nuestro blog | Todo IP",
+      "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    "/pbx-movil/": {
+      "slug": "pbx-movil",
+      "title": "PBX Móvil | Central Telefónica en tu Celular | TodoIP",
+      "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    "/chatbots-con-ia-whatsapp/": {
+      "slug": "chatbots-con-ia-whatsapp",
+      "title": "Chatbots con IA & WhatsApp | TodoIP",
+      "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    "/telefoniaip/": {
+      "slug": "telefoniaip",
+      "title": "Telefonía IP para Empresas en Colombia | TodoIP",
+      "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    "/agente-virtual-ivr/": {
+      "slug": "agente-virtual-ivr",
+      "title": "Agente Virtual IVR Transaccional | TodoIP",
+      "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    "/lectura-inteligente-de-documentos/": {
+      "slug": "lectura-inteligente-de-documentos",
+      "title": "Lectura Inteligente de Documentos con IA | TodoIP",
+      "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    "/agente-de-voz-con-ia-voicebot/": {
+      "slug": "agente-de-voz-con-ia-voicebot",
+      "title": "Agente de Voz con IA (Voicebot) | TodoIP",
+      "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    "/chatbots/": {
+      "slug": "chatbots",
+      "title": "Chatbots con Inteligencia Artificial | TodoIP",
+      "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    "/referidos/": {
+      "slug": "referidos",
+      "title": "Referidos | Todo IP",
+      "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    "/calificador-leads/": {
+      "slug": "calificador-leads",
+      "title": "Calificador de Leads con IA | TodoIP",
+      "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    "/agente-de-whatsapp-para-agencias-de-viajes-cotiza-rapido-y-no-pierdas-ventas-fuera-de-horario/": {
+      "slug": "agente-de-whatsapp-para-agencias-de-viajes-cotiza-rapido-y-no-pierdas-ventas-fuera-de-horario",
+      "title": "Agente de WhatsApp para agencias de viajes con IA | TodoIP",
+      "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    "/de-la-ventanilla-al-celular-como-digitalizar-el-ingreso-de-pacientes-sin-cambiar-de-sistema/": {
+      "slug": "de-la-ventanilla-al-celular-como-digitalizar-el-ingreso-de-pacientes-sin-cambiar-de-sistema",
+      "title": "Cómo digitalizar el ingreso de pacientes sin cambiar de sistema | TodoIP",
+      "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    "/ciberataque-a-ifx-networks-que-podemos-aprender-de-este-incidente/": {
+      "slug": "ciberataque-a-ifx-networks-que-podemos-aprender-de-este-incidente",
+      "title": "Ciberataque a IFX Networks: ¿Qué podemos aprender de este incidente? | Todo IP",
+      "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    "/revolucionamos-la-comunicacion-omnicanal-lanzamiento-de-nuestras-nuevas-soluciones/": {
+      "slug": "revolucionamos-la-comunicacion-omnicanal-lanzamiento-de-nuestras-nuevas-soluciones",
+      "title": "Revolucionamos la comunicación omnicanal: lanzamiento de nuestras nuevas soluciones. | Todo IP",
+      "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    "/platzi-conf-2023/": {
+      "slug": "platzi-conf-2023",
+      "title": "¡Platzi Conf 2023: Un viaje a través de la Inteligencia Artificial! 🚀💡 | Todo IP",
+      "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    "/se-vienen-las-redes-5g-esta-usted-preparado/": {
+      "slug": "se-vienen-las-redes-5g-esta-usted-preparado",
+      "title": "Se vienen las redes 5G ¿Está usted preparado? | Todo IP",
+      "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    "/asistente-virtual-para-clinicas-asi-se-ve-el-fin-de-las-cotizaciones-lentas-por-whatsapp/": {
+      "slug": "asistente-virtual-para-clinicas-asi-se-ve-el-fin-de-las-cotizaciones-lentas-por-whatsapp",
+      "title": "Asistente Virtual para Clínicas: Cotizador con IA por WhatsApp | TodoIP",
+      "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    "/resolucion-256-como-cumplir-la-ley-sin-enloquecer-a-tu-equipo/": {
+      "slug": "resolucion-256-como-cumplir-la-ley-sin-enloquecer-a-tu-equipo",
+      "title": "Resolución 256: Software de Call Center para Salud sin Cambiar tu PBX | TodoIP",
+      "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    "/no-pierdas-oportunidades-de-venta-en-todoip-te-entregamos-leads-calificados-en-tiempo-record/": {
+      "slug": "no-pierdas-oportunidades-de-venta-en-todoip-te-entregamos-leads-calificados-en-tiempo-record",
+      "title": "No pierdas oportunidades de venta: En TodoIP te entregamos leads calificados en tiempo record | Todo IP",
+      "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    "/un-robot-que-trabaja-por-su-empresa-las-24-horas-los-7-dias-de-la-semana/": {
+      "slug": "un-robot-que-trabaja-por-su-empresa-las-24-horas-los-7-dias-de-la-semana",
+      "title": "Un Robot que trabaja por su empresa las 24 horas, los 7 días de la semana. | Todo IP",
+      "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    "/como-reducir-la-inasistencia-a-las-citas-medicas/": {
+      "slug": "como-reducir-la-inasistencia-a-las-citas-medicas",
+      "title": "¿Cómo reducir la inasistencia a las citas médicas? | Todo IP",
+      "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    "/ventajas-de-tener-un-pbx-movil/": {
+      "slug": "ventajas-de-tener-un-pbx-movil",
+      "title": "Ventajas de tener un PBX Móvil en su empresa | Todo IP",
+      "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    "/en-todoip-te-entregamos-leads-calificados-en-tiempo-record-aumenta-tus-ventas-con-nuestra-ayuda/": {
+      "slug": "en-todoip-te-entregamos-leads-calificados-en-tiempo-record-aumenta-tus-ventas-con-nuestra-ayuda",
+      "title": "En TodoIP te entregamos leads calificados en tiempo récord aumenta tus ventas con nuestra ayuda. | Todo IP",
+      "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    "/guia-completa-sobre-chatbots-para-whatsapp-business/": {
+      "slug": "guia-completa-sobre-chatbots-para-whatsapp-business",
+      "title": "Guía completa sobre chatbots para WhatsApp Business  | Todo IP",
+      "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    "/por-que-mi-numero-aparece-como-spam/": {
+      "slug": "por-que-mi-numero-aparece-como-spam",
+      "title": "¿Por qué mi número aparece como spam? | Todo IP",
+      "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    "/category/inteligencia-artificial/": {
+      "slug": "category--inteligencia-artificial",
+      "title": "Inteligencia Artificial | Todo IP",
+      "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    "/category/analysis/": {
+      "slug": "category--analysis",
+      "title": "Omnicanal | Todo IP",
+      "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    "/category/seguridad/": {
+      "slug": "category--seguridad",
+      "title": "Seguridad | Todo IP",
+      "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    "/author/admin/": {
+      "slug": "author--admin",
+      "title": "admin | Todo IP",
+      "robots": "follow, noindex"
+    },
+    "/category/uncategorized/": {
+      "slug": "category--uncategorized",
+      "title": "Uncategorized | Todo IP",
+      "robots": "follow, noindex"
+    },
+    "__404": {
+      "slug": "not-found",
+      "title": "Page Not Found | Todo IP",
+      "robots": "follow, noindex"
+    },
+    "/bots/": {
+      "slug": "bots",
+      "title": "Chatbots con IA & WhatsApp | TodoIP",
+      "robots": "noindex, follow",
+      "landing": true,
+      "droppedScripts": [
+        "\ndocument.addEventListener(\"DOMContentLoaded\", function () {\n    var widget = document.querySelector(\".wa-widget\");\n    if (!widget) return;\n    var fab = widge"
+      ],
+      "headDropped": [
+        "script  (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':\nnew Date().getTime(),"
+      ]
+    },
+    "/salud/": {
+      "slug": "salud",
+      "title": "TodoIP Salud | IA para Clínicas, IPS y Hospitales",
+      "robots": "noindex, follow",
+      "landing": true,
+      "droppedScripts": [
+        "\ndocument.addEventListener(\"DOMContentLoaded\", function () {\n    var widget = document.querySelector(\".wa-widget\");\n    if (!widget) return;\n    var fab = widge"
+      ],
+      "headDropped": [
+        "script  (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':\nnew Date().getTime(),"
+      ]
+    },
+    "/cobranzas/": {
+      "slug": "cobranzas",
+      "title": "TodoIP Cobranzas | Arquitectura de Recaudo con IA",
+      "robots": "noindex, follow",
+      "landing": true,
+      "droppedScripts": [
+        "\ndocument.addEventListener(\"DOMContentLoaded\", function () {\n    var widget = document.querySelector(\".wa-widget\");\n    if (!widget) return;\n    var fab = widge"
+      ],
+      "headDropped": [
+        "script  (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':\nnew Date().getTime(),"
+      ]
+    },
+    "/turismo/": {
+      "slug": "turismo",
+      "title": "TodoIP Turismo | IA para Agencias de Viajes y Hotelería",
+      "robots": "noindex, follow",
+      "landing": true,
+      "droppedScripts": [
+        "\ndocument.addEventListener(\"DOMContentLoaded\", function () {\n    var widget = document.querySelector(\".wa-widget\");\n    if (!widget) return;\n    var fab = widge"
+      ],
+      "headDropped": [
+        "script  (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':\nnew Date().getTime(),"
+      ]
+    }
+  }
+}
