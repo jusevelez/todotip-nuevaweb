@@ -7,6 +7,7 @@ import {
   initAnimatedHeadlines,
   initBodyClasses,
   initCounters,
+  initEmoji,
   initEntranceAnimations,
   initFab,
   initHomeFormTweaks,
@@ -25,7 +26,8 @@ import {
  * Re-implements, without jQuery/WordPress, the front-end behaviour that
  * Elementor, Elementor Pro and the site plugins add on top of the server HTML
  * (sticky header, mega menu, entrance animations, motion effects, lazy
- * backgrounds, tabs, counters, animated headline, popups, videos, WhatsApp FAB).
+ * backgrounds, tabs, counters, animated headline, popups, videos, WhatsApp FAB,
+ * WordPress emoji fallback).
  */
 export default function ElementorRuntime() {
   const pathname = usePathname();
@@ -47,6 +49,7 @@ export default function ElementorRuntime() {
       initProductsCatalog(),
       initHomeFormTweaks(),
       installFormGuard(),
+      initEmoji(),
     ];
     return () => cleanups.forEach((c) => c?.());
   }, [pathname]);
