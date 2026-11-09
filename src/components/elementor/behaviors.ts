@@ -38,17 +38,144 @@ function deviceValue<T>(s: Settings, key: string): T | undefined {
 }
 
 // ---------------------------------------------------------------- body classes
+// Same detection as Elementor's frontend utils/environment.js; every truthy key
+// becomes an `e--ua-<key>` body class (e.g. e--ua-appleWebkit loads apple-webkit.min.css rules).
 export function initBodyClasses(): Cleanup {
   const ua = navigator.userAgent;
-  const classes: string[] = [];
-  if ("ontouchstart" in window || navigator.maxTouchPoints > 0) classes.push("e--ua-isTouchDevice");
-  if (/Firefox\//.test(ua)) classes.push("e--ua-firefox");
-  else if (/Edg\//.test(ua)) classes.push("e--ua-edge", "e--ua-blink", "e--ua-webkit");
-  else if (/Chrome\//.test(ua)) classes.push("e--ua-blink", "e--ua-chrome", "e--ua-webkit");
-  else if (/Safari\//.test(ua)) classes.push("e--ua-safari", "e--ua-webkit");
+  const w = window as unknown as Record<string, unknown> & { opr?: { addons?: unknown }; safari?: { pushNotification?: unknown } };
+  const has = (s: string) => ua.indexOf(s) >= 0;
+  const isTouchDevice = "ontouchstart" in window || navigator.maxTouchPoints > 0;
+  const opera = (!!w.opr && !!w.opr.addons) || !!w.opera || has(" OPR/");
+  const firefox = has("Firefox");
+  const safari =
+    /^((?!chrome|android).)*safari/i.test(ua) ||
+    /constructor/i.test(String(w.HTMLElement)) ||
+    String(!w.safari || w.safari.pushNotification) === "[object SafariRemoteNotification]";
+  const ie = /Trident|MSIE/.test(ua) && "documentMode" in document;
+  const edge = (!ie && !!w.StyleMedia) || has("Edg");
+  const chrome = !!w.chrome && has("Chrome") && !(edge || opera);
+  const blink = (chrome || opera) && !!window.CSS;
+  const env: Record<string, boolean> = {
+    isTouchDevice,
+    appleWebkit: has("AppleWebKit") && !blink,
+    blink,
+    chrome,
+    edge,
+    firefox,
+    ie,
+    mac: has("Macintosh"),
+    opera,
+    safari,
+    webkit: has("AppleWebKit"),
+  };
+  const classes = Object.keys(env).filter((k) => env[k]).map((k) => `e--ua-${k}`);
   classes.push("dialog-body", "dialog-lightbox-body", "dialog-container", "dialog-lightbox-container");
   document.body.classList.add(...classes);
   return () => document.body.classList.remove(...classes);
+}
+
+// ------------------------------------------------------------- WordPress emoji
+// Live loads wp-emoji-loader (WP 7.1.4): a canvas test decides whether the browser
+// draws emoji; if not, wp-emoji/twemoji swap each emoji for an <img class="emoji">
+// from s.w.org (styled 1em by the wp-emoji-styles inline CSS already in the page).
+const EMOJI_SVG = "https://s.w.org/images/core/emoji/17.0.2/svg/";
+const EMOJI_CACHE = "wpEmojiSettingsSupports";
+const EMOJI_RE = new RegExp(
+  "\\p{Regional_Indicator}\\p{Regional_Indicator}|[#*0-9]\\uFE0F?\\u20E3|" +
+    "\\p{Extended_Pictographic}(?:\\uFE0F|\\p{Emoji_Modifier})?[\\u{E0020}-\\u{E007E}]*\\u{E007F}?" +
+    "(?:\\u200D\\p{Extended_Pictographic}(?:\\uFE0F|\\p{Emoji_Modifier})?)*",
+  "gu",
+);
+
+function emojiSupports(): Record<string, boolean> {
+  try {
+    const c = JSON.parse(sessionStorage.getItem(EMOJI_CACHE) || "null");
+    if (c && typeof c.timestamp === "number" && Date.now() < c.timestamp + 604800 && typeof c.supportTests === "object") return c.supportTests;
+  } catch {}
+  // Verbatim logic of the live loader's tests (main-thread canvas path).
+  const ctx = document.createElement("canvas").getContext("2d", { willReadFrequently: true })!;
+  ctx.textBaseline = "top";
+  ctx.font = "600 32px Arial";
+  const pixels = (t: string) => {
+    ctx.clearRect(0, 0, ctx.canvas.width, ctx.canvas.height);
+    ctx.fillText(t, 0, 0);
+    return new Uint32Array(ctx.getImageData(0, 0, ctx.canvas.width, ctx.canvas.height).data);
+  };
+  const same = (a: string, b: string) => {
+    const x = pixels(a);
+    const y = pixels(b);
+    return x.every((v, i) => v === y[i]);
+  };
+  const blank = (t: string) => {
+    ctx.clearRect(0, 0, ctx.canvas.width, ctx.canvas.height);
+    ctx.fillText(t, 0, 0);
+    return ctx.getImageData(16, 16, 1, 1).data.every((v) => v === 0);
+  };
+  const tests = {
+    flag: same("🏳️‍⚧️", "🏳️​⚧️")
+      ? false
+      : !same("🇨🇶", "🇨​🇶") &&
+        !same(
+          "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+          "🏴​󠁧​󠁢​󠁥​󠁮​󠁧​󠁿",
+        ),
+    emoji: !blank("\ud83eᾬ8"),
+  };
+  try {
+    sessionStorage.setItem(EMOJI_CACHE, JSON.stringify({ supportTests: tests, timestamp: Date.now() }));
+  } catch {}
+  return tests;
+}
+
+export function initEmoji(): Cleanup {
+  const tests = emojiSupports();
+  if (tests.flag && tests.emoji) return () => {};
+  const onlyFlags = tests.emoji; // wp-emoji's supports.everythingExceptFlag
+  const iconOf = (raw: string) =>
+    [...(raw.indexOf("‍") < 0 ? raw.replace(/️/g, "") : raw)].map((ch) => ch.codePointAt(0)!.toString(16)).join("-");
+  const wanted = (icon: string) => {
+    if (/^(?:a9|ae|2122|2194|2660|2663|2665|2666)$/.test(icon)) return false;
+    if (onlyFlags && !/^1f1(?:e[6-9a-f]|f[0-9a-f])-1f1(?:e[6-9a-f]|f[0-9a-f])$/.test(icon) && !/^(1f3f3-fe0f-200d-1f308|1f3f4-200d-2620-fe0f)$/.test(icon)) return false;
+    return true;
+  };
+  const skip = (el: Element | null) =>
+    !el || !!el.closest("iframe,noframes,noscript,script,select,style,textarea,[contenteditable=true],.wp-exclude-emoji");
+  const parseText = (node: Text) => {
+    const text = node.data;
+    EMOJI_RE.lastIndex = 0;
+    if (!EMOJI_RE.test(text) || skip(node.parentElement)) return;
+    EMOJI_RE.lastIndex = 0;
+    const parts: (string | HTMLImageElement)[] = [];
+    let last = 0;
+    for (const m of text.matchAll(EMOJI_RE)) {
+      const icon = iconOf(m[0]);
+      if (!wanted(icon)) continue;
+      parts.push(text.slice(last, m.index));
+      const img = new Image();
+      img.setAttribute("draggable", "false");
+      img.setAttribute("role", "img");
+      img.className = "emoji";
+      img.alt = m[0];
+      img.src = `${EMOJI_SVG}${icon}.svg`;
+      parts.push(img);
+      last = m.index! + m[0].length;
+    }
+    if (!last) return;
+    // Keep React's text node in place (trimmed) and insert the rest after it.
+    node.data = parts.shift() as string;
+    node.after(...parts, text.slice(last));
+  };
+  const parse = (root: Node) => {
+    if (root.nodeType === Node.TEXT_NODE) return parseText(root as Text);
+    const walker = document.createTreeWalker(root, NodeFilter.SHOW_TEXT);
+    const nodes: Text[] = [];
+    while (walker.nextNode()) nodes.push(walker.currentNode as Text);
+    nodes.forEach(parseText);
+  };
+  parse(document.body);
+  const mo = new MutationObserver((records) => records.forEach((r) => r.addedNodes.forEach(parse)));
+  mo.observe(document.body, { childList: true, subtree: true });
+  return () => mo.disconnect();
 }
 
 // ------------------------------------------------- Elementor lazy backgrounds
