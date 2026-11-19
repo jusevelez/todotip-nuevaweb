@@ -20,8 +20,8 @@ Infraestructura de Telefonía IP en la nube (o servidores físicos para desplieg
 
 - [PBX Móvil y Cloud](https://www.todoip.com/pbx-movil/): extensiones telefónicas empresariales en la nube con movilidad total mediante softphones o teléfonos IP. Incluye grabación centralizada y métricas en tiempo real. Números móviles o fijos de las principales ciudades de Colombia.
 - [Agente de Voz con IA (Voicebot)](https://www.todoip.com/agente-de-voz-con-ia-voicebot/): operador virtual transaccional que contesta llamadas, gestiona trámites masivos, analiza conversaciones por voz y se conecta a bases de datos sin intervención humana.
-- [Agente Virtual y Soluciones IVR](https://www.todoip.com/agente-virtual-ivr/): sistema telefónico automatizado para asignación de citas, consulta de saldos y más. Resuelve requerimientos 24/7 y hace desborde inteligente hacia asesores humanos.
-- [Telefonía IP para Call Center](https://www.todoip.com/telefoniaip/): troncales SIP, numeración oficial, reportes, auditoría de grabaciones y medición de niveles de servicio (SLA). Incluye el Portal de Autogestión Telefónica para consultar reportes y grabaciones.
+- [Portal de Autogestión Telefónica y Agente Virtual IVR](https://www.todoip.com/agente-virtual-ivr/): sistema telefónico automatizado para asignación de citas, consulta de saldos y más, con desborde inteligente hacia asesores humanos. Incluye el panel web para consultar reportes y grabaciones de llamadas en tiempo real.
+- [Telefonía IP para Call Center](https://www.todoip.com/telefoniaip/): troncales SIP, numeración oficial, reportes, auditoría de grabaciones y medición de niveles de servicio (SLA).
 
 ## WhatsApp y automatización con IA
 
@@ -51,7 +51,8 @@ Infraestructura de Telefonía IP en la nube (o servidores físicos para desplieg
 - [Agente de Voz con IA (Voicebot)](https://www.todoip.com/agente-de-voz-con-ia-voicebot/#preguntas-frecuentes)
 - [Lectura Inteligente de Documentos](https://www.todoip.com/lectura-inteligente-de-documentos/#preguntas-frecuentes)
 - [PBX Móvil](https://www.todoip.com/pbx-movil/#preguntas-frecuentes)
-- [Telefonía IP, Troncales y Portal de Autogestión](https://www.todoip.com/telefoniaip/#preguntas-frecuentes)
+- [Telefonía IP y Troncales](https://www.todoip.com/telefoniaip/#preguntas-frecuentes)
+- [Portal de Autogestión Telefónica](https://www.todoip.com/agente-virtual-ivr/#preguntas-frecuentes)
 - [Sobre TodoIP](https://www.todoip.com/#preguntas-frecuentes)
 
 ## Contacto oficial

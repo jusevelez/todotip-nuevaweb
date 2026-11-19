@@ -351,7 +351,7 @@ export const faqByPath: Record<string, ProductFaq> = {
             "a": [
               "Sí, el cliente es dueño de su información y puede gestionar políticas de retención y borrado conforme a las normativas vigentes."
             ],
-            "discrepancy": "Dice que el cliente puede gestionar la retención y el borrado de sus conversaciones, pero la pregunta 28 de Telefonía IP (Portal de Autogestión) dice que ni el administrador ni ningún otro perfil puede borrar registros ni eliminar grabaciones, y la 16 de PBX Móvil fija la retención de grabaciones en 6 meses. Además, la Ley 1581 (Habeas Data) le da al titular el derecho a pedir la supresión de sus datos. Confirmar con CJ cómo se atiende una solicitud de borrado en chat y en telefonía."
+            "discrepancy": "Dice que el cliente puede gestionar la retención y el borrado de sus conversaciones, pero la pregunta 8 del Portal de Autogestión dice que ni el administrador ni ningún otro perfil puede borrar registros ni eliminar grabaciones, y la 16 de PBX Móvil fija la retención de grabaciones en 6 meses. Además, la Ley 1581 (Habeas Data) le da al titular el derecho a pedir la supresión de sus datos. Confirmar con CJ cómo se atiende una solicitud de borrado en chat y en telefonía."
           },
           {
             "n": 42,
@@ -1119,7 +1119,7 @@ export const faqByPath: Record<string, ProductFaq> = {
     ]
   },
   "/telefoniaip/": {
-    "product": "Telefonía IP, Troncales y Portal de Autogestión",
+    "product": "Telefonía IP y Troncales",
     "groups": [
       {
         "title": "Troncales y Telefonía IP: qué es y para quién",
@@ -1314,9 +1314,14 @@ export const faqByPath: Record<string, ProductFaq> = {
             ]
           }
         ]
-      },
+      }
+    ]
+  },
+  "/agente-virtual-ivr/": {
+    "product": "Portal de Autogestión Telefónica",
+    "groups": [
       {
-        "title": "Portal de Autogestión Telefónica",
+        "title": "Qué es, cómo funciona y para quién",
         "items": [
           {
             "n": 132,
