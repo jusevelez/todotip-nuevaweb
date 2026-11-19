@@ -3,7 +3,8 @@
 // (15 nov 2026). Texto del cliente; solo se recortaron las respuestas de más de 150 palabras
 // y se reformularon las preguntas escritas como instrucción interna. La 167 (política interna
 // sobre promesas comerciales) no se publica.
-// `discrepancy`: nota de revisión. Se muestra como etiqueta solo en preview, nunca en producción.
+// `n`: número de la pregunta en el documento de CJ (solo referencia interna; en la página se
+// numera de 1 a N por página). `discrepancy`: nota de revisión; sus números son los de la página. Se muestra como etiqueta solo en preview, nunca en producción.
 
 export type FaqBlock = string | { ul: string[] } | { ol: string[] };
 export type FaqItem = { n: number; q: string; a: FaqBlock[]; discrepancy?: string };
@@ -281,7 +282,7 @@ export const faqByPath: Record<string, ProductFaq> = {
                 ]
               }
             ],
-            "discrepancy": "Dice que «todas las funcionalidades están incluidas sin restricciones», pero otras respuestas apuntan a lo contrario: la 13 dice que la retención y exportación del historial «varían según el plan contratado» (es decir, hay planes con funciones distintas); la 32 dice que el cobro es «exclusivamente» una suscripción mensual, mientras esta misma respuesta cobra aparte los mensajes y tokens adicionales; y en telefonía (127 y 156) la integración con WhatsApp, la IA y los conectores a CRM se cobran como adicionales. Confirmar con CJ qué incluye realmente el plan base."
+            "discrepancy": "Dice que «todas las funcionalidades están incluidas sin restricciones», pero otras respuestas apuntan a lo contrario: la 13 dice que la retención y exportación del historial «varían según el plan contratado» (es decir, hay planes con funciones distintas); la 32 dice que el cobro es «exclusivamente» una suscripción mensual, mientras esta misma respuesta cobra aparte los mensajes y tokens adicionales; y en telefonía (pregunta 14 de PBX Móvil y 16 de Telefonía IP) la integración con WhatsApp, la IA y los conectores a CRM se cobran como adicionales. Confirmar con CJ qué incluye realmente el plan base."
           },
           {
             "n": 34,
@@ -350,7 +351,7 @@ export const faqByPath: Record<string, ProductFaq> = {
             "a": [
               "Sí, el cliente es dueño de su información y puede gestionar políticas de retención y borrado conforme a las normativas vigentes."
             ],
-            "discrepancy": "Dice que el cliente puede gestionar la retención y el borrado de sus conversaciones, pero la 139 (Portal de Autogestión) dice que ni el administrador ni ningún otro perfil puede borrar registros ni eliminar grabaciones, y la 129 fija la retención de grabaciones en 6 meses. Además, la Ley 1581 (Habeas Data) le da al titular el derecho a pedir la supresión de sus datos. Confirmar con CJ cómo se atiende una solicitud de borrado en chat y en telefonía."
+            "discrepancy": "Dice que el cliente puede gestionar la retención y el borrado de sus conversaciones, pero la pregunta 28 de Telefonía IP (Portal de Autogestión) dice que ni el administrador ni ningún otro perfil puede borrar registros ni eliminar grabaciones, y la 16 de PBX Móvil fija la retención de grabaciones en 6 meses. Además, la Ley 1581 (Habeas Data) le da al titular el derecho a pedir la supresión de sus datos. Confirmar con CJ cómo se atiende una solicitud de borrado en chat y en telefonía."
           },
           {
             "n": 42,

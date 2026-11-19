@@ -56,12 +56,12 @@ function plainText(blocks: FaqBlock[]): string {
     .join(" ");
 }
 
-function Item({ item, review }: { item: FaqItem; review: boolean }) {
+function Item({ item, num, review }: { item: FaqItem; num: number; review: boolean }) {
   return (
-    <div className="tip-faq__item" id={`faq-${item.n}`}>
+    <div className="tip-faq__item" id={`faq-${num}`}>
       <details className="tip-faq__qa">
         <summary>
-          {review && <span className="tip-faq__num">{item.n}</span>}
+          {review && <span className="tip-faq__num">{num}</span>}
           <h4 className="tip-faq__q">{item.q}</h4>
         </summary>
         <div className="tip-faq__a">
@@ -85,6 +85,8 @@ export default function ProductFaq({ path }: { path: string }) {
   if (!faq) return null;
   const review = siteMode() !== "production";
   const items = faq.groups.flatMap((g) => g.items);
+  // Numeración propia de cada página (1..N), no la del documento de origen.
+  const numOf = new Map(items.map((it, i) => [it, i + 1]));
   const jsonLd = {
     "@context": "https://schema.org",
     "@type": "FAQPage",
@@ -115,7 +117,7 @@ export default function ProductFaq({ path }: { path: string }) {
               {review && g.items.some((it) => it.discrepancy) && <span className="tip-faq__flag">Discrepancia</span>}
             </summary>
             {g.items.map((it) => (
-              <Item key={it.n} item={it} review={review} />
+              <Item key={it.n} item={it} num={numOf.get(it)!} review={review} />
             ))}
           </details>
         ))}
