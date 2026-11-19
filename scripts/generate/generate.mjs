@@ -181,10 +181,17 @@ for (const pg of parsed) {
   const comp = "Page" + pascal(slug);
   const ctx = makeCtx();
   const imports = new Set();
+  let usesFaq = false;
   const parts = pg.segments.map((s) => {
     if (s.group && templateNames.has(s.group)) {
       const n = templateNames.get(s.group);
       imports.add(n);
+      // Product FAQ (src/content/faq.ts) goes right before the footer; it renders nothing
+      // on URLs without FAQ.
+      if (n.startsWith("Footer")) {
+        usesFaq = true;
+        return `<ProductFaq path={path} />\n      <${n} path={path} />`;
+      }
       return `<${n} path={path} />`;
     }
     const el = s.local || groups.get(s.group).items.find((i) => i.path === pg.path).el;
@@ -192,6 +199,7 @@ for (const pg of parsed) {
   });
   const src =
     header(ctx.usesPv, ctx.usesStyle) +
+    (usesFaq ? 'import ProductFaq from "@/components/faq/ProductFaq";\n' : "") +
     [...imports].map((n) => `import ${n} from "../templates/${n}";\n`).join("") +
     `\nexport default function ${comp}({ path }: { path: string }) {\n  ${ctx.usesPv ? "" : "void path;\n  "}return (\n    <>\n      ${parts.join("\n      ")}\n    </>\n  );\n}\n`;
   await fs.writeFile(path.join(OUT, "pages", `${slug}.tsx`), src);

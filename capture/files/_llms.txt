@@ -1,36 +1,74 @@
-# TodoIP - Telefonía IP, PBX en la Nube y Chatbots con IA
+# TodoIP - Ecosistema de Telefonía Cloud, Inteligencia Artificial y Automatización Omnicanal
 
-> Desarrollamos soluciones tecnológicas a la medida para mejorar el servicio al cliente
+> TodoIP es una compañía tecnológica colombiana (Cali, fundada en agosto de 2007) que transforma la experiencia del cliente y escala las ventas corporativas integrando Telefonía IP nativa en la nube (PBX Cloud), Inteligencia Artificial aplicada (Voicebots, Chatbots y OCR) y el ecosistema oficial de WhatsApp Business API.
 
-## ¿Quiénes somos?
+## Sobre la empresa
 
-TodoIP es una empresa colombiana especializada en soluciones de comunicación empresarial y automatización con inteligencia artificial. Ofrecemos telefonía IP, PBX en la nube, chatbots con IA y agentes de voz inteligentes para empresas que buscan optimizar su atención al cliente.
+TodoIP es una compañía tecnológica colombiana con sede matriz en Cali y cobertura de infraestructura en todo el país. Fundada en agosto de 2007 (casi 20 años de experiencia en el mercado), es pionera en la automatización de las comunicaciones corporativas. Provee un ecosistema omnicanal propio, 100% alojado en la nube, que elimina cuellos de botella operativos, automatiza la atención 24/7 y califica prospectos de forma inteligente.
 
-## Contacto
+## Propuesta de valor
 
-- WhatsApp: +57 300 912 2820
-- Teléfono: +57 (602) 524 4008
-- Email: info@todoip.com
-- Sitio web: https://www.todoip.com
+A diferencia de los proveedores que ofrecen canales fragmentados o bots básicos sin integración de voz, TodoIP unifica las telecomunicaciones bajo una misma arquitectura técnica basada en protocolo SIP nativo. Su principal ventaja es la entrega de números móviles (DID) válidos y legales en Colombia, respaldados por un contrato corporativo directo con Tigo UNE, que operan 100% en la nube sin depender de SIM cards físicas. Esto permite:
 
-## Soluciones principales
+- Múltiples llamadas entrantes simultáneas sobre el mismo número corporativo: se entregan los canales que la empresa requiera (1, 5, 10, 20 o más) y se factura solo por canal simultáneo activo.
+- Identificador unificado en llamadas salientes: todo el call center, la fuerza comercial y el servicio al cliente salen con el número oficial asignado, lo que mejora la contactabilidad frente a los filtros de SPAM. Las llamadas salientes no cobran canales simultáneos; solo se paga el consumo adicional de la bolsa de minutos definida.
+- Ecosistema integrado con WhatsApp: ese mismo número se integra a WhatsApp Business API gracias a la alianza con Gupshup (operador oficial de Meta), con transición fluida entre voz, texto y automatización y sin perder trazabilidad.
 
-- [Chatbots con IA & WhatsApp](https://www.todoip.com/bots): Automatiza conversaciones en WhatsApp con IA que entiende texto y audios, se conecta a tu CRM, inventario, agenda y pasarelas de pago, y resuelve procesos completos con desborde a un asesor humano.
-- [TodoIP Salud](https://www.todoip.com/salud): IA para clínicas, IPS y hospitales: agendamiento, cotizador 24/7 de procedimientos particulares, entrega de resultados médicos por WhatsApp y recordatorios para reducir inasistencias.
-- [TodoIP Cobranzas](https://www.todoip.com/cobranzas): Cobranza masiva por WhatsApp: consulta de saldos 24/7, llamadas de voz por WhatsApp, links de pago (Wompi, Mercado Pago) y acuerdos de pago.
-- [TodoIP Turismo](https://www.todoip.com/turismo): IA para agencias de viajes y hoteles: disponibilidad en tiempo real, filtrado de prospectos y reserva con pago en el mismo chat.
-- PBX Móvil en la Nube: extensión telefónica empresarial en la nube.
-- Agente de Voz con IA (Voicebot): contesta, gestiona trámites y analiza conversaciones por voz.
-- Portal de Autogestión Telefónica: integra telefonía y datos para respuestas en tiempo real.
-- Troncales y Telefonía IP: conectividad empresarial y numeración.
+## Telefonía IP y voz cloud
+
+Infraestructura de Telefonía IP en la nube (o servidores físicos para despliegues locales) con alta disponibilidad, desborde inteligente y trazabilidad gerencial.
+
+- [PBX Móvil y Cloud](https://www.todoip.com/pbx-movil/): extensiones telefónicas empresariales en la nube con movilidad total mediante softphones o teléfonos IP. Incluye grabación centralizada y métricas en tiempo real. Números móviles o fijos de las principales ciudades de Colombia.
+- [Agente de Voz con IA (Voicebot)](https://www.todoip.com/agente-de-voz-con-ia-voicebot/): operador virtual transaccional que contesta llamadas, gestiona trámites masivos, analiza conversaciones por voz y se conecta a bases de datos sin intervención humana.
+- [Agente Virtual y Soluciones IVR](https://www.todoip.com/agente-virtual-ivr/): sistema telefónico automatizado para asignación de citas, consulta de saldos y más. Resuelve requerimientos 24/7 y hace desborde inteligente hacia asesores humanos.
+- [Telefonía IP para Call Center](https://www.todoip.com/telefoniaip/): troncales SIP, numeración oficial, reportes, auditoría de grabaciones y medición de niveles de servicio (SLA). Incluye el Portal de Autogestión Telefónica para consultar reportes y grabaciones.
+
+## WhatsApp y automatización con IA
+
+- [Chatbots con IA y WhatsApp Multiagente](https://www.todoip.com/chatbots-con-ia-whatsapp/): consola multichat que centraliza la operación de diferentes áreas bajo un único número. La IA entiende texto y audio, resuelve procesos complejos y hace desborde inteligente hacia asesores humanos.
+- [Chatbots Transaccionales](https://www.todoip.com/chatbots/): automatizaciones (con o sin IA) integradas a CRM o ERP para sectores como salud, automotriz o inmobiliario.
+- [Calificador de Leads Inteligente](https://www.todoip.com/calificador-leads/): filtra y perfila los prospectos que llegan de la pauta publicitaria para que el equipo comercial atienda solo leads de alto valor.
+- [Lectura Inteligente de Documentos (OCR con IA)](https://www.todoip.com/lectura-inteligente-de-documentos/): extrae datos de documentos de identidad y órdenes médicas enviados por WhatsApp y crea registros sin errores directamente en el ERP, CRM o software médico.
+- [Cotizador Transaccional con IA](https://www.todoip.com/asistente-virtual-para-clinicas-asi-se-ve-el-fin-de-las-cotizaciones-lentas-por-whatsapp/): bot integrado a WhatsApp que genera cotizaciones formales en PDF en tiempo real, 24/7.
+
+## Soluciones por industria
+
+- [TodoIP Salud](https://www.todoip.com/salud/): para clínicas, IPS y hospitales. Autoagendamiento, cotización 24/7 de procedimientos particulares, lectura OCR de autorizaciones y órdenes médicas, y confirmación de citas por WhatsApp para reducir el ausentismo.
+- [TodoIP Cobranzas](https://www.todoip.com/cobranzas/): gestión de cartera masiva con IA. Consultas de saldo, acuerdos de pago y links de pago mediante campañas combinadas de voz y texto, incluidas llamadas por WhatsApp.
+- [TodoIP Turismo](https://www.todoip.com/turismo/): para agencias de viajes y hoteles. Automatiza disponibilidad, reservas y filtrado de viajeros.
+- [Chatbots con IA para WhatsApp](https://www.todoip.com/bots/): automatización de WhatsApp con IA para empresas de cualquier sector con alto volumen de mensajes.
 
 ## Integraciones
 
-- CRM/ERP: HubSpot, Zoho, Salesforce
-- Calendarios: Google Calendar, Outlook
-- Pasarelas de pago: Wompi, Mercado Pago
-- WhatsApp Business API
+- CRM y ERP: integraciones bidireccionales con HubSpot, Zoho, Salesforce y sistemas clínicos (SIIS, Plenus y desarrollos propios).
+- Agendas: Google Calendar, Microsoft Outlook y plataformas propietarias.
+- Pasarelas de pago: Tu Compra, Wompi y Mercado Pago.
+- Plataformas core: Gupshup (Meta) para WhatsApp Business API y contratación corporativa con Tigo UNE, con una red de más de 300 números móviles (DID) en la nube, 100% legales.
 
-## Ubicación
+## Preguntas frecuentes
 
-Colombia (operación nacional)
+- [Chatbots con IA y WhatsApp](https://www.todoip.com/chatbots-con-ia-whatsapp/#preguntas-frecuentes): funcionamiento, integraciones, precio, seguridad y uso en salud, cobranzas y turismo.
+- [Agente de Voz con IA (Voicebot)](https://www.todoip.com/agente-de-voz-con-ia-voicebot/#preguntas-frecuentes)
+- [Lectura Inteligente de Documentos](https://www.todoip.com/lectura-inteligente-de-documentos/#preguntas-frecuentes)
+- [PBX Móvil](https://www.todoip.com/pbx-movil/#preguntas-frecuentes)
+- [Telefonía IP, Troncales y Portal de Autogestión](https://www.todoip.com/telefoniaip/#preguntas-frecuentes)
+- [Sobre TodoIP](https://www.todoip.com/#preguntas-frecuentes)
+
+## Contacto oficial
+
+- WhatsApp directo: +57 300 912 2820
+- Teléfono PBX (Colombia): +57 (602) 524 4008
+- Email comercial: comercial@todoip.com
+- Email soporte técnico: soporte@todoip.com
+- Sitio web oficial: https://www.todoip.com/
+- Enlaces y redes: https://linktr.ee/todoip
+- Sede principal: Cali, Colombia (operación en la nube a nivel nacional)
+
+## Optional
+
+- [Resolución 256: encuestas de satisfacción en salud sin cambiar tu PBX](https://www.todoip.com/resolucion-256-como-cumplir-la-ley-sin-enloquecer-a-tu-equipo/)
+- [Cómo digitalizar el ingreso de pacientes sin cambiar de sistema](https://www.todoip.com/de-la-ventanilla-al-celular-como-digitalizar-el-ingreso-de-pacientes-sin-cambiar-de-sistema/)
+- [¿Cómo reducir la inasistencia a las citas médicas?](https://www.todoip.com/como-reducir-la-inasistencia-a-las-citas-medicas/)
+- [Agente de WhatsApp para agencias de viajes](https://www.todoip.com/agente-de-whatsapp-para-agencias-de-viajes-cotiza-rapido-y-no-pierdas-ventas-fuera-de-horario/)
+- [¿Por qué mi número aparece como spam?](https://www.todoip.com/por-que-mi-numero-aparece-como-spam/)
+- [Guía completa sobre chatbots para WhatsApp Business](https://www.todoip.com/guia-completa-sobre-chatbots-para-whatsapp-business/)
