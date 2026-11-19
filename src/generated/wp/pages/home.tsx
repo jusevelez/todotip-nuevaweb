@@ -747,12 +747,12 @@ export default function PageHome({ path }: { path: string }) {
                   {" "}
                   <div className="elementor-widget-wrap elementor-element-populated">
                     {" "}
-                    <div className="elementor-element elementor-element-7996fd1 elementor-headline--style-rotate animated-slow elementor-widget-mobile__width-initial elementor-invisible elementor-widget elementor-widget-animated-headline" data-id="7996fd1" data-element_type="widget" data-e-type="widget" data-settings={"{\"headline_style\":\"rotate\",\"animation_type\":\"blinds\",\"rotating_text\":\"Telefon\\u00eda IP\\nPBX M\\u00f3vil\\nChatbots para WhatsApp\",\"rotate_iteration_delay\":4200,\"_animation\":\"fadeIn\",\"_animation_delay\":300,\"loop\":\"yes\"}"} data-widget_type="animated-headline.default">
+                    <div className="elementor-element elementor-element-7996fd1 elementor-headline--style-rotate animated-slow elementor-widget-mobile__width-initial elementor-invisible elementor-widget elementor-widget-animated-headline" data-id="7996fd1" data-element_type="widget" data-e-type="widget" data-settings={"{\"headline_style\":\"rotate\",\"animation_type\":\"blinds\",\"rotating_text\":\"IA para WhatsApp\\nPBX M\\u00f3vil\\nAgentes de voz con IA\",\"rotate_iteration_delay\":4200,\"_animation\":\"fadeIn\",\"_animation_delay\":300,\"loop\":\"yes\"}"} data-widget_type="animated-headline.default">
                       {" "}
                       <h1 className="elementor-headline elementor-headline-animation-type-blinds elementor-headline-letters">
                         {" "}
                         <span className="elementor-headline-plain-text elementor-headline-text-wrapper">
-                          {"Comunicación virtual omnicanal"}
+                          {"Telefonía en la nube e IA para empresas"}
                           <br />
                           {" "}
                         </span>
@@ -760,7 +760,7 @@ export default function PageHome({ path }: { path: string }) {
                         <span className="elementor-headline-dynamic-wrapper elementor-headline-text-wrapper">
                           {" "}
                           <span className="elementor-headline-dynamic-text elementor-headline-text-active">
-                            {" Telefonía IP "}
+                            {" IA para WhatsApp "}
                           </span>
                           {" "}
                           <span className="elementor-headline-dynamic-text">
@@ -768,7 +768,7 @@ export default function PageHome({ path }: { path: string }) {
                           </span>
                           {" "}
                           <span className="elementor-headline-dynamic-text">
-                            {" Chatbots para WhatsApp "}
+                            {" Agentes de voz con IA "}
                           </span>
                           {" "}
                         </span>
@@ -780,7 +780,7 @@ export default function PageHome({ path }: { path: string }) {
                     <div className="elementor-element elementor-element-33821d2 elementor-widget__width-initial elementor-widget elementor-widget-heading" data-id="33821d2" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
                       {" "}
                       <h5 className="elementor-heading-title elementor-size-default">
-                        {"Desarrollamos soluciones tecnológicas a la medida para mejorar el servicio al cliente"}
+                        {"TodoIP es una empresa colombiana que une llamadas, WhatsApp e inteligencia artificial en un solo número para atender y vender 24/7."}
                       </h5>
                       {" "}
                     </div>
@@ -792,7 +792,7 @@ export default function PageHome({ path }: { path: string }) {
                         <span className="elementor-button-content-wrapper">
                           {" "}
                           <span className="elementor-button-text">
-                            {"Conoce más sobre nosotros"}
+                            {"Conoce TodoIP"}
                           </span>
                           {" "}
                         </span>
@@ -839,11 +839,11 @@ export default function PageHome({ path }: { path: string }) {
                           <div className="pa-catalog-header-content">
                             {" "}
                             <span className="pa-catalog-subtitle">
-                              {"Catálogo"}
+                              {"Soluciones"}
                             </span>
                             {" "}
                             <h2 className="pa-catalog-title">
-                              {"Nuestros Productos"}
+                              {"Soluciones de TodoIP para empresas"}
                             </h2>
                             {" "}
                           </div>
@@ -868,7 +868,7 @@ export default function PageHome({ path }: { path: string }) {
                             </div>
                             {" "}
                             <p className="pa-category-description">
-                              {"Automatiza conversaciones, ventas y procesos por chat."}
+                              {"Agentes de IA que atienden, cotizan y agendan por WhatsApp y por teléfono."}
                             </p>
                             {" "}
                           </div>
@@ -892,7 +892,7 @@ export default function PageHome({ path }: { path: string }) {
                                 </h4>
                                 {" "}
                                 <p className="pa-product-description">
-                                  {"Automatiza conversaciones, ventas y procesos por chat."}
+                                  {"Atiende, agenda y cobra 24/7 por WhatsApp, con paso a un asesor."}
                                 </p>
                                 {" "}
                                 <a href="/chatbots-con-ia-whatsapp/" className="pa-product-link">
@@ -920,7 +920,7 @@ export default function PageHome({ path }: { path: string }) {
                                 </h4>
                                 {" "}
                                 <p className="pa-product-description">
-                                  {"Tu IA que contesta, gestiona trámites y analiza conversaciones."}
+                                  {"Contesta llamadas, resuelve trámites y audita el 100 % de las conversaciones."}
                                 </p>
                                 {" "}
                                 <a href="/agente-de-voz-con-ia-voicebot/" className="pa-product-link">
@@ -948,7 +948,7 @@ export default function PageHome({ path }: { path: string }) {
                                 </h4>
                                 {" "}
                                 <p className="pa-product-description">
-                                  {"Extrae datos de imágenes y PDFs para llenar formularios."}
+                                  {"Lee cédulas y órdenes médicas enviadas por WhatsApp y llena tus sistemas."}
                                 </p>
                                 {" "}
                                 <a href="/lectura-inteligente-de-documentos/" className="pa-product-link">
@@ -975,13 +975,13 @@ export default function PageHome({ path }: { path: string }) {
                               </span>
                               {" "}
                               <h3 className="pa-category-title">
-                                {"Comunicación de voz"}
+                                {"Telefonía en la nube"}
                               </h3>
                               {" "}
                             </div>
                             {" "}
                             <p className="pa-category-description">
-                              {"Infraestructura y conectividad empresarial"}
+                              {"Números, extensiones y troncales SIP para empresas en Colombia."}
                             </p>
                             {" "}
                           </div>
@@ -1005,7 +1005,7 @@ export default function PageHome({ path }: { path: string }) {
                                 </h4>
                                 {" "}
                                 <p className="pa-product-description">
-                                  {"Tu extensión telefónica empresarial en la Nube."}
+                                  {"Un número móvil en la nube que recibe varias llamadas a la vez, sin SIM."}
                                 </p>
                                 {" "}
                                 <a href="/pbx-movil/" className="pa-product-link">
@@ -1033,7 +1033,7 @@ export default function PageHome({ path }: { path: string }) {
                                 </h4>
                                 {" "}
                                 <p className="pa-product-description">
-                                  {"Integra telefonía y datos para respuestas en tiempo real."}
+                                  {"Menú telefónico que agenda citas y consulta saldos 24/7, con reportes en línea."}
                                 </p>
                                 {" "}
                                 <a href="/agente-virtual-ivr/" className="pa-product-link">
@@ -1061,7 +1061,7 @@ export default function PageHome({ path }: { path: string }) {
                                 </h4>
                                 {" "}
                                 <p className="pa-product-description">
-                                  {"Conectividad empresarial robusta y numeración."}
+                                  {"Troncales SIP, numeración fija y móvil, y PBX para call centers."}
                                 </p>
                                 {" "}
                                 <a href="/telefoniaip/" className="pa-product-link">
@@ -1082,11 +1082,11 @@ export default function PageHome({ path }: { path: string }) {
                           <div className="pa-cta-content">
                             {" "}
                             <h4 className="pa-cta-title">
-                              {"¿Listo para transformar tu empresa?"}
+                              {"¿Qué solución necesita tu empresa?"}
                             </h4>
                             {" "}
                             <p className="pa-cta-description">
-                              {"Descubre cómo nuestras soluciones pueden optimizar tus procesos."}
+                              {"Cuéntanos tu operación y te recomendamos por dónde empezar, sin costo de implementación."}
                             </p>
                             {" "}
                           </div>
@@ -1138,7 +1138,7 @@ export default function PageHome({ path }: { path: string }) {
                     <div className="elementor-element elementor-element-21fba6d elementor-widget elementor-widget-heading" data-id="21fba6d" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
                       {" "}
                       <h4 className="elementor-heading-title elementor-size-default">
-                        {"Nuestros valores impulsan nuestra misión de conectar empresas con soluciones tecnológicas eficientes."}
+                        {"Por qué clínicas, empresas de cobranza, agencias de viajes y call centers eligen TodoIP"}
                       </h4>
                       {" "}
                     </div>
@@ -1170,13 +1170,13 @@ export default function PageHome({ path }: { path: string }) {
                                   <h6 className="elementor-icon-box-title">
                                     {" "}
                                     <span>
-                                      {" Innovación tecnológica "}
+                                      {" Casi 20 años en telefonía "}
                                     </span>
                                     {" "}
                                   </h6>
                                   {" "}
                                   <p className="elementor-icon-box-description">
-                                    {" Estamos comprometidos con ofrecer soluciones avanzadas que optimicen la comunicación empresarial y mejoren la productividad. "}
+                                    {" Fundada en 2007 en Cali, TodoIP combina experiencia en telefonía IP con inteligencia artificial aplicada. "}
                                   </p>
                                   {" "}
                                 </div>
@@ -1204,13 +1204,13 @@ export default function PageHome({ path }: { path: string }) {
                                   <h6 className="elementor-icon-box-title">
                                     {" "}
                                     <span>
-                                      {" Servicio al cliente "}
+                                      {" Un solo número para voz y WhatsApp "}
                                     </span>
                                     {" "}
                                   </h6>
                                   {" "}
                                   <p className="elementor-icon-box-description">
-                                    {" Ofrecemos una atención personalizada y un soporte técnico especializado, asegurando que las necesidades de nuestros clientes sean atendidas de manera eficiente. "}
+                                    {" El mismo número recibe llamadas simultáneas y chats por WhatsApp Business API oficial, con números legales de Tigo UNE. "}
                                   </p>
                                   {" "}
                                 </div>
@@ -1246,13 +1246,13 @@ export default function PageHome({ path }: { path: string }) {
                                   <h6 className="elementor-icon-box-title">
                                     {" "}
                                     <span>
-                                      {" Confianza y transparencia "}
+                                      {" Más de 50 instituciones de salud "}
                                     </span>
                                     {" "}
                                   </h6>
                                   {" "}
                                   <p className="elementor-icon-box-description">
-                                    {" Brindamos un servicio honesto y accesible, garantizando que cada interacción con nuestros clientes sea clara y confiable. "}
+                                    {" Clínicas, IPS y hospitales en Colombia automatizan citas, cotizaciones y confirmaciones con TodoIP. "}
                                   </p>
                                   {" "}
                                 </div>
@@ -1280,13 +1280,13 @@ export default function PageHome({ path }: { path: string }) {
                                   <h6 className="elementor-icon-box-title">
                                     {" "}
                                     <span>
-                                      {" Relaciones duraderas "}
+                                      {" Sin costo de implementación "}
                                     </span>
                                     {" "}
                                   </h6>
                                   {" "}
                                   <p className="elementor-icon-box-description">
-                                    {" Construimos alianzas basadas en la confianza, comunicación abierta y resultados tangibles, priorizando el éxito mutuo y la satisfacción a largo plazo. "}
+                                    {" No cobramos setup, la mensualidad empieza cuando la solución está operando y el soporte técnico está incluido. "}
                                   </p>
                                   {" "}
                                 </div>
@@ -1358,7 +1358,7 @@ export default function PageHome({ path }: { path: string }) {
                     <div className="elementor-element elementor-element-b071fcc elementor-widget elementor-widget-heading" data-id="b071fcc" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
                       {" "}
                       <h3 className="elementor-heading-title elementor-size-default">
-                        {"Noticias, tendencias y novedades sobre tecnología e innovación"}
+                        {"Guías prácticas sobre IA, WhatsApp y telefonía para empresas"}
                       </h3>
                       {" "}
                     </div>
@@ -1378,7 +1378,7 @@ export default function PageHome({ path }: { path: string }) {
                         <span className="elementor-button-content-wrapper">
                           {" "}
                           <span className="elementor-button-text">
-                            {"Visita nuestro blog para más contenido de valor"}
+                            {"Ver todas las guías"}
                           </span>
                           {" "}
                         </span>
@@ -1708,7 +1708,7 @@ export default function PageHome({ path }: { path: string }) {
                     <div className="elementor-element elementor-element-79d5ff0 elementor-widget elementor-widget-heading" data-id="79d5ff0" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
                       {" "}
                       <h3 className="elementor-heading-title elementor-size-default">
-                        {"Recibe información personalizada sobre nuestros productos y servicios."}
+                        {"Cuéntanos qué necesitas y un asesor te contacta por WhatsApp."}
                       </h3>
                       {" "}
                     </div>

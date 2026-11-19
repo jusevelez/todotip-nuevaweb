@@ -66,7 +66,7 @@
   "pages": {
     "/": {
       "slug": "home",
-      "title": "TodoIP | Telefonía IP, PBX en la Nube y Chatbots con IA",
+      "title": "TodoIP | Telefonía en la nube y Chatbots IA para WhatsApp",
       "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
     },
     "/aviso-de-privacidad/": {
