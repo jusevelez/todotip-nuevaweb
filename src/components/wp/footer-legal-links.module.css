@@ -1,8 +1,9 @@
-/* Continues the captured footer block (#1B2523, Helvetica, accent-4 links). */
+/* Continues the captured footer (#1B2523, Helvetica, accent-4).
+   Beat `.elementor-kit-5 a { color: #161616 }` so the links stay readable. */
 .nav {
   background-color: #1b2523;
   border-top: 1px solid rgba(255, 255, 255, 0.12);
-  padding: 4px 20px 28px;
+  padding: 12px 24px 22px;
 }
 
 .list {
@@ -16,27 +17,27 @@
   list-style: none;
 }
 
-.link {
+:global(.elementor-kit-5) .nav a {
   display: inline-block;
   font-family: Helvetica, Sans-serif;
   font-size: 16px;
   font-weight: 400;
   line-height: 1.4em;
   letter-spacing: 0;
-  color: var(--e-global-color-vamtam_accent_4, #e4edf3);
+  color: #e4edf3;
   text-decoration: none;
   padding: 7px 1px;
 }
 
-.link:hover,
-.link:focus,
-.active {
+:global(.elementor-kit-5) .nav a:hover,
+:global(.elementor-kit-5) .nav a:focus,
+:global(.elementor-kit-5) .nav a[aria-current="page"] {
   color: #fff;
 }
 
-.link:hover,
-.link:focus {
+:global(.elementor-kit-5) .nav a:hover,
+:global(.elementor-kit-5) .nav a:focus {
   text-decoration: underline;
-  text-decoration-color: var(--e-global-color-dde8ce0, #8dc74d);
+  text-decoration-color: #8dc74d;
   text-underline-offset: 4px;
 }
