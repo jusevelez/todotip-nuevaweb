@@ -167,7 +167,12 @@ for (const [gk, g] of groups) {
     ctx,
     "    ",
   );
-  const src = `${header(ctx.usesPv, ctx.usesStyle)}\nexport default function ${name}({ path }: { path: string }) {\n  ${ctx.usesPv ? "" : "void path;\n  "}return (\n    ${jsx}\n  );\n}\n`;
+  // Hand-maintained legal bar (aviso + softphone). Re-injected here because this
+  // template is wiped on every generate; the component lives outside src/generated.
+  const isFooter = g.key.startsWith("footer-");
+  const extraImports = isFooter ? 'import FooterLegalLinks from "@/components/wp/FooterLegalLinks";\n' : "";
+  const outJsx = isFooter ? jsx.replace(/(\n    )<\/footer>/, `$1  <FooterLegalLinks path={path} />$1</footer>`) : jsx;
+  const src = `${header(ctx.usesPv, ctx.usesStyle)}${extraImports}\nexport default function ${name}({ path }: { path: string }) {\n  ${ctx.usesPv ? "" : "void path;\n  "}return (\n    ${outJsx}\n  );\n}\n`;
   await fs.writeFile(path.join(OUT, "templates", `${name}.tsx`), src);
   for (const d of ctx.dropped) report.dropped[d] = (report.dropped[d] || 0) + 1;
   for (const d of ctx.droppedScripts) report.droppedScripts[d] = (report.droppedScripts[d] || 0) + 1;

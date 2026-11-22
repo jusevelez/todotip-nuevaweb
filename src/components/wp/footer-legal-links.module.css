@@ -1,0 +1,42 @@
+/* Continues the captured footer block (#1B2523, Helvetica, accent-4 links). */
+.nav {
+  background-color: #1b2523;
+  border-top: 1px solid rgba(255, 255, 255, 0.12);
+  padding: 4px 20px 28px;
+}
+
+.list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 4px 28px;
+  max-width: 1140px;
+  margin: 0 auto;
+  padding: 0;
+  list-style: none;
+}
+
+.link {
+  display: inline-block;
+  font-family: Helvetica, Sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 1.4em;
+  letter-spacing: 0;
+  color: var(--e-global-color-vamtam_accent_4, #e4edf3);
+  text-decoration: none;
+  padding: 7px 1px;
+}
+
+.link:hover,
+.link:focus,
+.active {
+  color: #fff;
+}
+
+.link:hover,
+.link:focus {
+  text-decoration: underline;
+  text-decoration-color: var(--e-global-color-dde8ce0, #8dc74d);
+  text-underline-offset: 4px;
+}
