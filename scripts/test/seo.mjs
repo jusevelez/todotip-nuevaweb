@@ -60,7 +60,7 @@ function snapshot(html) {
     lang: $("html").attr("lang"),
     h1: $("body h1").map((_, e) => norm($(e).text())).get(),
     links: [...new Set($("body a[href]").map((_, e) => abs($(e).attr("href"))).get())].sort(),
-    // Fragment targets only: script/style/link ids are WordPress asset handles, _R_ is React's.
+    // Fragment targets only: script/style/link ids are TodoIP asset handles, _R_ is React's.
     anchors: [...new Set($("body [id]").not("script, style, link, noscript, template, #_R_").map((_, e) => $(e).attr("id")).get())].sort(),
     images: [...new Set($("body img[src]").map((_, e) => abs($(e).attr("src"))).get())].sort(),
   };

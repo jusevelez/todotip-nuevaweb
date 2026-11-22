@@ -19,7 +19,7 @@ const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
 const DESKTOP = { viewport: { width: 1440, height: 900 } };
 const MOBILE = { viewport: { width: 390, height: 844 }, isMobile: true, hasTouch: true };
 const FREEZE = `*,*::before,*::after{animation-duration:0s!important;animation-delay:0s!important;transition:none!important;caret-color:transparent!important}
-  .elementor-popup-modal{display:none!important} iframe{visibility:hidden!important} .elementor-background-slideshow{visibility:hidden!important}`;
+  .tdp-popup-modal{display:none!important} iframe{visibility:hidden!important} .tdp-background-slideshow{visibility:hidden!important}`;
 
 const scenarios = [
   {
@@ -113,7 +113,7 @@ async function formGuard(browser) {
   const posts = [];
   page.on("request", (r) => r.method() !== "GET" && posts.push(`${r.method()} ${r.url()}`));
   await page.goto(CLONE + "/", { waitUntil: "networkidle" });
-  const form = page.locator("form.elementor-form").last();
+  const form = page.locator("form.tdp-form").last();
   await form.scrollIntoViewIfNeeded();
   for (const input of await form.locator("input:visible, textarea:visible").all()) {
     const type = await input.getAttribute("type");

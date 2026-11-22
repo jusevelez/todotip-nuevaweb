@@ -46,8 +46,8 @@
   cursor: pointer;
 }
 
-/* Beat `.elementor-kit-5 button` (padding 15px 30px, hover fill). */
-:global(body.elementor-kit-5) .header button {
+/* Beat `.tdp-kit-5 button` (padding 15px 30px, hover fill). */
+:global(body.tdp-kit-5) .header button {
   background: transparent;
   border: 0;
   border-radius: 0;
@@ -59,15 +59,15 @@
   font: 400 16px/1.4 Helvetica, sans-serif;
 }
 
-:global(body.elementor-kit-5) .header button:hover,
-:global(body.elementor-kit-5) .header button:focus {
+:global(body.tdp-kit-5) .header button:hover,
+:global(body.tdp-kit-5) .header button:focus {
   background: transparent;
   border: 0;
   color: #8dc74d;
 }
 
-:global(body.elementor-kit-5) .item,
-:global(body.elementor-kit-5) .itemButton {
+:global(body.tdp-kit-5) .item,
+:global(body.tdp-kit-5) .itemButton {
   color: #161616;
 }
 
@@ -140,7 +140,7 @@
   background: #f7f7f7;
 }
 
-:global(body.elementor-kit-5) .product {
+:global(body.tdp-kit-5) .product {
   color: #161616;
 }
 
@@ -193,18 +193,18 @@
   border: 1px solid #83c140;
 }
 
-:global(body.elementor-kit-5) .cta {
+:global(body.tdp-kit-5) .cta {
   color: #161616;
   background: #83c140;
   border: 1px solid #83c140;
 }
 
-:global(body.elementor-kit-5) .cta:hover {
+:global(body.tdp-kit-5) .cta:hover {
   background: #77b139;
   color: #161616;
 }
 
-:global(body.elementor-kit-5) .ghost {
+:global(body.tdp-kit-5) .ghost {
   color: #161616;
   border: 1px solid #83c140;
   background: transparent;
@@ -232,14 +232,14 @@
   background: #161616;
 }
 
-:global(body.elementor-kit-5) .burger {
+:global(body.tdp-kit-5) .burger {
   padding: 8px;
   width: 42px;
   height: 42px;
 }
 
-:global(body.elementor-kit-5) .burger:hover,
-:global(body.elementor-kit-5) .burger:focus {
+:global(body.tdp-kit-5) .burger:hover,
+:global(body.tdp-kit-5) .burger:focus {
   color: #161616;
 }
 

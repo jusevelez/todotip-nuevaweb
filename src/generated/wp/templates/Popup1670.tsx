@@ -4,29 +4,29 @@
 export default function Popup1670({ path }: { path: string }) {
   void path;
   return (
-    <div data-elementor-type="popup" data-elementor-id="1670" className="elementor elementor-1670 elementor-location-popup" data-elementor-settings={"{\"classes\":\"vamtam-header-mega-menu vamtam-popup\",\"a11y_navigation\":\"yes\",\"triggers\":[],\"timing\":[]}"} data-elementor-post-type="elementor_library">
+    <div data-tdp-type="popup" data-tdp-id="1670" className="tdp tdp-1670 tdp-location-popup" data-tdp-settings={"{\"classes\":\"vamtam-header-mega-menu vamtam-popup\",\"a11y_navigation\":\"yes\",\"triggers\":[],\"timing\":[]}"} data-tdp-post-type="tdp_library">
       {" "}
-      <section className="elementor-section elementor-top-section elementor-element elementor-element-ff6a72a elementor-section-height-min-height elementor-section-items-stretch elementor-section-content-middle vamtam-search-form elementor-section-boxed elementor-section-height-default" data-id="ff6a72a" data-element_type="section" data-e-type="section" data-settings={"{\"background_background\":\"classic\"}"}>
+      <section className="tdp-section tdp-top-section tdp-element tdp-element-ff6a72a tdp-section-height-min-height tdp-section-items-stretch tdp-section-content-middle vamtam-search-form tdp-section-boxed tdp-section-height-default" data-id="ff6a72a" data-element_type="section" data-e-type="section" data-settings={"{\"background_background\":\"classic\"}"}>
         {" "}
-        <div className="elementor-container elementor-column-gap-no">
+        <div className="tdp-container tdp-column-gap-no">
           {" "}
-          <div className="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-1ef58db" data-id="1ef58db" data-element_type="column" data-e-type="column" data-settings={"{\"background_background\":\"classic\"}"}>
+          <div className="tdp-column tdp-col-100 tdp-top-column tdp-element tdp-element-1ef58db" data-id="1ef58db" data-element_type="column" data-e-type="column" data-settings={"{\"background_background\":\"classic\"}"}>
             {" "}
-            <div className="elementor-widget-wrap elementor-element-populated">
+            <div className="tdp-widget-wrap tdp-element-populated">
               {" "}
-              <div className="elementor-element elementor-element-88de6f5 elementor-search-form--skin-minimal vamtam-search-form elementor-widget elementor-widget-search-form" data-id="88de6f5" data-element_type="widget" data-e-type="widget" data-settings={"{\"skin\":\"minimal\"}"} data-widget_type="search-form.default">
+              <div className="tdp-element tdp-element-88de6f5 tdp-search-form--skin-minimal vamtam-search-form tdp-widget tdp-widget-search-form" data-id="88de6f5" data-element_type="widget" data-e-type="widget" data-settings={"{\"skin\":\"minimal\"}"} data-widget_type="search-form.default">
                 {" "}
                 <search role="search">
                   {" "}
-                  <form className="elementor-search-form" action="/" method="get">
+                  <form className="tdp-search-form" action="/" method="get">
                     {" "}
-                    <div className="elementor-search-form__container">
+                    <div className="tdp-search-form__container">
                       {" "}
-                      <label className="elementor-screen-only" htmlFor="elementor-search-form-88de6f5">
+                      <label className="tdp-screen-only" htmlFor="tdp-search-form-88de6f5">
                         {"Search"}
                       </label>
                       {" "}
-                      <div className="elementor-search-form__icon">
+                      <div className="tdp-search-form__icon">
                         {" "}
                         <div className="e-font-icon-svg-container">
                           <svg aria-hidden="true" className="e-font-icon-svg e-fas-search" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
@@ -34,13 +34,13 @@ export default function Popup1670({ path }: { path: string }) {
                           </svg>
                         </div>
                         {" "}
-                        <span className="elementor-screen-only">
+                        <span className="tdp-screen-only">
                           {"Search"}
                         </span>
                         {" "}
                       </div>
                       {" "}
-                      <input id="elementor-search-form-88de6f5" placeholder="Search insights, services and experts" className="elementor-search-form__input" type="search" name="s" defaultValue={""} />
+                      <input id="tdp-search-form-88de6f5" placeholder="Search insights, services and experts" className="tdp-search-form__input" type="search" name="s" defaultValue={""} />
                       {" "}
                     </div>
                     {" "}

@@ -16,7 +16,7 @@ export type LandingData = {
 };
 
 // Root document for the static ads landings (/bots/, /salud/, /cobranzas/, /turismo/),
-// which on the live site are standalone HTML files outside WordPress.
+// which on the live site are standalone HTML files outside TodoIP.
 export default function LandingDocument({ data, children }: { data: LandingData; children: ReactNode }) {
   return (
     <html lang={data.htmlAttrs.lang ?? "es"}>

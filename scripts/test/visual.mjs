@@ -50,8 +50,8 @@ async function shoot(browser, url, vp, file) {
   // Freeze/hide time-dependent parts (slideshow frame, rotating headline word, popups, iframes).
   await page.addStyleTag({
     content: `*,*::before,*::after{animation-duration:0s!important;animation-delay:0s!important;transition:none!important;caret-color:transparent!important}
-      .elementor-popup-modal{display:none!important} iframe{visibility:hidden!important}
-      .elementor-background-slideshow,.elementor-headline-dynamic-wrapper{visibility:hidden!important}`,
+      .tdp-popup-modal{display:none!important} iframe{visibility:hidden!important}
+      .tdp-background-slideshow,.tdp-headline-dynamic-wrapper{visibility:hidden!important}`,
   });
   await page.waitForTimeout(300);
   await page.screenshot({ path: file, fullPage: true });

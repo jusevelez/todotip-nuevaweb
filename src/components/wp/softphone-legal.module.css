@@ -1,5 +1,5 @@
 /* Same text-editor treatment as the source preview (Roboto comes from the
-   captured Elementor stylesheet of /aviso-de-privacidad/). */
+   captured Tdp stylesheet of /aviso-de-privacidad/). */
 .contenido {
   font-family: "Roboto", sans-serif;
   font-size: 16px;
@@ -7,9 +7,9 @@
   color: #333;
 }
 
-/* Beat the captured Elementor text-editor rule (.elementor-990284 … a),
+/* Beat the captured Tdp text-editor rule (.tdp-990284 … a),
    which sets the same green and weight but not text-decoration. */
-:global(.elementor-990284 .elementor-element-6ef74327) .contenido a {
+:global(.tdp-990284 .tdp-element-6ef74327) .contenido a {
   color: #8cc615;
   font-weight: 600;
   text-decoration: none;

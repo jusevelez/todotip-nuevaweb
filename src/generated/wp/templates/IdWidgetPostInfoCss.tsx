@@ -4,6 +4,6 @@
 export default function IdWidgetPostInfoCss({ path }: { path: string }) {
   void path;
   return (
-    <link rel="stylesheet" id="widget-post-info-css" href="/wp-content/plugins/pro-elements/assets/css/widget-post-info.min.css?ver=4.2.2" media="all" />
+    <link rel="stylesheet" id="widget-post-info-css" href="/assets/plugins/pro-elements/assets/css/widget-post-info.min.css?ver=4.2.2" media="all" />
   );
 }

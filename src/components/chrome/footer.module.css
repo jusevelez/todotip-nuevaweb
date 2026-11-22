@@ -24,14 +24,14 @@
   font-size: 16px;
 }
 
-:global(body.elementor-kit-5) .waTop,
-:global(body.elementor-kit-5) .calendar {
+:global(body.tdp-kit-5) .waTop,
+:global(body.tdp-kit-5) .calendar {
   color: #161616;
   background: #8dc74d;
 }
 
-:global(body.elementor-kit-5) .waTop:hover,
-:global(body.elementor-kit-5) .calendar:hover {
+:global(body.tdp-kit-5) .waTop:hover,
+:global(body.tdp-kit-5) .calendar:hover {
   color: #161616;
   background: #77b139;
 }
@@ -71,19 +71,19 @@
   margin: 0 0 8px;
 }
 
-:global(body.elementor-kit-5) .list a,
-:global(body.elementor-kit-5) .contact a,
-:global(body.elementor-kit-5) .social a {
+:global(body.tdp-kit-5) .list a,
+:global(body.tdp-kit-5) .contact a,
+:global(body.tdp-kit-5) .social a {
   color: #e4edf3;
   text-decoration: none;
   font-size: 16px;
   line-height: 1.4;
 }
 
-:global(body.elementor-kit-5) .list a:hover,
-:global(body.elementor-kit-5) .contact a:hover,
-:global(body.elementor-kit-5) .social a:hover,
-:global(body.elementor-kit-5) .list a[aria-current="page"] {
+:global(body.tdp-kit-5) .list a:hover,
+:global(body.tdp-kit-5) .contact a:hover,
+:global(body.tdp-kit-5) .social a:hover,
+:global(body.tdp-kit-5) .list a[aria-current="page"] {
   color: #fff;
   text-decoration: underline;
   text-decoration-color: #8dc74d;

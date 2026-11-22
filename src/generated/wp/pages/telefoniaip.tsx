@@ -6,7 +6,7 @@ import Header6979 from "../templates/Header6979";
 import Footer988867 from "../templates/Footer988867";
 import Popup9913 from "../templates/Popup9913";
 import Popup1670 from "../templates/Popup1670";
-import IdElementorPost10889Css from "../templates/IdElementorPost10889Css";
+import IdTdpPost10889Css from "../templates/IdTdpPost10889Css";
 import IdEgeiroWhfab from "../templates/IdEgeiroWhfab";
 
 export default function PageTelefoniaip({ path }: { path: string }) {
@@ -19,39 +19,39 @@ export default function PageTelefoniaip({ path }: { path: string }) {
         {" "}
         <div className="page-content">
           {" "}
-          <div data-elementor-type="wp-page" data-elementor-id="988518" className="elementor elementor-988518" data-elementor-post-type="page">
+          <div data-tdp-type="page" data-tdp-id="988518" className="tdp tdp-988518" data-tdp-post-type="page">
             {" "}
-            <section className="elementor-section elementor-top-section elementor-element elementor-element-3933e521 elementor-section-full_width elementor-section-content-middle elementor-section-height-default elementor-section-height-default" data-id="3933e521" data-element_type="section" data-e-type="section" data-settings={"{\"background_background\":\"classic\"}"}>
+            <section className="tdp-section tdp-top-section tdp-element tdp-element-3933e521 tdp-section-full_width tdp-section-content-middle tdp-section-height-default tdp-section-height-default" data-id="3933e521" data-element_type="section" data-e-type="section" data-settings={"{\"background_background\":\"classic\"}"}>
               {" "}
-              <div className="elementor-background-overlay"></div>
+              <div className="tdp-background-overlay"></div>
               {" "}
-              <div className="elementor-container elementor-column-gap-no">
+              <div className="tdp-container tdp-column-gap-no">
                 {" "}
-                <div className="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-23ae514c" data-id="23ae514c" data-element_type="column" data-e-type="column" data-settings={"{\"background_background\":\"classic\"}"}>
+                <div className="tdp-column tdp-col-100 tdp-top-column tdp-element tdp-element-23ae514c" data-id="23ae514c" data-element_type="column" data-e-type="column" data-settings={"{\"background_background\":\"classic\"}"}>
                   {" "}
-                  <div className="elementor-widget-wrap elementor-element-populated">
+                  <div className="tdp-widget-wrap tdp-element-populated">
                     {" "}
-                    <section className="elementor-section elementor-inner-section elementor-element elementor-element-c83ae71 elementor-section-height-min-height elementor-section-content-bottom elementor-section-boxed elementor-section-height-default" data-id="c83ae71" data-element_type="section" data-e-type="section">
+                    <section className="tdp-section tdp-inner-section tdp-element tdp-element-c83ae71 tdp-section-height-min-height tdp-section-content-bottom tdp-section-boxed tdp-section-height-default" data-id="c83ae71" data-element_type="section" data-e-type="section">
                       {" "}
-                      <div className="elementor-container elementor-column-gap-no">
+                      <div className="tdp-container tdp-column-gap-no">
                         {" "}
-                        <div className="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-28ee5219" data-id="28ee5219" data-element_type="column" data-e-type="column">
+                        <div className="tdp-column tdp-col-50 tdp-inner-column tdp-element tdp-element-28ee5219" data-id="28ee5219" data-element_type="column" data-e-type="column">
                           {" "}
-                          <div className="elementor-widget-wrap elementor-element-populated">
+                          <div className="tdp-widget-wrap tdp-element-populated">
                             {" "}
-                            <div className="elementor-element elementor-element-bc3caff elementor-align-start elementor-widget__width-auto elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="bc3caff" data-element_type="widget" data-e-type="widget" data-widget_type="icon-list.default">
+                            <div className="tdp-element tdp-element-bc3caff tdp-align-start tdp-widget__width-auto tdp-icon-list--layout-traditional tdp-list-item-link-full_width tdp-widget tdp-widget-icon-list" data-id="bc3caff" data-element_type="widget" data-e-type="widget" data-widget_type="icon-list.default">
                               {" "}
-                              <ul className="elementor-icon-list-items">
+                              <ul className="tdp-icon-list-items">
                                 {" "}
-                                <li className="elementor-icon-list-item">
+                                <li className="tdp-icon-list-item">
                                   {" "}
-                                  <span className="elementor-icon-list-icon">
+                                  <span className="tdp-icon-list-icon">
                                     {" "}
                                     <i aria-hidden="true" className="vamtamtheme- vamtam-theme-brand-symbol"></i>
                                     {" "}
                                   </span>
                                   {" "}
-                                  <span className="elementor-icon-list-text">
+                                  <span className="tdp-icon-list-text">
                                     {"Telefonía IP"}
                                   </span>
                                   {" "}
@@ -61,9 +61,9 @@ export default function PageTelefoniaip({ path }: { path: string }) {
                               {" "}
                             </div>
                             {" "}
-                            <div className="elementor-element elementor-element-43cdf2b2 animated-slow elementor-widget elementor-widget-heading" data-id="43cdf2b2" data-element_type="widget" data-e-type="widget" data-settings={"{\"_animation_tablet\":\"none\",\"_animation_delay\":300,\"_animation\":\"none\"}"} data-widget_type="heading.default">
+                            <div className="tdp-element tdp-element-43cdf2b2 animated-slow tdp-widget tdp-widget-heading" data-id="43cdf2b2" data-element_type="widget" data-e-type="widget" data-settings={"{\"_animation_tablet\":\"none\",\"_animation_delay\":300,\"_animation\":\"none\"}"} data-widget_type="heading.default">
                               {" "}
-                              <h1 className="elementor-heading-title elementor-size-default">
+                              <h1 className="tdp-heading-title tdp-size-default">
                                 {"Telefonía IP para Empresas y Callcenter "}
                               </h1>
                               {" "}
@@ -73,9 +73,9 @@ export default function PageTelefoniaip({ path }: { path: string }) {
                           {" "}
                         </div>
                         {" "}
-                        <div className="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-2a8f6035 elementor-hidden-mobile" data-id="2a8f6035" data-element_type="column" data-e-type="column">
+                        <div className="tdp-column tdp-col-50 tdp-inner-column tdp-element tdp-element-2a8f6035 tdp-hidden-mobile" data-id="2a8f6035" data-element_type="column" data-e-type="column">
                           {" "}
-                          <div className="elementor-widget-wrap">
+                          <div className="tdp-widget-wrap">
                             {" "}
                           </div>
                           {" "}
@@ -93,27 +93,27 @@ export default function PageTelefoniaip({ path }: { path: string }) {
               {" "}
             </section>
             {" "}
-            <section className="elementor-section elementor-top-section elementor-element elementor-element-f553261 elementor-section-content-middle elementor-reverse-mobile elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="f553261" data-element_type="section" data-e-type="section">
+            <section className="tdp-section tdp-top-section tdp-element tdp-element-f553261 tdp-section-content-middle tdp-reverse-mobile tdp-section-boxed tdp-section-height-default tdp-section-height-default" data-id="f553261" data-element_type="section" data-e-type="section">
               {" "}
-              <div className="elementor-container elementor-column-gap-no">
+              <div className="tdp-container tdp-column-gap-no">
                 {" "}
-                <div className="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-1677a06" data-id="1677a06" data-element_type="column" data-e-type="column">
+                <div className="tdp-column tdp-col-50 tdp-top-column tdp-element tdp-element-1677a06" data-id="1677a06" data-element_type="column" data-e-type="column">
                   {" "}
-                  <div className="elementor-widget-wrap elementor-element-populated">
+                  <div className="tdp-widget-wrap tdp-element-populated">
                     {" "}
-                    <div className="elementor-element elementor-element-bbd4b8b elementor-align-start elementor-widget__width-initial elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="bbd4b8b" data-element_type="widget" data-e-type="widget" data-widget_type="icon-list.default">
+                    <div className="tdp-element tdp-element-bbd4b8b tdp-align-start tdp-widget__width-initial tdp-icon-list--layout-traditional tdp-list-item-link-full_width tdp-widget tdp-widget-icon-list" data-id="bbd4b8b" data-element_type="widget" data-e-type="widget" data-widget_type="icon-list.default">
                       {" "}
-                      <ul className="elementor-icon-list-items">
+                      <ul className="tdp-icon-list-items">
                         {" "}
-                        <li className="elementor-icon-list-item">
+                        <li className="tdp-icon-list-item">
                           {" "}
-                          <span className="elementor-icon-list-icon">
+                          <span className="tdp-icon-list-icon">
                             {" "}
                             <i aria-hidden="true" className="vamtamtheme- vamtam-theme-brand-symbol"></i>
                             {" "}
                           </span>
                           {" "}
-                          <span className="elementor-icon-list-text">
+                          <span className="tdp-icon-list-text">
                             {"Sobre nuestra solución "}
                           </span>
                           {" "}
@@ -123,7 +123,7 @@ export default function PageTelefoniaip({ path }: { path: string }) {
                       {" "}
                     </div>
                     {" "}
-                    <div className="elementor-element elementor-element-5c612bd elementor-widget__width-initial elementor-widget elementor-widget-text-editor" data-id="5c612bd" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
+                    <div className="tdp-element tdp-element-5c612bd tdp-widget__width-initial tdp-widget tdp-widget-text-editor" data-id="5c612bd" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
                       {" "}
                       <p>
                         {"Optimiza la comunicación en tu empresa o Call Center con tecnología IP, reduciendo costos y gestionando números virtuales en una plataforma escalable, ya sea en la nube o con servidor físico. Disfruta de conexiones simultáneas y comunicación fluida entre múltiples dispositivos para brindar un servicio eficiente."}
@@ -134,13 +134,13 @@ export default function PageTelefoniaip({ path }: { path: string }) {
                       {" "}
                     </div>
                     {" "}
-                    <div className="elementor-element elementor-element-ac4abab elementor-widget__width-auto elementor-align-center elementor-mobile-align-justify elementor-widget-mobile__width-inherit elementor-widget elementor-widget-button" data-id="ac4abab" data-element_type="widget" data-e-type="widget" data-widget_type="button.default">
+                    <div className="tdp-element tdp-element-ac4abab tdp-widget__width-auto tdp-align-center tdp-mobile-align-justify tdp-widget-mobile__width-inherit tdp-widget tdp-widget-button" data-id="ac4abab" data-element_type="widget" data-e-type="widget" data-widget_type="button.default">
                       {" "}
-                      <a className="elementor-button elementor-size-sm" role="button">
+                      <a className="tdp-button tdp-size-sm" role="button">
                         {" "}
-                        <span className="elementor-button-content-wrapper">
+                        <span className="tdp-button-content-wrapper">
                           {" "}
-                          <span className="elementor-button-icon">
+                          <span className="tdp-button-icon">
                             {" "}
                             <svg aria-hidden="true" className="e-font-icon-svg e-fab-whatsapp" viewBox="0 0 448 512" xmlns="http://www.w3.org/2000/svg">
                               <path d="M380.9 97.1C339 55.1 283.2 32 223.9 32c-122.4 0-222 99.6-222 222 0 39.1 10.2 77.3 29.6 111L0 480l117.7-30.9c32.4 17.7 68.9 27 106.1 27h.1c122.3 0 224.1-99.6 224.1-222 0-59.3-25.2-115-67.1-157zm-157 341.6c-33.2 0-65.7-8.9-94-25.7l-6.7-4-69.8 18.3L72 359.2l-4.4-7c-18.5-29.4-28.2-63.3-28.2-98.2 0-101.7 82.8-184.5 184.6-184.5 49.3 0 95.6 19.2 130.4 54.1 34.8 34.9 56.2 81.2 56.1 130.5 0 101.8-84.9 184.6-186.6 184.6zm101.2-138.2c-5.5-2.8-32.8-16.2-37.9-18-5.1-1.9-8.8-2.8-12.5 2.8-3.7 5.6-14.3 18-17.6 21.8-3.2 3.7-6.5 4.2-12 1.4-32.6-16.3-54-29.1-75.5-66-5.7-9.8 5.7-9.1 16.3-30.3 1.8-3.7.9-6.9-.5-9.7-1.4-2.8-12.5-30.1-17.1-41.2-4.5-10.8-9.1-9.3-12.5-9.5-3.2-.2-6.9-.2-10.6-.2-3.7 0-9.7 1.4-14.8 6.9-5.1 5.6-19.4 19-19.4 46.3 0 27.3 19.9 53.7 22.6 57.4 2.8 3.7 39.1 59.7 94.8 83.8 35.2 15.2 49 16.5 66.6 13.9 10.7-1.6 32.8-13.4 37.4-26.4 4.6-13 4.6-24.1 3.2-26.4-1.3-2.5-5-3.9-10.5-6.6z"></path>
@@ -148,7 +148,7 @@ export default function PageTelefoniaip({ path }: { path: string }) {
                             {" "}
                           </span>
                           {" "}
-                          <span className="elementor-button-text">
+                          <span className="tdp-button-text">
                             {"Más Información"}
                           </span>
                           {" "}
@@ -162,13 +162,13 @@ export default function PageTelefoniaip({ path }: { path: string }) {
                   {" "}
                 </div>
                 {" "}
-                <div className="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-86f331d" data-id="86f331d" data-element_type="column" data-e-type="column">
+                <div className="tdp-column tdp-col-50 tdp-top-column tdp-element tdp-element-86f331d" data-id="86f331d" data-element_type="column" data-e-type="column">
                   {" "}
-                  <div className="elementor-widget-wrap elementor-element-populated">
+                  <div className="tdp-widget-wrap tdp-element-populated">
                     {" "}
-                    <div className="elementor-element elementor-element-337d41d elementor-widget elementor-widget-image" data-id="337d41d" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
+                    <div className="tdp-element tdp-element-337d41d tdp-widget tdp-widget-image" data-id="337d41d" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
                       {" "}
-                      <img fetchPriority="high" decoding="async" width="996" height="954" src="/wp-content/uploads/2024/11/GettyImages-1125619200-square-4-1.webp" className="attachment-full size-full wp-image-989058" alt="GettyImages 1125619200 square 4 1" srcSet="/wp-content/uploads/2024/11/GettyImages-1125619200-square-4-1.webp 996w, /wp-content/uploads/2024/11/GettyImages-1125619200-square-4-1-300x287.webp 300w, /wp-content/uploads/2024/11/GettyImages-1125619200-square-4-1-768x736.webp 768w" sizes="(max-width: 996px) 100vw, 996px" title="Telefonía IP 1" />
+                      <img fetchPriority="high" decoding="async" width="996" height="954" src="/assets/uploads/2024/11/GettyImages-1125619200-square-4-1.webp" className="attachment-full size-full img-989058" alt="GettyImages 1125619200 square 4 1" srcSet="/assets/uploads/2024/11/GettyImages-1125619200-square-4-1.webp 996w, /assets/uploads/2024/11/GettyImages-1125619200-square-4-1-300x287.webp 300w, /assets/uploads/2024/11/GettyImages-1125619200-square-4-1-768x736.webp 768w" sizes="(max-width: 996px) 100vw, 996px" title="Telefonía IP 1" />
                       {" "}
                     </div>
                     {" "}
@@ -180,27 +180,27 @@ export default function PageTelefoniaip({ path }: { path: string }) {
               {" "}
             </section>
             {" "}
-            <section className="elementor-section elementor-top-section elementor-element elementor-element-67f0cda8 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="67f0cda8" data-element_type="section" data-e-type="section">
+            <section className="tdp-section tdp-top-section tdp-element tdp-element-67f0cda8 tdp-section-boxed tdp-section-height-default tdp-section-height-default" data-id="67f0cda8" data-element_type="section" data-e-type="section">
               {" "}
-              <div className="elementor-container elementor-column-gap-no">
+              <div className="tdp-container tdp-column-gap-no">
                 {" "}
-                <div className="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-602521cc" data-id="602521cc" data-element_type="column" data-e-type="column">
+                <div className="tdp-column tdp-col-100 tdp-top-column tdp-element tdp-element-602521cc" data-id="602521cc" data-element_type="column" data-e-type="column">
                   {" "}
-                  <div className="elementor-widget-wrap elementor-element-populated">
+                  <div className="tdp-widget-wrap tdp-element-populated">
                     {" "}
-                    <div className="elementor-element elementor-element-30eb4cc5 elementor-align-start elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="30eb4cc5" data-element_type="widget" data-e-type="widget" data-widget_type="icon-list.default">
+                    <div className="tdp-element tdp-element-30eb4cc5 tdp-align-start tdp-icon-list--layout-traditional tdp-list-item-link-full_width tdp-widget tdp-widget-icon-list" data-id="30eb4cc5" data-element_type="widget" data-e-type="widget" data-widget_type="icon-list.default">
                       {" "}
-                      <ul className="elementor-icon-list-items">
+                      <ul className="tdp-icon-list-items">
                         {" "}
-                        <li className="elementor-icon-list-item">
+                        <li className="tdp-icon-list-item">
                           {" "}
-                          <span className="elementor-icon-list-icon">
+                          <span className="tdp-icon-list-icon">
                             {" "}
                             <i aria-hidden="true" className="vamtamtheme- vamtam-theme-brand-symbol"></i>
                             {" "}
                           </span>
                           {" "}
-                          <span className="elementor-icon-list-text">
+                          <span className="tdp-icon-list-text">
                             {"¿Por qué las empresas deberían contar con Telefonía IP?"}
                           </span>
                           {" "}
@@ -218,21 +218,21 @@ export default function PageTelefoniaip({ path }: { path: string }) {
               {" "}
             </section>
             {" "}
-            <section className="elementor-section elementor-top-section elementor-element elementor-element-1a89244 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="1a89244" data-element_type="section" data-e-type="section">
+            <section className="tdp-section tdp-top-section tdp-element tdp-element-1a89244 tdp-section-boxed tdp-section-height-default tdp-section-height-default" data-id="1a89244" data-element_type="section" data-e-type="section">
               {" "}
-              <div className="elementor-container elementor-column-gap-no">
+              <div className="tdp-container tdp-column-gap-no">
                 {" "}
-                <div className="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-3c2923f9" data-id="3c2923f9" data-element_type="column" data-e-type="column">
+                <div className="tdp-column tdp-col-33 tdp-top-column tdp-element tdp-element-3c2923f9" data-id="3c2923f9" data-element_type="column" data-e-type="column">
                   {" "}
-                  <div className="elementor-widget-wrap elementor-element-populated">
+                  <div className="tdp-widget-wrap tdp-element-populated">
                     {" "}
-                    <div className="elementor-element elementor-element-24519119 elementor-position-inline-start elementor-mobile-position-inline-start elementor-view-default elementor-widget elementor-widget-icon-box" data-id="24519119" data-element_type="widget" data-e-type="widget" data-widget_type="icon-box.default">
+                    <div className="tdp-element tdp-element-24519119 tdp-position-inline-start tdp-mobile-position-inline-start tdp-view-default tdp-widget tdp-widget-icon-box" data-id="24519119" data-element_type="widget" data-e-type="widget" data-widget_type="icon-box.default">
                       {" "}
-                      <div className="elementor-icon-box-wrapper">
+                      <div className="tdp-icon-box-wrapper">
                         {" "}
-                        <div className="elementor-icon-box-icon">
+                        <div className="tdp-icon-box-icon">
                           {" "}
-                          <span className="elementor-icon">
+                          <span className="tdp-icon">
                             {" "}
                             <i aria-hidden="true" className="vamtamtheme- vamtam-theme-check"></i>
                             {" "}
@@ -240,9 +240,9 @@ export default function PageTelefoniaip({ path }: { path: string }) {
                           {" "}
                         </div>
                         {" "}
-                        <div className="elementor-icon-box-content">
+                        <div className="tdp-icon-box-content">
                           {" "}
-                          <div className="elementor-icon-box-title">
+                          <div className="tdp-icon-box-title">
                             {" "}
                             <span>
                               {" Reducción de Costos "}
@@ -250,7 +250,7 @@ export default function PageTelefoniaip({ path }: { path: string }) {
                             {" "}
                           </div>
                           {" "}
-                          <p className="elementor-icon-box-description">
+                          <p className="tdp-icon-box-description">
                             {" Minimiza los costos de comunicación al usar tecnología IP, evitando cargos adicionales por larga distancia y ofreciendo tarifas más competitivas. "}
                           </p>
                           {" "}
@@ -264,17 +264,17 @@ export default function PageTelefoniaip({ path }: { path: string }) {
                   {" "}
                 </div>
                 {" "}
-                <div className="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-4ce02bee" data-id="4ce02bee" data-element_type="column" data-e-type="column">
+                <div className="tdp-column tdp-col-33 tdp-top-column tdp-element tdp-element-4ce02bee" data-id="4ce02bee" data-element_type="column" data-e-type="column">
                   {" "}
-                  <div className="elementor-widget-wrap elementor-element-populated">
+                  <div className="tdp-widget-wrap tdp-element-populated">
                     {" "}
-                    <div className="elementor-element elementor-element-35af6906 elementor-position-inline-start elementor-mobile-position-inline-start elementor-view-default elementor-widget elementor-widget-icon-box" data-id="35af6906" data-element_type="widget" data-e-type="widget" data-widget_type="icon-box.default">
+                    <div className="tdp-element tdp-element-35af6906 tdp-position-inline-start tdp-mobile-position-inline-start tdp-view-default tdp-widget tdp-widget-icon-box" data-id="35af6906" data-element_type="widget" data-e-type="widget" data-widget_type="icon-box.default">
                       {" "}
-                      <div className="elementor-icon-box-wrapper">
+                      <div className="tdp-icon-box-wrapper">
                         {" "}
-                        <div className="elementor-icon-box-icon">
+                        <div className="tdp-icon-box-icon">
                           {" "}
-                          <span className="elementor-icon">
+                          <span className="tdp-icon">
                             {" "}
                             <i aria-hidden="true" className="vamtamtheme- vamtam-theme-check"></i>
                             {" "}
@@ -282,9 +282,9 @@ export default function PageTelefoniaip({ path }: { path: string }) {
                           {" "}
                         </div>
                         {" "}
-                        <div className="elementor-icon-box-content">
+                        <div className="tdp-icon-box-content">
                           {" "}
-                          <div className="elementor-icon-box-title">
+                          <div className="tdp-icon-box-title">
                             {" "}
                             <span>
                               {" Escalabilidad y Flexibilidad "}
@@ -292,7 +292,7 @@ export default function PageTelefoniaip({ path }: { path: string }) {
                             {" "}
                           </div>
                           {" "}
-                          <p className="elementor-icon-box-description">
+                          <p className="tdp-icon-box-description">
                             {" Ajusta la infraestructura según el crecimiento de tu empresa, sin necesidad de complejas instalaciones o mantenimiento costoso. "}
                           </p>
                           {" "}
@@ -306,17 +306,17 @@ export default function PageTelefoniaip({ path }: { path: string }) {
                   {" "}
                 </div>
                 {" "}
-                <div className="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-627b5fae" data-id="627b5fae" data-element_type="column" data-e-type="column">
+                <div className="tdp-column tdp-col-33 tdp-top-column tdp-element tdp-element-627b5fae" data-id="627b5fae" data-element_type="column" data-e-type="column">
                   {" "}
-                  <div className="elementor-widget-wrap elementor-element-populated">
+                  <div className="tdp-widget-wrap tdp-element-populated">
                     {" "}
-                    <div className="elementor-element elementor-element-4a1a32b9 elementor-position-inline-start elementor-mobile-position-inline-start elementor-view-default elementor-widget elementor-widget-icon-box" data-id="4a1a32b9" data-element_type="widget" data-e-type="widget" data-widget_type="icon-box.default">
+                    <div className="tdp-element tdp-element-4a1a32b9 tdp-position-inline-start tdp-mobile-position-inline-start tdp-view-default tdp-widget tdp-widget-icon-box" data-id="4a1a32b9" data-element_type="widget" data-e-type="widget" data-widget_type="icon-box.default">
                       {" "}
-                      <div className="elementor-icon-box-wrapper">
+                      <div className="tdp-icon-box-wrapper">
                         {" "}
-                        <div className="elementor-icon-box-icon">
+                        <div className="tdp-icon-box-icon">
                           {" "}
-                          <span className="elementor-icon">
+                          <span className="tdp-icon">
                             {" "}
                             <i aria-hidden="true" className="vamtamtheme- vamtam-theme-check"></i>
                             {" "}
@@ -324,9 +324,9 @@ export default function PageTelefoniaip({ path }: { path: string }) {
                           {" "}
                         </div>
                         {" "}
-                        <div className="elementor-icon-box-content">
+                        <div className="tdp-icon-box-content">
                           {" "}
-                          <div className="elementor-icon-box-title">
+                          <div className="tdp-icon-box-title">
                             {" "}
                             <span>
                               {" Conectividad Remota "}
@@ -334,7 +334,7 @@ export default function PageTelefoniaip({ path }: { path: string }) {
                             {" "}
                           </div>
                           {" "}
-                          <p className="elementor-icon-box-description">
+                          <p className="tdp-icon-box-description">
                             {" Facilita la comunicación entre empleados y clientes en cualquier lugar, permitiendo conexiones de voz seguras y estables desde cualquier dispositivo. "}
                           </p>
                           {" "}
@@ -352,21 +352,21 @@ export default function PageTelefoniaip({ path }: { path: string }) {
               {" "}
             </section>
             {" "}
-            <section className="elementor-section elementor-top-section elementor-element elementor-element-53685c5c elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="53685c5c" data-element_type="section" data-e-type="section">
+            <section className="tdp-section tdp-top-section tdp-element tdp-element-53685c5c tdp-section-boxed tdp-section-height-default tdp-section-height-default" data-id="53685c5c" data-element_type="section" data-e-type="section">
               {" "}
-              <div className="elementor-container elementor-column-gap-no">
+              <div className="tdp-container tdp-column-gap-no">
                 {" "}
-                <div className="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-5fd7e51" data-id="5fd7e51" data-element_type="column" data-e-type="column">
+                <div className="tdp-column tdp-col-33 tdp-top-column tdp-element tdp-element-5fd7e51" data-id="5fd7e51" data-element_type="column" data-e-type="column">
                   {" "}
-                  <div className="elementor-widget-wrap elementor-element-populated">
+                  <div className="tdp-widget-wrap tdp-element-populated">
                     {" "}
-                    <div className="elementor-element elementor-element-1e21688e elementor-position-inline-start elementor-mobile-position-inline-start elementor-view-default elementor-widget elementor-widget-icon-box" data-id="1e21688e" data-element_type="widget" data-e-type="widget" data-widget_type="icon-box.default">
+                    <div className="tdp-element tdp-element-1e21688e tdp-position-inline-start tdp-mobile-position-inline-start tdp-view-default tdp-widget tdp-widget-icon-box" data-id="1e21688e" data-element_type="widget" data-e-type="widget" data-widget_type="icon-box.default">
                       {" "}
-                      <div className="elementor-icon-box-wrapper">
+                      <div className="tdp-icon-box-wrapper">
                         {" "}
-                        <div className="elementor-icon-box-icon">
+                        <div className="tdp-icon-box-icon">
                           {" "}
-                          <span className="elementor-icon">
+                          <span className="tdp-icon">
                             {" "}
                             <i aria-hidden="true" className="vamtamtheme- vamtam-theme-check"></i>
                             {" "}
@@ -374,9 +374,9 @@ export default function PageTelefoniaip({ path }: { path: string }) {
                           {" "}
                         </div>
                         {" "}
-                        <div className="elementor-icon-box-content">
+                        <div className="tdp-icon-box-content">
                           {" "}
-                          <div className="elementor-icon-box-title">
+                          <div className="tdp-icon-box-title">
                             {" "}
                             <span>
                               {" Integración con CRM "}
@@ -384,7 +384,7 @@ export default function PageTelefoniaip({ path }: { path: string }) {
                             {" "}
                           </div>
                           {" "}
-                          <p className="elementor-icon-box-description">
+                          <p className="tdp-icon-box-description">
                             {" Mejora la gestión de llamadas al integrar el sistema de telefonía con el CRM, optimizando el manejo de información y el seguimiento de clientes. "}
                           </p>
                           {" "}
@@ -398,17 +398,17 @@ export default function PageTelefoniaip({ path }: { path: string }) {
                   {" "}
                 </div>
                 {" "}
-                <div className="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-384ebb74" data-id="384ebb74" data-element_type="column" data-e-type="column">
+                <div className="tdp-column tdp-col-33 tdp-top-column tdp-element tdp-element-384ebb74" data-id="384ebb74" data-element_type="column" data-e-type="column">
                   {" "}
-                  <div className="elementor-widget-wrap elementor-element-populated">
+                  <div className="tdp-widget-wrap tdp-element-populated">
                     {" "}
-                    <div className="elementor-element elementor-element-d92202f elementor-position-inline-start elementor-mobile-position-inline-start elementor-view-default elementor-widget elementor-widget-icon-box" data-id="d92202f" data-element_type="widget" data-e-type="widget" data-widget_type="icon-box.default">
+                    <div className="tdp-element tdp-element-d92202f tdp-position-inline-start tdp-mobile-position-inline-start tdp-view-default tdp-widget tdp-widget-icon-box" data-id="d92202f" data-element_type="widget" data-e-type="widget" data-widget_type="icon-box.default">
                       {" "}
-                      <div className="elementor-icon-box-wrapper">
+                      <div className="tdp-icon-box-wrapper">
                         {" "}
-                        <div className="elementor-icon-box-icon">
+                        <div className="tdp-icon-box-icon">
                           {" "}
-                          <span className="elementor-icon">
+                          <span className="tdp-icon">
                             {" "}
                             <i aria-hidden="true" className="vamtamtheme- vamtam-theme-check"></i>
                             {" "}
@@ -416,9 +416,9 @@ export default function PageTelefoniaip({ path }: { path: string }) {
                           {" "}
                         </div>
                         {" "}
-                        <div className="elementor-icon-box-content">
+                        <div className="tdp-icon-box-content">
                           {" "}
-                          <div className="elementor-icon-box-title">
+                          <div className="tdp-icon-box-title">
                             {" "}
                             <span>
                               {" Grabación de llamadas "}
@@ -426,7 +426,7 @@ export default function PageTelefoniaip({ path }: { path: string }) {
                             {" "}
                           </div>
                           {" "}
-                          <p className="elementor-icon-box-description">
+                          <p className="tdp-icon-box-description">
                             {" Guarda históricos de audios para validar calidad en el servicio y tener respaldos ante quejas o reclamos de usuarios. "}
                           </p>
                           {" "}
@@ -440,17 +440,17 @@ export default function PageTelefoniaip({ path }: { path: string }) {
                   {" "}
                 </div>
                 {" "}
-                <div className="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-3cb01aef" data-id="3cb01aef" data-element_type="column" data-e-type="column">
+                <div className="tdp-column tdp-col-33 tdp-top-column tdp-element tdp-element-3cb01aef" data-id="3cb01aef" data-element_type="column" data-e-type="column">
                   {" "}
-                  <div className="elementor-widget-wrap elementor-element-populated">
+                  <div className="tdp-widget-wrap tdp-element-populated">
                     {" "}
-                    <div className="elementor-element elementor-element-8c34a2c elementor-position-inline-start elementor-mobile-position-inline-start elementor-view-default elementor-widget elementor-widget-icon-box" data-id="8c34a2c" data-element_type="widget" data-e-type="widget" data-widget_type="icon-box.default">
+                    <div className="tdp-element tdp-element-8c34a2c tdp-position-inline-start tdp-mobile-position-inline-start tdp-view-default tdp-widget tdp-widget-icon-box" data-id="8c34a2c" data-element_type="widget" data-e-type="widget" data-widget_type="icon-box.default">
                       {" "}
-                      <div className="elementor-icon-box-wrapper">
+                      <div className="tdp-icon-box-wrapper">
                         {" "}
-                        <div className="elementor-icon-box-icon">
+                        <div className="tdp-icon-box-icon">
                           {" "}
-                          <span className="elementor-icon">
+                          <span className="tdp-icon">
                             {" "}
                             <i aria-hidden="true" className="vamtamtheme- vamtam-theme-check"></i>
                             {" "}
@@ -458,9 +458,9 @@ export default function PageTelefoniaip({ path }: { path: string }) {
                           {" "}
                         </div>
                         {" "}
-                        <div className="elementor-icon-box-content">
+                        <div className="tdp-icon-box-content">
                           {" "}
-                          <div className="elementor-icon-box-title">
+                          <div className="tdp-icon-box-title">
                             {" "}
                             <span>
                               {" Aceptación política de datos "}
@@ -468,7 +468,7 @@ export default function PageTelefoniaip({ path }: { path: string }) {
                             {" "}
                           </div>
                           {" "}
-                          <p className="elementor-icon-box-description">
+                          <p className="tdp-icon-box-description">
                             {" Nuestro sistema permite aceptar el tratamiento de datos personales digitando una aceptación telefónica, de esta forma cumple con los procesos de ley. "}
                           </p>
                           {" "}
@@ -486,17 +486,17 @@ export default function PageTelefoniaip({ path }: { path: string }) {
               {" "}
             </section>
             {" "}
-            <div className="elementor-element elementor-element-54b217d e-flex e-con-boxed e-con e-parent" data-id="54b217d" data-element_type="container" data-e-type="container">
+            <div className="tdp-element tdp-element-54b217d e-flex e-con-boxed e-con e-parent" data-id="54b217d" data-element_type="container" data-e-type="container">
               {" "}
               <div className="e-con-inner">
                 {" "}
-                <div className="elementor-element elementor-element-2959ae1 elementor-widget__width-auto elementor-align-center elementor-mobile-align-justify elementor-widget-mobile__width-initial elementor-widget elementor-widget-button" data-id="2959ae1" data-element_type="widget" data-e-type="widget" data-widget_type="button.default">
+                <div className="tdp-element tdp-element-2959ae1 tdp-widget__width-auto tdp-align-center tdp-mobile-align-justify tdp-widget-mobile__width-initial tdp-widget tdp-widget-button" data-id="2959ae1" data-element_type="widget" data-e-type="widget" data-widget_type="button.default">
                   {" "}
-                  <a className="elementor-button elementor-size-sm" role="button">
+                  <a className="tdp-button tdp-size-sm" role="button">
                     {" "}
-                    <span className="elementor-button-content-wrapper">
+                    <span className="tdp-button-content-wrapper">
                       {" "}
-                      <span className="elementor-button-icon">
+                      <span className="tdp-button-icon">
                         {" "}
                         <svg aria-hidden="true" className="e-font-icon-svg e-fab-whatsapp" viewBox="0 0 448 512" xmlns="http://www.w3.org/2000/svg">
                           <path d="M380.9 97.1C339 55.1 283.2 32 223.9 32c-122.4 0-222 99.6-222 222 0 39.1 10.2 77.3 29.6 111L0 480l117.7-30.9c32.4 17.7 68.9 27 106.1 27h.1c122.3 0 224.1-99.6 224.1-222 0-59.3-25.2-115-67.1-157zm-157 341.6c-33.2 0-65.7-8.9-94-25.7l-6.7-4-69.8 18.3L72 359.2l-4.4-7c-18.5-29.4-28.2-63.3-28.2-98.2 0-101.7 82.8-184.5 184.6-184.5 49.3 0 95.6 19.2 130.4 54.1 34.8 34.9 56.2 81.2 56.1 130.5 0 101.8-84.9 184.6-186.6 184.6zm101.2-138.2c-5.5-2.8-32.8-16.2-37.9-18-5.1-1.9-8.8-2.8-12.5 2.8-3.7 5.6-14.3 18-17.6 21.8-3.2 3.7-6.5 4.2-12 1.4-32.6-16.3-54-29.1-75.5-66-5.7-9.8 5.7-9.1 16.3-30.3 1.8-3.7.9-6.9-.5-9.7-1.4-2.8-12.5-30.1-17.1-41.2-4.5-10.8-9.1-9.3-12.5-9.5-3.2-.2-6.9-.2-10.6-.2-3.7 0-9.7 1.4-14.8 6.9-5.1 5.6-19.4 19-19.4 46.3 0 27.3 19.9 53.7 22.6 57.4 2.8 3.7 39.1 59.7 94.8 83.8 35.2 15.2 49 16.5 66.6 13.9 10.7-1.6 32.8-13.4 37.4-26.4 4.6-13 4.6-24.1 3.2-26.4-1.3-2.5-5-3.9-10.5-6.6z"></path>
@@ -504,7 +504,7 @@ export default function PageTelefoniaip({ path }: { path: string }) {
                         {" "}
                       </span>
                       {" "}
-                      <span className="elementor-button-text">
+                      <span className="tdp-button-text">
                         {"Más Información"}
                       </span>
                       {" "}
@@ -518,55 +518,55 @@ export default function PageTelefoniaip({ path }: { path: string }) {
               {" "}
             </div>
             {" "}
-            <section className="elementor-section elementor-top-section elementor-element elementor-element-1e0d17d elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="1e0d17d" data-element_type="section" data-e-type="section">
+            <section className="tdp-section tdp-top-section tdp-element tdp-element-1e0d17d tdp-section-full_width tdp-section-height-default tdp-section-height-default" data-id="1e0d17d" data-element_type="section" data-e-type="section">
               {" "}
-              <div className="elementor-container elementor-column-gap-no">
+              <div className="tdp-container tdp-column-gap-no">
                 {" "}
-                <div className="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-10d36cf5" data-id="10d36cf5" data-element_type="column" data-e-type="column">
+                <div className="tdp-column tdp-col-100 tdp-top-column tdp-element tdp-element-10d36cf5" data-id="10d36cf5" data-element_type="column" data-e-type="column">
                   {" "}
-                  <div className="elementor-widget-wrap elementor-element-populated">
+                  <div className="tdp-widget-wrap tdp-element-populated">
                     {" "}
-                    <div className="elementor-element elementor-element-4dcbdb86 elementor-absolute elementor-widget elementor-widget-template" data-id="4dcbdb86" data-element_type="widget" data-e-type="widget" data-settings={"{\"_position\":\"absolute\"}"} data-widget_type="template.default">
+                    <div className="tdp-element tdp-element-4dcbdb86 tdp-absolute tdp-widget tdp-widget-template" data-id="4dcbdb86" data-element_type="widget" data-e-type="widget" data-settings={"{\"_position\":\"absolute\"}"} data-widget_type="template.default">
                       {" "}
-                      <div className="elementor-widget-container">
+                      <div className="tdp-widget-container">
                         {" "}
-                        <div className="elementor-template">
+                        <div className="tdp-template">
                           {" "}
-                          <div data-elementor-type="section" data-elementor-id="10889" className="elementor elementor-10889" data-elementor-post-type="elementor_library">
+                          <div data-tdp-type="section" data-tdp-id="10889" className="tdp tdp-10889" data-tdp-post-type="tdp_library">
                             {" "}
-                            <section className="elementor-section elementor-top-section elementor-element elementor-element-aff5d0f elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="aff5d0f" data-element_type="section" data-e-type="section" data-settings={"{\"motion_fx_motion_fx_scrolling\":\"yes\",\"motion_fx_translateY_effect\":\"yes\",\"motion_fx_translateY_speed\":{\"unit\":\"px\",\"size\":1,\"sizes\":[]},\"motion_fx_translateY_affectedRange\":{\"unit\":\"%\",\"size\":\"\",\"sizes\":{\"start\":0,\"end\":58}},\"motion_fx_devices\":[\"desktop\"]}"}>
+                            <section className="tdp-section tdp-top-section tdp-element tdp-element-aff5d0f tdp-section-full_width tdp-section-height-default tdp-section-height-default" data-id="aff5d0f" data-element_type="section" data-e-type="section" data-settings={"{\"motion_fx_motion_fx_scrolling\":\"yes\",\"motion_fx_translateY_effect\":\"yes\",\"motion_fx_translateY_speed\":{\"unit\":\"px\",\"size\":1,\"sizes\":[]},\"motion_fx_translateY_affectedRange\":{\"unit\":\"%\",\"size\":\"\",\"sizes\":{\"start\":0,\"end\":58}},\"motion_fx_devices\":[\"desktop\"]}"}>
                               {" "}
-                              <div className="elementor-container elementor-column-gap-no">
+                              <div className="tdp-container tdp-column-gap-no">
                                 {" "}
-                                <div className="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-70019ce" data-id="70019ce" data-element_type="column" data-e-type="column">
+                                <div className="tdp-column tdp-col-100 tdp-top-column tdp-element tdp-element-70019ce" data-id="70019ce" data-element_type="column" data-e-type="column">
                                   {" "}
-                                  <div className="elementor-widget-wrap elementor-element-populated">
+                                  <div className="tdp-widget-wrap tdp-element-populated">
                                     {" "}
-                                    <div className="elementor-element elementor-element-6ed649e elementor-widget__width-initial e-transform elementor-absolute elementor-widget elementor-widget-spacer" data-id="6ed649e" data-element_type="widget" data-e-type="widget" data-settings={"{\"_transform_skewX_effect\":{\"unit\":\"px\",\"size\":-20,\"sizes\":[]},\"_position\":\"absolute\",\"_transform_skewX_effect_tablet\":{\"unit\":\"deg\",\"size\":\"\",\"sizes\":[]},\"_transform_skewX_effect_mobile\":{\"unit\":\"deg\",\"size\":\"\",\"sizes\":[]},\"_transform_skewY_effect\":{\"unit\":\"px\",\"size\":\"\",\"sizes\":[]},\"_transform_skewY_effect_tablet\":{\"unit\":\"deg\",\"size\":\"\",\"sizes\":[]},\"_transform_skewY_effect_mobile\":{\"unit\":\"deg\",\"size\":\"\",\"sizes\":[]}}"} data-widget_type="spacer.default">
+                                    <div className="tdp-element tdp-element-6ed649e tdp-widget__width-initial e-transform tdp-absolute tdp-widget tdp-widget-spacer" data-id="6ed649e" data-element_type="widget" data-e-type="widget" data-settings={"{\"_transform_skewX_effect\":{\"unit\":\"px\",\"size\":-20,\"sizes\":[]},\"_position\":\"absolute\",\"_transform_skewX_effect_tablet\":{\"unit\":\"deg\",\"size\":\"\",\"sizes\":[]},\"_transform_skewX_effect_mobile\":{\"unit\":\"deg\",\"size\":\"\",\"sizes\":[]},\"_transform_skewY_effect\":{\"unit\":\"px\",\"size\":\"\",\"sizes\":[]},\"_transform_skewY_effect_tablet\":{\"unit\":\"deg\",\"size\":\"\",\"sizes\":[]},\"_transform_skewY_effect_mobile\":{\"unit\":\"deg\",\"size\":\"\",\"sizes\":[]}}"} data-widget_type="spacer.default">
                                       {" "}
-                                      <div className="elementor-spacer">
+                                      <div className="tdp-spacer">
                                         {" "}
-                                        <div className="elementor-spacer-inner"></div>
+                                        <div className="tdp-spacer-inner"></div>
                                         {" "}
                                       </div>
                                       {" "}
                                     </div>
                                     {" "}
-                                    <div className="elementor-element elementor-element-c25e4d3 elementor-widget__width-initial e-transform elementor-absolute elementor-widget elementor-widget-spacer" data-id="c25e4d3" data-element_type="widget" data-e-type="widget" data-settings={"{\"_transform_skewX_effect\":{\"unit\":\"px\",\"size\":-20,\"sizes\":[]},\"_position\":\"absolute\",\"_transform_skewX_effect_tablet\":{\"unit\":\"deg\",\"size\":\"\",\"sizes\":[]},\"_transform_skewX_effect_mobile\":{\"unit\":\"deg\",\"size\":\"\",\"sizes\":[]},\"_transform_skewY_effect\":{\"unit\":\"px\",\"size\":\"\",\"sizes\":[]},\"_transform_skewY_effect_tablet\":{\"unit\":\"deg\",\"size\":\"\",\"sizes\":[]},\"_transform_skewY_effect_mobile\":{\"unit\":\"deg\",\"size\":\"\",\"sizes\":[]}}"} data-widget_type="spacer.default">
+                                    <div className="tdp-element tdp-element-c25e4d3 tdp-widget__width-initial e-transform tdp-absolute tdp-widget tdp-widget-spacer" data-id="c25e4d3" data-element_type="widget" data-e-type="widget" data-settings={"{\"_transform_skewX_effect\":{\"unit\":\"px\",\"size\":-20,\"sizes\":[]},\"_position\":\"absolute\",\"_transform_skewX_effect_tablet\":{\"unit\":\"deg\",\"size\":\"\",\"sizes\":[]},\"_transform_skewX_effect_mobile\":{\"unit\":\"deg\",\"size\":\"\",\"sizes\":[]},\"_transform_skewY_effect\":{\"unit\":\"px\",\"size\":\"\",\"sizes\":[]},\"_transform_skewY_effect_tablet\":{\"unit\":\"deg\",\"size\":\"\",\"sizes\":[]},\"_transform_skewY_effect_mobile\":{\"unit\":\"deg\",\"size\":\"\",\"sizes\":[]}}"} data-widget_type="spacer.default">
                                       {" "}
-                                      <div className="elementor-spacer">
+                                      <div className="tdp-spacer">
                                         {" "}
-                                        <div className="elementor-spacer-inner"></div>
+                                        <div className="tdp-spacer-inner"></div>
                                         {" "}
                                       </div>
                                       {" "}
                                     </div>
                                     {" "}
-                                    <div className="elementor-element elementor-element-71e2d13 elementor-widget__width-initial e-transform elementor-absolute elementor-widget elementor-widget-spacer" data-id="71e2d13" data-element_type="widget" data-e-type="widget" data-settings={"{\"_transform_skewX_effect\":{\"unit\":\"px\",\"size\":-20,\"sizes\":[]},\"_position\":\"absolute\",\"_transform_skewX_effect_tablet\":{\"unit\":\"deg\",\"size\":\"\",\"sizes\":[]},\"_transform_skewX_effect_mobile\":{\"unit\":\"deg\",\"size\":\"\",\"sizes\":[]},\"_transform_skewY_effect\":{\"unit\":\"px\",\"size\":\"\",\"sizes\":[]},\"_transform_skewY_effect_tablet\":{\"unit\":\"deg\",\"size\":\"\",\"sizes\":[]},\"_transform_skewY_effect_mobile\":{\"unit\":\"deg\",\"size\":\"\",\"sizes\":[]}}"} data-widget_type="spacer.default">
+                                    <div className="tdp-element tdp-element-71e2d13 tdp-widget__width-initial e-transform tdp-absolute tdp-widget tdp-widget-spacer" data-id="71e2d13" data-element_type="widget" data-e-type="widget" data-settings={"{\"_transform_skewX_effect\":{\"unit\":\"px\",\"size\":-20,\"sizes\":[]},\"_position\":\"absolute\",\"_transform_skewX_effect_tablet\":{\"unit\":\"deg\",\"size\":\"\",\"sizes\":[]},\"_transform_skewX_effect_mobile\":{\"unit\":\"deg\",\"size\":\"\",\"sizes\":[]},\"_transform_skewY_effect\":{\"unit\":\"px\",\"size\":\"\",\"sizes\":[]},\"_transform_skewY_effect_tablet\":{\"unit\":\"deg\",\"size\":\"\",\"sizes\":[]},\"_transform_skewY_effect_mobile\":{\"unit\":\"deg\",\"size\":\"\",\"sizes\":[]}}"} data-widget_type="spacer.default">
                                       {" "}
-                                      <div className="elementor-spacer">
+                                      <div className="tdp-spacer">
                                         {" "}
-                                        <div className="elementor-spacer-inner"></div>
+                                        <div className="tdp-spacer-inner"></div>
                                         {" "}
                                       </div>
                                       {" "}
@@ -588,27 +588,27 @@ export default function PageTelefoniaip({ path }: { path: string }) {
                       {" "}
                     </div>
                     {" "}
-                    <section className="elementor-section elementor-inner-section elementor-element elementor-element-3bd50154 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="3bd50154" data-element_type="section" data-e-type="section" data-settings={"{\"background_background\":\"classic\"}"}>
+                    <section className="tdp-section tdp-inner-section tdp-element tdp-element-3bd50154 tdp-section-boxed tdp-section-height-default tdp-section-height-default" data-id="3bd50154" data-element_type="section" data-e-type="section" data-settings={"{\"background_background\":\"classic\"}"}>
                       {" "}
-                      <div className="elementor-container elementor-column-gap-no">
+                      <div className="tdp-container tdp-column-gap-no">
                         {" "}
-                        <div className="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-1abdea65" data-id="1abdea65" data-element_type="column" data-e-type="column">
+                        <div className="tdp-column tdp-col-100 tdp-inner-column tdp-element tdp-element-1abdea65" data-id="1abdea65" data-element_type="column" data-e-type="column">
                           {" "}
-                          <div className="elementor-widget-wrap elementor-element-populated">
+                          <div className="tdp-widget-wrap tdp-element-populated">
                             {" "}
-                            <div className="elementor-element elementor-element-73f1c59 elementor-align-start elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="73f1c59" data-element_type="widget" data-e-type="widget" data-widget_type="icon-list.default">
+                            <div className="tdp-element tdp-element-73f1c59 tdp-align-start tdp-icon-list--layout-traditional tdp-list-item-link-full_width tdp-widget tdp-widget-icon-list" data-id="73f1c59" data-element_type="widget" data-e-type="widget" data-widget_type="icon-list.default">
                               {" "}
-                              <ul className="elementor-icon-list-items">
+                              <ul className="tdp-icon-list-items">
                                 {" "}
-                                <li className="elementor-icon-list-item">
+                                <li className="tdp-icon-list-item">
                                   {" "}
-                                  <span className="elementor-icon-list-icon">
+                                  <span className="tdp-icon-list-icon">
                                     {" "}
                                     <i aria-hidden="true" className="vamtamtheme- vamtam-theme-brand-symbol"></i>
                                     {" "}
                                   </span>
                                   {" "}
-                                  <span className="elementor-icon-list-text">
+                                  <span className="tdp-icon-list-text">
                                     {"Características"}
                                   </span>
                                   {" "}
@@ -618,9 +618,9 @@ export default function PageTelefoniaip({ path }: { path: string }) {
                               {" "}
                             </div>
                             {" "}
-                            <div className="elementor-element elementor-element-7a44750b elementor-widget__width-initial elementor-widget elementor-widget-heading" data-id="7a44750b" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+                            <div className="tdp-element tdp-element-7a44750b tdp-widget__width-initial tdp-widget tdp-widget-heading" data-id="7a44750b" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
                               {" "}
-                              <h2 className="elementor-heading-title elementor-size-default">
+                              <h2 className="tdp-heading-title tdp-size-default">
                                 {"Funcionalidades de nuestra Telefonía IP"}
                               </h2>
                               {" "}
@@ -634,37 +634,37 @@ export default function PageTelefoniaip({ path }: { path: string }) {
                       {" "}
                     </section>
                     {" "}
-                    <section className="elementor-section elementor-inner-section elementor-element elementor-element-d2a9257 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="d2a9257" data-element_type="section" data-e-type="section" data-settings={"{\"background_background\":\"classic\"}"}>
+                    <section className="tdp-section tdp-inner-section tdp-element tdp-element-d2a9257 tdp-section-boxed tdp-section-height-default tdp-section-height-default" data-id="d2a9257" data-element_type="section" data-e-type="section" data-settings={"{\"background_background\":\"classic\"}"}>
                       {" "}
-                      <div className="elementor-container elementor-column-gap-no">
+                      <div className="tdp-container tdp-column-gap-no">
                         {" "}
-                        <div className="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-6abc8e43" data-id="6abc8e43" data-element_type="column" data-e-type="column" data-settings={"{\"background_background\":\"classic\"}"}>
+                        <div className="tdp-column tdp-col-25 tdp-inner-column tdp-element tdp-element-6abc8e43" data-id="6abc8e43" data-element_type="column" data-e-type="column" data-settings={"{\"background_background\":\"classic\"}"}>
                           {" "}
-                          <div className="elementor-widget-wrap elementor-element-populated">
+                          <div className="tdp-widget-wrap tdp-element-populated">
                             {" "}
-                            <div className="elementor-element elementor-element-6efc8aa0 elementor-widget elementor-widget-menu-anchor" data-id="6efc8aa0" data-element_type="widget" data-e-type="widget" data-widget_type="menu-anchor.default">
+                            <div className="tdp-element tdp-element-6efc8aa0 tdp-widget tdp-widget-menu-anchor" data-id="6efc8aa0" data-element_type="widget" data-e-type="widget" data-widget_type="menu-anchor.default">
                               {" "}
-                              <div className="elementor-menu-anchor" id="Investment"></div>
+                              <div className="tdp-menu-anchor" id="Investment"></div>
                               {" "}
                             </div>
                             {" "}
-                            <div className="elementor-element elementor-element-74301087 elementor-widget elementor-widget-spacer" data-id="74301087" data-element_type="widget" data-e-type="widget" data-widget_type="spacer.default">
+                            <div className="tdp-element tdp-element-74301087 tdp-widget tdp-widget-spacer" data-id="74301087" data-element_type="widget" data-e-type="widget" data-widget_type="spacer.default">
                               {" "}
-                              <div className="elementor-spacer">
+                              <div className="tdp-spacer">
                                 {" "}
-                                <div className="elementor-spacer-inner"></div>
+                                <div className="tdp-spacer-inner"></div>
                                 {" "}
                               </div>
                               {" "}
                             </div>
                             {" "}
-                            <div className="elementor-element elementor-element-4006f93c elementor-view-default elementor-position-block-start elementor-mobile-position-block-start elementor-widget elementor-widget-icon-box" data-id="4006f93c" data-element_type="widget" data-e-type="widget" data-widget_type="icon-box.default">
+                            <div className="tdp-element tdp-element-4006f93c tdp-view-default tdp-position-block-start tdp-mobile-position-block-start tdp-widget tdp-widget-icon-box" data-id="4006f93c" data-element_type="widget" data-e-type="widget" data-widget_type="icon-box.default">
                               {" "}
-                              <div className="elementor-icon-box-wrapper">
+                              <div className="tdp-icon-box-wrapper">
                                 {" "}
-                                <div className="elementor-icon-box-icon">
+                                <div className="tdp-icon-box-icon">
                                   {" "}
-                                  <span className="elementor-icon">
+                                  <span className="tdp-icon">
                                     {" "}
                                     <i aria-hidden="true" className="vamtamtheme- vamtam-theme-check"></i>
                                     {" "}
@@ -672,9 +672,9 @@ export default function PageTelefoniaip({ path }: { path: string }) {
                                   {" "}
                                 </div>
                                 {" "}
-                                <div className="elementor-icon-box-content">
+                                <div className="tdp-icon-box-content">
                                   {" "}
-                                  <h5 className="elementor-icon-box-title">
+                                  <h5 className="tdp-icon-box-title">
                                     {" "}
                                     <span>
                                       {" Comunicaciones Unificadas "}
@@ -682,7 +682,7 @@ export default function PageTelefoniaip({ path }: { path: string }) {
                                     {" "}
                                   </h5>
                                   {" "}
-                                  <p className="elementor-icon-box-description">
+                                  <p className="tdp-icon-box-description">
                                     {" Centraliza llamadas y mensajería instantánea en una sola plataforma, mejorando la colaboración y la productividad del equipo. "}
                                   </p>
                                   {" "}
@@ -696,33 +696,33 @@ export default function PageTelefoniaip({ path }: { path: string }) {
                           {" "}
                         </div>
                         {" "}
-                        <div className="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-18871400" data-id="18871400" data-element_type="column" data-e-type="column" data-settings={"{\"background_background\":\"classic\"}"}>
+                        <div className="tdp-column tdp-col-25 tdp-inner-column tdp-element tdp-element-18871400" data-id="18871400" data-element_type="column" data-e-type="column" data-settings={"{\"background_background\":\"classic\"}"}>
                           {" "}
-                          <div className="elementor-widget-wrap elementor-element-populated">
+                          <div className="tdp-widget-wrap tdp-element-populated">
                             {" "}
-                            <div className="elementor-element elementor-element-6e8737c4 elementor-widget elementor-widget-menu-anchor" data-id="6e8737c4" data-element_type="widget" data-e-type="widget" data-widget_type="menu-anchor.default">
+                            <div className="tdp-element tdp-element-6e8737c4 tdp-widget tdp-widget-menu-anchor" data-id="6e8737c4" data-element_type="widget" data-e-type="widget" data-widget_type="menu-anchor.default">
                               {" "}
-                              <div className="elementor-menu-anchor" id="Retirement"></div>
+                              <div className="tdp-menu-anchor" id="Retirement"></div>
                               {" "}
                             </div>
                             {" "}
-                            <div className="elementor-element elementor-element-55135424 elementor-widget elementor-widget-spacer" data-id="55135424" data-element_type="widget" data-e-type="widget" data-widget_type="spacer.default">
+                            <div className="tdp-element tdp-element-55135424 tdp-widget tdp-widget-spacer" data-id="55135424" data-element_type="widget" data-e-type="widget" data-widget_type="spacer.default">
                               {" "}
-                              <div className="elementor-spacer">
+                              <div className="tdp-spacer">
                                 {" "}
-                                <div className="elementor-spacer-inner"></div>
+                                <div className="tdp-spacer-inner"></div>
                                 {" "}
                               </div>
                               {" "}
                             </div>
                             {" "}
-                            <div className="elementor-element elementor-element-9af3a9c elementor-view-default elementor-position-block-start elementor-mobile-position-block-start elementor-widget elementor-widget-icon-box" data-id="9af3a9c" data-element_type="widget" data-e-type="widget" data-widget_type="icon-box.default">
+                            <div className="tdp-element tdp-element-9af3a9c tdp-view-default tdp-position-block-start tdp-mobile-position-block-start tdp-widget tdp-widget-icon-box" data-id="9af3a9c" data-element_type="widget" data-e-type="widget" data-widget_type="icon-box.default">
                               {" "}
-                              <div className="elementor-icon-box-wrapper">
+                              <div className="tdp-icon-box-wrapper">
                                 {" "}
-                                <div className="elementor-icon-box-icon">
+                                <div className="tdp-icon-box-icon">
                                   {" "}
-                                  <span className="elementor-icon">
+                                  <span className="tdp-icon">
                                     {" "}
                                     <i aria-hidden="true" className="vamtamtheme- vamtam-theme-check"></i>
                                     {" "}
@@ -730,9 +730,9 @@ export default function PageTelefoniaip({ path }: { path: string }) {
                                   {" "}
                                 </div>
                                 {" "}
-                                <div className="elementor-icon-box-content">
+                                <div className="tdp-icon-box-content">
                                   {" "}
-                                  <h5 className="elementor-icon-box-title">
+                                  <h5 className="tdp-icon-box-title">
                                     {" "}
                                     <span>
                                       {" Movilidad Total para todos en tu empresa "}
@@ -740,7 +740,7 @@ export default function PageTelefoniaip({ path }: { path: string }) {
                                     {" "}
                                   </h5>
                                   {" "}
-                                  <p className="elementor-icon-box-description">
+                                  <p className="tdp-icon-box-description">
                                     {" Lleva la oficina contigo; realiza y recibe llamadas desde cualquier dispositivo conectado a internet, ideal para equipos remotos. "}
                                   </p>
                                   {" "}
@@ -754,33 +754,33 @@ export default function PageTelefoniaip({ path }: { path: string }) {
                           {" "}
                         </div>
                         {" "}
-                        <div className="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-49929496" data-id="49929496" data-element_type="column" data-e-type="column" data-settings={"{\"background_background\":\"classic\"}"}>
+                        <div className="tdp-column tdp-col-25 tdp-inner-column tdp-element tdp-element-49929496" data-id="49929496" data-element_type="column" data-e-type="column" data-settings={"{\"background_background\":\"classic\"}"}>
                           {" "}
-                          <div className="elementor-widget-wrap elementor-element-populated">
+                          <div className="tdp-widget-wrap tdp-element-populated">
                             {" "}
-                            <div className="elementor-element elementor-element-2c8b53e8 elementor-widget elementor-widget-menu-anchor" data-id="2c8b53e8" data-element_type="widget" data-e-type="widget" data-widget_type="menu-anchor.default">
+                            <div className="tdp-element tdp-element-2c8b53e8 tdp-widget tdp-widget-menu-anchor" data-id="2c8b53e8" data-element_type="widget" data-e-type="widget" data-widget_type="menu-anchor.default">
                               {" "}
-                              <div className="elementor-menu-anchor" id="Retirement"></div>
+                              <div className="tdp-menu-anchor" id="Retirement"></div>
                               {" "}
                             </div>
                             {" "}
-                            <div className="elementor-element elementor-element-4c619d8e elementor-widget elementor-widget-spacer" data-id="4c619d8e" data-element_type="widget" data-e-type="widget" data-widget_type="spacer.default">
+                            <div className="tdp-element tdp-element-4c619d8e tdp-widget tdp-widget-spacer" data-id="4c619d8e" data-element_type="widget" data-e-type="widget" data-widget_type="spacer.default">
                               {" "}
-                              <div className="elementor-spacer">
+                              <div className="tdp-spacer">
                                 {" "}
-                                <div className="elementor-spacer-inner"></div>
+                                <div className="tdp-spacer-inner"></div>
                                 {" "}
                               </div>
                               {" "}
                             </div>
                             {" "}
-                            <div className="elementor-element elementor-element-7e6554a3 elementor-view-default elementor-position-block-start elementor-mobile-position-block-start elementor-widget elementor-widget-icon-box" data-id="7e6554a3" data-element_type="widget" data-e-type="widget" data-widget_type="icon-box.default">
+                            <div className="tdp-element tdp-element-7e6554a3 tdp-view-default tdp-position-block-start tdp-mobile-position-block-start tdp-widget tdp-widget-icon-box" data-id="7e6554a3" data-element_type="widget" data-e-type="widget" data-widget_type="icon-box.default">
                               {" "}
-                              <div className="elementor-icon-box-wrapper">
+                              <div className="tdp-icon-box-wrapper">
                                 {" "}
-                                <div className="elementor-icon-box-icon">
+                                <div className="tdp-icon-box-icon">
                                   {" "}
-                                  <span className="elementor-icon">
+                                  <span className="tdp-icon">
                                     {" "}
                                     <i aria-hidden="true" className="vamtamtheme- vamtam-theme-check"></i>
                                     {" "}
@@ -788,9 +788,9 @@ export default function PageTelefoniaip({ path }: { path: string }) {
                                   {" "}
                                 </div>
                                 {" "}
-                                <div className="elementor-icon-box-content">
+                                <div className="tdp-icon-box-content">
                                   {" "}
-                                  <h5 className="elementor-icon-box-title">
+                                  <h5 className="tdp-icon-box-title">
                                     {" "}
                                     <span>
                                       {" Números Virtuales y Extensiones "}
@@ -798,7 +798,7 @@ export default function PageTelefoniaip({ path }: { path: string }) {
                                     {" "}
                                   </h5>
                                   {" "}
-                                  <p className="elementor-icon-box-description">
+                                  <p className="tdp-icon-box-description">
                                     {" Administra números móviles, fijos locales, internacionales y extensiones internas sin límites, personalizando la experiencia del usuario. "}
                                   </p>
                                   {" "}
@@ -812,33 +812,33 @@ export default function PageTelefoniaip({ path }: { path: string }) {
                           {" "}
                         </div>
                         {" "}
-                        <div className="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-4dba5908" data-id="4dba5908" data-element_type="column" data-e-type="column" data-settings={"{\"background_background\":\"classic\"}"}>
+                        <div className="tdp-column tdp-col-25 tdp-inner-column tdp-element tdp-element-4dba5908" data-id="4dba5908" data-element_type="column" data-e-type="column" data-settings={"{\"background_background\":\"classic\"}"}>
                           {" "}
-                          <div className="elementor-widget-wrap elementor-element-populated">
+                          <div className="tdp-widget-wrap tdp-element-populated">
                             {" "}
-                            <div className="elementor-element elementor-element-2fe598e3 elementor-widget elementor-widget-menu-anchor" data-id="2fe598e3" data-element_type="widget" data-e-type="widget" data-widget_type="menu-anchor.default">
+                            <div className="tdp-element tdp-element-2fe598e3 tdp-widget tdp-widget-menu-anchor" data-id="2fe598e3" data-element_type="widget" data-e-type="widget" data-widget_type="menu-anchor.default">
                               {" "}
-                              <div className="elementor-menu-anchor" id="Retirement"></div>
+                              <div className="tdp-menu-anchor" id="Retirement"></div>
                               {" "}
                             </div>
                             {" "}
-                            <div className="elementor-element elementor-element-6d9e2889 elementor-widget elementor-widget-spacer" data-id="6d9e2889" data-element_type="widget" data-e-type="widget" data-widget_type="spacer.default">
+                            <div className="tdp-element tdp-element-6d9e2889 tdp-widget tdp-widget-spacer" data-id="6d9e2889" data-element_type="widget" data-e-type="widget" data-widget_type="spacer.default">
                               {" "}
-                              <div className="elementor-spacer">
+                              <div className="tdp-spacer">
                                 {" "}
-                                <div className="elementor-spacer-inner"></div>
+                                <div className="tdp-spacer-inner"></div>
                                 {" "}
                               </div>
                               {" "}
                             </div>
                             {" "}
-                            <div className="elementor-element elementor-element-0612250 elementor-view-default elementor-position-block-start elementor-mobile-position-block-start elementor-widget elementor-widget-icon-box" data-id="0612250" data-element_type="widget" data-e-type="widget" data-widget_type="icon-box.default">
+                            <div className="tdp-element tdp-element-0612250 tdp-view-default tdp-position-block-start tdp-mobile-position-block-start tdp-widget tdp-widget-icon-box" data-id="0612250" data-element_type="widget" data-e-type="widget" data-widget_type="icon-box.default">
                               {" "}
-                              <div className="elementor-icon-box-wrapper">
+                              <div className="tdp-icon-box-wrapper">
                                 {" "}
-                                <div className="elementor-icon-box-icon">
+                                <div className="tdp-icon-box-icon">
                                   {" "}
-                                  <span className="elementor-icon">
+                                  <span className="tdp-icon">
                                     {" "}
                                     <i aria-hidden="true" className="vamtamtheme- vamtam-theme-check"></i>
                                     {" "}
@@ -846,9 +846,9 @@ export default function PageTelefoniaip({ path }: { path: string }) {
                                   {" "}
                                 </div>
                                 {" "}
-                                <div className="elementor-icon-box-content">
+                                <div className="tdp-icon-box-content">
                                   {" "}
-                                  <h5 className="elementor-icon-box-title">
+                                  <h5 className="tdp-icon-box-title">
                                     {" "}
                                     <span>
                                       {" Control y Monitoreo en Tiempo Real "}
@@ -856,7 +856,7 @@ export default function PageTelefoniaip({ path }: { path: string }) {
                                     {" "}
                                   </h5>
                                   {" "}
-                                  <p className="elementor-icon-box-description">
+                                  <p className="tdp-icon-box-description">
                                     {" Accede a estadísticas de llamadas, grabaciones y análisis de datos para mejorar el rendimiento y la atención al cliente. "}
                                   </p>
                                   {" "}
@@ -874,21 +874,21 @@ export default function PageTelefoniaip({ path }: { path: string }) {
                       {" "}
                     </section>
                     {" "}
-                    <section className="elementor-section elementor-inner-section elementor-element elementor-element-4cc67b9 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="4cc67b9" data-element_type="section" data-e-type="section" data-settings={"{\"background_background\":\"classic\"}"}>
+                    <section className="tdp-section tdp-inner-section tdp-element tdp-element-4cc67b9 tdp-section-boxed tdp-section-height-default tdp-section-height-default" data-id="4cc67b9" data-element_type="section" data-e-type="section" data-settings={"{\"background_background\":\"classic\"}"}>
                       {" "}
-                      <div className="elementor-container elementor-column-gap-no">
+                      <div className="tdp-container tdp-column-gap-no">
                         {" "}
-                        <div className="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-87d76ca" data-id="87d76ca" data-element_type="column" data-e-type="column" data-settings={"{\"background_background\":\"classic\"}"}>
+                        <div className="tdp-column tdp-col-100 tdp-inner-column tdp-element tdp-element-87d76ca" data-id="87d76ca" data-element_type="column" data-e-type="column" data-settings={"{\"background_background\":\"classic\"}"}>
                           {" "}
-                          <div className="elementor-widget-wrap elementor-element-populated">
+                          <div className="tdp-widget-wrap tdp-element-populated">
                             {" "}
-                            <div className="elementor-element elementor-element-7d5df1e elementor-widget__width-auto elementor-align-center elementor-mobile-align-justify elementor-widget-mobile__width-inherit elementor-widget elementor-widget-button" data-id="7d5df1e" data-element_type="widget" data-e-type="widget" data-widget_type="button.default">
+                            <div className="tdp-element tdp-element-7d5df1e tdp-widget__width-auto tdp-align-center tdp-mobile-align-justify tdp-widget-mobile__width-inherit tdp-widget tdp-widget-button" data-id="7d5df1e" data-element_type="widget" data-e-type="widget" data-widget_type="button.default">
                               {" "}
-                              <a className="elementor-button elementor-size-sm" role="button">
+                              <a className="tdp-button tdp-size-sm" role="button">
                                 {" "}
-                                <span className="elementor-button-content-wrapper">
+                                <span className="tdp-button-content-wrapper">
                                   {" "}
-                                  <span className="elementor-button-icon">
+                                  <span className="tdp-button-icon">
                                     {" "}
                                     <svg aria-hidden="true" className="e-font-icon-svg e-fab-whatsapp" viewBox="0 0 448 512" xmlns="http://www.w3.org/2000/svg">
                                       <path d="M380.9 97.1C339 55.1 283.2 32 223.9 32c-122.4 0-222 99.6-222 222 0 39.1 10.2 77.3 29.6 111L0 480l117.7-30.9c32.4 17.7 68.9 27 106.1 27h.1c122.3 0 224.1-99.6 224.1-222 0-59.3-25.2-115-67.1-157zm-157 341.6c-33.2 0-65.7-8.9-94-25.7l-6.7-4-69.8 18.3L72 359.2l-4.4-7c-18.5-29.4-28.2-63.3-28.2-98.2 0-101.7 82.8-184.5 184.6-184.5 49.3 0 95.6 19.2 130.4 54.1 34.8 34.9 56.2 81.2 56.1 130.5 0 101.8-84.9 184.6-186.6 184.6zm101.2-138.2c-5.5-2.8-32.8-16.2-37.9-18-5.1-1.9-8.8-2.8-12.5 2.8-3.7 5.6-14.3 18-17.6 21.8-3.2 3.7-6.5 4.2-12 1.4-32.6-16.3-54-29.1-75.5-66-5.7-9.8 5.7-9.1 16.3-30.3 1.8-3.7.9-6.9-.5-9.7-1.4-2.8-12.5-30.1-17.1-41.2-4.5-10.8-9.1-9.3-12.5-9.5-3.2-.2-6.9-.2-10.6-.2-3.7 0-9.7 1.4-14.8 6.9-5.1 5.6-19.4 19-19.4 46.3 0 27.3 19.9 53.7 22.6 57.4 2.8 3.7 39.1 59.7 94.8 83.8 35.2 15.2 49 16.5 66.6 13.9 10.7-1.6 32.8-13.4 37.4-26.4 4.6-13 4.6-24.1 3.2-26.4-1.3-2.5-5-3.9-10.5-6.6z"></path>
@@ -896,7 +896,7 @@ export default function PageTelefoniaip({ path }: { path: string }) {
                                     {" "}
                                   </span>
                                   {" "}
-                                  <span className="elementor-button-text">
+                                  <span className="tdp-button-text">
                                     {"Más Información"}
                                   </span>
                                   {" "}
@@ -922,19 +922,19 @@ export default function PageTelefoniaip({ path }: { path: string }) {
               {" "}
             </section>
             {" "}
-            <section className="elementor-section elementor-top-section elementor-element elementor-element-46d8d777 elementor-section-height-min-height elementor-section-items-stretch elementor-section-boxed elementor-section-height-default" data-id="46d8d777" data-element_type="section" data-e-type="section">
+            <section className="tdp-section tdp-top-section tdp-element tdp-element-46d8d777 tdp-section-height-min-height tdp-section-items-stretch tdp-section-boxed tdp-section-height-default" data-id="46d8d777" data-element_type="section" data-e-type="section">
               {" "}
-              <div className="elementor-container elementor-column-gap-no">
+              <div className="tdp-container tdp-column-gap-no">
                 {" "}
-                <div className="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-3314e511" data-id="3314e511" data-element_type="column" data-e-type="column">
+                <div className="tdp-column tdp-col-100 tdp-top-column tdp-element tdp-element-3314e511" data-id="3314e511" data-element_type="column" data-e-type="column">
                   {" "}
-                  <div className="elementor-widget-wrap elementor-element-populated">
+                  <div className="tdp-widget-wrap tdp-element-populated">
                     {" "}
-                    <div className="elementor-element elementor-element-23716766 elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="23716766" data-element_type="widget" data-e-type="widget" data-widget_type="divider.default">
+                    <div className="tdp-element tdp-element-23716766 tdp-widget-divider--view-line tdp-widget tdp-widget-divider" data-id="23716766" data-element_type="widget" data-e-type="widget" data-widget_type="divider.default">
                       {" "}
-                      <div className="elementor-divider">
+                      <div className="tdp-divider">
                         {" "}
-                        <span className="elementor-divider-separator">
+                        <span className="tdp-divider-separator">
                           {" "}
                         </span>
                         {" "}
@@ -950,27 +950,27 @@ export default function PageTelefoniaip({ path }: { path: string }) {
               {" "}
             </section>
             {" "}
-            <section className="elementor-section elementor-top-section elementor-element elementor-element-1bc52d5a elementor-section-height-min-height elementor-section-items-stretch elementor-section-boxed elementor-section-height-default" data-id="1bc52d5a" data-element_type="section" data-e-type="section">
+            <section className="tdp-section tdp-top-section tdp-element tdp-element-1bc52d5a tdp-section-height-min-height tdp-section-items-stretch tdp-section-boxed tdp-section-height-default" data-id="1bc52d5a" data-element_type="section" data-e-type="section">
               {" "}
-              <div className="elementor-container elementor-column-gap-no">
+              <div className="tdp-container tdp-column-gap-no">
                 {" "}
-                <div className="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-168a42dc" data-id="168a42dc" data-element_type="column" data-e-type="column" data-settings={"{\"background_background\":\"classic\",\"background_motion_fx_motion_fx_scrolling\":\"yes\",\"background_motion_fx_translateY_effect\":\"yes\",\"background_motion_fx_translateY_speed\":{\"unit\":\"px\",\"size\":1,\"sizes\":[]},\"background_motion_fx_translateY_affectedRange\":{\"unit\":\"%\",\"size\":\"\",\"sizes\":{\"start\":0,\"end\":58}},\"background_motion_fx_devices\":[\"desktop\"]}"}>
+                <div className="tdp-column tdp-col-33 tdp-top-column tdp-element tdp-element-168a42dc" data-id="168a42dc" data-element_type="column" data-e-type="column" data-settings={"{\"background_background\":\"classic\",\"background_motion_fx_motion_fx_scrolling\":\"yes\",\"background_motion_fx_translateY_effect\":\"yes\",\"background_motion_fx_translateY_speed\":{\"unit\":\"px\",\"size\":1,\"sizes\":[]},\"background_motion_fx_translateY_affectedRange\":{\"unit\":\"%\",\"size\":\"\",\"sizes\":{\"start\":0,\"end\":58}},\"background_motion_fx_devices\":[\"desktop\"]}"}>
                   {" "}
-                  <div className="elementor-widget-wrap elementor-element-populated">
+                  <div className="tdp-widget-wrap tdp-element-populated">
                     {" "}
-                    <div className="elementor-element elementor-element-762a6b08 elementor-align-start elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="762a6b08" data-element_type="widget" data-e-type="widget" data-widget_type="icon-list.default">
+                    <div className="tdp-element tdp-element-762a6b08 tdp-align-start tdp-icon-list--layout-traditional tdp-list-item-link-full_width tdp-widget tdp-widget-icon-list" data-id="762a6b08" data-element_type="widget" data-e-type="widget" data-widget_type="icon-list.default">
                       {" "}
-                      <ul className="elementor-icon-list-items">
+                      <ul className="tdp-icon-list-items">
                         {" "}
-                        <li className="elementor-icon-list-item">
+                        <li className="tdp-icon-list-item">
                           {" "}
-                          <span className="elementor-icon-list-icon">
+                          <span className="tdp-icon-list-icon">
                             {" "}
                             <i aria-hidden="true" className="vamtamtheme- vamtam-theme-brand-symbol"></i>
                             {" "}
                           </span>
                           {" "}
-                          <span className="elementor-icon-list-text">
+                          <span className="tdp-icon-list-text">
                             {"Ellos confiaron "}
                           </span>
                           {" "}
@@ -980,9 +980,9 @@ export default function PageTelefoniaip({ path }: { path: string }) {
                       {" "}
                     </div>
                     {" "}
-                    <div className="elementor-element elementor-element-675dd415 elementor-widget__width-initial elementor-widget elementor-widget-heading" data-id="675dd415" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+                    <div className="tdp-element tdp-element-675dd415 tdp-widget__width-initial tdp-widget tdp-widget-heading" data-id="675dd415" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
                       {" "}
-                      <h2 className="elementor-heading-title elementor-size-default">
+                      <h2 className="tdp-heading-title tdp-size-default">
                         {"Nuestros clientes"}
                       </h2>
                       {" "}
@@ -992,9 +992,9 @@ export default function PageTelefoniaip({ path }: { path: string }) {
                   {" "}
                 </div>
                 {" "}
-                <div className="elementor-column elementor-col-66 elementor-top-column elementor-element elementor-element-3f4e212e" data-id="3f4e212e" data-element_type="column" data-e-type="column">
+                <div className="tdp-column tdp-col-66 tdp-top-column tdp-element tdp-element-3f4e212e" data-id="3f4e212e" data-element_type="column" data-e-type="column">
                   {" "}
-                  <div className="elementor-widget-wrap">
+                  <div className="tdp-widget-wrap">
                     {" "}
                   </div>
                   {" "}
@@ -1004,29 +1004,29 @@ export default function PageTelefoniaip({ path }: { path: string }) {
               {" "}
             </section>
             {" "}
-            <section className="elementor-section elementor-top-section elementor-element elementor-element-3e3e5248 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="3e3e5248" data-element_type="section" data-e-type="section">
+            <section className="tdp-section tdp-top-section tdp-element tdp-element-3e3e5248 tdp-section-boxed tdp-section-height-default tdp-section-height-default" data-id="3e3e5248" data-element_type="section" data-e-type="section">
               {" "}
-              <div className="elementor-container elementor-column-gap-no">
+              <div className="tdp-container tdp-column-gap-no">
                 {" "}
-                <div className="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-448bdb24" data-id="448bdb24" data-element_type="column" data-e-type="column" data-settings={"{\"background_background\":\"classic\"}"}>
+                <div className="tdp-column tdp-col-33 tdp-top-column tdp-element tdp-element-448bdb24" data-id="448bdb24" data-element_type="column" data-e-type="column" data-settings={"{\"background_background\":\"classic\"}"}>
                   {" "}
-                  <div className="elementor-widget-wrap elementor-element-populated">
+                  <div className="tdp-widget-wrap tdp-element-populated">
                     {" "}
-                    <div className="elementor-element elementor-element-626bea81 elementor-widget elementor-widget-image" data-id="626bea81" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
+                    <div className="tdp-element tdp-element-626bea81 tdp-widget tdp-widget-image" data-id="626bea81" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
                       {" "}
-                      <img loading="lazy" decoding="async" width="300" height="138" src="/wp-content/uploads/2024/10/logo-adl-co.png" className="attachment-full size-full wp-image-988536" alt="Logotipo del cliente ADL Co." title="Telefonía IP 2" />
+                      <img loading="lazy" decoding="async" width="300" height="138" src="/assets/uploads/2024/10/logo-adl-co.png" className="attachment-full size-full img-988536" alt="Logotipo del cliente ADL Co." title="Telefonía IP 2" />
                       {" "}
                     </div>
                     {" "}
-                    <div className="elementor-element elementor-element-28306abb elementor-widget elementor-widget-heading" data-id="28306abb" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+                    <div className="tdp-element tdp-element-28306abb tdp-widget tdp-widget-heading" data-id="28306abb" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
                       {" "}
-                      <h4 className="elementor-heading-title elementor-size-default">
+                      <h4 className="tdp-heading-title tdp-size-default">
                         {"Omnicanalidad en Call Center para la Industria de Construcción "}
                       </h4>
                       {" "}
                     </div>
                     {" "}
-                    <div className="elementor-element elementor-element-10a2dd4d elementor-widget elementor-widget-text-editor" data-id="10a2dd4d" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
+                    <div className="tdp-element tdp-element-10a2dd4d tdp-widget tdp-widget-text-editor" data-id="10a2dd4d" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
                       {" "}
                       <p>
                         {"Solución Call Center Omnicanal, empresa de venta de materiales para construcción."}
@@ -1038,25 +1038,25 @@ export default function PageTelefoniaip({ path }: { path: string }) {
                   {" "}
                 </div>
                 {" "}
-                <div className="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-4e51ecf" data-id="4e51ecf" data-element_type="column" data-e-type="column">
+                <div className="tdp-column tdp-col-33 tdp-top-column tdp-element tdp-element-4e51ecf" data-id="4e51ecf" data-element_type="column" data-e-type="column">
                   {" "}
-                  <div className="elementor-widget-wrap elementor-element-populated">
+                  <div className="tdp-widget-wrap tdp-element-populated">
                     {" "}
-                    <div className="elementor-element elementor-element-7c5737cf elementor-widget elementor-widget-image" data-id="7c5737cf" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
+                    <div className="tdp-element tdp-element-7c5737cf tdp-widget tdp-widget-image" data-id="7c5737cf" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
                       {" "}
-                      <img loading="lazy" decoding="async" width="247" height="51" src="/wp-content/uploads/2024/10/logo-organizacion-hercules.webp" className="attachment-medium size-medium wp-image-988537" alt="Logotipo del cliente Organización Hércules" title="Telefonía IP 3" />
+                      <img loading="lazy" decoding="async" width="247" height="51" src="/assets/uploads/2024/10/logo-organizacion-hercules.webp" className="attachment-medium size-medium img-988537" alt="Logotipo del cliente Organización Hércules" title="Telefonía IP 3" />
                       {" "}
                     </div>
                     {" "}
-                    <div className="elementor-element elementor-element-17a3357a elementor-widget elementor-widget-heading" data-id="17a3357a" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+                    <div className="tdp-element tdp-element-17a3357a tdp-widget tdp-widget-heading" data-id="17a3357a" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
                       {" "}
-                      <h4 className="elementor-heading-title elementor-size-default">
+                      <h4 className="tdp-heading-title tdp-size-default">
                         {"Aumento de extensiones para el Sector de Autopartes"}
                       </h4>
                       {" "}
                     </div>
                     {" "}
-                    <div className="elementor-element elementor-element-8fc041c elementor-widget elementor-widget-text-editor" data-id="8fc041c" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
+                    <div className="tdp-element tdp-element-8fc041c tdp-widget tdp-widget-text-editor" data-id="8fc041c" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
                       {" "}
                       <p>
                         {"Solución con 120 extensiones, fabricante y comercializador de autopartes para vehículos."}
@@ -1068,25 +1068,25 @@ export default function PageTelefoniaip({ path }: { path: string }) {
                   {" "}
                 </div>
                 {" "}
-                <div className="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-7505ebc0" data-id="7505ebc0" data-element_type="column" data-e-type="column" data-settings={"{\"background_background\":\"classic\"}"}>
+                <div className="tdp-column tdp-col-33 tdp-top-column tdp-element tdp-element-7505ebc0" data-id="7505ebc0" data-element_type="column" data-e-type="column" data-settings={"{\"background_background\":\"classic\"}"}>
                   {" "}
-                  <div className="elementor-widget-wrap elementor-element-populated">
+                  <div className="tdp-widget-wrap tdp-element-populated">
                     {" "}
-                    <div className="elementor-element elementor-element-33d83a81 elementor-widget elementor-widget-image" data-id="33d83a81" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
+                    <div className="tdp-element tdp-element-33d83a81 tdp-widget tdp-widget-image" data-id="33d83a81" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
                       {" "}
-                      <img loading="lazy" decoding="async" width="225" height="84" src="/wp-content/uploads/2024/10/logo-pontificia-bolivariana.webp" className="attachment-medium size-medium wp-image-988538" alt="Logotipo del cliente Universidad Pontificia Bolivariana" title="Telefonía IP 4" />
+                      <img loading="lazy" decoding="async" width="225" height="84" src="/assets/uploads/2024/10/logo-pontificia-bolivariana.webp" className="attachment-medium size-medium img-988538" alt="Logotipo del cliente Universidad Pontificia Bolivariana" title="Telefonía IP 4" />
                       {" "}
                     </div>
                     {" "}
-                    <div className="elementor-element elementor-element-2b2292b2 elementor-widget elementor-widget-heading" data-id="2b2292b2" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+                    <div className="tdp-element tdp-element-2b2292b2 tdp-widget tdp-widget-heading" data-id="2b2292b2" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
                       {" "}
-                      <h4 className="elementor-heading-title elementor-size-default">
+                      <h4 className="tdp-heading-title tdp-size-default">
                         {"Infraestructura de Comunicaciones para Instituciones Educativas"}
                       </h4>
                       {" "}
                     </div>
                     {" "}
-                    <div className="elementor-element elementor-element-7b734d4e elementor-widget elementor-widget-text-editor" data-id="7b734d4e" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
+                    <div className="tdp-element tdp-element-7b734d4e tdp-widget tdp-widget-text-editor" data-id="7b734d4e" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
                       {" "}
                       <p>
                         {"Solución con 60 extensiones, Universidad Campus Palmira."}
@@ -1111,11 +1111,11 @@ export default function PageTelefoniaip({ path }: { path: string }) {
       <Footer988867 path={path} />
       <Popup9913 path={path} />
       <Popup1670 path={path} />
-      <IdElementorPost10889Css path={path} />
+      <IdTdpPost10889Css path={path} />
       <IdEgeiroWhfab path={path} />
       <div className="pafe-break-point" data-pafe-break-point-md="767" data-pafe-break-point-lg="1024" data-pafe-ajax-url="/wp-admin/admin-ajax.php"></div>
-      <div data-pafe-form-builder-tinymce-upload="/wp-content/plugins/piotnet-addons-for-elementor-pro/inc/tinymce/tinymce-upload.php"></div>
-      <div data-pafe-plugin-url="/wp-content/plugins"></div>
+      <div data-pafe-form-builder-tinymce-upload="/assets/plugins/piotnet-addons-for-tdp-pro/inc/tinymce/tinymce-upload.php"></div>
+      <div data-pafe-plugin-url="/assets/plugins"></div>
     </>
   );
 }

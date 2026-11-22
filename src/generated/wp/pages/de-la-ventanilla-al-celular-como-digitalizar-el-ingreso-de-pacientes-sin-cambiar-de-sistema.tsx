@@ -14,39 +14,39 @@ export default function PageDeLaVentanillaAlCelularComoDigitalizarElIngresoDePac
     <>
       <SkipLink path={path} />
       <Header6979 path={path} />
-      <div data-elementor-type="single-post" data-elementor-id="6244" className="elementor elementor-6244 elementor-location-single post-991860 post type-post status-publish format-standard has-post-thumbnail hentry category-inteligencia-artificial" data-elementor-post-type="elementor_library">
+      <div data-tdp-type="single-post" data-tdp-id="6244" className="tdp tdp-6244 tdp-location-single post-991860 post type-post status-publish format-standard has-post-thumbnail hentry category-inteligencia-artificial" data-tdp-post-type="tdp_library">
         {" "}
-        <section className="elementor-section elementor-top-section elementor-element elementor-element-6f6a938 elementor-section-full_width elementor-section-content-middle elementor-section-height-default elementor-section-height-default" data-id="6f6a938" data-element_type="section" data-e-type="section" data-settings={"{\"background_background\":\"classic\"}"}>
+        <section className="tdp-section tdp-top-section tdp-element tdp-element-6f6a938 tdp-section-full_width tdp-section-content-middle tdp-section-height-default tdp-section-height-default" data-id="6f6a938" data-element_type="section" data-e-type="section" data-settings={"{\"background_background\":\"classic\"}"}>
           {" "}
-          <div className="elementor-background-overlay"></div>
+          <div className="tdp-background-overlay"></div>
           {" "}
-          <div className="elementor-container elementor-column-gap-no">
+          <div className="tdp-container tdp-column-gap-no">
             {" "}
-            <div className="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-53276d4" data-id="53276d4" data-element_type="column" data-e-type="column" data-settings={"{\"background_background\":\"classic\"}"}>
+            <div className="tdp-column tdp-col-100 tdp-top-column tdp-element tdp-element-53276d4" data-id="53276d4" data-element_type="column" data-e-type="column" data-settings={"{\"background_background\":\"classic\"}"}>
               {" "}
-              <div className="elementor-widget-wrap elementor-element-populated">
+              <div className="tdp-widget-wrap tdp-element-populated">
                 {" "}
-                <section className="elementor-section elementor-inner-section elementor-element elementor-element-0a703db elementor-section-height-min-height elementor-section-content-bottom elementor-section-boxed elementor-section-height-default" data-id="0a703db" data-element_type="section" data-e-type="section">
+                <section className="tdp-section tdp-inner-section tdp-element tdp-element-0a703db tdp-section-height-min-height tdp-section-content-bottom tdp-section-boxed tdp-section-height-default" data-id="0a703db" data-element_type="section" data-e-type="section">
                   {" "}
-                  <div className="elementor-container elementor-column-gap-no">
+                  <div className="tdp-container tdp-column-gap-no">
                     {" "}
-                    <div className="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-9522d7f" data-id="9522d7f" data-element_type="column" data-e-type="column">
+                    <div className="tdp-column tdp-col-50 tdp-inner-column tdp-element tdp-element-9522d7f" data-id="9522d7f" data-element_type="column" data-e-type="column">
                       {" "}
-                      <div className="elementor-widget-wrap elementor-element-populated">
+                      <div className="tdp-widget-wrap tdp-element-populated">
                         {" "}
-                        <div className="elementor-element elementor-element-36d26e1 elementor-align-start elementor-widget__width-auto elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="36d26e1" data-element_type="widget" data-e-type="widget" data-widget_type="icon-list.default">
+                        <div className="tdp-element tdp-element-36d26e1 tdp-align-start tdp-widget__width-auto tdp-icon-list--layout-traditional tdp-list-item-link-full_width tdp-widget tdp-widget-icon-list" data-id="36d26e1" data-element_type="widget" data-e-type="widget" data-widget_type="icon-list.default">
                           {" "}
-                          <ul className="elementor-icon-list-items">
+                          <ul className="tdp-icon-list-items">
                             {" "}
-                            <li className="elementor-icon-list-item">
+                            <li className="tdp-icon-list-item">
                               {" "}
-                              <span className="elementor-icon-list-icon">
+                              <span className="tdp-icon-list-icon">
                                 {" "}
                                 <i aria-hidden="true" className="vamtamtheme- vamtam-theme-brand-symbol"></i>
                                 {" "}
                               </span>
                               {" "}
-                              <span className="elementor-icon-list-text">
+                              <span className="tdp-icon-list-text">
                                 <span>
                                   {"Inteligencia Artificial"}
                                 </span>
@@ -58,9 +58,9 @@ export default function PageDeLaVentanillaAlCelularComoDigitalizarElIngresoDePac
                           {" "}
                         </div>
                         {" "}
-                        <div className="elementor-element elementor-element-6674000 elementor-widget elementor-widget-theme-post-title elementor-page-title elementor-widget-heading" data-id="6674000" data-element_type="widget" data-e-type="widget" data-settings={"{\"_animation_tablet\":\"none\"}"} data-widget_type="theme-post-title.default">
+                        <div className="tdp-element tdp-element-6674000 tdp-widget tdp-widget-theme-post-title tdp-page-title tdp-widget-heading" data-id="6674000" data-element_type="widget" data-e-type="widget" data-settings={"{\"_animation_tablet\":\"none\"}"} data-widget_type="theme-post-title.default">
                           {" "}
-                          <h1 className="elementor-heading-title elementor-size-default">
+                          <h1 className="tdp-heading-title tdp-size-default">
                             {"De la ventanilla al celular: cómo digitalizar el ingreso de pacientes sin cambiar de sistema"}
                           </h1>
                           {" "}
@@ -70,9 +70,9 @@ export default function PageDeLaVentanillaAlCelularComoDigitalizarElIngresoDePac
                       {" "}
                     </div>
                     {" "}
-                    <div className="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-a2b50c1" data-id="a2b50c1" data-element_type="column" data-e-type="column">
+                    <div className="tdp-column tdp-col-50 tdp-inner-column tdp-element tdp-element-a2b50c1" data-id="a2b50c1" data-element_type="column" data-e-type="column">
                       {" "}
-                      <div className="elementor-widget-wrap">
+                      <div className="tdp-widget-wrap">
                         {" "}
                       </div>
                       {" "}
@@ -90,16 +90,16 @@ export default function PageDeLaVentanillaAlCelularComoDigitalizarElIngresoDePac
           {" "}
         </section>
         {" "}
-        <div className="elementor-element elementor-element-a318455 e-flex e-con-boxed e-con e-parent" data-id="a318455" data-element_type="container" data-e-type="container">
+        <div className="tdp-element tdp-element-a318455 e-flex e-con-boxed e-con e-parent" data-id="a318455" data-element_type="container" data-e-type="container">
           {" "}
           <div className="e-con-inner">
             {" "}
-            <div className="elementor-element elementor-element-9c6d700 e-con-full e-flex e-con e-child" data-id="9c6d700" data-element_type="container" data-e-type="container">
+            <div className="tdp-element tdp-element-9c6d700 e-con-full e-flex e-con e-child" data-id="9c6d700" data-element_type="container" data-e-type="container">
               {" "}
-              <div className="elementor-element elementor-element-21226d1 elementor-widget elementor-widget-theme-post-content" data-id="21226d1" data-element_type="widget" data-e-type="widget" data-widget_type="theme-post-content.default">
+              <div className="tdp-element tdp-element-21226d1 tdp-widget tdp-widget-theme-post-content" data-id="21226d1" data-element_type="widget" data-e-type="widget" data-widget_type="theme-post-content.default">
                 {" "}
                 <figure className="wp-block-image size-large">
-                  <img fetchPriority="high" decoding="async" width="1024" height="538" src="/wp-content/uploads/2026/10/Imagen-ventanilla-al-celular-1-1024x538.png" alt="Paciente registrando su ingreso con una foto de su documento desde el celular" className="wp-image-991859" title="De la ventanilla al celular: cómo digitalizar el ingreso de pacientes sin cambiar de sistema 1" srcSet="/wp-content/uploads/2026/10/Imagen-ventanilla-al-celular-1-1024x538.png 1024w, /wp-content/uploads/2026/10/Imagen-ventanilla-al-celular-1-300x158.png 300w, /wp-content/uploads/2026/10/Imagen-ventanilla-al-celular-1-768x403.png 768w, /wp-content/uploads/2026/10/Imagen-ventanilla-al-celular-1.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" />
+                  <img fetchPriority="high" decoding="async" width="1024" height="538" src="/assets/uploads/2026/10/Imagen-ventanilla-al-celular-1-1024x538.png" alt="Paciente registrando su ingreso con una foto de su documento desde el celular" className="img-991859" title="De la ventanilla al celular: cómo digitalizar el ingreso de pacientes sin cambiar de sistema 1" srcSet="/assets/uploads/2026/10/Imagen-ventanilla-al-celular-1-1024x538.png 1024w, /assets/uploads/2026/10/Imagen-ventanilla-al-celular-1-300x158.png 300w, /assets/uploads/2026/10/Imagen-ventanilla-al-celular-1-768x403.png 768w, /assets/uploads/2026/10/Imagen-ventanilla-al-celular-1.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" />
                 </figure>
                 {" "}
                 <h3 className="wp-block-heading">
@@ -175,7 +175,7 @@ export default function PageDeLaVentanillaAlCelularComoDigitalizarElIngresoDePac
                 </p>
                 {" "}
                 <figure className="wp-block-image size-large">
-                  <img decoding="async" width="1024" height="538" src="/wp-content/uploads/2026/10/Imagen-ventanilla-al-celular-2-1024x538.png" alt="De la ventanilla al celular: digitalizar el ingreso de pacientes sin cambiar de sistema" className="wp-image-991858" title="De la ventanilla al celular: cómo digitalizar el ingreso de pacientes sin cambiar de sistema 2" srcSet="/wp-content/uploads/2026/10/Imagen-ventanilla-al-celular-2-1024x538.png 1024w, /wp-content/uploads/2026/10/Imagen-ventanilla-al-celular-2-300x158.png 300w, /wp-content/uploads/2026/10/Imagen-ventanilla-al-celular-2-768x403.png 768w, /wp-content/uploads/2026/10/Imagen-ventanilla-al-celular-2.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" />
+                  <img decoding="async" width="1024" height="538" src="/assets/uploads/2026/10/Imagen-ventanilla-al-celular-2-1024x538.png" alt="De la ventanilla al celular: digitalizar el ingreso de pacientes sin cambiar de sistema" className="img-991858" title="De la ventanilla al celular: cómo digitalizar el ingreso de pacientes sin cambiar de sistema 2" srcSet="/assets/uploads/2026/10/Imagen-ventanilla-al-celular-2-1024x538.png 1024w, /assets/uploads/2026/10/Imagen-ventanilla-al-celular-2-300x158.png 300w, /assets/uploads/2026/10/Imagen-ventanilla-al-celular-2-768x403.png 768w, /assets/uploads/2026/10/Imagen-ventanilla-al-celular-2.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" />
                 </figure>
                 {" "}
                 <h3 className="wp-block-heading">
@@ -208,33 +208,33 @@ export default function PageDeLaVentanillaAlCelularComoDigitalizarElIngresoDePac
               {" "}
             </div>
             {" "}
-            <div className="elementor-element elementor-element-e2c64bb e-con-full e-flex e-con e-child" data-id="e2c64bb" data-element_type="container" data-e-type="container">
+            <div className="tdp-element tdp-element-e2c64bb e-con-full e-flex e-con e-child" data-id="e2c64bb" data-element_type="container" data-e-type="container">
               {" "}
-              <div className="elementor-element elementor-element-aef153f e-con-full e-flex e-con e-child" data-id="aef153f" data-element_type="container" data-e-type="container" data-settings={"{\"background_background\":\"classic\",\"sticky\":\"top\",\"sticky_on\":[\"desktop\",\"tablet\"],\"sticky_offset\":20,\"sticky_parent\":\"yes\",\"sticky_effects_offset\":0,\"sticky_anchor_link_offset\":0}"}>
+              <div className="tdp-element tdp-element-aef153f e-con-full e-flex e-con e-child" data-id="aef153f" data-element_type="container" data-e-type="container" data-settings={"{\"background_background\":\"classic\",\"sticky\":\"top\",\"sticky_on\":[\"desktop\",\"tablet\"],\"sticky_offset\":20,\"sticky_parent\":\"yes\",\"sticky_effects_offset\":0,\"sticky_anchor_link_offset\":0}"}>
                 {" "}
-                <div className="elementor-element elementor-element-62fe297 elementor-widget elementor-widget-heading" data-id="62fe297" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+                <div className="tdp-element tdp-element-62fe297 tdp-widget tdp-widget-heading" data-id="62fe297" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
                   {" "}
-                  <h2 className="elementor-heading-title elementor-size-default">
+                  <h2 className="tdp-heading-title tdp-size-default">
                     {"INGRESO DIGITAL DE PACIENTES"}
                   </h2>
                   {" "}
                 </div>
                 {" "}
-                <div className="elementor-element elementor-element-da783c2 elementor-widget elementor-widget-heading" data-id="da783c2" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+                <div className="tdp-element tdp-element-da783c2 tdp-widget tdp-widget-heading" data-id="da783c2" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
                   {" "}
-                  <h2 className="elementor-heading-title elementor-size-default">
+                  <h2 className="tdp-heading-title tdp-size-default">
                     {"Deja atrás la ventanilla: recibe documentos y entrega resultados por WhatsApp con IA"}
                   </h2>
                   {" "}
                 </div>
                 {" "}
-                <div className="elementor-element elementor-element-69434da elementor-widget__width-auto elementor-align-center elementor-widget elementor-widget-button" data-id="69434da" data-element_type="widget" data-e-type="widget" data-widget_type="button.default">
+                <div className="tdp-element tdp-element-69434da tdp-widget__width-auto tdp-align-center tdp-widget tdp-widget-button" data-id="69434da" data-element_type="widget" data-e-type="widget" data-widget_type="button.default">
                   {" "}
-                  <a className="elementor-button elementor-button-link elementor-size-sm" href={"https://api.whatsapp.com/send?phone=573009122820&text=Hola%2C%20requiero%20hablar%20con%20un%20asesor%20"} target="_blank">
+                  <a className="tdp-button tdp-button-link tdp-size-sm" href={"https://api.whatsapp.com/send?phone=573009122820&text=Hola%2C%20requiero%20hablar%20con%20un%20asesor%20"} target="_blank">
                     {" "}
-                    <span className="elementor-button-content-wrapper">
+                    <span className="tdp-button-content-wrapper">
                       {" "}
-                      <span className="elementor-button-text">
+                      <span className="tdp-button-text">
                         {"Contáctanos "}
                       </span>
                       {" "}
@@ -259,8 +259,8 @@ export default function PageDeLaVentanillaAlCelularComoDigitalizarElIngresoDePac
       <Popup1670 path={path} />
       <IdEgeiroWhfab path={path} />
       <div className="pafe-break-point" data-pafe-break-point-md="767" data-pafe-break-point-lg="1024" data-pafe-ajax-url="/wp-admin/admin-ajax.php"></div>
-      <div data-pafe-form-builder-tinymce-upload="/wp-content/plugins/piotnet-addons-for-elementor-pro/inc/tinymce/tinymce-upload.php"></div>
-      <div data-pafe-plugin-url="/wp-content/plugins"></div>
+      <div data-pafe-form-builder-tinymce-upload="/assets/plugins/piotnet-addons-for-tdp-pro/inc/tinymce/tinymce-upload.php"></div>
+      <div data-pafe-plugin-url="/assets/plugins"></div>
     </>
   );
 }
