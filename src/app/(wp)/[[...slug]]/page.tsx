@@ -1,6 +1,8 @@
 import type { Viewport } from "next";
 import { notFound } from "next/navigation";
+import SoftphoneLegalPage from "@/components/wp/SoftphoneLegalPage";
 import { pageLoaders } from "@/generated/wp/routes";
+import { isSoftphonePath } from "@/lib/softphone-pages";
 import { allPaths, getRoute, pathFromSlug } from "@/lib/wp-data";
 
 // Only the captured URLs exist; anything else falls through to app/global-not-found.tsx.
@@ -22,6 +24,9 @@ export function generateStaticParams() {
 export default async function WpPage({ params }: { params: Promise<{ slug?: string[] }> }) {
   const path = pathFromSlug((await params).slug);
   if (!getRoute(path)) notFound();
+  // Hand-maintained pages. They are absent from the generated pageLoaders map,
+  // which scripts/generate/generate.mjs rewrites from the WordPress capture.
+  if (isSoftphonePath(path)) return <SoftphoneLegalPage path={path} />;
   const { default: Content } = await pageLoaders[path]();
   return <Content path={path} />;
 }

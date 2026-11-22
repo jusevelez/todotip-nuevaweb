@@ -1,0 +1,51 @@
+/* Same text-editor treatment as the source preview (Roboto comes from the
+   captured Elementor stylesheet of /aviso-de-privacidad/). */
+.contenido {
+  font-family: "Roboto", sans-serif;
+  font-size: 16px;
+  line-height: 1.5;
+  color: #333;
+}
+
+/* Beat the captured Elementor text-editor rule (.elementor-990284 … a),
+   which sets the same green and weight but not text-decoration. */
+:global(.elementor-990284 .elementor-element-6ef74327) .contenido a {
+  color: #8cc615;
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.contenido h3 {
+  font-size: 1.75rem;
+  font-weight: 500;
+  margin: 0.5rem 0 1rem;
+}
+
+.contenido p {
+  margin: 0 0 0.9rem;
+}
+
+.contenido ul,
+.contenido ol {
+  margin: 0 0 0.9rem;
+  padding-left: 1.6rem;
+}
+
+.contenido table {
+  border-collapse: collapse;
+  width: 100%;
+  margin: 0 0 1rem;
+  font-size: 0.95rem;
+}
+
+.contenido th,
+.contenido td {
+  border: 1px solid hsla(0, 0%, 50%, 0.5);
+  padding: 0.5rem;
+  text-align: left;
+  vertical-align: top;
+}
+
+.contenido th {
+  background: hsla(0, 0%, 50%, 0.07);
+}
