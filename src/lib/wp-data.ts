@@ -1,4 +1,5 @@
 import data from "@/generated/wp/data.json";
+import { softphonePages, softphoneRoute } from "@/lib/softphone-pages";
 
 export type HeadItem =
   | { tag: "meta"; attrs: Record<string, string> }
@@ -29,6 +30,8 @@ export function pathFromSlug(slug: string[] | undefined): string {
 }
 
 export function getRoute(path: string): WpRoute | undefined {
+  const softphone = softphoneRoute(path);
+  if (softphone) return softphone;
   return Object.prototype.hasOwnProperty.call(routes, path) && path !== NOT_FOUND_KEY ? routes[path] : undefined;
 }
 
@@ -38,7 +41,7 @@ export function getRouteOrNotFound(path: string): { route: WpRoute; found: boole
 }
 
 export function allPaths(): string[] {
-  return Object.keys(routes).filter((p) => p !== NOT_FOUND_KEY);
+  return [...Object.keys(routes).filter((p) => p !== NOT_FOUND_KEY), ...softphonePages.map((page) => page.path)];
 }
 
 export function stylesheetsFor(route: WpRoute) {
