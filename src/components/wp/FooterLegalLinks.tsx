@@ -18,11 +18,7 @@ export default function FooterLegalLinks({ path }: { path: string }) {
           const active = path === link.href;
           return (
             <li key={link.href}>
-              <a
-                href={link.href}
-                className={active ? `${styles.link} ${styles.active}` : styles.link}
-                aria-current={active ? "page" : undefined}
-              >
+              <a href={link.href} aria-current={active ? "page" : undefined}>
                 {link.label}
               </a>
             </li>
