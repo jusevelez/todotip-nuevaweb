@@ -6,7 +6,7 @@ import Header6979 from "../templates/Header6979";
 import Footer988867 from "../templates/Footer988867";
 import Popup9913 from "../templates/Popup9913";
 import Popup1670 from "../templates/Popup1670";
-import IdElementorPost10889Css from "../templates/IdElementorPost10889Css";
+import IdTdpPost10889Css from "../templates/IdTdpPost10889Css";
 import IdEgeiroWhfab from "../templates/IdEgeiroWhfab";
 
 export default function PageAgenteVirtualIvr({ path }: { path: string }) {
@@ -19,39 +19,39 @@ export default function PageAgenteVirtualIvr({ path }: { path: string }) {
         {" "}
         <div className="page-content">
           {" "}
-          <div data-elementor-type="wp-page" data-elementor-id="988424" className="elementor elementor-988424" data-elementor-post-type="page">
+          <div data-tdp-type="page" data-tdp-id="988424" className="tdp tdp-988424" data-tdp-post-type="page">
             {" "}
-            <section className="elementor-section elementor-top-section elementor-element elementor-element-7b77d84e elementor-section-full_width elementor-section-content-middle elementor-section-height-default elementor-section-height-default" data-id="7b77d84e" data-element_type="section" data-e-type="section" data-settings={"{\"background_background\":\"classic\"}"}>
+            <section className="tdp-section tdp-top-section tdp-element tdp-element-7b77d84e tdp-section-full_width tdp-section-content-middle tdp-section-height-default tdp-section-height-default" data-id="7b77d84e" data-element_type="section" data-e-type="section" data-settings={"{\"background_background\":\"classic\"}"}>
               {" "}
-              <div className="elementor-background-overlay"></div>
+              <div className="tdp-background-overlay"></div>
               {" "}
-              <div className="elementor-container elementor-column-gap-no">
+              <div className="tdp-container tdp-column-gap-no">
                 {" "}
-                <div className="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-110fde84" data-id="110fde84" data-element_type="column" data-e-type="column" data-settings={"{\"background_background\":\"classic\"}"}>
+                <div className="tdp-column tdp-col-100 tdp-top-column tdp-element tdp-element-110fde84" data-id="110fde84" data-element_type="column" data-e-type="column" data-settings={"{\"background_background\":\"classic\"}"}>
                   {" "}
-                  <div className="elementor-widget-wrap elementor-element-populated">
+                  <div className="tdp-widget-wrap tdp-element-populated">
                     {" "}
-                    <section className="elementor-section elementor-inner-section elementor-element elementor-element-5d20c846 elementor-section-height-min-height elementor-section-content-bottom elementor-section-boxed elementor-section-height-default" data-id="5d20c846" data-element_type="section" data-e-type="section">
+                    <section className="tdp-section tdp-inner-section tdp-element tdp-element-5d20c846 tdp-section-height-min-height tdp-section-content-bottom tdp-section-boxed tdp-section-height-default" data-id="5d20c846" data-element_type="section" data-e-type="section">
                       {" "}
-                      <div className="elementor-container elementor-column-gap-no">
+                      <div className="tdp-container tdp-column-gap-no">
                         {" "}
-                        <div className="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-655ca02a" data-id="655ca02a" data-element_type="column" data-e-type="column">
+                        <div className="tdp-column tdp-col-50 tdp-inner-column tdp-element tdp-element-655ca02a" data-id="655ca02a" data-element_type="column" data-e-type="column">
                           {" "}
-                          <div className="elementor-widget-wrap elementor-element-populated">
+                          <div className="tdp-widget-wrap tdp-element-populated">
                             {" "}
-                            <div className="elementor-element elementor-element-70bf09bd elementor-align-start elementor-widget__width-auto elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="70bf09bd" data-element_type="widget" data-e-type="widget" data-widget_type="icon-list.default">
+                            <div className="tdp-element tdp-element-70bf09bd tdp-align-start tdp-widget__width-auto tdp-icon-list--layout-traditional tdp-list-item-link-full_width tdp-widget tdp-widget-icon-list" data-id="70bf09bd" data-element_type="widget" data-e-type="widget" data-widget_type="icon-list.default">
                               {" "}
-                              <ul className="elementor-icon-list-items">
+                              <ul className="tdp-icon-list-items">
                                 {" "}
-                                <li className="elementor-icon-list-item">
+                                <li className="tdp-icon-list-item">
                                   {" "}
-                                  <span className="elementor-icon-list-icon">
+                                  <span className="tdp-icon-list-icon">
                                     {" "}
                                     <i aria-hidden="true" className="vamtamtheme- vamtam-theme-brand-symbol"></i>
                                     {" "}
                                   </span>
                                   {" "}
-                                  <span className="elementor-icon-list-text">
+                                  <span className="tdp-icon-list-text">
                                     {"Agente virtual (IVR Transaccional)"}
                                   </span>
                                   {" "}
@@ -61,9 +61,9 @@ export default function PageAgenteVirtualIvr({ path }: { path: string }) {
                               {" "}
                             </div>
                             {" "}
-                            <div className="elementor-element elementor-element-454bc38c animated-slow elementor-widget elementor-widget-heading" data-id="454bc38c" data-element_type="widget" data-e-type="widget" data-settings={"{\"_animation_tablet\":\"none\",\"_animation_delay\":300,\"_animation\":\"none\"}"} data-widget_type="heading.default">
+                            <div className="tdp-element tdp-element-454bc38c animated-slow tdp-widget tdp-widget-heading" data-id="454bc38c" data-element_type="widget" data-e-type="widget" data-settings={"{\"_animation_tablet\":\"none\",\"_animation_delay\":300,\"_animation\":\"none\"}"} data-widget_type="heading.default">
                               {" "}
-                              <h1 className="elementor-heading-title elementor-size-default">
+                              <h1 className="tdp-heading-title tdp-size-default">
                                 {"IVR (Servicio de Respuesta de Voz Interactiva)"}
                               </h1>
                               {" "}
@@ -73,9 +73,9 @@ export default function PageAgenteVirtualIvr({ path }: { path: string }) {
                           {" "}
                         </div>
                         {" "}
-                        <div className="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-9f48afe elementor-hidden-mobile" data-id="9f48afe" data-element_type="column" data-e-type="column">
+                        <div className="tdp-column tdp-col-50 tdp-inner-column tdp-element tdp-element-9f48afe tdp-hidden-mobile" data-id="9f48afe" data-element_type="column" data-e-type="column">
                           {" "}
-                          <div className="elementor-widget-wrap">
+                          <div className="tdp-widget-wrap">
                             {" "}
                           </div>
                           {" "}
@@ -93,27 +93,27 @@ export default function PageAgenteVirtualIvr({ path }: { path: string }) {
               {" "}
             </section>
             {" "}
-            <section className="elementor-section elementor-top-section elementor-element elementor-element-79c817c1 elementor-section-content-middle elementor-reverse-mobile elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="79c817c1" data-element_type="section" data-e-type="section">
+            <section className="tdp-section tdp-top-section tdp-element tdp-element-79c817c1 tdp-section-content-middle tdp-reverse-mobile tdp-section-boxed tdp-section-height-default tdp-section-height-default" data-id="79c817c1" data-element_type="section" data-e-type="section">
               {" "}
-              <div className="elementor-container elementor-column-gap-no">
+              <div className="tdp-container tdp-column-gap-no">
                 {" "}
-                <div className="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-62708b54" data-id="62708b54" data-element_type="column" data-e-type="column">
+                <div className="tdp-column tdp-col-50 tdp-top-column tdp-element tdp-element-62708b54" data-id="62708b54" data-element_type="column" data-e-type="column">
                   {" "}
-                  <div className="elementor-widget-wrap elementor-element-populated">
+                  <div className="tdp-widget-wrap tdp-element-populated">
                     {" "}
-                    <div className="elementor-element elementor-element-8c6124e elementor-align-start elementor-widget__width-initial elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="8c6124e" data-element_type="widget" data-e-type="widget" data-widget_type="icon-list.default">
+                    <div className="tdp-element tdp-element-8c6124e tdp-align-start tdp-widget__width-initial tdp-icon-list--layout-traditional tdp-list-item-link-full_width tdp-widget tdp-widget-icon-list" data-id="8c6124e" data-element_type="widget" data-e-type="widget" data-widget_type="icon-list.default">
                       {" "}
-                      <ul className="elementor-icon-list-items">
+                      <ul className="tdp-icon-list-items">
                         {" "}
-                        <li className="elementor-icon-list-item">
+                        <li className="tdp-icon-list-item">
                           {" "}
-                          <span className="elementor-icon-list-icon">
+                          <span className="tdp-icon-list-icon">
                             {" "}
                             <i aria-hidden="true" className="vamtamtheme- vamtam-theme-brand-symbol"></i>
                             {" "}
                           </span>
                           {" "}
-                          <span className="elementor-icon-list-text">
+                          <span className="tdp-icon-list-text">
                             {"Sobre nuestra solución "}
                           </span>
                           {" "}
@@ -123,7 +123,7 @@ export default function PageAgenteVirtualIvr({ path }: { path: string }) {
                       {" "}
                     </div>
                     {" "}
-                    <div className="elementor-element elementor-element-5ad9386e elementor-widget__width-initial elementor-widget elementor-widget-text-editor" data-id="5ad9386e" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
+                    <div className="tdp-element tdp-element-5ad9386e tdp-widget__width-initial tdp-widget tdp-widget-text-editor" data-id="5ad9386e" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
                       {" "}
                       <p>
                         {"Mejora la experiencia del cliente y reduce costos al automatizar interacciones mediante un sistema IVR. Esta solución gestiona citas 24/7, minimiza llamadas perdidas y permite atender múltiples solicitudes al mismo tiempo, asegurando una atención eficiente y sin demoras."}
@@ -134,13 +134,13 @@ export default function PageAgenteVirtualIvr({ path }: { path: string }) {
                       {" "}
                     </div>
                     {" "}
-                    <div className="elementor-element elementor-element-d429669 elementor-widget__width-auto elementor-align-center elementor-mobile-align-justify elementor-widget-mobile__width-inherit elementor-widget elementor-widget-button" data-id="d429669" data-element_type="widget" data-e-type="widget" data-widget_type="button.default">
+                    <div className="tdp-element tdp-element-d429669 tdp-widget__width-auto tdp-align-center tdp-mobile-align-justify tdp-widget-mobile__width-inherit tdp-widget tdp-widget-button" data-id="d429669" data-element_type="widget" data-e-type="widget" data-widget_type="button.default">
                       {" "}
-                      <a className="elementor-button elementor-size-sm" role="button">
+                      <a className="tdp-button tdp-size-sm" role="button">
                         {" "}
-                        <span className="elementor-button-content-wrapper">
+                        <span className="tdp-button-content-wrapper">
                           {" "}
-                          <span className="elementor-button-icon">
+                          <span className="tdp-button-icon">
                             {" "}
                             <svg aria-hidden="true" className="e-font-icon-svg e-fab-whatsapp" viewBox="0 0 448 512" xmlns="http://www.w3.org/2000/svg">
                               <path d="M380.9 97.1C339 55.1 283.2 32 223.9 32c-122.4 0-222 99.6-222 222 0 39.1 10.2 77.3 29.6 111L0 480l117.7-30.9c32.4 17.7 68.9 27 106.1 27h.1c122.3 0 224.1-99.6 224.1-222 0-59.3-25.2-115-67.1-157zm-157 341.6c-33.2 0-65.7-8.9-94-25.7l-6.7-4-69.8 18.3L72 359.2l-4.4-7c-18.5-29.4-28.2-63.3-28.2-98.2 0-101.7 82.8-184.5 184.6-184.5 49.3 0 95.6 19.2 130.4 54.1 34.8 34.9 56.2 81.2 56.1 130.5 0 101.8-84.9 184.6-186.6 184.6zm101.2-138.2c-5.5-2.8-32.8-16.2-37.9-18-5.1-1.9-8.8-2.8-12.5 2.8-3.7 5.6-14.3 18-17.6 21.8-3.2 3.7-6.5 4.2-12 1.4-32.6-16.3-54-29.1-75.5-66-5.7-9.8 5.7-9.1 16.3-30.3 1.8-3.7.9-6.9-.5-9.7-1.4-2.8-12.5-30.1-17.1-41.2-4.5-10.8-9.1-9.3-12.5-9.5-3.2-.2-6.9-.2-10.6-.2-3.7 0-9.7 1.4-14.8 6.9-5.1 5.6-19.4 19-19.4 46.3 0 27.3 19.9 53.7 22.6 57.4 2.8 3.7 39.1 59.7 94.8 83.8 35.2 15.2 49 16.5 66.6 13.9 10.7-1.6 32.8-13.4 37.4-26.4 4.6-13 4.6-24.1 3.2-26.4-1.3-2.5-5-3.9-10.5-6.6z"></path>
@@ -148,7 +148,7 @@ export default function PageAgenteVirtualIvr({ path }: { path: string }) {
                             {" "}
                           </span>
                           {" "}
-                          <span className="elementor-button-text">
+                          <span className="tdp-button-text">
                             {"Más Información"}
                           </span>
                           {" "}
@@ -162,13 +162,13 @@ export default function PageAgenteVirtualIvr({ path }: { path: string }) {
                   {" "}
                 </div>
                 {" "}
-                <div className="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-7845cf1c" data-id="7845cf1c" data-element_type="column" data-e-type="column">
+                <div className="tdp-column tdp-col-50 tdp-top-column tdp-element tdp-element-7845cf1c" data-id="7845cf1c" data-element_type="column" data-e-type="column">
                   {" "}
-                  <div className="elementor-widget-wrap elementor-element-populated">
+                  <div className="tdp-widget-wrap tdp-element-populated">
                     {" "}
-                    <div className="elementor-element elementor-element-46b9988d elementor-widget elementor-widget-image" data-id="46b9988d" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
+                    <div className="tdp-element tdp-element-46b9988d tdp-widget tdp-widget-image" data-id="46b9988d" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
                       {" "}
-                      <img decoding="async" src="/wp-content/uploads/elementor/thumbs/GettyImages-1125619200-square-2-rawr5d886jxdma1l267pwzn06kl3fgqsrtx0vikhnc.webp" title="GettyImages-1125619200-square (2)" alt="GettyImages-1125619200-square (2)" loading="lazy" />
+                      <img decoding="async" src="/assets/uploads/tdp/thumbs/GettyImages-1125619200-square-2-rawr5d886jxdma1l267pwzn06kl3fgqsrtx0vikhnc.webp" title="GettyImages-1125619200-square (2)" alt="GettyImages-1125619200-square (2)" loading="lazy" />
                       {" "}
                     </div>
                     {" "}
@@ -180,27 +180,27 @@ export default function PageAgenteVirtualIvr({ path }: { path: string }) {
               {" "}
             </section>
             {" "}
-            <section className="elementor-section elementor-top-section elementor-element elementor-element-7c80799a elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="7c80799a" data-element_type="section" data-e-type="section">
+            <section className="tdp-section tdp-top-section tdp-element tdp-element-7c80799a tdp-section-boxed tdp-section-height-default tdp-section-height-default" data-id="7c80799a" data-element_type="section" data-e-type="section">
               {" "}
-              <div className="elementor-container elementor-column-gap-no">
+              <div className="tdp-container tdp-column-gap-no">
                 {" "}
-                <div className="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-7f51cf06" data-id="7f51cf06" data-element_type="column" data-e-type="column">
+                <div className="tdp-column tdp-col-100 tdp-top-column tdp-element tdp-element-7f51cf06" data-id="7f51cf06" data-element_type="column" data-e-type="column">
                   {" "}
-                  <div className="elementor-widget-wrap elementor-element-populated">
+                  <div className="tdp-widget-wrap tdp-element-populated">
                     {" "}
-                    <div className="elementor-element elementor-element-3750bbf5 elementor-align-start elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="3750bbf5" data-element_type="widget" data-e-type="widget" data-widget_type="icon-list.default">
+                    <div className="tdp-element tdp-element-3750bbf5 tdp-align-start tdp-icon-list--layout-traditional tdp-list-item-link-full_width tdp-widget tdp-widget-icon-list" data-id="3750bbf5" data-element_type="widget" data-e-type="widget" data-widget_type="icon-list.default">
                       {" "}
-                      <ul className="elementor-icon-list-items">
+                      <ul className="tdp-icon-list-items">
                         {" "}
-                        <li className="elementor-icon-list-item">
+                        <li className="tdp-icon-list-item">
                           {" "}
-                          <span className="elementor-icon-list-icon">
+                          <span className="tdp-icon-list-icon">
                             {" "}
                             <i aria-hidden="true" className="vamtamtheme- vamtam-theme-brand-symbol"></i>
                             {" "}
                           </span>
                           {" "}
-                          <span className="elementor-icon-list-text">
+                          <span className="tdp-icon-list-text">
                             {"¿Por qué las empresas deberían contar con un sistema IVR?"}
                           </span>
                           {" "}
@@ -218,21 +218,21 @@ export default function PageAgenteVirtualIvr({ path }: { path: string }) {
               {" "}
             </section>
             {" "}
-            <section className="elementor-section elementor-top-section elementor-element elementor-element-1d1bb2a2 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="1d1bb2a2" data-element_type="section" data-e-type="section">
+            <section className="tdp-section tdp-top-section tdp-element tdp-element-1d1bb2a2 tdp-section-boxed tdp-section-height-default tdp-section-height-default" data-id="1d1bb2a2" data-element_type="section" data-e-type="section">
               {" "}
-              <div className="elementor-container elementor-column-gap-no">
+              <div className="tdp-container tdp-column-gap-no">
                 {" "}
-                <div className="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-3c29d223" data-id="3c29d223" data-element_type="column" data-e-type="column">
+                <div className="tdp-column tdp-col-33 tdp-top-column tdp-element tdp-element-3c29d223" data-id="3c29d223" data-element_type="column" data-e-type="column">
                   {" "}
-                  <div className="elementor-widget-wrap elementor-element-populated">
+                  <div className="tdp-widget-wrap tdp-element-populated">
                     {" "}
-                    <div className="elementor-element elementor-element-33fd8142 elementor-position-inline-start elementor-mobile-position-inline-start elementor-view-default elementor-widget elementor-widget-icon-box" data-id="33fd8142" data-element_type="widget" data-e-type="widget" data-widget_type="icon-box.default">
+                    <div className="tdp-element tdp-element-33fd8142 tdp-position-inline-start tdp-mobile-position-inline-start tdp-view-default tdp-widget tdp-widget-icon-box" data-id="33fd8142" data-element_type="widget" data-e-type="widget" data-widget_type="icon-box.default">
                       {" "}
-                      <div className="elementor-icon-box-wrapper">
+                      <div className="tdp-icon-box-wrapper">
                         {" "}
-                        <div className="elementor-icon-box-icon">
+                        <div className="tdp-icon-box-icon">
                           {" "}
-                          <span className="elementor-icon">
+                          <span className="tdp-icon">
                             {" "}
                             <i aria-hidden="true" className="vamtamtheme- vamtam-theme-check"></i>
                             {" "}
@@ -240,9 +240,9 @@ export default function PageAgenteVirtualIvr({ path }: { path: string }) {
                           {" "}
                         </div>
                         {" "}
-                        <div className="elementor-icon-box-content">
+                        <div className="tdp-icon-box-content">
                           {" "}
-                          <div className="elementor-icon-box-title">
+                          <div className="tdp-icon-box-title">
                             {" "}
                             <span>
                               {" Optimización del Recurso Humano "}
@@ -250,7 +250,7 @@ export default function PageAgenteVirtualIvr({ path }: { path: string }) {
                             {" "}
                           </div>
                           {" "}
-                          <p className="elementor-icon-box-description">
+                          <p className="tdp-icon-box-description">
                             {" Libera a tu equipo para que se enfoque en tareas estratégicas, redirigiendo funciones operativas a otros procesos. "}
                           </p>
                           {" "}
@@ -264,17 +264,17 @@ export default function PageAgenteVirtualIvr({ path }: { path: string }) {
                   {" "}
                 </div>
                 {" "}
-                <div className="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-3893f824" data-id="3893f824" data-element_type="column" data-e-type="column">
+                <div className="tdp-column tdp-col-33 tdp-top-column tdp-element tdp-element-3893f824" data-id="3893f824" data-element_type="column" data-e-type="column">
                   {" "}
-                  <div className="elementor-widget-wrap elementor-element-populated">
+                  <div className="tdp-widget-wrap tdp-element-populated">
                     {" "}
-                    <div className="elementor-element elementor-element-5044fd3e elementor-position-inline-start elementor-mobile-position-inline-start elementor-view-default elementor-widget elementor-widget-icon-box" data-id="5044fd3e" data-element_type="widget" data-e-type="widget" data-widget_type="icon-box.default">
+                    <div className="tdp-element tdp-element-5044fd3e tdp-position-inline-start tdp-mobile-position-inline-start tdp-view-default tdp-widget tdp-widget-icon-box" data-id="5044fd3e" data-element_type="widget" data-e-type="widget" data-widget_type="icon-box.default">
                       {" "}
-                      <div className="elementor-icon-box-wrapper">
+                      <div className="tdp-icon-box-wrapper">
                         {" "}
-                        <div className="elementor-icon-box-icon">
+                        <div className="tdp-icon-box-icon">
                           {" "}
-                          <span className="elementor-icon">
+                          <span className="tdp-icon">
                             {" "}
                             <i aria-hidden="true" className="vamtamtheme- vamtam-theme-check"></i>
                             {" "}
@@ -282,9 +282,9 @@ export default function PageAgenteVirtualIvr({ path }: { path: string }) {
                           {" "}
                         </div>
                         {" "}
-                        <div className="elementor-icon-box-content">
+                        <div className="tdp-icon-box-content">
                           {" "}
-                          <div className="elementor-icon-box-title">
+                          <div className="tdp-icon-box-title">
                             {" "}
                             <span>
                               {" Autoservicio Mejorado "}
@@ -292,7 +292,7 @@ export default function PageAgenteVirtualIvr({ path }: { path: string }) {
                             {" "}
                           </div>
                           {" "}
-                          <p className="elementor-icon-box-description">
+                          <p className="tdp-icon-box-description">
                             {" Implementa herramientas que faciliten la experiencia de autoservicio, brindando a los usuarios soluciones rápidas y eficientes 24/7. "}
                           </p>
                           {" "}
@@ -306,17 +306,17 @@ export default function PageAgenteVirtualIvr({ path }: { path: string }) {
                   {" "}
                 </div>
                 {" "}
-                <div className="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-301c7aa9" data-id="301c7aa9" data-element_type="column" data-e-type="column">
+                <div className="tdp-column tdp-col-33 tdp-top-column tdp-element tdp-element-301c7aa9" data-id="301c7aa9" data-element_type="column" data-e-type="column">
                   {" "}
-                  <div className="elementor-widget-wrap elementor-element-populated">
+                  <div className="tdp-widget-wrap tdp-element-populated">
                     {" "}
-                    <div className="elementor-element elementor-element-26caef84 elementor-position-inline-start elementor-mobile-position-inline-start elementor-view-default elementor-widget elementor-widget-icon-box" data-id="26caef84" data-element_type="widget" data-e-type="widget" data-widget_type="icon-box.default">
+                    <div className="tdp-element tdp-element-26caef84 tdp-position-inline-start tdp-mobile-position-inline-start tdp-view-default tdp-widget tdp-widget-icon-box" data-id="26caef84" data-element_type="widget" data-e-type="widget" data-widget_type="icon-box.default">
                       {" "}
-                      <div className="elementor-icon-box-wrapper">
+                      <div className="tdp-icon-box-wrapper">
                         {" "}
-                        <div className="elementor-icon-box-icon">
+                        <div className="tdp-icon-box-icon">
                           {" "}
-                          <span className="elementor-icon">
+                          <span className="tdp-icon">
                             {" "}
                             <i aria-hidden="true" className="vamtamtheme- vamtam-theme-check"></i>
                             {" "}
@@ -324,9 +324,9 @@ export default function PageAgenteVirtualIvr({ path }: { path: string }) {
                           {" "}
                         </div>
                         {" "}
-                        <div className="elementor-icon-box-content">
+                        <div className="tdp-icon-box-content">
                           {" "}
-                          <div className="elementor-icon-box-title">
+                          <div className="tdp-icon-box-title">
                             {" "}
                             <span>
                               {" Incremento de Productividad "}
@@ -334,7 +334,7 @@ export default function PageAgenteVirtualIvr({ path }: { path: string }) {
                             {" "}
                           </div>
                           {" "}
-                          <p className="elementor-icon-box-description">
+                          <p className="tdp-icon-box-description">
                             {" Gestiona múltiples solicitudes de manera simultánea, mejorando la capacidad de atención y eficiencia de respuesta. "}
                           </p>
                           {" "}
@@ -352,21 +352,21 @@ export default function PageAgenteVirtualIvr({ path }: { path: string }) {
               {" "}
             </section>
             {" "}
-            <section className="elementor-section elementor-top-section elementor-element elementor-element-2d22beef elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="2d22beef" data-element_type="section" data-e-type="section">
+            <section className="tdp-section tdp-top-section tdp-element tdp-element-2d22beef tdp-section-boxed tdp-section-height-default tdp-section-height-default" data-id="2d22beef" data-element_type="section" data-e-type="section">
               {" "}
-              <div className="elementor-container elementor-column-gap-no">
+              <div className="tdp-container tdp-column-gap-no">
                 {" "}
-                <div className="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-fa3a886" data-id="fa3a886" data-element_type="column" data-e-type="column">
+                <div className="tdp-column tdp-col-33 tdp-top-column tdp-element tdp-element-fa3a886" data-id="fa3a886" data-element_type="column" data-e-type="column">
                   {" "}
-                  <div className="elementor-widget-wrap elementor-element-populated">
+                  <div className="tdp-widget-wrap tdp-element-populated">
                     {" "}
-                    <div className="elementor-element elementor-element-1dd13481 elementor-position-inline-start elementor-mobile-position-inline-start elementor-view-default elementor-widget elementor-widget-icon-box" data-id="1dd13481" data-element_type="widget" data-e-type="widget" data-widget_type="icon-box.default">
+                    <div className="tdp-element tdp-element-1dd13481 tdp-position-inline-start tdp-mobile-position-inline-start tdp-view-default tdp-widget tdp-widget-icon-box" data-id="1dd13481" data-element_type="widget" data-e-type="widget" data-widget_type="icon-box.default">
                       {" "}
-                      <div className="elementor-icon-box-wrapper">
+                      <div className="tdp-icon-box-wrapper">
                         {" "}
-                        <div className="elementor-icon-box-icon">
+                        <div className="tdp-icon-box-icon">
                           {" "}
-                          <span className="elementor-icon">
+                          <span className="tdp-icon">
                             {" "}
                             <i aria-hidden="true" className="vamtamtheme- vamtam-theme-check"></i>
                             {" "}
@@ -374,9 +374,9 @@ export default function PageAgenteVirtualIvr({ path }: { path: string }) {
                           {" "}
                         </div>
                         {" "}
-                        <div className="elementor-icon-box-content">
+                        <div className="tdp-icon-box-content">
                           {" "}
-                          <div className="elementor-icon-box-title">
+                          <div className="tdp-icon-box-title">
                             {" "}
                             <span>
                               {" Reducción de Llamadas Perdidas "}
@@ -384,7 +384,7 @@ export default function PageAgenteVirtualIvr({ path }: { path: string }) {
                             {" "}
                           </div>
                           {" "}
-                          <p className="elementor-icon-box-description">
+                          <p className="tdp-icon-box-description">
                             {" Asegura la atención de cada llamada mediante un sistema IVR, disminuyendo el riesgo de llamadas sin respuesta. "}
                           </p>
                           {" "}
@@ -398,17 +398,17 @@ export default function PageAgenteVirtualIvr({ path }: { path: string }) {
                   {" "}
                 </div>
                 {" "}
-                <div className="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-3a45cef2" data-id="3a45cef2" data-element_type="column" data-e-type="column">
+                <div className="tdp-column tdp-col-33 tdp-top-column tdp-element tdp-element-3a45cef2" data-id="3a45cef2" data-element_type="column" data-e-type="column">
                   {" "}
-                  <div className="elementor-widget-wrap elementor-element-populated">
+                  <div className="tdp-widget-wrap tdp-element-populated">
                     {" "}
-                    <div className="elementor-element elementor-element-fccd07f elementor-position-inline-start elementor-mobile-position-inline-start elementor-view-default elementor-widget elementor-widget-icon-box" data-id="fccd07f" data-element_type="widget" data-e-type="widget" data-widget_type="icon-box.default">
+                    <div className="tdp-element tdp-element-fccd07f tdp-position-inline-start tdp-mobile-position-inline-start tdp-view-default tdp-widget tdp-widget-icon-box" data-id="fccd07f" data-element_type="widget" data-e-type="widget" data-widget_type="icon-box.default">
                       {" "}
-                      <div className="elementor-icon-box-wrapper">
+                      <div className="tdp-icon-box-wrapper">
                         {" "}
-                        <div className="elementor-icon-box-icon">
+                        <div className="tdp-icon-box-icon">
                           {" "}
-                          <span className="elementor-icon">
+                          <span className="tdp-icon">
                             {" "}
                             <i aria-hidden="true" className="vamtamtheme- vamtam-theme-check"></i>
                             {" "}
@@ -416,9 +416,9 @@ export default function PageAgenteVirtualIvr({ path }: { path: string }) {
                           {" "}
                         </div>
                         {" "}
-                        <div className="elementor-icon-box-content">
+                        <div className="tdp-icon-box-content">
                           {" "}
-                          <div className="elementor-icon-box-title">
+                          <div className="tdp-icon-box-title">
                             {" "}
                             <span>
                               {" Minimizar tiempos de espera "}
@@ -426,7 +426,7 @@ export default function PageAgenteVirtualIvr({ path }: { path: string }) {
                             {" "}
                           </div>
                           {" "}
-                          <p className="elementor-icon-box-description">
+                          <p className="tdp-icon-box-description">
                             {" Impacta totalmente los tiempos de atención, con nuestro IVR transaccional todas las llamadas se atienden de inmediato. "}
                           </p>
                           {" "}
@@ -440,17 +440,17 @@ export default function PageAgenteVirtualIvr({ path }: { path: string }) {
                   {" "}
                 </div>
                 {" "}
-                <div className="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-adde864" data-id="adde864" data-element_type="column" data-e-type="column">
+                <div className="tdp-column tdp-col-33 tdp-top-column tdp-element tdp-element-adde864" data-id="adde864" data-element_type="column" data-e-type="column">
                   {" "}
-                  <div className="elementor-widget-wrap elementor-element-populated">
+                  <div className="tdp-widget-wrap tdp-element-populated">
                     {" "}
-                    <div className="elementor-element elementor-element-d23af16 elementor-position-inline-start elementor-mobile-position-inline-start elementor-view-default elementor-widget elementor-widget-icon-box" data-id="d23af16" data-element_type="widget" data-e-type="widget" data-widget_type="icon-box.default">
+                    <div className="tdp-element tdp-element-d23af16 tdp-position-inline-start tdp-mobile-position-inline-start tdp-view-default tdp-widget tdp-widget-icon-box" data-id="d23af16" data-element_type="widget" data-e-type="widget" data-widget_type="icon-box.default">
                       {" "}
-                      <div className="elementor-icon-box-wrapper">
+                      <div className="tdp-icon-box-wrapper">
                         {" "}
-                        <div className="elementor-icon-box-icon">
+                        <div className="tdp-icon-box-icon">
                           {" "}
-                          <span className="elementor-icon">
+                          <span className="tdp-icon">
                             {" "}
                             <i aria-hidden="true" className="vamtamtheme- vamtam-theme-check"></i>
                             {" "}
@@ -458,9 +458,9 @@ export default function PageAgenteVirtualIvr({ path }: { path: string }) {
                           {" "}
                         </div>
                         {" "}
-                        <div className="elementor-icon-box-content">
+                        <div className="tdp-icon-box-content">
                           {" "}
-                          <div className="elementor-icon-box-title">
+                          <div className="tdp-icon-box-title">
                             {" "}
                             <span>
                               {" IVR Deflection "}
@@ -468,7 +468,7 @@ export default function PageAgenteVirtualIvr({ path }: { path: string }) {
                             {" "}
                           </div>
                           {" "}
-                          <p className="elementor-icon-box-description">
+                          <p className="tdp-icon-box-description">
                             {" Derivación a WhatsApp para completar procesos que no se pueden realizar a través de un sistema telefónico automático, como el registro de pacientes. "}
                           </p>
                           {" "}
@@ -486,17 +486,17 @@ export default function PageAgenteVirtualIvr({ path }: { path: string }) {
               {" "}
             </section>
             {" "}
-            <div className="elementor-element elementor-element-d1561e1 e-flex e-con-boxed e-con e-parent" data-id="d1561e1" data-element_type="container" data-e-type="container">
+            <div className="tdp-element tdp-element-d1561e1 e-flex e-con-boxed e-con e-parent" data-id="d1561e1" data-element_type="container" data-e-type="container">
               {" "}
               <div className="e-con-inner">
                 {" "}
-                <div className="elementor-element elementor-element-3738d89 elementor-widget__width-auto elementor-align-center elementor-mobile-align-justify elementor-widget-mobile__width-initial elementor-widget elementor-widget-button" data-id="3738d89" data-element_type="widget" data-e-type="widget" data-widget_type="button.default">
+                <div className="tdp-element tdp-element-3738d89 tdp-widget__width-auto tdp-align-center tdp-mobile-align-justify tdp-widget-mobile__width-initial tdp-widget tdp-widget-button" data-id="3738d89" data-element_type="widget" data-e-type="widget" data-widget_type="button.default">
                   {" "}
-                  <a className="elementor-button elementor-size-sm" role="button">
+                  <a className="tdp-button tdp-size-sm" role="button">
                     {" "}
-                    <span className="elementor-button-content-wrapper">
+                    <span className="tdp-button-content-wrapper">
                       {" "}
-                      <span className="elementor-button-icon">
+                      <span className="tdp-button-icon">
                         {" "}
                         <svg aria-hidden="true" className="e-font-icon-svg e-fab-whatsapp" viewBox="0 0 448 512" xmlns="http://www.w3.org/2000/svg">
                           <path d="M380.9 97.1C339 55.1 283.2 32 223.9 32c-122.4 0-222 99.6-222 222 0 39.1 10.2 77.3 29.6 111L0 480l117.7-30.9c32.4 17.7 68.9 27 106.1 27h.1c122.3 0 224.1-99.6 224.1-222 0-59.3-25.2-115-67.1-157zm-157 341.6c-33.2 0-65.7-8.9-94-25.7l-6.7-4-69.8 18.3L72 359.2l-4.4-7c-18.5-29.4-28.2-63.3-28.2-98.2 0-101.7 82.8-184.5 184.6-184.5 49.3 0 95.6 19.2 130.4 54.1 34.8 34.9 56.2 81.2 56.1 130.5 0 101.8-84.9 184.6-186.6 184.6zm101.2-138.2c-5.5-2.8-32.8-16.2-37.9-18-5.1-1.9-8.8-2.8-12.5 2.8-3.7 5.6-14.3 18-17.6 21.8-3.2 3.7-6.5 4.2-12 1.4-32.6-16.3-54-29.1-75.5-66-5.7-9.8 5.7-9.1 16.3-30.3 1.8-3.7.9-6.9-.5-9.7-1.4-2.8-12.5-30.1-17.1-41.2-4.5-10.8-9.1-9.3-12.5-9.5-3.2-.2-6.9-.2-10.6-.2-3.7 0-9.7 1.4-14.8 6.9-5.1 5.6-19.4 19-19.4 46.3 0 27.3 19.9 53.7 22.6 57.4 2.8 3.7 39.1 59.7 94.8 83.8 35.2 15.2 49 16.5 66.6 13.9 10.7-1.6 32.8-13.4 37.4-26.4 4.6-13 4.6-24.1 3.2-26.4-1.3-2.5-5-3.9-10.5-6.6z"></path>
@@ -504,7 +504,7 @@ export default function PageAgenteVirtualIvr({ path }: { path: string }) {
                         {" "}
                       </span>
                       {" "}
-                      <span className="elementor-button-text">
+                      <span className="tdp-button-text">
                         {"Más Información"}
                       </span>
                       {" "}
@@ -518,55 +518,55 @@ export default function PageAgenteVirtualIvr({ path }: { path: string }) {
               {" "}
             </div>
             {" "}
-            <section className="elementor-section elementor-top-section elementor-element elementor-element-6710ff2c elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="6710ff2c" data-element_type="section" data-e-type="section">
+            <section className="tdp-section tdp-top-section tdp-element tdp-element-6710ff2c tdp-section-full_width tdp-section-height-default tdp-section-height-default" data-id="6710ff2c" data-element_type="section" data-e-type="section">
               {" "}
-              <div className="elementor-container elementor-column-gap-no">
+              <div className="tdp-container tdp-column-gap-no">
                 {" "}
-                <div className="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-e1b19a8" data-id="e1b19a8" data-element_type="column" data-e-type="column">
+                <div className="tdp-column tdp-col-100 tdp-top-column tdp-element tdp-element-e1b19a8" data-id="e1b19a8" data-element_type="column" data-e-type="column">
                   {" "}
-                  <div className="elementor-widget-wrap elementor-element-populated">
+                  <div className="tdp-widget-wrap tdp-element-populated">
                     {" "}
-                    <div className="elementor-element elementor-element-7aa1b489 elementor-absolute elementor-widget elementor-widget-template" data-id="7aa1b489" data-element_type="widget" data-e-type="widget" data-settings={"{\"_position\":\"absolute\"}"} data-widget_type="template.default">
+                    <div className="tdp-element tdp-element-7aa1b489 tdp-absolute tdp-widget tdp-widget-template" data-id="7aa1b489" data-element_type="widget" data-e-type="widget" data-settings={"{\"_position\":\"absolute\"}"} data-widget_type="template.default">
                       {" "}
-                      <div className="elementor-widget-container">
+                      <div className="tdp-widget-container">
                         {" "}
-                        <div className="elementor-template">
+                        <div className="tdp-template">
                           {" "}
-                          <div data-elementor-type="section" data-elementor-id="10889" className="elementor elementor-10889" data-elementor-post-type="elementor_library">
+                          <div data-tdp-type="section" data-tdp-id="10889" className="tdp tdp-10889" data-tdp-post-type="tdp_library">
                             {" "}
-                            <section className="elementor-section elementor-top-section elementor-element elementor-element-aff5d0f elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="aff5d0f" data-element_type="section" data-e-type="section" data-settings={"{\"motion_fx_motion_fx_scrolling\":\"yes\",\"motion_fx_translateY_effect\":\"yes\",\"motion_fx_translateY_speed\":{\"unit\":\"px\",\"size\":1,\"sizes\":[]},\"motion_fx_translateY_affectedRange\":{\"unit\":\"%\",\"size\":\"\",\"sizes\":{\"start\":0,\"end\":58}},\"motion_fx_devices\":[\"desktop\"]}"}>
+                            <section className="tdp-section tdp-top-section tdp-element tdp-element-aff5d0f tdp-section-full_width tdp-section-height-default tdp-section-height-default" data-id="aff5d0f" data-element_type="section" data-e-type="section" data-settings={"{\"motion_fx_motion_fx_scrolling\":\"yes\",\"motion_fx_translateY_effect\":\"yes\",\"motion_fx_translateY_speed\":{\"unit\":\"px\",\"size\":1,\"sizes\":[]},\"motion_fx_translateY_affectedRange\":{\"unit\":\"%\",\"size\":\"\",\"sizes\":{\"start\":0,\"end\":58}},\"motion_fx_devices\":[\"desktop\"]}"}>
                               {" "}
-                              <div className="elementor-container elementor-column-gap-no">
+                              <div className="tdp-container tdp-column-gap-no">
                                 {" "}
-                                <div className="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-70019ce" data-id="70019ce" data-element_type="column" data-e-type="column">
+                                <div className="tdp-column tdp-col-100 tdp-top-column tdp-element tdp-element-70019ce" data-id="70019ce" data-element_type="column" data-e-type="column">
                                   {" "}
-                                  <div className="elementor-widget-wrap elementor-element-populated">
+                                  <div className="tdp-widget-wrap tdp-element-populated">
                                     {" "}
-                                    <div className="elementor-element elementor-element-6ed649e elementor-widget__width-initial e-transform elementor-absolute elementor-widget elementor-widget-spacer" data-id="6ed649e" data-element_type="widget" data-e-type="widget" data-settings={"{\"_transform_skewX_effect\":{\"unit\":\"px\",\"size\":-20,\"sizes\":[]},\"_position\":\"absolute\",\"_transform_skewX_effect_tablet\":{\"unit\":\"deg\",\"size\":\"\",\"sizes\":[]},\"_transform_skewX_effect_mobile\":{\"unit\":\"deg\",\"size\":\"\",\"sizes\":[]},\"_transform_skewY_effect\":{\"unit\":\"px\",\"size\":\"\",\"sizes\":[]},\"_transform_skewY_effect_tablet\":{\"unit\":\"deg\",\"size\":\"\",\"sizes\":[]},\"_transform_skewY_effect_mobile\":{\"unit\":\"deg\",\"size\":\"\",\"sizes\":[]}}"} data-widget_type="spacer.default">
+                                    <div className="tdp-element tdp-element-6ed649e tdp-widget__width-initial e-transform tdp-absolute tdp-widget tdp-widget-spacer" data-id="6ed649e" data-element_type="widget" data-e-type="widget" data-settings={"{\"_transform_skewX_effect\":{\"unit\":\"px\",\"size\":-20,\"sizes\":[]},\"_position\":\"absolute\",\"_transform_skewX_effect_tablet\":{\"unit\":\"deg\",\"size\":\"\",\"sizes\":[]},\"_transform_skewX_effect_mobile\":{\"unit\":\"deg\",\"size\":\"\",\"sizes\":[]},\"_transform_skewY_effect\":{\"unit\":\"px\",\"size\":\"\",\"sizes\":[]},\"_transform_skewY_effect_tablet\":{\"unit\":\"deg\",\"size\":\"\",\"sizes\":[]},\"_transform_skewY_effect_mobile\":{\"unit\":\"deg\",\"size\":\"\",\"sizes\":[]}}"} data-widget_type="spacer.default">
                                       {" "}
-                                      <div className="elementor-spacer">
+                                      <div className="tdp-spacer">
                                         {" "}
-                                        <div className="elementor-spacer-inner"></div>
+                                        <div className="tdp-spacer-inner"></div>
                                         {" "}
                                       </div>
                                       {" "}
                                     </div>
                                     {" "}
-                                    <div className="elementor-element elementor-element-c25e4d3 elementor-widget__width-initial e-transform elementor-absolute elementor-widget elementor-widget-spacer" data-id="c25e4d3" data-element_type="widget" data-e-type="widget" data-settings={"{\"_transform_skewX_effect\":{\"unit\":\"px\",\"size\":-20,\"sizes\":[]},\"_position\":\"absolute\",\"_transform_skewX_effect_tablet\":{\"unit\":\"deg\",\"size\":\"\",\"sizes\":[]},\"_transform_skewX_effect_mobile\":{\"unit\":\"deg\",\"size\":\"\",\"sizes\":[]},\"_transform_skewY_effect\":{\"unit\":\"px\",\"size\":\"\",\"sizes\":[]},\"_transform_skewY_effect_tablet\":{\"unit\":\"deg\",\"size\":\"\",\"sizes\":[]},\"_transform_skewY_effect_mobile\":{\"unit\":\"deg\",\"size\":\"\",\"sizes\":[]}}"} data-widget_type="spacer.default">
+                                    <div className="tdp-element tdp-element-c25e4d3 tdp-widget__width-initial e-transform tdp-absolute tdp-widget tdp-widget-spacer" data-id="c25e4d3" data-element_type="widget" data-e-type="widget" data-settings={"{\"_transform_skewX_effect\":{\"unit\":\"px\",\"size\":-20,\"sizes\":[]},\"_position\":\"absolute\",\"_transform_skewX_effect_tablet\":{\"unit\":\"deg\",\"size\":\"\",\"sizes\":[]},\"_transform_skewX_effect_mobile\":{\"unit\":\"deg\",\"size\":\"\",\"sizes\":[]},\"_transform_skewY_effect\":{\"unit\":\"px\",\"size\":\"\",\"sizes\":[]},\"_transform_skewY_effect_tablet\":{\"unit\":\"deg\",\"size\":\"\",\"sizes\":[]},\"_transform_skewY_effect_mobile\":{\"unit\":\"deg\",\"size\":\"\",\"sizes\":[]}}"} data-widget_type="spacer.default">
                                       {" "}
-                                      <div className="elementor-spacer">
+                                      <div className="tdp-spacer">
                                         {" "}
-                                        <div className="elementor-spacer-inner"></div>
+                                        <div className="tdp-spacer-inner"></div>
                                         {" "}
                                       </div>
                                       {" "}
                                     </div>
                                     {" "}
-                                    <div className="elementor-element elementor-element-71e2d13 elementor-widget__width-initial e-transform elementor-absolute elementor-widget elementor-widget-spacer" data-id="71e2d13" data-element_type="widget" data-e-type="widget" data-settings={"{\"_transform_skewX_effect\":{\"unit\":\"px\",\"size\":-20,\"sizes\":[]},\"_position\":\"absolute\",\"_transform_skewX_effect_tablet\":{\"unit\":\"deg\",\"size\":\"\",\"sizes\":[]},\"_transform_skewX_effect_mobile\":{\"unit\":\"deg\",\"size\":\"\",\"sizes\":[]},\"_transform_skewY_effect\":{\"unit\":\"px\",\"size\":\"\",\"sizes\":[]},\"_transform_skewY_effect_tablet\":{\"unit\":\"deg\",\"size\":\"\",\"sizes\":[]},\"_transform_skewY_effect_mobile\":{\"unit\":\"deg\",\"size\":\"\",\"sizes\":[]}}"} data-widget_type="spacer.default">
+                                    <div className="tdp-element tdp-element-71e2d13 tdp-widget__width-initial e-transform tdp-absolute tdp-widget tdp-widget-spacer" data-id="71e2d13" data-element_type="widget" data-e-type="widget" data-settings={"{\"_transform_skewX_effect\":{\"unit\":\"px\",\"size\":-20,\"sizes\":[]},\"_position\":\"absolute\",\"_transform_skewX_effect_tablet\":{\"unit\":\"deg\",\"size\":\"\",\"sizes\":[]},\"_transform_skewX_effect_mobile\":{\"unit\":\"deg\",\"size\":\"\",\"sizes\":[]},\"_transform_skewY_effect\":{\"unit\":\"px\",\"size\":\"\",\"sizes\":[]},\"_transform_skewY_effect_tablet\":{\"unit\":\"deg\",\"size\":\"\",\"sizes\":[]},\"_transform_skewY_effect_mobile\":{\"unit\":\"deg\",\"size\":\"\",\"sizes\":[]}}"} data-widget_type="spacer.default">
                                       {" "}
-                                      <div className="elementor-spacer">
+                                      <div className="tdp-spacer">
                                         {" "}
-                                        <div className="elementor-spacer-inner"></div>
+                                        <div className="tdp-spacer-inner"></div>
                                         {" "}
                                       </div>
                                       {" "}
@@ -588,27 +588,27 @@ export default function PageAgenteVirtualIvr({ path }: { path: string }) {
                       {" "}
                     </div>
                     {" "}
-                    <section className="elementor-section elementor-inner-section elementor-element elementor-element-45396a43 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="45396a43" data-element_type="section" data-e-type="section" data-settings={"{\"background_background\":\"classic\"}"}>
+                    <section className="tdp-section tdp-inner-section tdp-element tdp-element-45396a43 tdp-section-boxed tdp-section-height-default tdp-section-height-default" data-id="45396a43" data-element_type="section" data-e-type="section" data-settings={"{\"background_background\":\"classic\"}"}>
                       {" "}
-                      <div className="elementor-container elementor-column-gap-no">
+                      <div className="tdp-container tdp-column-gap-no">
                         {" "}
-                        <div className="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-2a8a9673" data-id="2a8a9673" data-element_type="column" data-e-type="column">
+                        <div className="tdp-column tdp-col-100 tdp-inner-column tdp-element tdp-element-2a8a9673" data-id="2a8a9673" data-element_type="column" data-e-type="column">
                           {" "}
-                          <div className="elementor-widget-wrap elementor-element-populated">
+                          <div className="tdp-widget-wrap tdp-element-populated">
                             {" "}
-                            <div className="elementor-element elementor-element-21d54915 elementor-align-start elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="21d54915" data-element_type="widget" data-e-type="widget" data-widget_type="icon-list.default">
+                            <div className="tdp-element tdp-element-21d54915 tdp-align-start tdp-icon-list--layout-traditional tdp-list-item-link-full_width tdp-widget tdp-widget-icon-list" data-id="21d54915" data-element_type="widget" data-e-type="widget" data-widget_type="icon-list.default">
                               {" "}
-                              <ul className="elementor-icon-list-items">
+                              <ul className="tdp-icon-list-items">
                                 {" "}
-                                <li className="elementor-icon-list-item">
+                                <li className="tdp-icon-list-item">
                                   {" "}
-                                  <span className="elementor-icon-list-icon">
+                                  <span className="tdp-icon-list-icon">
                                     {" "}
                                     <i aria-hidden="true" className="vamtamtheme- vamtam-theme-brand-symbol"></i>
                                     {" "}
                                   </span>
                                   {" "}
-                                  <span className="elementor-icon-list-text">
+                                  <span className="tdp-icon-list-text">
                                     {"Características"}
                                   </span>
                                   {" "}
@@ -618,9 +618,9 @@ export default function PageAgenteVirtualIvr({ path }: { path: string }) {
                               {" "}
                             </div>
                             {" "}
-                            <div className="elementor-element elementor-element-4b428cf3 elementor-widget__width-initial elementor-widget elementor-widget-heading" data-id="4b428cf3" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+                            <div className="tdp-element tdp-element-4b428cf3 tdp-widget__width-initial tdp-widget tdp-widget-heading" data-id="4b428cf3" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
                               {" "}
-                              <h2 className="elementor-heading-title elementor-size-default">
+                              <h2 className="tdp-heading-title tdp-size-default">
                                 {"Funcionalidades de nuestro IVR, Agente Virtual"}
                               </h2>
                               {" "}
@@ -634,37 +634,37 @@ export default function PageAgenteVirtualIvr({ path }: { path: string }) {
                       {" "}
                     </section>
                     {" "}
-                    <section className="elementor-section elementor-inner-section elementor-element elementor-element-6f56b513 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="6f56b513" data-element_type="section" data-e-type="section" data-settings={"{\"background_background\":\"classic\"}"}>
+                    <section className="tdp-section tdp-inner-section tdp-element tdp-element-6f56b513 tdp-section-boxed tdp-section-height-default tdp-section-height-default" data-id="6f56b513" data-element_type="section" data-e-type="section" data-settings={"{\"background_background\":\"classic\"}"}>
                       {" "}
-                      <div className="elementor-container elementor-column-gap-no">
+                      <div className="tdp-container tdp-column-gap-no">
                         {" "}
-                        <div className="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-544b8604" data-id="544b8604" data-element_type="column" data-e-type="column" data-settings={"{\"background_background\":\"classic\"}"}>
+                        <div className="tdp-column tdp-col-25 tdp-inner-column tdp-element tdp-element-544b8604" data-id="544b8604" data-element_type="column" data-e-type="column" data-settings={"{\"background_background\":\"classic\"}"}>
                           {" "}
-                          <div className="elementor-widget-wrap elementor-element-populated">
+                          <div className="tdp-widget-wrap tdp-element-populated">
                             {" "}
-                            <div className="elementor-element elementor-element-4ae40385 elementor-widget elementor-widget-menu-anchor" data-id="4ae40385" data-element_type="widget" data-e-type="widget" data-widget_type="menu-anchor.default">
+                            <div className="tdp-element tdp-element-4ae40385 tdp-widget tdp-widget-menu-anchor" data-id="4ae40385" data-element_type="widget" data-e-type="widget" data-widget_type="menu-anchor.default">
                               {" "}
-                              <div className="elementor-menu-anchor" id="Investment"></div>
+                              <div className="tdp-menu-anchor" id="Investment"></div>
                               {" "}
                             </div>
                             {" "}
-                            <div className="elementor-element elementor-element-1f287296 elementor-widget elementor-widget-spacer" data-id="1f287296" data-element_type="widget" data-e-type="widget" data-widget_type="spacer.default">
+                            <div className="tdp-element tdp-element-1f287296 tdp-widget tdp-widget-spacer" data-id="1f287296" data-element_type="widget" data-e-type="widget" data-widget_type="spacer.default">
                               {" "}
-                              <div className="elementor-spacer">
+                              <div className="tdp-spacer">
                                 {" "}
-                                <div className="elementor-spacer-inner"></div>
+                                <div className="tdp-spacer-inner"></div>
                                 {" "}
                               </div>
                               {" "}
                             </div>
                             {" "}
-                            <div className="elementor-element elementor-element-58327345 elementor-view-default elementor-position-block-start elementor-mobile-position-block-start elementor-widget elementor-widget-icon-box" data-id="58327345" data-element_type="widget" data-e-type="widget" data-widget_type="icon-box.default">
+                            <div className="tdp-element tdp-element-58327345 tdp-view-default tdp-position-block-start tdp-mobile-position-block-start tdp-widget tdp-widget-icon-box" data-id="58327345" data-element_type="widget" data-e-type="widget" data-widget_type="icon-box.default">
                               {" "}
-                              <div className="elementor-icon-box-wrapper">
+                              <div className="tdp-icon-box-wrapper">
                                 {" "}
-                                <div className="elementor-icon-box-icon">
+                                <div className="tdp-icon-box-icon">
                                   {" "}
-                                  <span className="elementor-icon">
+                                  <span className="tdp-icon">
                                     {" "}
                                     <i aria-hidden="true" className="vamtamtheme- vamtam-theme-check"></i>
                                     {" "}
@@ -672,9 +672,9 @@ export default function PageAgenteVirtualIvr({ path }: { path: string }) {
                                   {" "}
                                 </div>
                                 {" "}
-                                <div className="elementor-icon-box-content">
+                                <div className="tdp-icon-box-content">
                                   {" "}
-                                  <h5 className="elementor-icon-box-title">
+                                  <h5 className="tdp-icon-box-title">
                                     {" "}
                                     <span>
                                       {" Asistencia 24/7 para tus usuarios "}
@@ -682,7 +682,7 @@ export default function PageAgenteVirtualIvr({ path }: { path: string }) {
                                     {" "}
                                   </h5>
                                   {" "}
-                                  <p className="elementor-icon-box-description">
+                                  <p className="tdp-icon-box-description">
                                     {" Responde automáticamente a las consultas frecuentes de los clientes, brindando soporte continuo sin necesidad de intervención humana. "}
                                   </p>
                                   {" "}
@@ -696,33 +696,33 @@ export default function PageAgenteVirtualIvr({ path }: { path: string }) {
                           {" "}
                         </div>
                         {" "}
-                        <div className="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-2420d0ab" data-id="2420d0ab" data-element_type="column" data-e-type="column" data-settings={"{\"background_background\":\"classic\"}"}>
+                        <div className="tdp-column tdp-col-25 tdp-inner-column tdp-element tdp-element-2420d0ab" data-id="2420d0ab" data-element_type="column" data-e-type="column" data-settings={"{\"background_background\":\"classic\"}"}>
                           {" "}
-                          <div className="elementor-widget-wrap elementor-element-populated">
+                          <div className="tdp-widget-wrap tdp-element-populated">
                             {" "}
-                            <div className="elementor-element elementor-element-3525f1bd elementor-widget elementor-widget-menu-anchor" data-id="3525f1bd" data-element_type="widget" data-e-type="widget" data-widget_type="menu-anchor.default">
+                            <div className="tdp-element tdp-element-3525f1bd tdp-widget tdp-widget-menu-anchor" data-id="3525f1bd" data-element_type="widget" data-e-type="widget" data-widget_type="menu-anchor.default">
                               {" "}
-                              <div className="elementor-menu-anchor" id="Retirement"></div>
+                              <div className="tdp-menu-anchor" id="Retirement"></div>
                               {" "}
                             </div>
                             {" "}
-                            <div className="elementor-element elementor-element-457ec1ff elementor-widget elementor-widget-spacer" data-id="457ec1ff" data-element_type="widget" data-e-type="widget" data-widget_type="spacer.default">
+                            <div className="tdp-element tdp-element-457ec1ff tdp-widget tdp-widget-spacer" data-id="457ec1ff" data-element_type="widget" data-e-type="widget" data-widget_type="spacer.default">
                               {" "}
-                              <div className="elementor-spacer">
+                              <div className="tdp-spacer">
                                 {" "}
-                                <div className="elementor-spacer-inner"></div>
+                                <div className="tdp-spacer-inner"></div>
                                 {" "}
                               </div>
                               {" "}
                             </div>
                             {" "}
-                            <div className="elementor-element elementor-element-1bfd8f2 elementor-view-default elementor-position-block-start elementor-mobile-position-block-start elementor-widget elementor-widget-icon-box" data-id="1bfd8f2" data-element_type="widget" data-e-type="widget" data-widget_type="icon-box.default">
+                            <div className="tdp-element tdp-element-1bfd8f2 tdp-view-default tdp-position-block-start tdp-mobile-position-block-start tdp-widget tdp-widget-icon-box" data-id="1bfd8f2" data-element_type="widget" data-e-type="widget" data-widget_type="icon-box.default">
                               {" "}
-                              <div className="elementor-icon-box-wrapper">
+                              <div className="tdp-icon-box-wrapper">
                                 {" "}
-                                <div className="elementor-icon-box-icon">
+                                <div className="tdp-icon-box-icon">
                                   {" "}
-                                  <span className="elementor-icon">
+                                  <span className="tdp-icon">
                                     {" "}
                                     <i aria-hidden="true" className="vamtamtheme- vamtam-theme-check"></i>
                                     {" "}
@@ -730,9 +730,9 @@ export default function PageAgenteVirtualIvr({ path }: { path: string }) {
                                   {" "}
                                 </div>
                                 {" "}
-                                <div className="elementor-icon-box-content">
+                                <div className="tdp-icon-box-content">
                                   {" "}
-                                  <h5 className="elementor-icon-box-title">
+                                  <h5 className="tdp-icon-box-title">
                                     {" "}
                                     <span>
                                       {" Gestión de Citas Automáticas "}
@@ -740,7 +740,7 @@ export default function PageAgenteVirtualIvr({ path }: { path: string }) {
                                     {" "}
                                   </h5>
                                   {" "}
-                                  <p className="elementor-icon-box-description">
+                                  <p className="tdp-icon-box-description">
                                     {" Permite agendar y cancelar citas de forma autónoma, optimizando la organización y evitando duplicaciones o cancelaciones olvidadas. "}
                                   </p>
                                   {" "}
@@ -754,33 +754,33 @@ export default function PageAgenteVirtualIvr({ path }: { path: string }) {
                           {" "}
                         </div>
                         {" "}
-                        <div className="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-9712479" data-id="9712479" data-element_type="column" data-e-type="column" data-settings={"{\"background_background\":\"classic\"}"}>
+                        <div className="tdp-column tdp-col-25 tdp-inner-column tdp-element tdp-element-9712479" data-id="9712479" data-element_type="column" data-e-type="column" data-settings={"{\"background_background\":\"classic\"}"}>
                           {" "}
-                          <div className="elementor-widget-wrap elementor-element-populated">
+                          <div className="tdp-widget-wrap tdp-element-populated">
                             {" "}
-                            <div className="elementor-element elementor-element-f078c2a elementor-widget elementor-widget-menu-anchor" data-id="f078c2a" data-element_type="widget" data-e-type="widget" data-widget_type="menu-anchor.default">
+                            <div className="tdp-element tdp-element-f078c2a tdp-widget tdp-widget-menu-anchor" data-id="f078c2a" data-element_type="widget" data-e-type="widget" data-widget_type="menu-anchor.default">
                               {" "}
-                              <div className="elementor-menu-anchor" id="Retirement"></div>
+                              <div className="tdp-menu-anchor" id="Retirement"></div>
                               {" "}
                             </div>
                             {" "}
-                            <div className="elementor-element elementor-element-5793da6 elementor-widget elementor-widget-spacer" data-id="5793da6" data-element_type="widget" data-e-type="widget" data-widget_type="spacer.default">
+                            <div className="tdp-element tdp-element-5793da6 tdp-widget tdp-widget-spacer" data-id="5793da6" data-element_type="widget" data-e-type="widget" data-widget_type="spacer.default">
                               {" "}
-                              <div className="elementor-spacer">
+                              <div className="tdp-spacer">
                                 {" "}
-                                <div className="elementor-spacer-inner"></div>
+                                <div className="tdp-spacer-inner"></div>
                                 {" "}
                               </div>
                               {" "}
                             </div>
                             {" "}
-                            <div className="elementor-element elementor-element-bcb7ca3 elementor-view-default elementor-position-block-start elementor-mobile-position-block-start elementor-widget elementor-widget-icon-box" data-id="bcb7ca3" data-element_type="widget" data-e-type="widget" data-widget_type="icon-box.default">
+                            <div className="tdp-element tdp-element-bcb7ca3 tdp-view-default tdp-position-block-start tdp-mobile-position-block-start tdp-widget tdp-widget-icon-box" data-id="bcb7ca3" data-element_type="widget" data-e-type="widget" data-widget_type="icon-box.default">
                               {" "}
-                              <div className="elementor-icon-box-wrapper">
+                              <div className="tdp-icon-box-wrapper">
                                 {" "}
-                                <div className="elementor-icon-box-icon">
+                                <div className="tdp-icon-box-icon">
                                   {" "}
-                                  <span className="elementor-icon">
+                                  <span className="tdp-icon">
                                     {" "}
                                     <i aria-hidden="true" className="vamtamtheme- vamtam-theme-check"></i>
                                     {" "}
@@ -788,9 +788,9 @@ export default function PageAgenteVirtualIvr({ path }: { path: string }) {
                                   {" "}
                                 </div>
                                 {" "}
-                                <div className="elementor-icon-box-content">
+                                <div className="tdp-icon-box-content">
                                   {" "}
-                                  <h5 className="elementor-icon-box-title">
+                                  <h5 className="tdp-icon-box-title">
                                     {" "}
                                     <span>
                                       {" Enrutamiento Inteligente de Llamadas "}
@@ -798,7 +798,7 @@ export default function PageAgenteVirtualIvr({ path }: { path: string }) {
                                     {" "}
                                   </h5>
                                   {" "}
-                                  <p className="elementor-icon-box-description">
+                                  <p className="tdp-icon-box-description">
                                     {" Redirige las llamadas al departamento o agente adecuado, agilizando la atención y reduciendo tiempos de espera. "}
                                   </p>
                                   {" "}
@@ -812,33 +812,33 @@ export default function PageAgenteVirtualIvr({ path }: { path: string }) {
                           {" "}
                         </div>
                         {" "}
-                        <div className="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-049258f" data-id="049258f" data-element_type="column" data-e-type="column" data-settings={"{\"background_background\":\"classic\"}"}>
+                        <div className="tdp-column tdp-col-25 tdp-inner-column tdp-element tdp-element-049258f" data-id="049258f" data-element_type="column" data-e-type="column" data-settings={"{\"background_background\":\"classic\"}"}>
                           {" "}
-                          <div className="elementor-widget-wrap elementor-element-populated">
+                          <div className="tdp-widget-wrap tdp-element-populated">
                             {" "}
-                            <div className="elementor-element elementor-element-68ce7af elementor-widget elementor-widget-menu-anchor" data-id="68ce7af" data-element_type="widget" data-e-type="widget" data-widget_type="menu-anchor.default">
+                            <div className="tdp-element tdp-element-68ce7af tdp-widget tdp-widget-menu-anchor" data-id="68ce7af" data-element_type="widget" data-e-type="widget" data-widget_type="menu-anchor.default">
                               {" "}
-                              <div className="elementor-menu-anchor" id="Retirement"></div>
+                              <div className="tdp-menu-anchor" id="Retirement"></div>
                               {" "}
                             </div>
                             {" "}
-                            <div className="elementor-element elementor-element-1ce39ee elementor-widget elementor-widget-spacer" data-id="1ce39ee" data-element_type="widget" data-e-type="widget" data-widget_type="spacer.default">
+                            <div className="tdp-element tdp-element-1ce39ee tdp-widget tdp-widget-spacer" data-id="1ce39ee" data-element_type="widget" data-e-type="widget" data-widget_type="spacer.default">
                               {" "}
-                              <div className="elementor-spacer">
+                              <div className="tdp-spacer">
                                 {" "}
-                                <div className="elementor-spacer-inner"></div>
+                                <div className="tdp-spacer-inner"></div>
                                 {" "}
                               </div>
                               {" "}
                             </div>
                             {" "}
-                            <div className="elementor-element elementor-element-17e118c elementor-view-default elementor-position-block-start elementor-mobile-position-block-start elementor-widget elementor-widget-icon-box" data-id="17e118c" data-element_type="widget" data-e-type="widget" data-widget_type="icon-box.default">
+                            <div className="tdp-element tdp-element-17e118c tdp-view-default tdp-position-block-start tdp-mobile-position-block-start tdp-widget tdp-widget-icon-box" data-id="17e118c" data-element_type="widget" data-e-type="widget" data-widget_type="icon-box.default">
                               {" "}
-                              <div className="elementor-icon-box-wrapper">
+                              <div className="tdp-icon-box-wrapper">
                                 {" "}
-                                <div className="elementor-icon-box-icon">
+                                <div className="tdp-icon-box-icon">
                                   {" "}
-                                  <span className="elementor-icon">
+                                  <span className="tdp-icon">
                                     {" "}
                                     <i aria-hidden="true" className="vamtamtheme- vamtam-theme-check"></i>
                                     {" "}
@@ -846,9 +846,9 @@ export default function PageAgenteVirtualIvr({ path }: { path: string }) {
                                   {" "}
                                 </div>
                                 {" "}
-                                <div className="elementor-icon-box-content">
+                                <div className="tdp-icon-box-content">
                                   {" "}
-                                  <h5 className="elementor-icon-box-title">
+                                  <h5 className="tdp-icon-box-title">
                                     {" "}
                                     <span>
                                       {" Consulta de Información en Tiempo Real "}
@@ -856,7 +856,7 @@ export default function PageAgenteVirtualIvr({ path }: { path: string }) {
                                     {" "}
                                   </h5>
                                   {" "}
-                                  <p className="elementor-icon-box-description">
+                                  <p className="tdp-icon-box-description">
                                     {" Proporciona datos actualizados sobre servicios o productos mediante la integración con el sistema CRM de la empresa. "}
                                   </p>
                                   {" "}
@@ -874,21 +874,21 @@ export default function PageAgenteVirtualIvr({ path }: { path: string }) {
                       {" "}
                     </section>
                     {" "}
-                    <section className="elementor-section elementor-inner-section elementor-element elementor-element-dd31c77 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="dd31c77" data-element_type="section" data-e-type="section" data-settings={"{\"background_background\":\"classic\"}"}>
+                    <section className="tdp-section tdp-inner-section tdp-element tdp-element-dd31c77 tdp-section-boxed tdp-section-height-default tdp-section-height-default" data-id="dd31c77" data-element_type="section" data-e-type="section" data-settings={"{\"background_background\":\"classic\"}"}>
                       {" "}
-                      <div className="elementor-container elementor-column-gap-no">
+                      <div className="tdp-container tdp-column-gap-no">
                         {" "}
-                        <div className="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-cab34c4" data-id="cab34c4" data-element_type="column" data-e-type="column" data-settings={"{\"background_background\":\"classic\"}"}>
+                        <div className="tdp-column tdp-col-100 tdp-inner-column tdp-element tdp-element-cab34c4" data-id="cab34c4" data-element_type="column" data-e-type="column" data-settings={"{\"background_background\":\"classic\"}"}>
                           {" "}
-                          <div className="elementor-widget-wrap elementor-element-populated">
+                          <div className="tdp-widget-wrap tdp-element-populated">
                             {" "}
-                            <div className="elementor-element elementor-element-6bced4f elementor-widget__width-auto elementor-align-center elementor-mobile-align-justify elementor-widget-mobile__width-inherit elementor-widget elementor-widget-button" data-id="6bced4f" data-element_type="widget" data-e-type="widget" data-widget_type="button.default">
+                            <div className="tdp-element tdp-element-6bced4f tdp-widget__width-auto tdp-align-center tdp-mobile-align-justify tdp-widget-mobile__width-inherit tdp-widget tdp-widget-button" data-id="6bced4f" data-element_type="widget" data-e-type="widget" data-widget_type="button.default">
                               {" "}
-                              <a className="elementor-button elementor-size-sm" role="button">
+                              <a className="tdp-button tdp-size-sm" role="button">
                                 {" "}
-                                <span className="elementor-button-content-wrapper">
+                                <span className="tdp-button-content-wrapper">
                                   {" "}
-                                  <span className="elementor-button-icon">
+                                  <span className="tdp-button-icon">
                                     {" "}
                                     <svg aria-hidden="true" className="e-font-icon-svg e-fab-whatsapp" viewBox="0 0 448 512" xmlns="http://www.w3.org/2000/svg">
                                       <path d="M380.9 97.1C339 55.1 283.2 32 223.9 32c-122.4 0-222 99.6-222 222 0 39.1 10.2 77.3 29.6 111L0 480l117.7-30.9c32.4 17.7 68.9 27 106.1 27h.1c122.3 0 224.1-99.6 224.1-222 0-59.3-25.2-115-67.1-157zm-157 341.6c-33.2 0-65.7-8.9-94-25.7l-6.7-4-69.8 18.3L72 359.2l-4.4-7c-18.5-29.4-28.2-63.3-28.2-98.2 0-101.7 82.8-184.5 184.6-184.5 49.3 0 95.6 19.2 130.4 54.1 34.8 34.9 56.2 81.2 56.1 130.5 0 101.8-84.9 184.6-186.6 184.6zm101.2-138.2c-5.5-2.8-32.8-16.2-37.9-18-5.1-1.9-8.8-2.8-12.5 2.8-3.7 5.6-14.3 18-17.6 21.8-3.2 3.7-6.5 4.2-12 1.4-32.6-16.3-54-29.1-75.5-66-5.7-9.8 5.7-9.1 16.3-30.3 1.8-3.7.9-6.9-.5-9.7-1.4-2.8-12.5-30.1-17.1-41.2-4.5-10.8-9.1-9.3-12.5-9.5-3.2-.2-6.9-.2-10.6-.2-3.7 0-9.7 1.4-14.8 6.9-5.1 5.6-19.4 19-19.4 46.3 0 27.3 19.9 53.7 22.6 57.4 2.8 3.7 39.1 59.7 94.8 83.8 35.2 15.2 49 16.5 66.6 13.9 10.7-1.6 32.8-13.4 37.4-26.4 4.6-13 4.6-24.1 3.2-26.4-1.3-2.5-5-3.9-10.5-6.6z"></path>
@@ -896,7 +896,7 @@ export default function PageAgenteVirtualIvr({ path }: { path: string }) {
                                     {" "}
                                   </span>
                                   {" "}
-                                  <span className="elementor-button-text">
+                                  <span className="tdp-button-text">
                                     {"Más Información"}
                                   </span>
                                   {" "}
@@ -922,19 +922,19 @@ export default function PageAgenteVirtualIvr({ path }: { path: string }) {
               {" "}
             </section>
             {" "}
-            <section className="elementor-section elementor-top-section elementor-element elementor-element-4884cc19 elementor-section-height-min-height elementor-section-items-stretch elementor-section-boxed elementor-section-height-default" data-id="4884cc19" data-element_type="section" data-e-type="section">
+            <section className="tdp-section tdp-top-section tdp-element tdp-element-4884cc19 tdp-section-height-min-height tdp-section-items-stretch tdp-section-boxed tdp-section-height-default" data-id="4884cc19" data-element_type="section" data-e-type="section">
               {" "}
-              <div className="elementor-container elementor-column-gap-no">
+              <div className="tdp-container tdp-column-gap-no">
                 {" "}
-                <div className="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-6ef09a6c" data-id="6ef09a6c" data-element_type="column" data-e-type="column">
+                <div className="tdp-column tdp-col-100 tdp-top-column tdp-element tdp-element-6ef09a6c" data-id="6ef09a6c" data-element_type="column" data-e-type="column">
                   {" "}
-                  <div className="elementor-widget-wrap elementor-element-populated">
+                  <div className="tdp-widget-wrap tdp-element-populated">
                     {" "}
-                    <div className="elementor-element elementor-element-5963173 elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="5963173" data-element_type="widget" data-e-type="widget" data-widget_type="divider.default">
+                    <div className="tdp-element tdp-element-5963173 tdp-widget-divider--view-line tdp-widget tdp-widget-divider" data-id="5963173" data-element_type="widget" data-e-type="widget" data-widget_type="divider.default">
                       {" "}
-                      <div className="elementor-divider">
+                      <div className="tdp-divider">
                         {" "}
-                        <span className="elementor-divider-separator">
+                        <span className="tdp-divider-separator">
                           {" "}
                         </span>
                         {" "}
@@ -950,27 +950,27 @@ export default function PageAgenteVirtualIvr({ path }: { path: string }) {
               {" "}
             </section>
             {" "}
-            <section className="elementor-section elementor-top-section elementor-element elementor-element-67648af elementor-section-height-min-height elementor-section-items-stretch elementor-section-boxed elementor-section-height-default" data-id="67648af" data-element_type="section" data-e-type="section">
+            <section className="tdp-section tdp-top-section tdp-element tdp-element-67648af tdp-section-height-min-height tdp-section-items-stretch tdp-section-boxed tdp-section-height-default" data-id="67648af" data-element_type="section" data-e-type="section">
               {" "}
-              <div className="elementor-container elementor-column-gap-no">
+              <div className="tdp-container tdp-column-gap-no">
                 {" "}
-                <div className="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-5fc95f8" data-id="5fc95f8" data-element_type="column" data-e-type="column" data-settings={"{\"background_background\":\"classic\",\"background_motion_fx_motion_fx_scrolling\":\"yes\",\"background_motion_fx_translateY_effect\":\"yes\",\"background_motion_fx_translateY_speed\":{\"unit\":\"px\",\"size\":1,\"sizes\":[]},\"background_motion_fx_translateY_affectedRange\":{\"unit\":\"%\",\"size\":\"\",\"sizes\":{\"start\":0,\"end\":58}},\"background_motion_fx_devices\":[\"desktop\"]}"}>
+                <div className="tdp-column tdp-col-33 tdp-top-column tdp-element tdp-element-5fc95f8" data-id="5fc95f8" data-element_type="column" data-e-type="column" data-settings={"{\"background_background\":\"classic\",\"background_motion_fx_motion_fx_scrolling\":\"yes\",\"background_motion_fx_translateY_effect\":\"yes\",\"background_motion_fx_translateY_speed\":{\"unit\":\"px\",\"size\":1,\"sizes\":[]},\"background_motion_fx_translateY_affectedRange\":{\"unit\":\"%\",\"size\":\"\",\"sizes\":{\"start\":0,\"end\":58}},\"background_motion_fx_devices\":[\"desktop\"]}"}>
                   {" "}
-                  <div className="elementor-widget-wrap elementor-element-populated">
+                  <div className="tdp-widget-wrap tdp-element-populated">
                     {" "}
-                    <div className="elementor-element elementor-element-3ba1c00 elementor-align-start elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="3ba1c00" data-element_type="widget" data-e-type="widget" data-widget_type="icon-list.default">
+                    <div className="tdp-element tdp-element-3ba1c00 tdp-align-start tdp-icon-list--layout-traditional tdp-list-item-link-full_width tdp-widget tdp-widget-icon-list" data-id="3ba1c00" data-element_type="widget" data-e-type="widget" data-widget_type="icon-list.default">
                       {" "}
-                      <ul className="elementor-icon-list-items">
+                      <ul className="tdp-icon-list-items">
                         {" "}
-                        <li className="elementor-icon-list-item">
+                        <li className="tdp-icon-list-item">
                           {" "}
-                          <span className="elementor-icon-list-icon">
+                          <span className="tdp-icon-list-icon">
                             {" "}
                             <i aria-hidden="true" className="vamtamtheme- vamtam-theme-brand-symbol"></i>
                             {" "}
                           </span>
                           {" "}
-                          <span className="elementor-icon-list-text">
+                          <span className="tdp-icon-list-text">
                             {"Ellos confiaron "}
                           </span>
                           {" "}
@@ -980,9 +980,9 @@ export default function PageAgenteVirtualIvr({ path }: { path: string }) {
                       {" "}
                     </div>
                     {" "}
-                    <div className="elementor-element elementor-element-f2b3d12 elementor-widget__width-initial elementor-widget elementor-widget-heading" data-id="f2b3d12" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+                    <div className="tdp-element tdp-element-f2b3d12 tdp-widget__width-initial tdp-widget tdp-widget-heading" data-id="f2b3d12" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
                       {" "}
-                      <h2 className="elementor-heading-title elementor-size-default">
+                      <h2 className="tdp-heading-title tdp-size-default">
                         {"Nuestros clientes"}
                       </h2>
                       {" "}
@@ -992,9 +992,9 @@ export default function PageAgenteVirtualIvr({ path }: { path: string }) {
                   {" "}
                 </div>
                 {" "}
-                <div className="elementor-column elementor-col-66 elementor-top-column elementor-element elementor-element-00e9dd9" data-id="00e9dd9" data-element_type="column" data-e-type="column">
+                <div className="tdp-column tdp-col-66 tdp-top-column tdp-element tdp-element-00e9dd9" data-id="00e9dd9" data-element_type="column" data-e-type="column">
                   {" "}
-                  <div className="elementor-widget-wrap">
+                  <div className="tdp-widget-wrap">
                     {" "}
                   </div>
                   {" "}
@@ -1004,29 +1004,29 @@ export default function PageAgenteVirtualIvr({ path }: { path: string }) {
               {" "}
             </section>
             {" "}
-            <section className="elementor-section elementor-top-section elementor-element elementor-element-1d5649c elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="1d5649c" data-element_type="section" data-e-type="section">
+            <section className="tdp-section tdp-top-section tdp-element tdp-element-1d5649c tdp-section-boxed tdp-section-height-default tdp-section-height-default" data-id="1d5649c" data-element_type="section" data-e-type="section">
               {" "}
-              <div className="elementor-container elementor-column-gap-no">
+              <div className="tdp-container tdp-column-gap-no">
                 {" "}
-                <div className="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-52c1250" data-id="52c1250" data-element_type="column" data-e-type="column" data-settings={"{\"background_background\":\"classic\"}"}>
+                <div className="tdp-column tdp-col-33 tdp-top-column tdp-element tdp-element-52c1250" data-id="52c1250" data-element_type="column" data-e-type="column" data-settings={"{\"background_background\":\"classic\"}"}>
                   {" "}
-                  <div className="elementor-widget-wrap elementor-element-populated">
+                  <div className="tdp-widget-wrap tdp-element-populated">
                     {" "}
-                    <div className="elementor-element elementor-element-4abf300 elementor-widget elementor-widget-image" data-id="4abf300" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
+                    <div className="tdp-element tdp-element-4abf300 tdp-widget tdp-widget-image" data-id="4abf300" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
                       {" "}
-                      <img decoding="async" width="246" height="111" src="/wp-content/uploads/2024/10/logo-fianzacredito.webp" className="attachment-full size-full wp-image-988483" alt="Logotipo del cliente Fianzacrédito" title="Agente virtual (IVR Transaccional) 1" />
+                      <img decoding="async" width="246" height="111" src="/assets/uploads/2024/10/logo-fianzacredito.webp" className="attachment-full size-full img-988483" alt="Logotipo del cliente Fianzacrédito" title="Agente virtual (IVR Transaccional) 1" />
                       {" "}
                     </div>
                     {" "}
-                    <div className="elementor-element elementor-element-bd0a494 elementor-widget elementor-widget-heading" data-id="bd0a494" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+                    <div className="tdp-element tdp-element-bd0a494 tdp-widget tdp-widget-heading" data-id="bd0a494" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
                       {" "}
-                      <h4 className="elementor-heading-title elementor-size-default">
+                      <h4 className="tdp-heading-title tdp-size-default">
                         {" Agente Virtual sector financiero"}
                       </h4>
                       {" "}
                     </div>
                     {" "}
-                    <div className="elementor-element elementor-element-28b38db elementor-widget elementor-widget-text-editor" data-id="28b38db" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
+                    <div className="tdp-element tdp-element-28b38db tdp-widget tdp-widget-text-editor" data-id="28b38db" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
                       {" "}
                       <p>
                         {"El agente virtual realiza llamadas automáticas para confirmar datos, mejorando la seguridad y precisión en el proceso de validación de información de clientes."}
@@ -1038,25 +1038,25 @@ export default function PageAgenteVirtualIvr({ path }: { path: string }) {
                   {" "}
                 </div>
                 {" "}
-                <div className="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-af6c687" data-id="af6c687" data-element_type="column" data-e-type="column">
+                <div className="tdp-column tdp-col-33 tdp-top-column tdp-element tdp-element-af6c687" data-id="af6c687" data-element_type="column" data-e-type="column">
                   {" "}
-                  <div className="elementor-widget-wrap elementor-element-populated">
+                  <div className="tdp-widget-wrap tdp-element-populated">
                     {" "}
-                    <div className="elementor-element elementor-element-5ce201b elementor-widget elementor-widget-image" data-id="5ce201b" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
+                    <div className="tdp-element tdp-element-5ce201b tdp-widget tdp-widget-image" data-id="5ce201b" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
                       {" "}
-                      <img loading="lazy" decoding="async" width="300" height="64" src="/wp-content/uploads/2024/11/download-300x64.png" className="attachment-medium size-medium wp-image-988724" alt="download" srcSet="/wp-content/uploads/2024/11/download-300x64.png 300w, /wp-content/uploads/2024/11/download.png 486w" sizes="(max-width: 300px) 100vw, 300px" title="Agente virtual (IVR Transaccional) 2" />
+                      <img loading="lazy" decoding="async" width="300" height="64" src="/assets/uploads/2024/11/download-300x64.png" className="attachment-medium size-medium img-988724" alt="download" srcSet="/assets/uploads/2024/11/download-300x64.png 300w, /assets/uploads/2024/11/download.png 486w" sizes="(max-width: 300px) 100vw, 300px" title="Agente virtual (IVR Transaccional) 2" />
                       {" "}
                     </div>
                     {" "}
-                    <div className="elementor-element elementor-element-6a20d53 elementor-widget elementor-widget-heading" data-id="6a20d53" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+                    <div className="tdp-element tdp-element-6a20d53 tdp-widget tdp-widget-heading" data-id="6a20d53" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
                       {" "}
-                      <h4 className="elementor-heading-title elementor-size-default">
+                      <h4 className="tdp-heading-title tdp-size-default">
                         {"Sistema IVR para compra de vivienda"}
                       </h4>
                       {" "}
                     </div>
                     {" "}
-                    <div className="elementor-element elementor-element-0f06487 elementor-widget elementor-widget-text-editor" data-id="0f06487" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
+                    <div className="tdp-element tdp-element-0f06487 tdp-widget tdp-widget-text-editor" data-id="0f06487" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
                       {" "}
                       <p>
                         {"El sistema IVR facilita la consulta de procesos de inmuebles para completar procesos de compra del usuario."}
@@ -1068,25 +1068,25 @@ export default function PageAgenteVirtualIvr({ path }: { path: string }) {
                   {" "}
                 </div>
                 {" "}
-                <div className="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-549e506" data-id="549e506" data-element_type="column" data-e-type="column" data-settings={"{\"background_background\":\"classic\"}"}>
+                <div className="tdp-column tdp-col-33 tdp-top-column tdp-element tdp-element-549e506" data-id="549e506" data-element_type="column" data-e-type="column" data-settings={"{\"background_background\":\"classic\"}"}>
                   {" "}
-                  <div className="elementor-widget-wrap elementor-element-populated">
+                  <div className="tdp-widget-wrap tdp-element-populated">
                     {" "}
-                    <div className="elementor-element elementor-element-9ec4758 elementor-widget elementor-widget-image" data-id="9ec4758" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
+                    <div className="tdp-element tdp-element-9ec4758 tdp-widget tdp-widget-image" data-id="9ec4758" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
                       {" "}
-                      <img loading="lazy" decoding="async" width="300" height="86" src="/wp-content/uploads/2024/11/cosmitet-logo-25-anos-02-300x86-1.png" className="attachment-medium size-medium wp-image-989587" alt="Logotipo del cliente Cosmitet Ltda., 25 años" title="Agente virtual (IVR Transaccional) 3" />
+                      <img loading="lazy" decoding="async" width="300" height="86" src="/assets/uploads/2024/11/cosmitet-logo-25-anos-02-300x86-1.png" className="attachment-medium size-medium img-989587" alt="Logotipo del cliente Cosmitet Ltda., 25 años" title="Agente virtual (IVR Transaccional) 3" />
                       {" "}
                     </div>
                     {" "}
-                    <div className="elementor-element elementor-element-7078897 elementor-widget elementor-widget-heading" data-id="7078897" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+                    <div className="tdp-element tdp-element-7078897 tdp-widget tdp-widget-heading" data-id="7078897" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
                       {" "}
-                      <h4 className="elementor-heading-title elementor-size-default">
+                      <h4 className="tdp-heading-title tdp-size-default">
                         {"Gestión de citas para el sector salud"}
                       </h4>
                       {" "}
                     </div>
                     {" "}
-                    <div className="elementor-element elementor-element-d9463c6 elementor-widget elementor-widget-text-editor" data-id="d9463c6" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
+                    <div className="tdp-element tdp-element-d9463c6 tdp-widget tdp-widget-text-editor" data-id="d9463c6" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
                       {" "}
                       <p>
                         {"El agente virtual asigna y cancela citas médicas automáticamente, agilizando la organización de consultas y reduciendo tiempos de espera para los pacientes."}
@@ -1111,11 +1111,11 @@ export default function PageAgenteVirtualIvr({ path }: { path: string }) {
       <Footer988867 path={path} />
       <Popup9913 path={path} />
       <Popup1670 path={path} />
-      <IdElementorPost10889Css path={path} />
+      <IdTdpPost10889Css path={path} />
       <IdEgeiroWhfab path={path} />
       <div className="pafe-break-point" data-pafe-break-point-md="767" data-pafe-break-point-lg="1024" data-pafe-ajax-url="/wp-admin/admin-ajax.php"></div>
-      <div data-pafe-form-builder-tinymce-upload="/wp-content/plugins/piotnet-addons-for-elementor-pro/inc/tinymce/tinymce-upload.php"></div>
-      <div data-pafe-plugin-url="/wp-content/plugins"></div>
+      <div data-pafe-form-builder-tinymce-upload="/assets/plugins/piotnet-addons-for-tdp-pro/inc/tinymce/tinymce-upload.php"></div>
+      <div data-pafe-plugin-url="/assets/plugins"></div>
     </>
   );
 }

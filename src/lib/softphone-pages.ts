@@ -5,7 +5,7 @@ import type { HeadItem, WpRoute } from "@/lib/wp-data";
 /**
  * Public legal pages for the TodoIP Softphone app.
  *
- * They are not part of the WordPress capture. scripts/generate/generate.mjs
+ * They are not part of the TodoIP capture. scripts/generate/generate.mjs
  * wipes src/generated/wp, so the HTML and this registry live outside it and
  * are merged in src/lib/wp-data.ts. The document chrome (stylesheets, body
  * class, header and footer) is the one captured for /aviso-de-privacidad/.

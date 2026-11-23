@@ -1,6 +1,6 @@
 import { trackingEnabled } from "@/lib/site-env";
 
-// Same tags the live WordPress head loads (Site Kit gtag, GA4, Hotjar).
+// Same tags the live TodoIP head loads (Site Kit gtag, GA4, Hotjar).
 const SITEKIT_INIT = `window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);}
 gtag("set","linker",{"domains":["www.todoip.com"]});
 gtag("js", new Date());

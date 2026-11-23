@@ -4,21 +4,21 @@ import { pv } from "@/lib/pv";
 
 export default function Header6979({ path }: { path: string }) {
   return (
-    <header data-elementor-type="header" data-elementor-id="6979" className="elementor elementor-6979 elementor-location-header" data-elementor-post-type="elementor_library">
+    <header data-tdp-type="header" data-tdp-id="6979" className="tdp tdp-6979 tdp-location-header" data-tdp-post-type="tdp_library">
       {" "}
-      <section className="elementor-section elementor-top-section elementor-element elementor-element-65a2a63 elementor-section-height-min-height elementor-section-items-stretch elementor-section-content-middle elementor-hidden-mobile elementor-hidden-tablet elementor-section-boxed elementor-section-height-default" data-id="65a2a63" data-element_type="section" data-e-type="section" data-settings={"{\"background_background\":\"classic\"}"}>
+      <section className="tdp-section tdp-top-section tdp-element tdp-element-65a2a63 tdp-section-height-min-height tdp-section-items-stretch tdp-section-content-middle tdp-hidden-mobile tdp-hidden-tablet tdp-section-boxed tdp-section-height-default" data-id="65a2a63" data-element_type="section" data-e-type="section" data-settings={"{\"background_background\":\"classic\"}"}>
         {" "}
-        <div className="elementor-container elementor-column-gap-no">
+        <div className="tdp-container tdp-column-gap-no">
           {" "}
-          <div className="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-71ac73e" data-id="71ac73e" data-element_type="column" data-e-type="column">
+          <div className="tdp-column tdp-col-50 tdp-top-column tdp-element tdp-element-71ac73e" data-id="71ac73e" data-element_type="column" data-e-type="column">
             {" "}
-            <div className="elementor-widget-wrap elementor-element-populated">
+            <div className="tdp-widget-wrap tdp-element-populated">
               {" "}
-              <div className="elementor-element elementor-element-e5fc941 elementor-widget elementor-widget-image" data-id="e5fc941" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
+              <div className="tdp-element tdp-element-e5fc941 tdp-widget tdp-widget-image" data-id="e5fc941" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
                 {" "}
                 <a href="/">
                   {" "}
-                  <img width="272" height="111" src="/wp-content/uploads/2023/07/logo-TodoIP.webp" className="attachment-medium_large size-medium_large wp-image-988449" alt="Logotipo de TodoIP" loading={pv(path, { "/revolucionamos-la-comunicacion-omnicanal-lanzamiento-de-nuestras-nuevas-soluciones/": "lazy", "/platzi-conf-2023/": "lazy", "/como-reducir-la-inasistencia-a-las-citas-medicas/": "lazy", "/guia-completa-sobre-chatbots-para-whatsapp-business/": "lazy" }, undefined)} />
+                  <img width="272" height="111" src="/assets/uploads/2023/07/logo-TodoIP.webp" className="attachment-medium_large size-medium_large img-988449" alt="Logotipo de TodoIP" loading={pv(path, { "/revolucionamos-la-comunicacion-omnicanal-lanzamiento-de-nuestras-nuevas-soluciones/": "lazy", "/platzi-conf-2023/": "lazy", "/como-reducir-la-inasistencia-a-las-citas-medicas/": "lazy", "/guia-completa-sobre-chatbots-para-whatsapp-business/": "lazy" }, undefined)} />
                   {" "}
                 </a>
                 {" "}
@@ -28,11 +28,11 @@ export default function Header6979({ path }: { path: string }) {
             {" "}
           </div>
           {" "}
-          <div className="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-9b296f1" data-id="9b296f1" data-element_type="column" data-e-type="column">
+          <div className="tdp-column tdp-col-50 tdp-top-column tdp-element tdp-element-9b296f1" data-id="9b296f1" data-element_type="column" data-e-type="column">
             {" "}
-            <div className="elementor-widget-wrap elementor-element-populated">
+            <div className="tdp-widget-wrap tdp-element-populated">
               {" "}
-              <div className="elementor-element elementor-element-bf3c076 elementor-widget__width-initial e-full_width e-n-menu-layout-horizontal e-n-menu-tablet elementor-widget elementor-widget-n-menu" data-id="bf3c076" data-element_type="widget" data-e-type="widget" data-settings={"{\"menu_items\":[{\"item_title\":\"Inicio\",\"_id\":\"52c867c\",\"__dynamic__\":{\"item_link\":\"[elementor-tag id=\\\"729f8c3\\\" name=\\\"site-url\\\" settings=\\\"%7B%7D\\\"]\"},\"item_link\":{\"url\":\"\",\"is_external\":\"\",\"nofollow\":\"\",\"custom_attributes\":\"\"},\"item_dropdown_content\":\"no\",\"item_icon\":{\"value\":\"\",\"library\":\"\"},\"item_icon_active\":null,\"element_id\":\"\"},{\"item_title\":\"Productos\",\"_id\":\"afe505a\",\"item_dropdown_content\":\"yes\",\"item_link\":{\"url\":\"\",\"is_external\":\"\",\"nofollow\":\"\",\"custom_attributes\":\"\"},\"item_icon\":{\"value\":\"\",\"library\":\"\"},\"item_icon_active\":null,\"element_id\":\"\"},{\"_id\":\"b07d2b9\",\"item_title\":\"Nuestro blog\",\"item_link\":{\"url\":\"\\/blog\\/\",\"is_external\":\"\",\"nofollow\":\"\",\"custom_attributes\":\"\"},\"item_dropdown_content\":\"no\",\"item_icon\":{\"value\":\"\",\"library\":\"\"},\"item_icon_active\":null,\"element_id\":\"\"},{\"_id\":\"f00bbe6\",\"item_title\":\"Acceso Clientes\",\"item_link\":{\"url\":\"\\/reportes-telefonia\\/\",\"is_external\":\"\",\"nofollow\":\"\",\"custom_attributes\":\"\"},\"item_dropdown_content\":\"no\",\"item_icon\":{\"value\":\"\",\"library\":\"\"},\"item_icon_active\":null,\"element_id\":\"\"}],\"menu_item_title_distance_from_content\":{\"unit\":\"px\",\"size\":15,\"sizes\":[]},\"content_width\":\"full_width\",\"item_layout\":\"horizontal\",\"open_on\":\"hover\",\"horizontal_scroll\":\"disable\",\"breakpoint_selector\":\"tablet\",\"menu_item_title_distance_from_content_tablet\":{\"unit\":\"px\",\"size\":\"\",\"sizes\":[]},\"menu_item_title_distance_from_content_mobile\":{\"unit\":\"px\",\"size\":\"\",\"sizes\":[]}}"} data-widget_type="mega-menu.default">
+              <div className="tdp-element tdp-element-bf3c076 tdp-widget__width-initial e-full_width e-n-menu-layout-horizontal e-n-menu-tablet tdp-widget tdp-widget-n-menu" data-id="bf3c076" data-element_type="widget" data-e-type="widget" data-settings={"{\"menu_items\":[{\"item_title\":\"Inicio\",\"_id\":\"52c867c\",\"__dynamic__\":{\"item_link\":\"[tdp-tag id=\\\"729f8c3\\\" name=\\\"site-url\\\" settings=\\\"%7B%7D\\\"]\"},\"item_link\":{\"url\":\"\",\"is_external\":\"\",\"nofollow\":\"\",\"custom_attributes\":\"\"},\"item_dropdown_content\":\"no\",\"item_icon\":{\"value\":\"\",\"library\":\"\"},\"item_icon_active\":null,\"element_id\":\"\"},{\"item_title\":\"Productos\",\"_id\":\"afe505a\",\"item_dropdown_content\":\"yes\",\"item_link\":{\"url\":\"\",\"is_external\":\"\",\"nofollow\":\"\",\"custom_attributes\":\"\"},\"item_icon\":{\"value\":\"\",\"library\":\"\"},\"item_icon_active\":null,\"element_id\":\"\"},{\"_id\":\"b07d2b9\",\"item_title\":\"Nuestro blog\",\"item_link\":{\"url\":\"\\/blog\\/\",\"is_external\":\"\",\"nofollow\":\"\",\"custom_attributes\":\"\"},\"item_dropdown_content\":\"no\",\"item_icon\":{\"value\":\"\",\"library\":\"\"},\"item_icon_active\":null,\"element_id\":\"\"},{\"_id\":\"f00bbe6\",\"item_title\":\"Acceso Clientes\",\"item_link\":{\"url\":\"\\/reportes-telefonia\\/\",\"is_external\":\"\",\"nofollow\":\"\",\"custom_attributes\":\"\"},\"item_dropdown_content\":\"no\",\"item_icon\":{\"value\":\"\",\"library\":\"\"},\"item_icon_active\":null,\"element_id\":\"\"}],\"menu_item_title_distance_from_content\":{\"unit\":\"px\",\"size\":15,\"sizes\":[]},\"content_width\":\"full_width\",\"item_layout\":\"horizontal\",\"open_on\":\"hover\",\"horizontal_scroll\":\"disable\",\"breakpoint_selector\":\"tablet\",\"menu_item_title_distance_from_content_tablet\":{\"unit\":\"px\",\"size\":\"\",\"sizes\":[]},\"menu_item_title_distance_from_content_mobile\":{\"unit\":\"px\",\"size\":\"\",\"sizes\":[]}}"} data-widget_type="mega-menu.default">
                 {" "}
                 <nav className="e-n-menu" data-widget-number="200" aria-label="Menu">
                   {" "}
@@ -96,7 +96,7 @@ export default function Header6979({ path }: { path: string }) {
                                 <path d="M288.662 352H31.338c-17.818 0-26.741-21.543-14.142-34.142l128.662-128.662c7.81-7.81 20.474-7.81 28.284 0l128.662 128.662c12.6 12.599 3.676 34.142-14.142 34.142z"></path>
                               </svg>
                               {" "}
-                              <span className="elementor-screen-only">
+                              <span className="tdp-screen-only">
                                 {"Close Productos"}
                               </span>
                               {" "}
@@ -108,7 +108,7 @@ export default function Header6979({ path }: { path: string }) {
                                 <path d="M31.3 192h257.3c17.8 0 26.7 21.5 14.1 34.1L174.1 354.8c-7.8 7.8-20.5 7.8-28.3 0L17.2 226.1C4.6 213.5 13.5 192 31.3 192z"></path>
                               </svg>
                               {" "}
-                              <span className="elementor-screen-only">
+                              <span className="tdp-screen-only">
                                 {"Open Productos"}
                               </span>
                               {" "}
@@ -120,39 +120,39 @@ export default function Header6979({ path }: { path: string }) {
                         {" "}
                         <div className="e-n-menu-content">
                           {" "}
-                          <div id="e-n-menu-content-2002" data-tab-index="2" aria-labelledby="e-n-menu-dropdown-icon-2002" className="elementor-element elementor-element-6d9c52e e-flex e-con-boxed e-con e-child" data-id="6d9c52e" data-element_type="container" data-e-type="container" data-settings={"{\"background_background\":\"classic\"}"}>
+                          <div id="e-n-menu-content-2002" data-tab-index="2" aria-labelledby="e-n-menu-dropdown-icon-2002" className="tdp-element tdp-element-6d9c52e e-flex e-con-boxed e-con e-child" data-id="6d9c52e" data-element_type="container" data-e-type="container" data-settings={"{\"background_background\":\"classic\"}"}>
                             {" "}
                             <div className="e-con-inner">
                               {" "}
-                              <div className="elementor-element elementor-element-5eb9cd2 e-con-full e-flex e-con e-child" data-id="5eb9cd2" data-element_type="container" data-e-type="container" data-settings={"{\"background_background\":\"classic\"}"}>
+                              <div className="tdp-element tdp-element-5eb9cd2 e-con-full e-flex e-con e-child" data-id="5eb9cd2" data-element_type="container" data-e-type="container" data-settings={"{\"background_background\":\"classic\"}"}>
                                 {" "}
-                                <div className="elementor-element elementor-element-4664026 elementor-widget elementor-widget-heading" data-id="4664026" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+                                <div className="tdp-element tdp-element-4664026 tdp-widget tdp-widget-heading" data-id="4664026" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
                                   {" "}
-                                  <span className="elementor-heading-title elementor-size-default">
+                                  <span className="tdp-heading-title tdp-size-default">
                                     {"INTELIGENCIA ARTIFICIAL "}
                                   </span>
                                   {" "}
                                 </div>
                                 {" "}
-                                <div className="elementor-element elementor-element-db73252 elementor-widget elementor-widget-heading" data-id="db73252" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+                                <div className="tdp-element tdp-element-db73252 tdp-widget tdp-widget-heading" data-id="db73252" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
                                   {" "}
-                                  <span className="elementor-heading-title elementor-size-default">
+                                  <span className="tdp-heading-title tdp-size-default">
                                     {"(Soluciones que piensan, aprenden y ejecutan)"}
                                   </span>
                                   {" "}
                                 </div>
                                 {" "}
-                                <div className="elementor-element elementor-element-ac868ba elementor-cta--valign-top elementor-widget__width-initial elementor-cta--skin-classic elementor-animated-content elementor-widget elementor-widget-call-to-action" data-id="ac868ba" data-element_type="widget" data-e-type="widget" data-widget_type="call-to-action.default">
+                                <div className="tdp-element tdp-element-ac868ba tdp-cta--valign-top tdp-widget__width-initial tdp-cta--skin-classic tdp-animated-content tdp-widget tdp-widget-call-to-action" data-id="ac868ba" data-element_type="widget" data-e-type="widget" data-widget_type="call-to-action.default">
                                   {" "}
-                                  <a className="elementor-cta" href="/chatbots-con-ia-whatsapp/">
+                                  <a className="tdp-cta" href="/chatbots-con-ia-whatsapp/">
                                     {" "}
-                                    <div className="elementor-cta__content">
+                                    <div className="tdp-cta__content">
                                       {" "}
-                                      <span className="elementor-cta__title elementor-cta__content-item elementor-content-item">
+                                      <span className="tdp-cta__title tdp-cta__content-item tdp-content-item">
                                         {" 💬 Chatbots con IA & WhatsApp "}
                                       </span>
                                       {" "}
-                                      <div className="elementor-cta__description elementor-cta__content-item elementor-content-item">
+                                      <div className="tdp-cta__description tdp-cta__content-item tdp-content-item">
                                         {" Automatiza conversaciones, ventas y procesos por chat. "}
                                       </div>
                                       {" "}
@@ -162,17 +162,17 @@ export default function Header6979({ path }: { path: string }) {
                                   {" "}
                                 </div>
                                 {" "}
-                                <div className="elementor-element elementor-element-0b8d5f2 elementor-cta--valign-top elementor-widget__width-initial elementor-cta--skin-classic elementor-animated-content elementor-widget elementor-widget-call-to-action" data-id="0b8d5f2" data-element_type="widget" data-e-type="widget" data-widget_type="call-to-action.default">
+                                <div className="tdp-element tdp-element-0b8d5f2 tdp-cta--valign-top tdp-widget__width-initial tdp-cta--skin-classic tdp-animated-content tdp-widget tdp-widget-call-to-action" data-id="0b8d5f2" data-element_type="widget" data-e-type="widget" data-widget_type="call-to-action.default">
                                   {" "}
-                                  <a className="elementor-cta" href="/agente-de-voz-con-ia-voicebot/">
+                                  <a className="tdp-cta" href="/agente-de-voz-con-ia-voicebot/">
                                     {" "}
-                                    <div className="elementor-cta__content">
+                                    <div className="tdp-cta__content">
                                       {" "}
-                                      <span className="elementor-cta__title elementor-cta__content-item elementor-content-item">
+                                      <span className="tdp-cta__title tdp-cta__content-item tdp-content-item">
                                         {" 🎙️ Agente de Voz con IA (Voicebot) "}
                                       </span>
                                       {" "}
-                                      <div className="elementor-cta__description elementor-cta__content-item elementor-content-item">
+                                      <div className="tdp-cta__description tdp-cta__content-item tdp-content-item">
                                         {" Tu IA que contesta, gestiona trámites y analiza conversaciones. "}
                                       </div>
                                       {" "}
@@ -182,17 +182,17 @@ export default function Header6979({ path }: { path: string }) {
                                   {" "}
                                 </div>
                                 {" "}
-                                <div className="elementor-element elementor-element-6b8c640 elementor-cta--valign-top elementor-widget__width-initial elementor-cta--skin-classic elementor-animated-content elementor-widget elementor-widget-call-to-action" data-id="6b8c640" data-element_type="widget" data-e-type="widget" data-widget_type="call-to-action.default">
+                                <div className="tdp-element tdp-element-6b8c640 tdp-cta--valign-top tdp-widget__width-initial tdp-cta--skin-classic tdp-animated-content tdp-widget tdp-widget-call-to-action" data-id="6b8c640" data-element_type="widget" data-e-type="widget" data-widget_type="call-to-action.default">
                                   {" "}
-                                  <a className="elementor-cta" href="/lectura-inteligente-de-documentos/">
+                                  <a className="tdp-cta" href="/lectura-inteligente-de-documentos/">
                                     {" "}
-                                    <div className="elementor-cta__content">
+                                    <div className="tdp-cta__content">
                                       {" "}
-                                      <span className="elementor-cta__title elementor-cta__content-item elementor-content-item">
+                                      <span className="tdp-cta__title tdp-cta__content-item tdp-content-item">
                                         {" 📄 Lectura Inteligente de Documentos "}
                                       </span>
                                       {" "}
-                                      <div className="elementor-cta__description elementor-cta__content-item elementor-content-item">
+                                      <div className="tdp-cta__description tdp-cta__content-item tdp-content-item">
                                         {" Extrae datos de imágenes y PDFs para llenar formularios. "}
                                       </div>
                                       {" "}
@@ -204,35 +204,35 @@ export default function Header6979({ path }: { path: string }) {
                                 {" "}
                               </div>
                               {" "}
-                              <div className="elementor-element elementor-element-472072b e-con-full e-flex e-con e-child" data-id="472072b" data-element_type="container" data-e-type="container" data-settings={"{\"background_background\":\"classic\"}"}>
+                              <div className="tdp-element tdp-element-472072b e-con-full e-flex e-con e-child" data-id="472072b" data-element_type="container" data-e-type="container" data-settings={"{\"background_background\":\"classic\"}"}>
                                 {" "}
-                                <div className="elementor-element elementor-element-fd8772c elementor-widget elementor-widget-heading" data-id="fd8772c" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+                                <div className="tdp-element tdp-element-fd8772c tdp-widget tdp-widget-heading" data-id="fd8772c" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
                                   {" "}
-                                  <span className="elementor-heading-title elementor-size-default">
+                                  <span className="tdp-heading-title tdp-size-default">
                                     {"COMUNICACIÓN DE VOZ "}
                                   </span>
                                   {" "}
                                 </div>
                                 {" "}
-                                <div className="elementor-element elementor-element-10668f7 elementor-widget elementor-widget-heading" data-id="10668f7" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+                                <div className="tdp-element tdp-element-10668f7 tdp-widget tdp-widget-heading" data-id="10668f7" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
                                   {" "}
-                                  <span className="elementor-heading-title elementor-size-default">
+                                  <span className="tdp-heading-title tdp-size-default">
                                     {"(Infraestructura y conectividad empresarial)"}
                                   </span>
                                   {" "}
                                 </div>
                                 {" "}
-                                <div className="elementor-element elementor-element-9a0efcf elementor-cta--valign-top elementor-widget__width-initial elementor-cta--skin-classic elementor-animated-content elementor-widget elementor-widget-call-to-action" data-id="9a0efcf" data-element_type="widget" data-e-type="widget" data-widget_type="call-to-action.default">
+                                <div className="tdp-element tdp-element-9a0efcf tdp-cta--valign-top tdp-widget__width-initial tdp-cta--skin-classic tdp-animated-content tdp-widget tdp-widget-call-to-action" data-id="9a0efcf" data-element_type="widget" data-e-type="widget" data-widget_type="call-to-action.default">
                                   {" "}
-                                  <a className="elementor-cta" href="/pbx-movil/">
+                                  <a className="tdp-cta" href="/pbx-movil/">
                                     {" "}
-                                    <div className="elementor-cta__content">
+                                    <div className="tdp-cta__content">
                                       {" "}
-                                      <span className="elementor-cta__title elementor-cta__content-item elementor-content-item">
+                                      <span className="tdp-cta__title tdp-cta__content-item tdp-content-item">
                                         {" 📱 PBX Móvil "}
                                       </span>
                                       {" "}
-                                      <div className="elementor-cta__description elementor-cta__content-item elementor-content-item">
+                                      <div className="tdp-cta__description tdp-cta__content-item tdp-content-item">
                                         {" Tu extensión telefónica empresarial en la Nube. "}
                                       </div>
                                       {" "}
@@ -242,17 +242,17 @@ export default function Header6979({ path }: { path: string }) {
                                   {" "}
                                 </div>
                                 {" "}
-                                <div className="elementor-element elementor-element-d7dbb6a elementor-cta--valign-top elementor-widget__width-initial elementor-cta--skin-classic elementor-animated-content elementor-widget elementor-widget-call-to-action" data-id="d7dbb6a" data-element_type="widget" data-e-type="widget" data-widget_type="call-to-action.default">
+                                <div className="tdp-element tdp-element-d7dbb6a tdp-cta--valign-top tdp-widget__width-initial tdp-cta--skin-classic tdp-animated-content tdp-widget tdp-widget-call-to-action" data-id="d7dbb6a" data-element_type="widget" data-e-type="widget" data-widget_type="call-to-action.default">
                                   {" "}
-                                  <a className="elementor-cta" href="/agente-virtual-ivr/">
+                                  <a className="tdp-cta" href="/agente-virtual-ivr/">
                                     {" "}
-                                    <div className="elementor-cta__content">
+                                    <div className="tdp-cta__content">
                                       {" "}
-                                      <span className="elementor-cta__title elementor-cta__content-item elementor-content-item">
+                                      <span className="tdp-cta__title tdp-cta__content-item tdp-content-item">
                                         {" 🔀 Portal de Autogestión Telefónica "}
                                       </span>
                                       {" "}
-                                      <div className="elementor-cta__description elementor-cta__content-item elementor-content-item">
+                                      <div className="tdp-cta__description tdp-cta__content-item tdp-content-item">
                                         {" Integra telefonía y datos para respuestas en tiempo real. "}
                                       </div>
                                       {" "}
@@ -262,17 +262,17 @@ export default function Header6979({ path }: { path: string }) {
                                   {" "}
                                 </div>
                                 {" "}
-                                <div className="elementor-element elementor-element-2cb293e elementor-cta--valign-top elementor-widget__width-initial elementor-cta--skin-classic elementor-animated-content elementor-widget elementor-widget-call-to-action" data-id="2cb293e" data-element_type="widget" data-e-type="widget" data-widget_type="call-to-action.default">
+                                <div className="tdp-element tdp-element-2cb293e tdp-cta--valign-top tdp-widget__width-initial tdp-cta--skin-classic tdp-animated-content tdp-widget tdp-widget-call-to-action" data-id="2cb293e" data-element_type="widget" data-e-type="widget" data-widget_type="call-to-action.default">
                                   {" "}
-                                  <a className="elementor-cta" href="/telefoniaip/">
+                                  <a className="tdp-cta" href="/telefoniaip/">
                                     {" "}
-                                    <div className="elementor-cta__content">
+                                    <div className="tdp-cta__content">
                                       {" "}
-                                      <span className="elementor-cta__title elementor-cta__content-item elementor-content-item">
+                                      <span className="tdp-cta__title tdp-cta__content-item tdp-content-item">
                                         {" 📞 Troncales y Telefonía IP "}
                                       </span>
                                       {" "}
-                                      <div className="elementor-cta__description elementor-cta__content-item elementor-content-item">
+                                      <div className="tdp-cta__description tdp-cta__content-item tdp-content-item">
                                         {" Conectividad empresarial robusta y numeración. "}
                                       </div>
                                       {" "}
@@ -332,11 +332,11 @@ export default function Header6979({ path }: { path: string }) {
                 {" "}
               </div>
               {" "}
-              <div className="elementor-element elementor-element-38b1ccf elementor-widget__width-initial elementor-hidden-tablet elementor-hidden-mobile elementor-view-default elementor-widget elementor-widget-icon" data-id="38b1ccf" data-element_type="widget" data-e-type="widget" data-widget_type="icon.default">
+              <div className="tdp-element tdp-element-38b1ccf tdp-widget__width-initial tdp-hidden-tablet tdp-hidden-mobile tdp-view-default tdp-widget tdp-widget-icon" data-id="38b1ccf" data-element_type="widget" data-e-type="widget" data-widget_type="icon.default">
                 {" "}
-                <div className="elementor-icon-wrapper">
+                <div className="tdp-icon-wrapper">
                   {" "}
-                  <div className="elementor-icon">
+                  <div className="tdp-icon">
                     {" "}
                     <svg xmlns="http://www.w3.org/2000/svg" height="44.236648" viewBox="0 0 17.7768741 44.236648" width="17.776874">
                       <path d="m16.8432936 0 .9335805.35836795-.179184.46679021-16.4849257 42.94469964-.17918397.4667902-.93358043-.358368.17918398-.4667902 16.48492572-42.94469959z"></path>
@@ -348,13 +348,13 @@ export default function Header6979({ path }: { path: string }) {
                 {" "}
               </div>
               {" "}
-              <div className="elementor-element elementor-element-222f2c7 elementor-widget__width-auto elementor-hidden-tablet elementor-hidden-mobile elementor-widget elementor-widget-button" data-id="222f2c7" data-element_type="widget" data-e-type="widget" data-widget_type="button.default">
+              <div className="tdp-element tdp-element-222f2c7 tdp-widget__width-auto tdp-hidden-tablet tdp-hidden-mobile tdp-widget tdp-widget-button" data-id="222f2c7" data-element_type="widget" data-e-type="widget" data-widget_type="button.default">
                 {" "}
-                <a className="elementor-button elementor-button-link elementor-size-sm" href={"https://api.whatsapp.com/send?phone=573009122820&text=Hola%2C%20ingrese%20por%20el%20link%20WhatsApp%2C%20necesito%20m%C3%A1s%20informaci%C3%B3n"}>
+                <a className="tdp-button tdp-button-link tdp-size-sm" href={"https://api.whatsapp.com/send?phone=573009122820&text=Hola%2C%20ingrese%20por%20el%20link%20WhatsApp%2C%20necesito%20m%C3%A1s%20informaci%C3%B3n"}>
                   {" "}
-                  <span className="elementor-button-content-wrapper">
+                  <span className="tdp-button-content-wrapper">
                     {" "}
-                    <span className="elementor-button-text">
+                    <span className="tdp-button-text">
                       {" 3009122820"}
                     </span>
                     {" "}
@@ -364,13 +364,13 @@ export default function Header6979({ path }: { path: string }) {
                 {" "}
               </div>
               {" "}
-              <div className="elementor-element elementor-element-21c81c2 elementor-widget__width-auto elementor-widget elementor-widget-button" data-id="21c81c2" data-element_type="widget" data-e-type="widget" data-widget_type="button.default">
+              <div className="tdp-element tdp-element-21c81c2 tdp-widget__width-auto tdp-widget tdp-widget-button" data-id="21c81c2" data-element_type="widget" data-e-type="widget" data-widget_type="button.default">
                 {" "}
-                <a className="elementor-button elementor-button-link elementor-size-sm" href="/#form">
+                <a className="tdp-button tdp-button-link tdp-size-sm" href="/#form">
                   {" "}
-                  <span className="elementor-button-content-wrapper">
+                  <span className="tdp-button-content-wrapper">
                     {" "}
-                    <span className="elementor-button-text">
+                    <span className="tdp-button-text">
                       {"Contáctanos "}
                     </span>
                     {" "}
@@ -388,17 +388,17 @@ export default function Header6979({ path }: { path: string }) {
         {" "}
       </section>
       {" "}
-      <div className="elementor-element elementor-element-825d132 elementor-hidden-desktop e-flex e-con-boxed e-con e-parent" data-id="825d132" data-element_type="container" data-e-type="container" data-settings={"{\"background_background\":\"classic\",\"sticky\":\"top\",\"sticky_on\":[\"desktop\",\"tablet\",\"mobile\"],\"sticky_offset\":0,\"sticky_effects_offset\":0,\"sticky_anchor_link_offset\":0}"}>
+      <div className="tdp-element tdp-element-825d132 tdp-hidden-desktop e-flex e-con-boxed e-con e-parent" data-id="825d132" data-element_type="container" data-e-type="container" data-settings={"{\"background_background\":\"classic\",\"sticky\":\"top\",\"sticky_on\":[\"desktop\",\"tablet\",\"mobile\"],\"sticky_offset\":0,\"sticky_effects_offset\":0,\"sticky_anchor_link_offset\":0}"}>
         {" "}
         <div className="e-con-inner">
           {" "}
-          <div className="elementor-element elementor-element-7796faa e-con-full e-flex e-con e-child" data-id="7796faa" data-element_type="container" data-e-type="container">
+          <div className="tdp-element tdp-element-7796faa e-con-full e-flex e-con e-child" data-id="7796faa" data-element_type="container" data-e-type="container">
             {" "}
-            <div className="elementor-element elementor-element-a3a1a2a elementor-widget elementor-widget-image" data-id="a3a1a2a" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
+            <div className="tdp-element tdp-element-a3a1a2a tdp-widget tdp-widget-image" data-id="a3a1a2a" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
               {" "}
               <a href="/">
                 {" "}
-                <img width="272" height="111" src="/wp-content/uploads/2023/07/logo-TodoIP.webp" className="attachment-full size-full wp-image-988449" alt="Logotipo de TodoIP" loading={pv(path, { "/agente-de-whatsapp-para-agencias-de-viajes-cotiza-rapido-y-no-pierdas-ventas-fuera-de-horario/": "lazy", "/de-la-ventanilla-al-celular-como-digitalizar-el-ingreso-de-pacientes-sin-cambiar-de-sistema/": "lazy", "/revolucionamos-la-comunicacion-omnicanal-lanzamiento-de-nuestras-nuevas-soluciones/": "lazy", "/platzi-conf-2023/": "lazy", "/asistente-virtual-para-clinicas-asi-se-ve-el-fin-de-las-cotizaciones-lentas-por-whatsapp/": "lazy", "/resolucion-256-como-cumplir-la-ley-sin-enloquecer-a-tu-equipo/": "lazy", "/como-reducir-la-inasistencia-a-las-citas-medicas/": "lazy", "/ventajas-de-tener-un-pbx-movil/": "lazy", "/guia-completa-sobre-chatbots-para-whatsapp-business/": "lazy" }, undefined)} />
+                <img width="272" height="111" src="/assets/uploads/2023/07/logo-TodoIP.webp" className="attachment-full size-full img-988449" alt="Logotipo de TodoIP" loading={pv(path, { "/agente-de-whatsapp-para-agencias-de-viajes-cotiza-rapido-y-no-pierdas-ventas-fuera-de-horario/": "lazy", "/de-la-ventanilla-al-celular-como-digitalizar-el-ingreso-de-pacientes-sin-cambiar-de-sistema/": "lazy", "/revolucionamos-la-comunicacion-omnicanal-lanzamiento-de-nuestras-nuevas-soluciones/": "lazy", "/platzi-conf-2023/": "lazy", "/asistente-virtual-para-clinicas-asi-se-ve-el-fin-de-las-cotizaciones-lentas-por-whatsapp/": "lazy", "/resolucion-256-como-cumplir-la-ley-sin-enloquecer-a-tu-equipo/": "lazy", "/como-reducir-la-inasistencia-a-las-citas-medicas/": "lazy", "/ventajas-de-tener-un-pbx-movil/": "lazy", "/guia-completa-sobre-chatbots-para-whatsapp-business/": "lazy" }, undefined)} />
                 {" "}
               </a>
               {" "}
@@ -406,15 +406,15 @@ export default function Header6979({ path }: { path: string }) {
             {" "}
           </div>
           {" "}
-          <div className="elementor-element elementor-element-ef2ea87 e-con-full e-flex e-con e-child" data-id="ef2ea87" data-element_type="container" data-e-type="container">
+          <div className="tdp-element tdp-element-ef2ea87 e-con-full e-flex e-con e-child" data-id="ef2ea87" data-element_type="container" data-e-type="container">
             {" "}
-            <div className="elementor-element elementor-element-8353bb9 elementor-widget__width-auto elementor-tablet-align-right elementor-widget elementor-widget-button" data-id="8353bb9" data-element_type="widget" data-e-type="widget" data-widget_type="button.default">
+            <div className="tdp-element tdp-element-8353bb9 tdp-widget__width-auto tdp-tablet-align-right tdp-widget tdp-widget-button" data-id="8353bb9" data-element_type="widget" data-e-type="widget" data-widget_type="button.default">
               {" "}
-              <a className="elementor-button elementor-button-link elementor-size-sm" href="/#form-mobie">
+              <a className="tdp-button tdp-button-link tdp-size-sm" href="/#form-mobie">
                 {" "}
-                <span className="elementor-button-content-wrapper">
+                <span className="tdp-button-content-wrapper">
                   {" "}
-                  <span className="elementor-button-text">
+                  <span className="tdp-button-text">
                     {"Contáctanos "}
                   </span>
                   {" "}
@@ -426,9 +426,9 @@ export default function Header6979({ path }: { path: string }) {
             {" "}
           </div>
           {" "}
-          <div className="elementor-element elementor-element-6a94e20 e-con-full e-flex e-con e-child" data-id="6a94e20" data-element_type="container" data-e-type="container">
+          <div className="tdp-element tdp-element-6a94e20 e-con-full e-flex e-con e-child" data-id="6a94e20" data-element_type="container" data-e-type="container">
             {" "}
-            <div className="elementor-element elementor-element-1dc2195 e-full_width e-n-menu-layout-horizontal e-n-menu-tablet elementor-widget elementor-widget-n-menu" data-id="1dc2195" data-element_type="widget" data-e-type="widget" data-settings={"{\"menu_items\":[{\"item_title\":\"Inicio\",\"_id\":\"52c867c\",\"__dynamic__\":{\"item_link\":\"[elementor-tag id=\\\"729f8c3\\\" name=\\\"site-url\\\" settings=\\\"%7B%7D\\\"]\"},\"item_link\":{\"url\":\"\",\"is_external\":\"\",\"nofollow\":\"\",\"custom_attributes\":\"\"},\"item_dropdown_content\":\"no\",\"item_icon\":{\"value\":\"\",\"library\":\"\"},\"item_icon_active\":null,\"element_id\":\"\"},{\"item_title\":\"Productos\",\"_id\":\"afe505a\",\"item_dropdown_content\":\"yes\",\"item_link\":{\"url\":\"\",\"is_external\":\"\",\"nofollow\":\"\",\"custom_attributes\":\"\"},\"item_icon\":{\"value\":\"\",\"library\":\"\"},\"item_icon_active\":null,\"element_id\":\"\"},{\"_id\":\"4765768\",\"item_title\":\"Nuestro blog \",\"item_link\":{\"url\":\"\\/blog\\/\",\"is_external\":\"\",\"nofollow\":\"\",\"custom_attributes\":\"\"},\"item_dropdown_content\":\"no\",\"item_icon\":{\"value\":\"\",\"library\":\"\"},\"item_icon_active\":null,\"element_id\":\"\"},{\"_id\":\"e804e19\",\"item_title\":\"Acceso Clientes\",\"item_link\":{\"url\":\"\\/reportes-telefonia\\/\",\"is_external\":\"\",\"nofollow\":\"\",\"custom_attributes\":\"\"},\"item_dropdown_content\":\"no\",\"item_icon\":{\"value\":\"\",\"library\":\"\"},\"item_icon_active\":null,\"element_id\":\"\"}],\"open_on\":\"click\",\"content_width\":\"full_width\",\"item_layout\":\"horizontal\",\"horizontal_scroll\":\"disable\",\"breakpoint_selector\":\"tablet\",\"menu_item_title_distance_from_content\":{\"unit\":\"px\",\"size\":0,\"sizes\":[]},\"menu_item_title_distance_from_content_tablet\":{\"unit\":\"px\",\"size\":\"\",\"sizes\":[]},\"menu_item_title_distance_from_content_mobile\":{\"unit\":\"px\",\"size\":\"\",\"sizes\":[]}}"} data-widget_type="mega-menu.default">
+            <div className="tdp-element tdp-element-1dc2195 e-full_width e-n-menu-layout-horizontal e-n-menu-tablet tdp-widget tdp-widget-n-menu" data-id="1dc2195" data-element_type="widget" data-e-type="widget" data-settings={"{\"menu_items\":[{\"item_title\":\"Inicio\",\"_id\":\"52c867c\",\"__dynamic__\":{\"item_link\":\"[tdp-tag id=\\\"729f8c3\\\" name=\\\"site-url\\\" settings=\\\"%7B%7D\\\"]\"},\"item_link\":{\"url\":\"\",\"is_external\":\"\",\"nofollow\":\"\",\"custom_attributes\":\"\"},\"item_dropdown_content\":\"no\",\"item_icon\":{\"value\":\"\",\"library\":\"\"},\"item_icon_active\":null,\"element_id\":\"\"},{\"item_title\":\"Productos\",\"_id\":\"afe505a\",\"item_dropdown_content\":\"yes\",\"item_link\":{\"url\":\"\",\"is_external\":\"\",\"nofollow\":\"\",\"custom_attributes\":\"\"},\"item_icon\":{\"value\":\"\",\"library\":\"\"},\"item_icon_active\":null,\"element_id\":\"\"},{\"_id\":\"4765768\",\"item_title\":\"Nuestro blog \",\"item_link\":{\"url\":\"\\/blog\\/\",\"is_external\":\"\",\"nofollow\":\"\",\"custom_attributes\":\"\"},\"item_dropdown_content\":\"no\",\"item_icon\":{\"value\":\"\",\"library\":\"\"},\"item_icon_active\":null,\"element_id\":\"\"},{\"_id\":\"e804e19\",\"item_title\":\"Acceso Clientes\",\"item_link\":{\"url\":\"\\/reportes-telefonia\\/\",\"is_external\":\"\",\"nofollow\":\"\",\"custom_attributes\":\"\"},\"item_dropdown_content\":\"no\",\"item_icon\":{\"value\":\"\",\"library\":\"\"},\"item_icon_active\":null,\"element_id\":\"\"}],\"open_on\":\"click\",\"content_width\":\"full_width\",\"item_layout\":\"horizontal\",\"horizontal_scroll\":\"disable\",\"breakpoint_selector\":\"tablet\",\"menu_item_title_distance_from_content\":{\"unit\":\"px\",\"size\":0,\"sizes\":[]},\"menu_item_title_distance_from_content_tablet\":{\"unit\":\"px\",\"size\":\"\",\"sizes\":[]},\"menu_item_title_distance_from_content_mobile\":{\"unit\":\"px\",\"size\":\"\",\"sizes\":[]}}"} data-widget_type="mega-menu.default">
               {" "}
               <nav className="e-n-menu" data-widget-number="312" aria-label="Menu">
                 {" "}
@@ -492,7 +492,7 @@ export default function Header6979({ path }: { path: string }) {
                               <path d="M288.662 352H31.338c-17.818 0-26.741-21.543-14.142-34.142l128.662-128.662c7.81-7.81 20.474-7.81 28.284 0l128.662 128.662c12.6 12.599 3.676 34.142-14.142 34.142z"></path>
                             </svg>
                             {" "}
-                            <span className="elementor-screen-only">
+                            <span className="tdp-screen-only">
                               {"Close Productos"}
                             </span>
                             {" "}
@@ -504,7 +504,7 @@ export default function Header6979({ path }: { path: string }) {
                               <path d="M31.3 192h257.3c17.8 0 26.7 21.5 14.1 34.1L174.1 354.8c-7.8 7.8-20.5 7.8-28.3 0L17.2 226.1C4.6 213.5 13.5 192 31.3 192z"></path>
                             </svg>
                             {" "}
-                            <span className="elementor-screen-only">
+                            <span className="tdp-screen-only">
                               {"Open Productos"}
                             </span>
                             {" "}
@@ -516,31 +516,31 @@ export default function Header6979({ path }: { path: string }) {
                       {" "}
                       <div className="e-n-menu-content">
                         {" "}
-                        <div id="e-n-menu-content-3122" data-tab-index="2" aria-labelledby="e-n-menu-dropdown-icon-3122" className="elementor-element elementor-element-b87edc1 e-flex e-con-boxed e-con e-child" data-id="b87edc1" data-element_type="container" data-e-type="container" data-settings={"{\"background_background\":\"classic\"}"}>
+                        <div id="e-n-menu-content-3122" data-tab-index="2" aria-labelledby="e-n-menu-dropdown-icon-3122" className="tdp-element tdp-element-b87edc1 e-flex e-con-boxed e-con e-child" data-id="b87edc1" data-element_type="container" data-e-type="container" data-settings={"{\"background_background\":\"classic\"}"}>
                           {" "}
                           <div className="e-con-inner">
                             {" "}
-                            <div className="elementor-element elementor-element-799bee6 e-con-full e-flex e-con e-child" data-id="799bee6" data-element_type="container" data-e-type="container" data-settings={"{\"background_background\":\"classic\"}"}>
+                            <div className="tdp-element tdp-element-799bee6 e-con-full e-flex e-con e-child" data-id="799bee6" data-element_type="container" data-e-type="container" data-settings={"{\"background_background\":\"classic\"}"}>
                               {" "}
-                              <div className="elementor-element elementor-element-1b146aa elementor-widget elementor-widget-heading" data-id="1b146aa" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+                              <div className="tdp-element tdp-element-1b146aa tdp-widget tdp-widget-heading" data-id="1b146aa" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
                                 {" "}
-                                <span className="elementor-heading-title elementor-size-default">
+                                <span className="tdp-heading-title tdp-size-default">
                                   {"INTELIGENCIA ARTIFICIAL "}
                                 </span>
                                 {" "}
                               </div>
                               {" "}
-                              <div className="elementor-element elementor-element-7793425 elementor-cta--valign-top elementor-widget__width-initial elementor-cta--skin-classic elementor-animated-content elementor-widget elementor-widget-call-to-action" data-id="7793425" data-element_type="widget" data-e-type="widget" data-widget_type="call-to-action.default">
+                              <div className="tdp-element tdp-element-7793425 tdp-cta--valign-top tdp-widget__width-initial tdp-cta--skin-classic tdp-animated-content tdp-widget tdp-widget-call-to-action" data-id="7793425" data-element_type="widget" data-e-type="widget" data-widget_type="call-to-action.default">
                                 {" "}
-                                <a className="elementor-cta" href="/chatbots-con-ia-whatsapp/">
+                                <a className="tdp-cta" href="/chatbots-con-ia-whatsapp/">
                                   {" "}
-                                  <div className="elementor-cta__content">
+                                  <div className="tdp-cta__content">
                                     {" "}
-                                    <span className="elementor-cta__title elementor-cta__content-item elementor-content-item">
+                                    <span className="tdp-cta__title tdp-cta__content-item tdp-content-item">
                                       {" 💬 Chatbots con IA & WhatsApp "}
                                     </span>
                                     {" "}
-                                    <div className="elementor-cta__description elementor-cta__content-item elementor-content-item">
+                                    <div className="tdp-cta__description tdp-cta__content-item tdp-content-item">
                                       {" Automatiza conversaciones, ventas y procesos por chat. "}
                                     </div>
                                     {" "}
@@ -550,17 +550,17 @@ export default function Header6979({ path }: { path: string }) {
                                 {" "}
                               </div>
                               {" "}
-                              <div className="elementor-element elementor-element-ff53815 elementor-cta--valign-top elementor-widget__width-initial elementor-cta--skin-classic elementor-animated-content elementor-widget elementor-widget-call-to-action" data-id="ff53815" data-element_type="widget" data-e-type="widget" data-widget_type="call-to-action.default">
+                              <div className="tdp-element tdp-element-ff53815 tdp-cta--valign-top tdp-widget__width-initial tdp-cta--skin-classic tdp-animated-content tdp-widget tdp-widget-call-to-action" data-id="ff53815" data-element_type="widget" data-e-type="widget" data-widget_type="call-to-action.default">
                                 {" "}
-                                <a className="elementor-cta" href="/lectura-inteligente-de-documentos/">
+                                <a className="tdp-cta" href="/lectura-inteligente-de-documentos/">
                                   {" "}
-                                  <div className="elementor-cta__content">
+                                  <div className="tdp-cta__content">
                                     {" "}
-                                    <span className="elementor-cta__title elementor-cta__content-item elementor-content-item">
+                                    <span className="tdp-cta__title tdp-cta__content-item tdp-content-item">
                                       {" 📄 Lectura Inteligente de Documentos "}
                                     </span>
                                     {" "}
-                                    <div className="elementor-cta__description elementor-cta__content-item elementor-content-item">
+                                    <div className="tdp-cta__description tdp-cta__content-item tdp-content-item">
                                       {" Extrae datos de imágenes y PDFs para llenar formularios. "}
                                     </div>
                                     {" "}
@@ -570,17 +570,17 @@ export default function Header6979({ path }: { path: string }) {
                                 {" "}
                               </div>
                               {" "}
-                              <div className="elementor-element elementor-element-4eb5807 elementor-cta--valign-top elementor-widget__width-initial elementor-cta--skin-classic elementor-animated-content elementor-widget elementor-widget-call-to-action" data-id="4eb5807" data-element_type="widget" data-e-type="widget" data-widget_type="call-to-action.default">
+                              <div className="tdp-element tdp-element-4eb5807 tdp-cta--valign-top tdp-widget__width-initial tdp-cta--skin-classic tdp-animated-content tdp-widget tdp-widget-call-to-action" data-id="4eb5807" data-element_type="widget" data-e-type="widget" data-widget_type="call-to-action.default">
                                 {" "}
-                                <a className="elementor-cta" href="/agente-de-voz-con-ia-voicebot/">
+                                <a className="tdp-cta" href="/agente-de-voz-con-ia-voicebot/">
                                   {" "}
-                                  <div className="elementor-cta__content">
+                                  <div className="tdp-cta__content">
                                     {" "}
-                                    <span className="elementor-cta__title elementor-cta__content-item elementor-content-item">
+                                    <span className="tdp-cta__title tdp-cta__content-item tdp-content-item">
                                       {" 🎙️ Agente de Voz con IA (Voicebot) "}
                                     </span>
                                     {" "}
-                                    <div className="elementor-cta__description elementor-cta__content-item elementor-content-item">
+                                    <div className="tdp-cta__description tdp-cta__content-item tdp-content-item">
                                       {" Tu IA que contesta, gestiona trámites y analiza conversaciones. "}
                                     </div>
                                     {" "}
@@ -590,25 +590,25 @@ export default function Header6979({ path }: { path: string }) {
                                 {" "}
                               </div>
                               {" "}
-                              <div className="elementor-element elementor-element-85cb045 elementor-widget elementor-widget-heading" data-id="85cb045" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+                              <div className="tdp-element tdp-element-85cb045 tdp-widget tdp-widget-heading" data-id="85cb045" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
                                 {" "}
-                                <span className="elementor-heading-title elementor-size-default">
+                                <span className="tdp-heading-title tdp-size-default">
                                   {"TELEFONÍA"}
                                 </span>
                                 {" "}
                               </div>
                               {" "}
-                              <div className="elementor-element elementor-element-5dd7839 elementor-cta--valign-top elementor-widget__width-initial elementor-cta--skin-classic elementor-animated-content elementor-widget elementor-widget-call-to-action" data-id="5dd7839" data-element_type="widget" data-e-type="widget" data-widget_type="call-to-action.default">
+                              <div className="tdp-element tdp-element-5dd7839 tdp-cta--valign-top tdp-widget__width-initial tdp-cta--skin-classic tdp-animated-content tdp-widget tdp-widget-call-to-action" data-id="5dd7839" data-element_type="widget" data-e-type="widget" data-widget_type="call-to-action.default">
                                 {" "}
-                                <a className="elementor-cta" href="/pbx-movil/">
+                                <a className="tdp-cta" href="/pbx-movil/">
                                   {" "}
-                                  <div className="elementor-cta__content">
+                                  <div className="tdp-cta__content">
                                     {" "}
-                                    <span className="elementor-cta__title elementor-cta__content-item elementor-content-item">
+                                    <span className="tdp-cta__title tdp-cta__content-item tdp-content-item">
                                       {" 📱 PBX Móvil "}
                                     </span>
                                     {" "}
-                                    <div className="elementor-cta__description elementor-cta__content-item elementor-content-item">
+                                    <div className="tdp-cta__description tdp-cta__content-item tdp-content-item">
                                       {" Tu extensión telefónica empresarial en el celular en la Nube. "}
                                     </div>
                                     {" "}
@@ -618,17 +618,17 @@ export default function Header6979({ path }: { path: string }) {
                                 {" "}
                               </div>
                               {" "}
-                              <div className="elementor-element elementor-element-4e97490 elementor-cta--valign-top elementor-widget__width-initial elementor-cta--skin-classic elementor-animated-content elementor-widget elementor-widget-call-to-action" data-id="4e97490" data-element_type="widget" data-e-type="widget" data-widget_type="call-to-action.default">
+                              <div className="tdp-element tdp-element-4e97490 tdp-cta--valign-top tdp-widget__width-initial tdp-cta--skin-classic tdp-animated-content tdp-widget tdp-widget-call-to-action" data-id="4e97490" data-element_type="widget" data-e-type="widget" data-widget_type="call-to-action.default">
                                 {" "}
-                                <a className="elementor-cta" href="/agente-virtual-ivr/">
+                                <a className="tdp-cta" href="/agente-virtual-ivr/">
                                   {" "}
-                                  <div className="elementor-cta__content">
+                                  <div className="tdp-cta__content">
                                     {" "}
-                                    <span className="elementor-cta__title elementor-cta__content-item elementor-content-item">
+                                    <span className="tdp-cta__title tdp-cta__content-item tdp-content-item">
                                       {" 🔀 Portal de Autogestión Telefónica "}
                                     </span>
                                     {" "}
-                                    <div className="elementor-cta__description elementor-cta__content-item elementor-content-item">
+                                    <div className="tdp-cta__description tdp-cta__content-item tdp-content-item">
                                       {" Integra telefonía y datos para respuestas en tiempo real. "}
                                     </div>
                                     {" "}
@@ -638,17 +638,17 @@ export default function Header6979({ path }: { path: string }) {
                                 {" "}
                               </div>
                               {" "}
-                              <div className="elementor-element elementor-element-6ed2d4f elementor-cta--valign-top elementor-widget__width-initial elementor-cta--skin-classic elementor-animated-content elementor-widget elementor-widget-call-to-action" data-id="6ed2d4f" data-element_type="widget" data-e-type="widget" data-widget_type="call-to-action.default">
+                              <div className="tdp-element tdp-element-6ed2d4f tdp-cta--valign-top tdp-widget__width-initial tdp-cta--skin-classic tdp-animated-content tdp-widget tdp-widget-call-to-action" data-id="6ed2d4f" data-element_type="widget" data-e-type="widget" data-widget_type="call-to-action.default">
                                 {" "}
-                                <a className="elementor-cta" href="/telefoniaip/">
+                                <a className="tdp-cta" href="/telefoniaip/">
                                   {" "}
-                                  <div className="elementor-cta__content">
+                                  <div className="tdp-cta__content">
                                     {" "}
-                                    <span className="elementor-cta__title elementor-cta__content-item elementor-content-item">
+                                    <span className="tdp-cta__title tdp-cta__content-item tdp-content-item">
                                       {" 📞 Troncales y Telefonía IP "}
                                     </span>
                                     {" "}
-                                    <div className="elementor-cta__description elementor-cta__content-item elementor-content-item">
+                                    <div className="tdp-cta__description tdp-cta__content-item tdp-content-item">
                                       {" Conectividad empresarial robusta y numeración "}
                                     </div>
                                     {" "}

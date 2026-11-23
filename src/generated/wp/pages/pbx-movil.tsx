@@ -7,7 +7,7 @@ import Header6979 from "../templates/Header6979";
 import Footer988867 from "../templates/Footer988867";
 import Popup9913 from "../templates/Popup9913";
 import Popup1670 from "../templates/Popup1670";
-import IdElementorPost10889Css from "../templates/IdElementorPost10889Css";
+import IdTdpPost10889Css from "../templates/IdTdpPost10889Css";
 import IdEgeiroWhfab from "../templates/IdEgeiroWhfab";
 
 export default function PagePbxMovil({ path }: { path: string }) {
@@ -20,39 +20,39 @@ export default function PagePbxMovil({ path }: { path: string }) {
         {" "}
         <div className="page-content">
           {" "}
-          <div data-elementor-type="wp-page" data-elementor-id="6953" className="elementor elementor-6953" data-elementor-post-type="page">
+          <div data-tdp-type="page" data-tdp-id="6953" className="tdp tdp-6953" data-tdp-post-type="page">
             {" "}
-            <section className="elementor-section elementor-top-section elementor-element elementor-element-eda5b9a elementor-section-full_width elementor-section-content-middle elementor-section-height-default elementor-section-height-default" data-id="eda5b9a" data-element_type="section" data-e-type="section" data-settings={"{\"background_background\":\"classic\"}"}>
+            <section className="tdp-section tdp-top-section tdp-element tdp-element-eda5b9a tdp-section-full_width tdp-section-content-middle tdp-section-height-default tdp-section-height-default" data-id="eda5b9a" data-element_type="section" data-e-type="section" data-settings={"{\"background_background\":\"classic\"}"}>
               {" "}
-              <div className="elementor-background-overlay"></div>
+              <div className="tdp-background-overlay"></div>
               {" "}
-              <div className="elementor-container elementor-column-gap-no">
+              <div className="tdp-container tdp-column-gap-no">
                 {" "}
-                <div className="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-920072e" data-id="920072e" data-element_type="column" data-e-type="column" data-settings={"{\"background_background\":\"classic\"}"}>
+                <div className="tdp-column tdp-col-100 tdp-top-column tdp-element tdp-element-920072e" data-id="920072e" data-element_type="column" data-e-type="column" data-settings={"{\"background_background\":\"classic\"}"}>
                   {" "}
-                  <div className="elementor-widget-wrap elementor-element-populated">
+                  <div className="tdp-widget-wrap tdp-element-populated">
                     {" "}
-                    <section className="elementor-section elementor-inner-section elementor-element elementor-element-8dc75de elementor-section-height-min-height elementor-section-content-bottom elementor-section-boxed elementor-section-height-default" data-id="8dc75de" data-element_type="section" data-e-type="section">
+                    <section className="tdp-section tdp-inner-section tdp-element tdp-element-8dc75de tdp-section-height-min-height tdp-section-content-bottom tdp-section-boxed tdp-section-height-default" data-id="8dc75de" data-element_type="section" data-e-type="section">
                       {" "}
-                      <div className="elementor-container elementor-column-gap-no">
+                      <div className="tdp-container tdp-column-gap-no">
                         {" "}
-                        <div className="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-6ff532e" data-id="6ff532e" data-element_type="column" data-e-type="column">
+                        <div className="tdp-column tdp-col-50 tdp-inner-column tdp-element tdp-element-6ff532e" data-id="6ff532e" data-element_type="column" data-e-type="column">
                           {" "}
-                          <div className="elementor-widget-wrap elementor-element-populated">
+                          <div className="tdp-widget-wrap tdp-element-populated">
                             {" "}
-                            <div className="elementor-element elementor-element-bf2f02b elementor-align-start elementor-widget__width-auto elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="bf2f02b" data-element_type="widget" data-e-type="widget" data-widget_type="icon-list.default">
+                            <div className="tdp-element tdp-element-bf2f02b tdp-align-start tdp-widget__width-auto tdp-icon-list--layout-traditional tdp-list-item-link-full_width tdp-widget tdp-widget-icon-list" data-id="bf2f02b" data-element_type="widget" data-e-type="widget" data-widget_type="icon-list.default">
                               {" "}
-                              <ul className="elementor-icon-list-items">
+                              <ul className="tdp-icon-list-items">
                                 {" "}
-                                <li className="elementor-icon-list-item">
+                                <li className="tdp-icon-list-item">
                                   {" "}
-                                  <span className="elementor-icon-list-icon">
+                                  <span className="tdp-icon-list-icon">
                                     {" "}
                                     <i aria-hidden="true" className="vamtamtheme- vamtam-theme-brand-symbol"></i>
                                     {" "}
                                   </span>
                                   {" "}
-                                  <span className="elementor-icon-list-text">
+                                  <span className="tdp-icon-list-text">
                                     {"PBX Móvil"}
                                   </span>
                                   {" "}
@@ -62,9 +62,9 @@ export default function PagePbxMovil({ path }: { path: string }) {
                               {" "}
                             </div>
                             {" "}
-                            <div className="elementor-element elementor-element-af9f30f animated-slow elementor-widget elementor-widget-heading" data-id="af9f30f" data-element_type="widget" data-e-type="widget" data-settings={"{\"_animation_tablet\":\"none\",\"_animation_delay\":300,\"_animation\":\"none\"}"} data-widget_type="heading.default">
+                            <div className="tdp-element tdp-element-af9f30f animated-slow tdp-widget tdp-widget-heading" data-id="af9f30f" data-element_type="widget" data-e-type="widget" data-settings={"{\"_animation_tablet\":\"none\",\"_animation_delay\":300,\"_animation\":\"none\"}"} data-widget_type="heading.default">
                               {" "}
-                              <h1 className="elementor-heading-title elementor-size-default">
+                              <h1 className="tdp-heading-title tdp-size-default">
                                 {"Mejora tu servicio al cliente con PBX Móvil"}
                               </h1>
                               {" "}
@@ -74,9 +74,9 @@ export default function PagePbxMovil({ path }: { path: string }) {
                           {" "}
                         </div>
                         {" "}
-                        <div className="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-c09765a elementor-hidden-mobile" data-id="c09765a" data-element_type="column" data-e-type="column">
+                        <div className="tdp-column tdp-col-50 tdp-inner-column tdp-element tdp-element-c09765a tdp-hidden-mobile" data-id="c09765a" data-element_type="column" data-e-type="column">
                           {" "}
-                          <div className="elementor-widget-wrap">
+                          <div className="tdp-widget-wrap">
                             {" "}
                           </div>
                           {" "}
@@ -94,27 +94,27 @@ export default function PagePbxMovil({ path }: { path: string }) {
               {" "}
             </section>
             {" "}
-            <section className="elementor-section elementor-top-section elementor-element elementor-element-c00407d elementor-section-content-middle elementor-reverse-mobile elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="c00407d" data-element_type="section" data-e-type="section">
+            <section className="tdp-section tdp-top-section tdp-element tdp-element-c00407d tdp-section-content-middle tdp-reverse-mobile tdp-section-boxed tdp-section-height-default tdp-section-height-default" data-id="c00407d" data-element_type="section" data-e-type="section">
               {" "}
-              <div className="elementor-container elementor-column-gap-no">
+              <div className="tdp-container tdp-column-gap-no">
                 {" "}
-                <div className="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-ae8f624" data-id="ae8f624" data-element_type="column" data-e-type="column">
+                <div className="tdp-column tdp-col-50 tdp-top-column tdp-element tdp-element-ae8f624" data-id="ae8f624" data-element_type="column" data-e-type="column">
                   {" "}
-                  <div className="elementor-widget-wrap elementor-element-populated">
+                  <div className="tdp-widget-wrap tdp-element-populated">
                     {" "}
-                    <div className="elementor-element elementor-element-ae026bb elementor-align-start elementor-widget__width-initial elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="ae026bb" data-element_type="widget" data-e-type="widget" data-widget_type="icon-list.default">
+                    <div className="tdp-element tdp-element-ae026bb tdp-align-start tdp-widget__width-initial tdp-icon-list--layout-traditional tdp-list-item-link-full_width tdp-widget tdp-widget-icon-list" data-id="ae026bb" data-element_type="widget" data-e-type="widget" data-widget_type="icon-list.default">
                       {" "}
-                      <ul className="elementor-icon-list-items">
+                      <ul className="tdp-icon-list-items">
                         {" "}
-                        <li className="elementor-icon-list-item">
+                        <li className="tdp-icon-list-item">
                           {" "}
-                          <span className="elementor-icon-list-icon">
+                          <span className="tdp-icon-list-icon">
                             {" "}
                             <i aria-hidden="true" className="vamtamtheme- vamtam-theme-brand-symbol"></i>
                             {" "}
                           </span>
                           {" "}
-                          <span className="elementor-icon-list-text">
+                          <span className="tdp-icon-list-text">
                             {"Sobre nuestra solución"}
                           </span>
                           {" "}
@@ -124,7 +124,7 @@ export default function PagePbxMovil({ path }: { path: string }) {
                       {" "}
                     </div>
                     {" "}
-                    <div className="elementor-element elementor-element-75eac43 elementor-widget__width-initial elementor-widget elementor-widget-text-editor" data-id="75eac43" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
+                    <div className="tdp-element tdp-element-75eac43 tdp-widget__width-initial tdp-widget tdp-widget-text-editor" data-id="75eac43" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
                       {" "}
                       <p>
                         {"Gestiona llamadas y mensajes de WhatsApp a través de un solo número móvil en tu empresa, mejorando la atención al cliente sin complicaciones ni equipos adicionales. Esta solución ofrece alta disponibilidad, permitiendo recibir múltiples llamadas simultáneas, y facilita la comunicación efectiva con tus clientes."}
@@ -143,13 +143,13 @@ export default function PagePbxMovil({ path }: { path: string }) {
                       {" "}
                     </div>
                     {" "}
-                    <div className="elementor-element elementor-element-47bdd7f elementor-widget__width-auto elementor-align-center elementor-mobile-align-justify elementor-widget-mobile__width-inherit elementor-widget elementor-widget-button" data-id="47bdd7f" data-element_type="widget" data-e-type="widget" data-widget_type="button.default">
+                    <div className="tdp-element tdp-element-47bdd7f tdp-widget__width-auto tdp-align-center tdp-mobile-align-justify tdp-widget-mobile__width-inherit tdp-widget tdp-widget-button" data-id="47bdd7f" data-element_type="widget" data-e-type="widget" data-widget_type="button.default">
                       {" "}
-                      <a className="elementor-button elementor-size-sm" role="button">
+                      <a className="tdp-button tdp-size-sm" role="button">
                         {" "}
-                        <span className="elementor-button-content-wrapper">
+                        <span className="tdp-button-content-wrapper">
                           {" "}
-                          <span className="elementor-button-icon">
+                          <span className="tdp-button-icon">
                             {" "}
                             <svg aria-hidden="true" className="e-font-icon-svg e-fab-whatsapp" viewBox="0 0 448 512" xmlns="http://www.w3.org/2000/svg">
                               <path d="M380.9 97.1C339 55.1 283.2 32 223.9 32c-122.4 0-222 99.6-222 222 0 39.1 10.2 77.3 29.6 111L0 480l117.7-30.9c32.4 17.7 68.9 27 106.1 27h.1c122.3 0 224.1-99.6 224.1-222 0-59.3-25.2-115-67.1-157zm-157 341.6c-33.2 0-65.7-8.9-94-25.7l-6.7-4-69.8 18.3L72 359.2l-4.4-7c-18.5-29.4-28.2-63.3-28.2-98.2 0-101.7 82.8-184.5 184.6-184.5 49.3 0 95.6 19.2 130.4 54.1 34.8 34.9 56.2 81.2 56.1 130.5 0 101.8-84.9 184.6-186.6 184.6zm101.2-138.2c-5.5-2.8-32.8-16.2-37.9-18-5.1-1.9-8.8-2.8-12.5 2.8-3.7 5.6-14.3 18-17.6 21.8-3.2 3.7-6.5 4.2-12 1.4-32.6-16.3-54-29.1-75.5-66-5.7-9.8 5.7-9.1 16.3-30.3 1.8-3.7.9-6.9-.5-9.7-1.4-2.8-12.5-30.1-17.1-41.2-4.5-10.8-9.1-9.3-12.5-9.5-3.2-.2-6.9-.2-10.6-.2-3.7 0-9.7 1.4-14.8 6.9-5.1 5.6-19.4 19-19.4 46.3 0 27.3 19.9 53.7 22.6 57.4 2.8 3.7 39.1 59.7 94.8 83.8 35.2 15.2 49 16.5 66.6 13.9 10.7-1.6 32.8-13.4 37.4-26.4 4.6-13 4.6-24.1 3.2-26.4-1.3-2.5-5-3.9-10.5-6.6z"></path>
@@ -157,7 +157,7 @@ export default function PagePbxMovil({ path }: { path: string }) {
                             {" "}
                           </span>
                           {" "}
-                          <span className="elementor-button-text">
+                          <span className="tdp-button-text">
                             {"Más Información"}
                           </span>
                           {" "}
@@ -171,13 +171,13 @@ export default function PagePbxMovil({ path }: { path: string }) {
                   {" "}
                 </div>
                 {" "}
-                <div className="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-9f3cea0" data-id="9f3cea0" data-element_type="column" data-e-type="column">
+                <div className="tdp-column tdp-col-50 tdp-top-column tdp-element tdp-element-9f3cea0" data-id="9f3cea0" data-element_type="column" data-e-type="column">
                   {" "}
-                  <div className="elementor-widget-wrap elementor-element-populated">
+                  <div className="tdp-widget-wrap tdp-element-populated">
                     {" "}
-                    <div className="elementor-element elementor-element-ccc95bb elementor-widget elementor-widget-image" data-id="ccc95bb" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
+                    <div className="tdp-element tdp-element-ccc95bb tdp-widget tdp-widget-image" data-id="ccc95bb" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
                       {" "}
-                      <img decoding="async" src="/wp-content/uploads/elementor/thumbs/GettyImages-1125619200-square-1-rawr5d886jxdma1l267pwzn06kl3fgqsrtx0vikhnc.webp" title="GettyImages-1125619200-square (1)" alt="Ejecutivo hablando por teléfono mientras trabaja en su laptop en la oficina" loading="lazy" />
+                      <img decoding="async" src="/assets/uploads/tdp/thumbs/GettyImages-1125619200-square-1-rawr5d886jxdma1l267pwzn06kl3fgqsrtx0vikhnc.webp" title="GettyImages-1125619200-square (1)" alt="Ejecutivo hablando por teléfono mientras trabaja en su laptop en la oficina" loading="lazy" />
                       {" "}
                     </div>
                     {" "}
@@ -189,27 +189,27 @@ export default function PagePbxMovil({ path }: { path: string }) {
               {" "}
             </section>
             {" "}
-            <section className="elementor-section elementor-top-section elementor-element elementor-element-2946c1f elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="2946c1f" data-element_type="section" data-e-type="section">
+            <section className="tdp-section tdp-top-section tdp-element tdp-element-2946c1f tdp-section-boxed tdp-section-height-default tdp-section-height-default" data-id="2946c1f" data-element_type="section" data-e-type="section">
               {" "}
-              <div className="elementor-container elementor-column-gap-no">
+              <div className="tdp-container tdp-column-gap-no">
                 {" "}
-                <div className="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-4051a19" data-id="4051a19" data-element_type="column" data-e-type="column">
+                <div className="tdp-column tdp-col-100 tdp-top-column tdp-element tdp-element-4051a19" data-id="4051a19" data-element_type="column" data-e-type="column">
                   {" "}
-                  <div className="elementor-widget-wrap elementor-element-populated">
+                  <div className="tdp-widget-wrap tdp-element-populated">
                     {" "}
-                    <div className="elementor-element elementor-element-fb9e972 elementor-align-start elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="fb9e972" data-element_type="widget" data-e-type="widget" data-widget_type="icon-list.default">
+                    <div className="tdp-element tdp-element-fb9e972 tdp-align-start tdp-icon-list--layout-traditional tdp-list-item-link-full_width tdp-widget tdp-widget-icon-list" data-id="fb9e972" data-element_type="widget" data-e-type="widget" data-widget_type="icon-list.default">
                       {" "}
-                      <ul className="elementor-icon-list-items">
+                      <ul className="tdp-icon-list-items">
                         {" "}
-                        <li className="elementor-icon-list-item">
+                        <li className="tdp-icon-list-item">
                           {" "}
-                          <span className="elementor-icon-list-icon">
+                          <span className="tdp-icon-list-icon">
                             {" "}
                             <i aria-hidden="true" className="vamtamtheme- vamtam-theme-brand-symbol"></i>
                             {" "}
                           </span>
                           {" "}
-                          <span className="elementor-icon-list-text">
+                          <span className="tdp-icon-list-text">
                             {"¿Por qué las empresas deberían contar con un PBX Móvil?"}
                           </span>
                           {" "}
@@ -227,21 +227,21 @@ export default function PagePbxMovil({ path }: { path: string }) {
               {" "}
             </section>
             {" "}
-            <section className="elementor-section elementor-top-section elementor-element elementor-element-d802b2e elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="d802b2e" data-element_type="section" data-e-type="section">
+            <section className="tdp-section tdp-top-section tdp-element tdp-element-d802b2e tdp-section-boxed tdp-section-height-default tdp-section-height-default" data-id="d802b2e" data-element_type="section" data-e-type="section">
               {" "}
-              <div className="elementor-container elementor-column-gap-no">
+              <div className="tdp-container tdp-column-gap-no">
                 {" "}
-                <div className="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-d186191" data-id="d186191" data-element_type="column" data-e-type="column">
+                <div className="tdp-column tdp-col-33 tdp-top-column tdp-element tdp-element-d186191" data-id="d186191" data-element_type="column" data-e-type="column">
                   {" "}
-                  <div className="elementor-widget-wrap elementor-element-populated">
+                  <div className="tdp-widget-wrap tdp-element-populated">
                     {" "}
-                    <div className="elementor-element elementor-element-ce4f792 elementor-position-inline-start elementor-mobile-position-inline-start elementor-view-default elementor-widget elementor-widget-icon-box" data-id="ce4f792" data-element_type="widget" data-e-type="widget" data-widget_type="icon-box.default">
+                    <div className="tdp-element tdp-element-ce4f792 tdp-position-inline-start tdp-mobile-position-inline-start tdp-view-default tdp-widget tdp-widget-icon-box" data-id="ce4f792" data-element_type="widget" data-e-type="widget" data-widget_type="icon-box.default">
                       {" "}
-                      <div className="elementor-icon-box-wrapper">
+                      <div className="tdp-icon-box-wrapper">
                         {" "}
-                        <div className="elementor-icon-box-icon">
+                        <div className="tdp-icon-box-icon">
                           {" "}
-                          <span className="elementor-icon">
+                          <span className="tdp-icon">
                             {" "}
                             <i aria-hidden="true" className="vamtamtheme- vamtam-theme-check"></i>
                             {" "}
@@ -249,9 +249,9 @@ export default function PagePbxMovil({ path }: { path: string }) {
                           {" "}
                         </div>
                         {" "}
-                        <div className="elementor-icon-box-content">
+                        <div className="tdp-icon-box-content">
                           {" "}
-                          <h3 className="elementor-icon-box-title">
+                          <h3 className="tdp-icon-box-title">
                             {" "}
                             <span>
                               {" Mayor Cobertura "}
@@ -259,7 +259,7 @@ export default function PagePbxMovil({ path }: { path: string }) {
                             {" "}
                           </h3>
                           {" "}
-                          <p className="elementor-icon-box-description">
+                          <p className="tdp-icon-box-description">
                             {" Al utilizar números móviles, alcanzas a clientes potenciales en cualquier lugar donde estén. "}
                           </p>
                           {" "}
@@ -273,17 +273,17 @@ export default function PagePbxMovil({ path }: { path: string }) {
                   {" "}
                 </div>
                 {" "}
-                <div className="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-985935a" data-id="985935a" data-element_type="column" data-e-type="column">
+                <div className="tdp-column tdp-col-33 tdp-top-column tdp-element tdp-element-985935a" data-id="985935a" data-element_type="column" data-e-type="column">
                   {" "}
-                  <div className="elementor-widget-wrap elementor-element-populated">
+                  <div className="tdp-widget-wrap tdp-element-populated">
                     {" "}
-                    <div className="elementor-element elementor-element-6f7a782 elementor-position-inline-start elementor-mobile-position-inline-start elementor-view-default elementor-widget elementor-widget-icon-box" data-id="6f7a782" data-element_type="widget" data-e-type="widget" data-widget_type="icon-box.default">
+                    <div className="tdp-element tdp-element-6f7a782 tdp-position-inline-start tdp-mobile-position-inline-start tdp-view-default tdp-widget tdp-widget-icon-box" data-id="6f7a782" data-element_type="widget" data-e-type="widget" data-widget_type="icon-box.default">
                       {" "}
-                      <div className="elementor-icon-box-wrapper">
+                      <div className="tdp-icon-box-wrapper">
                         {" "}
-                        <div className="elementor-icon-box-icon">
+                        <div className="tdp-icon-box-icon">
                           {" "}
-                          <span className="elementor-icon">
+                          <span className="tdp-icon">
                             {" "}
                             <i aria-hidden="true" className="vamtamtheme- vamtam-theme-check"></i>
                             {" "}
@@ -291,9 +291,9 @@ export default function PagePbxMovil({ path }: { path: string }) {
                           {" "}
                         </div>
                         {" "}
-                        <div className="elementor-icon-box-content">
+                        <div className="tdp-icon-box-content">
                           {" "}
-                          <h3 className="elementor-icon-box-title">
+                          <h3 className="tdp-icon-box-title">
                             {" "}
                             <span>
                               {" Fácil Recordación "}
@@ -301,7 +301,7 @@ export default function PagePbxMovil({ path }: { path: string }) {
                             {" "}
                           </h3>
                           {" "}
-                          <p className="elementor-icon-box-description">
+                          <p className="tdp-icon-box-description">
                             {" Simplifica la comunicación con un solo número, fácil de recordar para tus clientes. "}
                           </p>
                           {" "}
@@ -315,17 +315,17 @@ export default function PagePbxMovil({ path }: { path: string }) {
                   {" "}
                 </div>
                 {" "}
-                <div className="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-2afeaa8" data-id="2afeaa8" data-element_type="column" data-e-type="column">
+                <div className="tdp-column tdp-col-33 tdp-top-column tdp-element tdp-element-2afeaa8" data-id="2afeaa8" data-element_type="column" data-e-type="column">
                   {" "}
-                  <div className="elementor-widget-wrap elementor-element-populated">
+                  <div className="tdp-widget-wrap tdp-element-populated">
                     {" "}
-                    <div className="elementor-element elementor-element-2f76da8 elementor-position-inline-start elementor-mobile-position-inline-start elementor-view-default elementor-widget elementor-widget-icon-box" data-id="2f76da8" data-element_type="widget" data-e-type="widget" data-widget_type="icon-box.default">
+                    <div className="tdp-element tdp-element-2f76da8 tdp-position-inline-start tdp-mobile-position-inline-start tdp-view-default tdp-widget tdp-widget-icon-box" data-id="2f76da8" data-element_type="widget" data-e-type="widget" data-widget_type="icon-box.default">
                       {" "}
-                      <div className="elementor-icon-box-wrapper">
+                      <div className="tdp-icon-box-wrapper">
                         {" "}
-                        <div className="elementor-icon-box-icon">
+                        <div className="tdp-icon-box-icon">
                           {" "}
-                          <span className="elementor-icon">
+                          <span className="tdp-icon">
                             {" "}
                             <i aria-hidden="true" className="vamtamtheme- vamtam-theme-check"></i>
                             {" "}
@@ -333,9 +333,9 @@ export default function PagePbxMovil({ path }: { path: string }) {
                           {" "}
                         </div>
                         {" "}
-                        <div className="elementor-icon-box-content">
+                        <div className="tdp-icon-box-content">
                           {" "}
-                          <h3 className="elementor-icon-box-title">
+                          <h3 className="tdp-icon-box-title">
                             {" "}
                             <span>
                               {" Grabaciones y Reportes "}
@@ -343,7 +343,7 @@ export default function PagePbxMovil({ path }: { path: string }) {
                             {" "}
                           </h3>
                           {" "}
-                          <p className="elementor-icon-box-description">
+                          <p className="tdp-icon-box-description">
                             {" Obtén información valiosa sobre la interacción con tus clientes para mejorar el servicio. "}
                           </p>
                           {" "}
@@ -361,21 +361,21 @@ export default function PagePbxMovil({ path }: { path: string }) {
               {" "}
             </section>
             {" "}
-            <section className="elementor-section elementor-top-section elementor-element elementor-element-1a3c461 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="1a3c461" data-element_type="section" data-e-type="section">
+            <section className="tdp-section tdp-top-section tdp-element tdp-element-1a3c461 tdp-section-boxed tdp-section-height-default tdp-section-height-default" data-id="1a3c461" data-element_type="section" data-e-type="section">
               {" "}
-              <div className="elementor-container elementor-column-gap-no">
+              <div className="tdp-container tdp-column-gap-no">
                 {" "}
-                <div className="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-000d836" data-id="000d836" data-element_type="column" data-e-type="column">
+                <div className="tdp-column tdp-col-33 tdp-top-column tdp-element tdp-element-000d836" data-id="000d836" data-element_type="column" data-e-type="column">
                   {" "}
-                  <div className="elementor-widget-wrap elementor-element-populated">
+                  <div className="tdp-widget-wrap tdp-element-populated">
                     {" "}
-                    <div className="elementor-element elementor-element-9056c11 elementor-position-inline-start elementor-mobile-position-inline-start elementor-view-default elementor-widget elementor-widget-icon-box" data-id="9056c11" data-element_type="widget" data-e-type="widget" data-widget_type="icon-box.default">
+                    <div className="tdp-element tdp-element-9056c11 tdp-position-inline-start tdp-mobile-position-inline-start tdp-view-default tdp-widget tdp-widget-icon-box" data-id="9056c11" data-element_type="widget" data-e-type="widget" data-widget_type="icon-box.default">
                       {" "}
-                      <div className="elementor-icon-box-wrapper">
+                      <div className="tdp-icon-box-wrapper">
                         {" "}
-                        <div className="elementor-icon-box-icon">
+                        <div className="tdp-icon-box-icon">
                           {" "}
-                          <span className="elementor-icon">
+                          <span className="tdp-icon">
                             {" "}
                             <i aria-hidden="true" className="vamtamtheme- vamtam-theme-check"></i>
                             {" "}
@@ -383,9 +383,9 @@ export default function PagePbxMovil({ path }: { path: string }) {
                           {" "}
                         </div>
                         {" "}
-                        <div className="elementor-icon-box-content">
+                        <div className="tdp-icon-box-content">
                           {" "}
-                          <h3 className="elementor-icon-box-title">
+                          <h3 className="tdp-icon-box-title">
                             {" "}
                             <span>
                               {" Mensaje Personalizado de Bienvenida "}
@@ -393,7 +393,7 @@ export default function PagePbxMovil({ path }: { path: string }) {
                             {" "}
                           </h3>
                           {" "}
-                          <p className="elementor-icon-box-description">
+                          <p className="tdp-icon-box-description">
                             {" Brinda una experiencia única desde el primer contacto con tu empresa. "}
                           </p>
                           {" "}
@@ -407,17 +407,17 @@ export default function PagePbxMovil({ path }: { path: string }) {
                   {" "}
                 </div>
                 {" "}
-                <div className="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-67852be" data-id="67852be" data-element_type="column" data-e-type="column">
+                <div className="tdp-column tdp-col-33 tdp-top-column tdp-element tdp-element-67852be" data-id="67852be" data-element_type="column" data-e-type="column">
                   {" "}
-                  <div className="elementor-widget-wrap elementor-element-populated">
+                  <div className="tdp-widget-wrap tdp-element-populated">
                     {" "}
-                    <div className="elementor-element elementor-element-d6149e4 elementor-position-inline-start elementor-mobile-position-inline-start elementor-view-default elementor-widget elementor-widget-icon-box" data-id="d6149e4" data-element_type="widget" data-e-type="widget" data-widget_type="icon-box.default">
+                    <div className="tdp-element tdp-element-d6149e4 tdp-position-inline-start tdp-mobile-position-inline-start tdp-view-default tdp-widget tdp-widget-icon-box" data-id="d6149e4" data-element_type="widget" data-e-type="widget" data-widget_type="icon-box.default">
                       {" "}
-                      <div className="elementor-icon-box-wrapper">
+                      <div className="tdp-icon-box-wrapper">
                         {" "}
-                        <div className="elementor-icon-box-icon">
+                        <div className="tdp-icon-box-icon">
                           {" "}
-                          <span className="elementor-icon">
+                          <span className="tdp-icon">
                             {" "}
                             <i aria-hidden="true" className="vamtamtheme- vamtam-theme-check"></i>
                             {" "}
@@ -425,9 +425,9 @@ export default function PagePbxMovil({ path }: { path: string }) {
                           {" "}
                         </div>
                         {" "}
-                        <div className="elementor-icon-box-content">
+                        <div className="tdp-icon-box-content">
                           {" "}
-                          <h3 className="elementor-icon-box-title">
+                          <h3 className="tdp-icon-box-title">
                             {" "}
                             <span>
                               {" Independencia de líneas fijas tradicionales "}
@@ -435,7 +435,7 @@ export default function PagePbxMovil({ path }: { path: string }) {
                             {" "}
                           </h3>
                           {" "}
-                          <p className="elementor-icon-box-description">
+                          <p className="tdp-icon-box-description">
                             {" Evita caídas en el servicio al tener tu número móvil en la nube, garantizando disponibilidad constante. "}
                           </p>
                           {" "}
@@ -449,17 +449,17 @@ export default function PagePbxMovil({ path }: { path: string }) {
                   {" "}
                 </div>
                 {" "}
-                <div className="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-be79041" data-id="be79041" data-element_type="column" data-e-type="column">
+                <div className="tdp-column tdp-col-33 tdp-top-column tdp-element tdp-element-be79041" data-id="be79041" data-element_type="column" data-e-type="column">
                   {" "}
-                  <div className="elementor-widget-wrap elementor-element-populated">
+                  <div className="tdp-widget-wrap tdp-element-populated">
                     {" "}
-                    <div className="elementor-element elementor-element-e30410b elementor-position-inline-start elementor-mobile-position-inline-start elementor-view-default elementor-widget elementor-widget-icon-box" data-id="e30410b" data-element_type="widget" data-e-type="widget" data-widget_type="icon-box.default">
+                    <div className="tdp-element tdp-element-e30410b tdp-position-inline-start tdp-mobile-position-inline-start tdp-view-default tdp-widget tdp-widget-icon-box" data-id="e30410b" data-element_type="widget" data-e-type="widget" data-widget_type="icon-box.default">
                       {" "}
-                      <div className="elementor-icon-box-wrapper">
+                      <div className="tdp-icon-box-wrapper">
                         {" "}
-                        <div className="elementor-icon-box-icon">
+                        <div className="tdp-icon-box-icon">
                           {" "}
-                          <span className="elementor-icon">
+                          <span className="tdp-icon">
                             {" "}
                             <i aria-hidden="true" className="vamtamtheme- vamtam-theme-check"></i>
                             {" "}
@@ -467,9 +467,9 @@ export default function PagePbxMovil({ path }: { path: string }) {
                           {" "}
                         </div>
                         {" "}
-                        <div className="elementor-icon-box-content">
+                        <div className="tdp-icon-box-content">
                           {" "}
-                          <h3 className="elementor-icon-box-title">
+                          <h3 className="tdp-icon-box-title">
                             {" "}
                             <span>
                               {" Alta disponibilidad "}
@@ -477,7 +477,7 @@ export default function PagePbxMovil({ path }: { path: string }) {
                             {" "}
                           </h3>
                           {" "}
-                          <p className="elementor-icon-box-description">
+                          <p className="tdp-icon-box-description">
                             {" Nuestra solución permite recibir hasta 20 llamadas simultáneas en un mismo número, sin usar Simcard. "}
                           </p>
                           {" "}
@@ -495,17 +495,17 @@ export default function PagePbxMovil({ path }: { path: string }) {
               {" "}
             </section>
             {" "}
-            <div className="elementor-element elementor-element-6a177f5 e-flex e-con-boxed e-con e-parent" data-id="6a177f5" data-element_type="container" data-e-type="container">
+            <div className="tdp-element tdp-element-6a177f5 e-flex e-con-boxed e-con e-parent" data-id="6a177f5" data-element_type="container" data-e-type="container">
               {" "}
               <div className="e-con-inner">
                 {" "}
-                <div className="elementor-element elementor-element-13f23c7 elementor-widget__width-auto elementor-align-center elementor-mobile-align-justify elementor-widget-mobile__width-initial elementor-widget elementor-widget-button" data-id="13f23c7" data-element_type="widget" data-e-type="widget" data-widget_type="button.default">
+                <div className="tdp-element tdp-element-13f23c7 tdp-widget__width-auto tdp-align-center tdp-mobile-align-justify tdp-widget-mobile__width-initial tdp-widget tdp-widget-button" data-id="13f23c7" data-element_type="widget" data-e-type="widget" data-widget_type="button.default">
                   {" "}
-                  <a className="elementor-button elementor-size-sm" role="button">
+                  <a className="tdp-button tdp-size-sm" role="button">
                     {" "}
-                    <span className="elementor-button-content-wrapper">
+                    <span className="tdp-button-content-wrapper">
                       {" "}
-                      <span className="elementor-button-icon">
+                      <span className="tdp-button-icon">
                         {" "}
                         <svg aria-hidden="true" className="e-font-icon-svg e-fab-whatsapp" viewBox="0 0 448 512" xmlns="http://www.w3.org/2000/svg">
                           <path d="M380.9 97.1C339 55.1 283.2 32 223.9 32c-122.4 0-222 99.6-222 222 0 39.1 10.2 77.3 29.6 111L0 480l117.7-30.9c32.4 17.7 68.9 27 106.1 27h.1c122.3 0 224.1-99.6 224.1-222 0-59.3-25.2-115-67.1-157zm-157 341.6c-33.2 0-65.7-8.9-94-25.7l-6.7-4-69.8 18.3L72 359.2l-4.4-7c-18.5-29.4-28.2-63.3-28.2-98.2 0-101.7 82.8-184.5 184.6-184.5 49.3 0 95.6 19.2 130.4 54.1 34.8 34.9 56.2 81.2 56.1 130.5 0 101.8-84.9 184.6-186.6 184.6zm101.2-138.2c-5.5-2.8-32.8-16.2-37.9-18-5.1-1.9-8.8-2.8-12.5 2.8-3.7 5.6-14.3 18-17.6 21.8-3.2 3.7-6.5 4.2-12 1.4-32.6-16.3-54-29.1-75.5-66-5.7-9.8 5.7-9.1 16.3-30.3 1.8-3.7.9-6.9-.5-9.7-1.4-2.8-12.5-30.1-17.1-41.2-4.5-10.8-9.1-9.3-12.5-9.5-3.2-.2-6.9-.2-10.6-.2-3.7 0-9.7 1.4-14.8 6.9-5.1 5.6-19.4 19-19.4 46.3 0 27.3 19.9 53.7 22.6 57.4 2.8 3.7 39.1 59.7 94.8 83.8 35.2 15.2 49 16.5 66.6 13.9 10.7-1.6 32.8-13.4 37.4-26.4 4.6-13 4.6-24.1 3.2-26.4-1.3-2.5-5-3.9-10.5-6.6z"></path>
@@ -513,7 +513,7 @@ export default function PagePbxMovil({ path }: { path: string }) {
                         {" "}
                       </span>
                       {" "}
-                      <span className="elementor-button-text">
+                      <span className="tdp-button-text">
                         {"Más Información"}
                       </span>
                       {" "}
@@ -527,55 +527,55 @@ export default function PagePbxMovil({ path }: { path: string }) {
               {" "}
             </div>
             {" "}
-            <section className="elementor-section elementor-top-section elementor-element elementor-element-7b0f61f elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="7b0f61f" data-element_type="section" data-e-type="section">
+            <section className="tdp-section tdp-top-section tdp-element tdp-element-7b0f61f tdp-section-full_width tdp-section-height-default tdp-section-height-default" data-id="7b0f61f" data-element_type="section" data-e-type="section">
               {" "}
-              <div className="elementor-container elementor-column-gap-no">
+              <div className="tdp-container tdp-column-gap-no">
                 {" "}
-                <div className="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-811d590" data-id="811d590" data-element_type="column" data-e-type="column">
+                <div className="tdp-column tdp-col-100 tdp-top-column tdp-element tdp-element-811d590" data-id="811d590" data-element_type="column" data-e-type="column">
                   {" "}
-                  <div className="elementor-widget-wrap elementor-element-populated">
+                  <div className="tdp-widget-wrap tdp-element-populated">
                     {" "}
-                    <div className="elementor-element elementor-element-1239890 elementor-absolute elementor-widget elementor-widget-template" data-id="1239890" data-element_type="widget" data-e-type="widget" data-settings={"{\"_position\":\"absolute\"}"} data-widget_type="template.default">
+                    <div className="tdp-element tdp-element-1239890 tdp-absolute tdp-widget tdp-widget-template" data-id="1239890" data-element_type="widget" data-e-type="widget" data-settings={"{\"_position\":\"absolute\"}"} data-widget_type="template.default">
                       {" "}
-                      <div className="elementor-widget-container">
+                      <div className="tdp-widget-container">
                         {" "}
-                        <div className="elementor-template">
+                        <div className="tdp-template">
                           {" "}
-                          <div data-elementor-type="section" data-elementor-id="10889" className="elementor elementor-10889" data-elementor-post-type="elementor_library">
+                          <div data-tdp-type="section" data-tdp-id="10889" className="tdp tdp-10889" data-tdp-post-type="tdp_library">
                             {" "}
-                            <section className="elementor-section elementor-top-section elementor-element elementor-element-aff5d0f elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="aff5d0f" data-element_type="section" data-e-type="section" data-settings={"{\"motion_fx_motion_fx_scrolling\":\"yes\",\"motion_fx_translateY_effect\":\"yes\",\"motion_fx_translateY_speed\":{\"unit\":\"px\",\"size\":1,\"sizes\":[]},\"motion_fx_translateY_affectedRange\":{\"unit\":\"%\",\"size\":\"\",\"sizes\":{\"start\":0,\"end\":58}},\"motion_fx_devices\":[\"desktop\"]}"}>
+                            <section className="tdp-section tdp-top-section tdp-element tdp-element-aff5d0f tdp-section-full_width tdp-section-height-default tdp-section-height-default" data-id="aff5d0f" data-element_type="section" data-e-type="section" data-settings={"{\"motion_fx_motion_fx_scrolling\":\"yes\",\"motion_fx_translateY_effect\":\"yes\",\"motion_fx_translateY_speed\":{\"unit\":\"px\",\"size\":1,\"sizes\":[]},\"motion_fx_translateY_affectedRange\":{\"unit\":\"%\",\"size\":\"\",\"sizes\":{\"start\":0,\"end\":58}},\"motion_fx_devices\":[\"desktop\"]}"}>
                               {" "}
-                              <div className="elementor-container elementor-column-gap-no">
+                              <div className="tdp-container tdp-column-gap-no">
                                 {" "}
-                                <div className="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-70019ce" data-id="70019ce" data-element_type="column" data-e-type="column">
+                                <div className="tdp-column tdp-col-100 tdp-top-column tdp-element tdp-element-70019ce" data-id="70019ce" data-element_type="column" data-e-type="column">
                                   {" "}
-                                  <div className="elementor-widget-wrap elementor-element-populated">
+                                  <div className="tdp-widget-wrap tdp-element-populated">
                                     {" "}
-                                    <div className="elementor-element elementor-element-6ed649e elementor-widget__width-initial e-transform elementor-absolute elementor-widget elementor-widget-spacer" data-id="6ed649e" data-element_type="widget" data-e-type="widget" data-settings={"{\"_transform_skewX_effect\":{\"unit\":\"px\",\"size\":-20,\"sizes\":[]},\"_position\":\"absolute\",\"_transform_skewX_effect_tablet\":{\"unit\":\"deg\",\"size\":\"\",\"sizes\":[]},\"_transform_skewX_effect_mobile\":{\"unit\":\"deg\",\"size\":\"\",\"sizes\":[]},\"_transform_skewY_effect\":{\"unit\":\"px\",\"size\":\"\",\"sizes\":[]},\"_transform_skewY_effect_tablet\":{\"unit\":\"deg\",\"size\":\"\",\"sizes\":[]},\"_transform_skewY_effect_mobile\":{\"unit\":\"deg\",\"size\":\"\",\"sizes\":[]}}"} data-widget_type="spacer.default">
+                                    <div className="tdp-element tdp-element-6ed649e tdp-widget__width-initial e-transform tdp-absolute tdp-widget tdp-widget-spacer" data-id="6ed649e" data-element_type="widget" data-e-type="widget" data-settings={"{\"_transform_skewX_effect\":{\"unit\":\"px\",\"size\":-20,\"sizes\":[]},\"_position\":\"absolute\",\"_transform_skewX_effect_tablet\":{\"unit\":\"deg\",\"size\":\"\",\"sizes\":[]},\"_transform_skewX_effect_mobile\":{\"unit\":\"deg\",\"size\":\"\",\"sizes\":[]},\"_transform_skewY_effect\":{\"unit\":\"px\",\"size\":\"\",\"sizes\":[]},\"_transform_skewY_effect_tablet\":{\"unit\":\"deg\",\"size\":\"\",\"sizes\":[]},\"_transform_skewY_effect_mobile\":{\"unit\":\"deg\",\"size\":\"\",\"sizes\":[]}}"} data-widget_type="spacer.default">
                                       {" "}
-                                      <div className="elementor-spacer">
+                                      <div className="tdp-spacer">
                                         {" "}
-                                        <div className="elementor-spacer-inner"></div>
+                                        <div className="tdp-spacer-inner"></div>
                                         {" "}
                                       </div>
                                       {" "}
                                     </div>
                                     {" "}
-                                    <div className="elementor-element elementor-element-c25e4d3 elementor-widget__width-initial e-transform elementor-absolute elementor-widget elementor-widget-spacer" data-id="c25e4d3" data-element_type="widget" data-e-type="widget" data-settings={"{\"_transform_skewX_effect\":{\"unit\":\"px\",\"size\":-20,\"sizes\":[]},\"_position\":\"absolute\",\"_transform_skewX_effect_tablet\":{\"unit\":\"deg\",\"size\":\"\",\"sizes\":[]},\"_transform_skewX_effect_mobile\":{\"unit\":\"deg\",\"size\":\"\",\"sizes\":[]},\"_transform_skewY_effect\":{\"unit\":\"px\",\"size\":\"\",\"sizes\":[]},\"_transform_skewY_effect_tablet\":{\"unit\":\"deg\",\"size\":\"\",\"sizes\":[]},\"_transform_skewY_effect_mobile\":{\"unit\":\"deg\",\"size\":\"\",\"sizes\":[]}}"} data-widget_type="spacer.default">
+                                    <div className="tdp-element tdp-element-c25e4d3 tdp-widget__width-initial e-transform tdp-absolute tdp-widget tdp-widget-spacer" data-id="c25e4d3" data-element_type="widget" data-e-type="widget" data-settings={"{\"_transform_skewX_effect\":{\"unit\":\"px\",\"size\":-20,\"sizes\":[]},\"_position\":\"absolute\",\"_transform_skewX_effect_tablet\":{\"unit\":\"deg\",\"size\":\"\",\"sizes\":[]},\"_transform_skewX_effect_mobile\":{\"unit\":\"deg\",\"size\":\"\",\"sizes\":[]},\"_transform_skewY_effect\":{\"unit\":\"px\",\"size\":\"\",\"sizes\":[]},\"_transform_skewY_effect_tablet\":{\"unit\":\"deg\",\"size\":\"\",\"sizes\":[]},\"_transform_skewY_effect_mobile\":{\"unit\":\"deg\",\"size\":\"\",\"sizes\":[]}}"} data-widget_type="spacer.default">
                                       {" "}
-                                      <div className="elementor-spacer">
+                                      <div className="tdp-spacer">
                                         {" "}
-                                        <div className="elementor-spacer-inner"></div>
+                                        <div className="tdp-spacer-inner"></div>
                                         {" "}
                                       </div>
                                       {" "}
                                     </div>
                                     {" "}
-                                    <div className="elementor-element elementor-element-71e2d13 elementor-widget__width-initial e-transform elementor-absolute elementor-widget elementor-widget-spacer" data-id="71e2d13" data-element_type="widget" data-e-type="widget" data-settings={"{\"_transform_skewX_effect\":{\"unit\":\"px\",\"size\":-20,\"sizes\":[]},\"_position\":\"absolute\",\"_transform_skewX_effect_tablet\":{\"unit\":\"deg\",\"size\":\"\",\"sizes\":[]},\"_transform_skewX_effect_mobile\":{\"unit\":\"deg\",\"size\":\"\",\"sizes\":[]},\"_transform_skewY_effect\":{\"unit\":\"px\",\"size\":\"\",\"sizes\":[]},\"_transform_skewY_effect_tablet\":{\"unit\":\"deg\",\"size\":\"\",\"sizes\":[]},\"_transform_skewY_effect_mobile\":{\"unit\":\"deg\",\"size\":\"\",\"sizes\":[]}}"} data-widget_type="spacer.default">
+                                    <div className="tdp-element tdp-element-71e2d13 tdp-widget__width-initial e-transform tdp-absolute tdp-widget tdp-widget-spacer" data-id="71e2d13" data-element_type="widget" data-e-type="widget" data-settings={"{\"_transform_skewX_effect\":{\"unit\":\"px\",\"size\":-20,\"sizes\":[]},\"_position\":\"absolute\",\"_transform_skewX_effect_tablet\":{\"unit\":\"deg\",\"size\":\"\",\"sizes\":[]},\"_transform_skewX_effect_mobile\":{\"unit\":\"deg\",\"size\":\"\",\"sizes\":[]},\"_transform_skewY_effect\":{\"unit\":\"px\",\"size\":\"\",\"sizes\":[]},\"_transform_skewY_effect_tablet\":{\"unit\":\"deg\",\"size\":\"\",\"sizes\":[]},\"_transform_skewY_effect_mobile\":{\"unit\":\"deg\",\"size\":\"\",\"sizes\":[]}}"} data-widget_type="spacer.default">
                                       {" "}
-                                      <div className="elementor-spacer">
+                                      <div className="tdp-spacer">
                                         {" "}
-                                        <div className="elementor-spacer-inner"></div>
+                                        <div className="tdp-spacer-inner"></div>
                                         {" "}
                                       </div>
                                       {" "}
@@ -597,27 +597,27 @@ export default function PagePbxMovil({ path }: { path: string }) {
                       {" "}
                     </div>
                     {" "}
-                    <section className="elementor-section elementor-inner-section elementor-element elementor-element-68cff98 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="68cff98" data-element_type="section" data-e-type="section" data-settings={"{\"background_background\":\"classic\"}"}>
+                    <section className="tdp-section tdp-inner-section tdp-element tdp-element-68cff98 tdp-section-boxed tdp-section-height-default tdp-section-height-default" data-id="68cff98" data-element_type="section" data-e-type="section" data-settings={"{\"background_background\":\"classic\"}"}>
                       {" "}
-                      <div className="elementor-container elementor-column-gap-no">
+                      <div className="tdp-container tdp-column-gap-no">
                         {" "}
-                        <div className="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-a4c362e" data-id="a4c362e" data-element_type="column" data-e-type="column">
+                        <div className="tdp-column tdp-col-100 tdp-inner-column tdp-element tdp-element-a4c362e" data-id="a4c362e" data-element_type="column" data-e-type="column">
                           {" "}
-                          <div className="elementor-widget-wrap elementor-element-populated">
+                          <div className="tdp-widget-wrap tdp-element-populated">
                             {" "}
-                            <div className="elementor-element elementor-element-43b7571 elementor-align-start elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="43b7571" data-element_type="widget" data-e-type="widget" data-widget_type="icon-list.default">
+                            <div className="tdp-element tdp-element-43b7571 tdp-align-start tdp-icon-list--layout-traditional tdp-list-item-link-full_width tdp-widget tdp-widget-icon-list" data-id="43b7571" data-element_type="widget" data-e-type="widget" data-widget_type="icon-list.default">
                               {" "}
-                              <ul className="elementor-icon-list-items">
+                              <ul className="tdp-icon-list-items">
                                 {" "}
-                                <li className="elementor-icon-list-item">
+                                <li className="tdp-icon-list-item">
                                   {" "}
-                                  <span className="elementor-icon-list-icon">
+                                  <span className="tdp-icon-list-icon">
                                     {" "}
                                     <i aria-hidden="true" className="vamtamtheme- vamtam-theme-brand-symbol"></i>
                                     {" "}
                                   </span>
                                   {" "}
-                                  <span className="elementor-icon-list-text">
+                                  <span className="tdp-icon-list-text">
                                     {"Características"}
                                   </span>
                                   {" "}
@@ -627,9 +627,9 @@ export default function PagePbxMovil({ path }: { path: string }) {
                               {" "}
                             </div>
                             {" "}
-                            <div className="elementor-element elementor-element-01d9dbc elementor-widget__width-initial elementor-widget elementor-widget-heading" data-id="01d9dbc" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+                            <div className="tdp-element tdp-element-01d9dbc tdp-widget__width-initial tdp-widget tdp-widget-heading" data-id="01d9dbc" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
                               {" "}
-                              <h2 className="elementor-heading-title elementor-size-default">
+                              <h2 className="tdp-heading-title tdp-size-default">
                                 {" Funcionalidades de nuestro PBX Móvil"}
                               </h2>
                               {" "}
@@ -643,37 +643,37 @@ export default function PagePbxMovil({ path }: { path: string }) {
                       {" "}
                     </section>
                     {" "}
-                    <section className="elementor-section elementor-inner-section elementor-element elementor-element-274c724 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="274c724" data-element_type="section" data-e-type="section" data-settings={"{\"background_background\":\"classic\"}"}>
+                    <section className="tdp-section tdp-inner-section tdp-element tdp-element-274c724 tdp-section-boxed tdp-section-height-default tdp-section-height-default" data-id="274c724" data-element_type="section" data-e-type="section" data-settings={"{\"background_background\":\"classic\"}"}>
                       {" "}
-                      <div className="elementor-container elementor-column-gap-no">
+                      <div className="tdp-container tdp-column-gap-no">
                         {" "}
-                        <div className="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-a5531d5" data-id="a5531d5" data-element_type="column" data-e-type="column" data-settings={"{\"background_background\":\"classic\"}"}>
+                        <div className="tdp-column tdp-col-25 tdp-inner-column tdp-element tdp-element-a5531d5" data-id="a5531d5" data-element_type="column" data-e-type="column" data-settings={"{\"background_background\":\"classic\"}"}>
                           {" "}
-                          <div className="elementor-widget-wrap elementor-element-populated">
+                          <div className="tdp-widget-wrap tdp-element-populated">
                             {" "}
-                            <div className="elementor-element elementor-element-5db04fb elementor-widget elementor-widget-menu-anchor" data-id="5db04fb" data-element_type="widget" data-e-type="widget" data-widget_type="menu-anchor.default">
+                            <div className="tdp-element tdp-element-5db04fb tdp-widget tdp-widget-menu-anchor" data-id="5db04fb" data-element_type="widget" data-e-type="widget" data-widget_type="menu-anchor.default">
                               {" "}
-                              <div className="elementor-menu-anchor" id="Investment"></div>
+                              <div className="tdp-menu-anchor" id="Investment"></div>
                               {" "}
                             </div>
                             {" "}
-                            <div className="elementor-element elementor-element-dbf517e elementor-widget elementor-widget-spacer" data-id="dbf517e" data-element_type="widget" data-e-type="widget" data-widget_type="spacer.default">
+                            <div className="tdp-element tdp-element-dbf517e tdp-widget tdp-widget-spacer" data-id="dbf517e" data-element_type="widget" data-e-type="widget" data-widget_type="spacer.default">
                               {" "}
-                              <div className="elementor-spacer">
+                              <div className="tdp-spacer">
                                 {" "}
-                                <div className="elementor-spacer-inner"></div>
+                                <div className="tdp-spacer-inner"></div>
                                 {" "}
                               </div>
                               {" "}
                             </div>
                             {" "}
-                            <div className="elementor-element elementor-element-dffd4b6 elementor-view-default elementor-position-block-start elementor-mobile-position-block-start elementor-widget elementor-widget-icon-box" data-id="dffd4b6" data-element_type="widget" data-e-type="widget" data-widget_type="icon-box.default">
+                            <div className="tdp-element tdp-element-dffd4b6 tdp-view-default tdp-position-block-start tdp-mobile-position-block-start tdp-widget tdp-widget-icon-box" data-id="dffd4b6" data-element_type="widget" data-e-type="widget" data-widget_type="icon-box.default">
                               {" "}
-                              <div className="elementor-icon-box-wrapper">
+                              <div className="tdp-icon-box-wrapper">
                                 {" "}
-                                <div className="elementor-icon-box-icon">
+                                <div className="tdp-icon-box-icon">
                                   {" "}
-                                  <span className="elementor-icon">
+                                  <span className="tdp-icon">
                                     {" "}
                                     <i aria-hidden="true" className="vamtamtheme- vamtam-theme-check"></i>
                                     {" "}
@@ -681,9 +681,9 @@ export default function PagePbxMovil({ path }: { path: string }) {
                                   {" "}
                                 </div>
                                 {" "}
-                                <div className="elementor-icon-box-content">
+                                <div className="tdp-icon-box-content">
                                   {" "}
-                                  <h3 className="elementor-icon-box-title">
+                                  <h3 className="tdp-icon-box-title">
                                     {" "}
                                     <span>
                                       {" Contacto Unificado para toda tu empresa "}
@@ -691,7 +691,7 @@ export default function PagePbxMovil({ path }: { path: string }) {
                                     {" "}
                                   </h3>
                                   {" "}
-                                  <p className="elementor-icon-box-description">
+                                  <p className="tdp-icon-box-description">
                                     {" Un solo número de contacto que recibe múltiples llamadas simultáneas. "}
                                   </p>
                                   {" "}
@@ -705,33 +705,33 @@ export default function PagePbxMovil({ path }: { path: string }) {
                           {" "}
                         </div>
                         {" "}
-                        <div className="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-f05ba63" data-id="f05ba63" data-element_type="column" data-e-type="column" data-settings={"{\"background_background\":\"classic\"}"}>
+                        <div className="tdp-column tdp-col-25 tdp-inner-column tdp-element tdp-element-f05ba63" data-id="f05ba63" data-element_type="column" data-e-type="column" data-settings={"{\"background_background\":\"classic\"}"}>
                           {" "}
-                          <div className="elementor-widget-wrap elementor-element-populated">
+                          <div className="tdp-widget-wrap tdp-element-populated">
                             {" "}
-                            <div className="elementor-element elementor-element-cc280bc elementor-widget elementor-widget-menu-anchor" data-id="cc280bc" data-element_type="widget" data-e-type="widget" data-widget_type="menu-anchor.default">
+                            <div className="tdp-element tdp-element-cc280bc tdp-widget tdp-widget-menu-anchor" data-id="cc280bc" data-element_type="widget" data-e-type="widget" data-widget_type="menu-anchor.default">
                               {" "}
-                              <div className="elementor-menu-anchor" id="Retirement"></div>
+                              <div className="tdp-menu-anchor" id="Retirement"></div>
                               {" "}
                             </div>
                             {" "}
-                            <div className="elementor-element elementor-element-c187799 elementor-widget elementor-widget-spacer" data-id="c187799" data-element_type="widget" data-e-type="widget" data-widget_type="spacer.default">
+                            <div className="tdp-element tdp-element-c187799 tdp-widget tdp-widget-spacer" data-id="c187799" data-element_type="widget" data-e-type="widget" data-widget_type="spacer.default">
                               {" "}
-                              <div className="elementor-spacer">
+                              <div className="tdp-spacer">
                                 {" "}
-                                <div className="elementor-spacer-inner"></div>
+                                <div className="tdp-spacer-inner"></div>
                                 {" "}
                               </div>
                               {" "}
                             </div>
                             {" "}
-                            <div className="elementor-element elementor-element-09e639a elementor-view-default elementor-position-block-start elementor-mobile-position-block-start elementor-widget elementor-widget-icon-box" data-id="09e639a" data-element_type="widget" data-e-type="widget" data-widget_type="icon-box.default">
+                            <div className="tdp-element tdp-element-09e639a tdp-view-default tdp-position-block-start tdp-mobile-position-block-start tdp-widget tdp-widget-icon-box" data-id="09e639a" data-element_type="widget" data-e-type="widget" data-widget_type="icon-box.default">
                               {" "}
-                              <div className="elementor-icon-box-wrapper">
+                              <div className="tdp-icon-box-wrapper">
                                 {" "}
-                                <div className="elementor-icon-box-icon">
+                                <div className="tdp-icon-box-icon">
                                   {" "}
-                                  <span className="elementor-icon">
+                                  <span className="tdp-icon">
                                     {" "}
                                     <i aria-hidden="true" className="vamtamtheme- vamtam-theme-started"></i>
                                     {" "}
@@ -739,9 +739,9 @@ export default function PagePbxMovil({ path }: { path: string }) {
                                   {" "}
                                 </div>
                                 {" "}
-                                <div className="elementor-icon-box-content">
+                                <div className="tdp-icon-box-content">
                                   {" "}
-                                  <h3 className="elementor-icon-box-title">
+                                  <h3 className="tdp-icon-box-title">
                                     {" "}
                                     <span>
                                       {" Identificación de Llamadas (CallerID) "}
@@ -749,7 +749,7 @@ export default function PagePbxMovil({ path }: { path: string }) {
                                     {" "}
                                   </h3>
                                   {" "}
-                                  <p className="elementor-icon-box-description">
+                                  <p className="tdp-icon-box-description">
                                     {" Protección contra SPAM y llamadas no deseadas. Tu número no será identificado como no deseado. "}
                                   </p>
                                   {" "}
@@ -763,33 +763,33 @@ export default function PagePbxMovil({ path }: { path: string }) {
                           {" "}
                         </div>
                         {" "}
-                        <div className="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-6f2492e" data-id="6f2492e" data-element_type="column" data-e-type="column" data-settings={"{\"background_background\":\"classic\"}"}>
+                        <div className="tdp-column tdp-col-25 tdp-inner-column tdp-element tdp-element-6f2492e" data-id="6f2492e" data-element_type="column" data-e-type="column" data-settings={"{\"background_background\":\"classic\"}"}>
                           {" "}
-                          <div className="elementor-widget-wrap elementor-element-populated">
+                          <div className="tdp-widget-wrap tdp-element-populated">
                             {" "}
-                            <div className="elementor-element elementor-element-21673e8 elementor-widget elementor-widget-menu-anchor" data-id="21673e8" data-element_type="widget" data-e-type="widget" data-widget_type="menu-anchor.default">
+                            <div className="tdp-element tdp-element-21673e8 tdp-widget tdp-widget-menu-anchor" data-id="21673e8" data-element_type="widget" data-e-type="widget" data-widget_type="menu-anchor.default">
                               {" "}
-                              <div className="elementor-menu-anchor" id="Education"></div>
+                              <div className="tdp-menu-anchor" id="Education"></div>
                               {" "}
                             </div>
                             {" "}
-                            <div className="elementor-element elementor-element-246ce6f elementor-widget elementor-widget-spacer" data-id="246ce6f" data-element_type="widget" data-e-type="widget" data-widget_type="spacer.default">
+                            <div className="tdp-element tdp-element-246ce6f tdp-widget tdp-widget-spacer" data-id="246ce6f" data-element_type="widget" data-e-type="widget" data-widget_type="spacer.default">
                               {" "}
-                              <div className="elementor-spacer">
+                              <div className="tdp-spacer">
                                 {" "}
-                                <div className="elementor-spacer-inner"></div>
+                                <div className="tdp-spacer-inner"></div>
                                 {" "}
                               </div>
                               {" "}
                             </div>
                             {" "}
-                            <div className="elementor-element elementor-element-dbd24a7 elementor-view-default elementor-position-block-start elementor-mobile-position-block-start elementor-widget elementor-widget-icon-box" data-id="dbd24a7" data-element_type="widget" data-e-type="widget" data-widget_type="icon-box.default">
+                            <div className="tdp-element tdp-element-dbd24a7 tdp-view-default tdp-position-block-start tdp-mobile-position-block-start tdp-widget tdp-widget-icon-box" data-id="dbd24a7" data-element_type="widget" data-e-type="widget" data-widget_type="icon-box.default">
                               {" "}
-                              <div className="elementor-icon-box-wrapper">
+                              <div className="tdp-icon-box-wrapper">
                                 {" "}
-                                <div className="elementor-icon-box-icon">
+                                <div className="tdp-icon-box-icon">
                                   {" "}
-                                  <span className="elementor-icon">
+                                  <span className="tdp-icon">
                                     {" "}
                                     <i aria-hidden="true" className="vamtamtheme- vamtam-theme-check"></i>
                                     {" "}
@@ -797,9 +797,9 @@ export default function PagePbxMovil({ path }: { path: string }) {
                                   {" "}
                                 </div>
                                 {" "}
-                                <div className="elementor-icon-box-content">
+                                <div className="tdp-icon-box-content">
                                   {" "}
-                                  <h3 className="elementor-icon-box-title">
+                                  <h3 className="tdp-icon-box-title">
                                     {" "}
                                     <span>
                                       {" Integración con Soluciones de WhatsApp "}
@@ -807,7 +807,7 @@ export default function PagePbxMovil({ path }: { path: string }) {
                                     {" "}
                                   </h3>
                                   {" "}
-                                  <p className="elementor-icon-box-description">
+                                  <p className="tdp-icon-box-description">
                                     {" Conéctate a herramientas como chatbots, WhatsApp tradicional y más, usando el mismo número, incluso con plataformas externas. "}
                                   </p>
                                   {" "}
@@ -821,33 +821,33 @@ export default function PagePbxMovil({ path }: { path: string }) {
                           {" "}
                         </div>
                         {" "}
-                        <div className="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-6cec510" data-id="6cec510" data-element_type="column" data-e-type="column" data-settings={"{\"background_background\":\"classic\"}"}>
+                        <div className="tdp-column tdp-col-25 tdp-inner-column tdp-element tdp-element-6cec510" data-id="6cec510" data-element_type="column" data-e-type="column" data-settings={"{\"background_background\":\"classic\"}"}>
                           {" "}
-                          <div className="elementor-widget-wrap elementor-element-populated">
+                          <div className="tdp-widget-wrap tdp-element-populated">
                             {" "}
-                            <div className="elementor-element elementor-element-5bc6457 elementor-widget elementor-widget-menu-anchor" data-id="5bc6457" data-element_type="widget" data-e-type="widget" data-widget_type="menu-anchor.default">
+                            <div className="tdp-element tdp-element-5bc6457 tdp-widget tdp-widget-menu-anchor" data-id="5bc6457" data-element_type="widget" data-e-type="widget" data-widget_type="menu-anchor.default">
                               {" "}
-                              <div className="elementor-menu-anchor" id="Education"></div>
+                              <div className="tdp-menu-anchor" id="Education"></div>
                               {" "}
                             </div>
                             {" "}
-                            <div className="elementor-element elementor-element-47c43ae elementor-widget elementor-widget-spacer" data-id="47c43ae" data-element_type="widget" data-e-type="widget" data-widget_type="spacer.default">
+                            <div className="tdp-element tdp-element-47c43ae tdp-widget tdp-widget-spacer" data-id="47c43ae" data-element_type="widget" data-e-type="widget" data-widget_type="spacer.default">
                               {" "}
-                              <div className="elementor-spacer">
+                              <div className="tdp-spacer">
                                 {" "}
-                                <div className="elementor-spacer-inner"></div>
+                                <div className="tdp-spacer-inner"></div>
                                 {" "}
                               </div>
                               {" "}
                             </div>
                             {" "}
-                            <div className="elementor-element elementor-element-87799f3 elementor-view-default elementor-position-block-start elementor-mobile-position-block-start elementor-widget elementor-widget-icon-box" data-id="87799f3" data-element_type="widget" data-e-type="widget" data-widget_type="icon-box.default">
+                            <div className="tdp-element tdp-element-87799f3 tdp-view-default tdp-position-block-start tdp-mobile-position-block-start tdp-widget tdp-widget-icon-box" data-id="87799f3" data-element_type="widget" data-e-type="widget" data-widget_type="icon-box.default">
                               {" "}
-                              <div className="elementor-icon-box-wrapper">
+                              <div className="tdp-icon-box-wrapper">
                                 {" "}
-                                <div className="elementor-icon-box-icon">
+                                <div className="tdp-icon-box-icon">
                                   {" "}
-                                  <span className="elementor-icon">
+                                  <span className="tdp-icon">
                                     {" "}
                                     <i aria-hidden="true" className="vamtamtheme- vamtam-theme-started"></i>
                                     {" "}
@@ -855,9 +855,9 @@ export default function PagePbxMovil({ path }: { path: string }) {
                                   {" "}
                                 </div>
                                 {" "}
-                                <div className="elementor-icon-box-content">
+                                <div className="tdp-icon-box-content">
                                   {" "}
-                                  <h3 className="elementor-icon-box-title">
+                                  <h3 className="tdp-icon-box-title">
                                     {" "}
                                     <span>
                                       {" Reportes en tiempo real de tus interacciones "}
@@ -865,7 +865,7 @@ export default function PagePbxMovil({ path }: { path: string }) {
                                     {" "}
                                   </h3>
                                   {" "}
-                                  <p className="elementor-icon-box-description">
+                                  <p className="tdp-icon-box-description">
                                     {" Centraliza reportes de tus interacciones en un solo tablero y en tiempo real. "}
                                   </p>
                                   {" "}
@@ -883,21 +883,21 @@ export default function PagePbxMovil({ path }: { path: string }) {
                       {" "}
                     </section>
                     {" "}
-                    <section className="elementor-section elementor-inner-section elementor-element elementor-element-5e8c508 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="5e8c508" data-element_type="section" data-e-type="section" data-settings={"{\"background_background\":\"classic\"}"}>
+                    <section className="tdp-section tdp-inner-section tdp-element tdp-element-5e8c508 tdp-section-boxed tdp-section-height-default tdp-section-height-default" data-id="5e8c508" data-element_type="section" data-e-type="section" data-settings={"{\"background_background\":\"classic\"}"}>
                       {" "}
-                      <div className="elementor-container elementor-column-gap-no">
+                      <div className="tdp-container tdp-column-gap-no">
                         {" "}
-                        <div className="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-a8e3ecf" data-id="a8e3ecf" data-element_type="column" data-e-type="column" data-settings={"{\"background_background\":\"classic\"}"}>
+                        <div className="tdp-column tdp-col-100 tdp-inner-column tdp-element tdp-element-a8e3ecf" data-id="a8e3ecf" data-element_type="column" data-e-type="column" data-settings={"{\"background_background\":\"classic\"}"}>
                           {" "}
-                          <div className="elementor-widget-wrap elementor-element-populated">
+                          <div className="tdp-widget-wrap tdp-element-populated">
                             {" "}
-                            <div className="elementor-element elementor-element-9f2b312 elementor-widget__width-auto elementor-align-center elementor-mobile-align-justify elementor-widget-mobile__width-inherit elementor-widget elementor-widget-button" data-id="9f2b312" data-element_type="widget" data-e-type="widget" data-widget_type="button.default">
+                            <div className="tdp-element tdp-element-9f2b312 tdp-widget__width-auto tdp-align-center tdp-mobile-align-justify tdp-widget-mobile__width-inherit tdp-widget tdp-widget-button" data-id="9f2b312" data-element_type="widget" data-e-type="widget" data-widget_type="button.default">
                               {" "}
-                              <a className="elementor-button elementor-size-sm" role="button">
+                              <a className="tdp-button tdp-size-sm" role="button">
                                 {" "}
-                                <span className="elementor-button-content-wrapper">
+                                <span className="tdp-button-content-wrapper">
                                   {" "}
-                                  <span className="elementor-button-icon">
+                                  <span className="tdp-button-icon">
                                     {" "}
                                     <svg aria-hidden="true" className="e-font-icon-svg e-fab-whatsapp" viewBox="0 0 448 512" xmlns="http://www.w3.org/2000/svg">
                                       <path d="M380.9 97.1C339 55.1 283.2 32 223.9 32c-122.4 0-222 99.6-222 222 0 39.1 10.2 77.3 29.6 111L0 480l117.7-30.9c32.4 17.7 68.9 27 106.1 27h.1c122.3 0 224.1-99.6 224.1-222 0-59.3-25.2-115-67.1-157zm-157 341.6c-33.2 0-65.7-8.9-94-25.7l-6.7-4-69.8 18.3L72 359.2l-4.4-7c-18.5-29.4-28.2-63.3-28.2-98.2 0-101.7 82.8-184.5 184.6-184.5 49.3 0 95.6 19.2 130.4 54.1 34.8 34.9 56.2 81.2 56.1 130.5 0 101.8-84.9 184.6-186.6 184.6zm101.2-138.2c-5.5-2.8-32.8-16.2-37.9-18-5.1-1.9-8.8-2.8-12.5 2.8-3.7 5.6-14.3 18-17.6 21.8-3.2 3.7-6.5 4.2-12 1.4-32.6-16.3-54-29.1-75.5-66-5.7-9.8 5.7-9.1 16.3-30.3 1.8-3.7.9-6.9-.5-9.7-1.4-2.8-12.5-30.1-17.1-41.2-4.5-10.8-9.1-9.3-12.5-9.5-3.2-.2-6.9-.2-10.6-.2-3.7 0-9.7 1.4-14.8 6.9-5.1 5.6-19.4 19-19.4 46.3 0 27.3 19.9 53.7 22.6 57.4 2.8 3.7 39.1 59.7 94.8 83.8 35.2 15.2 49 16.5 66.6 13.9 10.7-1.6 32.8-13.4 37.4-26.4 4.6-13 4.6-24.1 3.2-26.4-1.3-2.5-5-3.9-10.5-6.6z"></path>
@@ -905,7 +905,7 @@ export default function PagePbxMovil({ path }: { path: string }) {
                                     {" "}
                                   </span>
                                   {" "}
-                                  <span className="elementor-button-text">
+                                  <span className="tdp-button-text">
                                     {"Más Información"}
                                   </span>
                                   {" "}
@@ -931,27 +931,27 @@ export default function PagePbxMovil({ path }: { path: string }) {
               {" "}
             </section>
             {" "}
-            <section className="elementor-section elementor-top-section elementor-element elementor-element-f1f844e elementor-section-height-min-height elementor-section-items-stretch elementor-section-boxed elementor-section-height-default" data-id="f1f844e" data-element_type="section" data-e-type="section">
+            <section className="tdp-section tdp-top-section tdp-element tdp-element-f1f844e tdp-section-height-min-height tdp-section-items-stretch tdp-section-boxed tdp-section-height-default" data-id="f1f844e" data-element_type="section" data-e-type="section">
               {" "}
-              <div className="elementor-container elementor-column-gap-no">
+              <div className="tdp-container tdp-column-gap-no">
                 {" "}
-                <div className="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-0474611" data-id="0474611" data-element_type="column" data-e-type="column" data-settings={"{\"background_background\":\"classic\",\"background_motion_fx_motion_fx_scrolling\":\"yes\",\"background_motion_fx_translateY_effect\":\"yes\",\"background_motion_fx_translateY_speed\":{\"unit\":\"px\",\"size\":1,\"sizes\":[]},\"background_motion_fx_translateY_affectedRange\":{\"unit\":\"%\",\"size\":\"\",\"sizes\":{\"start\":0,\"end\":58}},\"background_motion_fx_devices\":[\"desktop\"]}"}>
+                <div className="tdp-column tdp-col-33 tdp-top-column tdp-element tdp-element-0474611" data-id="0474611" data-element_type="column" data-e-type="column" data-settings={"{\"background_background\":\"classic\",\"background_motion_fx_motion_fx_scrolling\":\"yes\",\"background_motion_fx_translateY_effect\":\"yes\",\"background_motion_fx_translateY_speed\":{\"unit\":\"px\",\"size\":1,\"sizes\":[]},\"background_motion_fx_translateY_affectedRange\":{\"unit\":\"%\",\"size\":\"\",\"sizes\":{\"start\":0,\"end\":58}},\"background_motion_fx_devices\":[\"desktop\"]}"}>
                   {" "}
-                  <div className="elementor-widget-wrap elementor-element-populated">
+                  <div className="tdp-widget-wrap tdp-element-populated">
                     {" "}
-                    <div className="elementor-element elementor-element-f89509a elementor-align-start elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="f89509a" data-element_type="widget" data-e-type="widget" data-widget_type="icon-list.default">
+                    <div className="tdp-element tdp-element-f89509a tdp-align-start tdp-icon-list--layout-traditional tdp-list-item-link-full_width tdp-widget tdp-widget-icon-list" data-id="f89509a" data-element_type="widget" data-e-type="widget" data-widget_type="icon-list.default">
                       {" "}
-                      <ul className="elementor-icon-list-items">
+                      <ul className="tdp-icon-list-items">
                         {" "}
-                        <li className="elementor-icon-list-item">
+                        <li className="tdp-icon-list-item">
                           {" "}
-                          <span className="elementor-icon-list-icon">
+                          <span className="tdp-icon-list-icon">
                             {" "}
                             <i aria-hidden="true" className="vamtamtheme- vamtam-theme-brand-symbol"></i>
                             {" "}
                           </span>
                           {" "}
-                          <span className="elementor-icon-list-text">
+                          <span className="tdp-icon-list-text">
                             {"En video"}
                           </span>
                           {" "}
@@ -961,15 +961,15 @@ export default function PagePbxMovil({ path }: { path: string }) {
                       {" "}
                     </div>
                     {" "}
-                    <div className="elementor-element elementor-element-128cf14 elementor-widget__width-initial elementor-widget elementor-widget-heading" data-id="128cf14" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+                    <div className="tdp-element tdp-element-128cf14 tdp-widget__width-initial tdp-widget tdp-widget-heading" data-id="128cf14" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
                       {" "}
-                      <h2 className="elementor-heading-title elementor-size-default">
+                      <h2 className="tdp-heading-title tdp-size-default">
                         {"Más sobre PBX Móvil"}
                       </h2>
                       {" "}
                     </div>
                     {" "}
-                    <div className="elementor-element elementor-element-d3d7e21 elementor-widget elementor-widget-text-editor" data-id="d3d7e21" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
+                    <div className="tdp-element tdp-element-d3d7e21 tdp-widget tdp-widget-text-editor" data-id="d3d7e21" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
                       {" "}
                       <p>
                         {"En el siguiente video te explicamos los beneficios de PBX MÓVIL para tu empresa."}
@@ -977,13 +977,13 @@ export default function PagePbxMovil({ path }: { path: string }) {
                       {" "}
                     </div>
                     {" "}
-                    <div className="elementor-element elementor-element-21a0bb8 elementor-widget__width-auto elementor-align-center elementor-mobile-align-justify elementor-widget-mobile__width-inherit elementor-widget elementor-widget-button" data-id="21a0bb8" data-element_type="widget" data-e-type="widget" data-widget_type="button.default">
+                    <div className="tdp-element tdp-element-21a0bb8 tdp-widget__width-auto tdp-align-center tdp-mobile-align-justify tdp-widget-mobile__width-inherit tdp-widget tdp-widget-button" data-id="21a0bb8" data-element_type="widget" data-e-type="widget" data-widget_type="button.default">
                       {" "}
-                      <a className="elementor-button elementor-size-sm" role="button">
+                      <a className="tdp-button tdp-size-sm" role="button">
                         {" "}
-                        <span className="elementor-button-content-wrapper">
+                        <span className="tdp-button-content-wrapper">
                           {" "}
-                          <span className="elementor-button-icon">
+                          <span className="tdp-button-icon">
                             {" "}
                             <svg aria-hidden="true" className="e-font-icon-svg e-fab-whatsapp" viewBox="0 0 448 512" xmlns="http://www.w3.org/2000/svg">
                               <path d="M380.9 97.1C339 55.1 283.2 32 223.9 32c-122.4 0-222 99.6-222 222 0 39.1 10.2 77.3 29.6 111L0 480l117.7-30.9c32.4 17.7 68.9 27 106.1 27h.1c122.3 0 224.1-99.6 224.1-222 0-59.3-25.2-115-67.1-157zm-157 341.6c-33.2 0-65.7-8.9-94-25.7l-6.7-4-69.8 18.3L72 359.2l-4.4-7c-18.5-29.4-28.2-63.3-28.2-98.2 0-101.7 82.8-184.5 184.6-184.5 49.3 0 95.6 19.2 130.4 54.1 34.8 34.9 56.2 81.2 56.1 130.5 0 101.8-84.9 184.6-186.6 184.6zm101.2-138.2c-5.5-2.8-32.8-16.2-37.9-18-5.1-1.9-8.8-2.8-12.5 2.8-3.7 5.6-14.3 18-17.6 21.8-3.2 3.7-6.5 4.2-12 1.4-32.6-16.3-54-29.1-75.5-66-5.7-9.8 5.7-9.1 16.3-30.3 1.8-3.7.9-6.9-.5-9.7-1.4-2.8-12.5-30.1-17.1-41.2-4.5-10.8-9.1-9.3-12.5-9.5-3.2-.2-6.9-.2-10.6-.2-3.7 0-9.7 1.4-14.8 6.9-5.1 5.6-19.4 19-19.4 46.3 0 27.3 19.9 53.7 22.6 57.4 2.8 3.7 39.1 59.7 94.8 83.8 35.2 15.2 49 16.5 66.6 13.9 10.7-1.6 32.8-13.4 37.4-26.4 4.6-13 4.6-24.1 3.2-26.4-1.3-2.5-5-3.9-10.5-6.6z"></path>
@@ -991,7 +991,7 @@ export default function PagePbxMovil({ path }: { path: string }) {
                             {" "}
                           </span>
                           {" "}
-                          <span className="elementor-button-text">
+                          <span className="tdp-button-text">
                             {"Más Información"}
                           </span>
                           {" "}
@@ -1005,19 +1005,19 @@ export default function PagePbxMovil({ path }: { path: string }) {
                   {" "}
                 </div>
                 {" "}
-                <div className="elementor-column elementor-col-66 elementor-top-column elementor-element elementor-element-a4be395" data-id="a4be395" data-element_type="column" data-e-type="column">
+                <div className="tdp-column tdp-col-66 tdp-top-column tdp-element tdp-element-a4be395" data-id="a4be395" data-element_type="column" data-e-type="column">
                   {" "}
-                  <div className="elementor-widget-wrap elementor-element-populated">
+                  <div className="tdp-widget-wrap tdp-element-populated">
                     {" "}
-                    <div className="elementor-element elementor-element-25e12a0 elementor-widget elementor-widget-video" data-id="25e12a0" data-element_type="widget" data-e-type="widget" data-settings={"{\"youtube_url\":\"https:\\/\\/www.youtube.com\\/watch?v=VK_BRb6uOGU\",\"show_image_overlay\":\"yes\",\"image_overlay\":{\"url\":\"\\/wp-content\\/uploads\\/2024\\/11\\/Screenshot_2.png\",\"id\":989330,\"size\":\"\",\"alt\":\"\",\"source\":\"library\"},\"video_type\":\"youtube\",\"controls\":\"yes\"}"} data-widget_type="video.default">
+                    <div className="tdp-element tdp-element-25e12a0 tdp-widget tdp-widget-video" data-id="25e12a0" data-element_type="widget" data-e-type="widget" data-settings={"{\"youtube_url\":\"https:\\/\\/www.youtube.com\\/watch?v=VK_BRb6uOGU\",\"show_image_overlay\":\"yes\",\"image_overlay\":{\"url\":\"\\/assets\\/uploads\\/2024\\/11\\/Screenshot_2.png\",\"id\":989330,\"size\":\"\",\"alt\":\"\",\"source\":\"library\"},\"video_type\":\"youtube\",\"controls\":\"yes\"}"} data-widget_type="video.default">
                       {" "}
-                      <div className="elementor-wrapper elementor-open-inline">
+                      <div className="tdp-wrapper tdp-open-inline">
                         {" "}
-                        <div className="elementor-video"></div>
+                        <div className="tdp-video"></div>
                         {" "}
-                        <div className="elementor-custom-embed-image-overlay" style={{"backgroundImage":"url(/wp-content/uploads/2024/11/Screenshot_2.png)"} as CSSProperties}>
+                        <div className="tdp-custom-embed-image-overlay" style={{"backgroundImage":"url(/assets/uploads/2024/11/Screenshot_2.png)"} as CSSProperties}>
                           {" "}
-                          <div className="elementor-custom-embed-play" role="button" aria-label="Reproducir vídeo" tabIndex={0}>
+                          <div className="tdp-custom-embed-play" role="button" aria-label="Reproducir vídeo" tabIndex={0}>
                             {" "}
                             <svg aria-hidden="true" className="e-font-icon-svg e-eicon-play" viewBox="0 0 1000 1000" xmlns="http://www.w3.org/2000/svg">
                               <path d="M838 162C746 71 633 25 500 25 371 25 258 71 163 162 71 254 25 367 25 500 25 633 71 746 163 837 254 929 367 979 500 979 633 979 746 933 838 837 929 746 975 633 975 500 975 367 929 254 838 162M808 192C892 279 933 379 933 500 933 621 892 725 808 808 725 892 621 938 500 938 379 938 279 896 196 808 113 725 67 621 67 500 67 379 108 279 196 192 279 108 383 62 500 62 621 62 721 108 808 192M438 392V642L642 517 438 392Z"></path>
@@ -1048,11 +1048,11 @@ export default function PagePbxMovil({ path }: { path: string }) {
       <Footer988867 path={path} />
       <Popup9913 path={path} />
       <Popup1670 path={path} />
-      <IdElementorPost10889Css path={path} />
+      <IdTdpPost10889Css path={path} />
       <IdEgeiroWhfab path={path} />
       <div className="pafe-break-point" data-pafe-break-point-md="767" data-pafe-break-point-lg="1024" data-pafe-ajax-url="/wp-admin/admin-ajax.php"></div>
-      <div data-pafe-form-builder-tinymce-upload="/wp-content/plugins/piotnet-addons-for-elementor-pro/inc/tinymce/tinymce-upload.php"></div>
-      <div data-pafe-plugin-url="/wp-content/plugins"></div>
+      <div data-pafe-form-builder-tinymce-upload="/assets/plugins/piotnet-addons-for-tdp-pro/inc/tinymce/tinymce-upload.php"></div>
+      <div data-pafe-plugin-url="/assets/plugins"></div>
     </>
   );
 }

@@ -4,7 +4,7 @@
 // y se reformularon las preguntas escritas como instrucción interna. La 167 (política interna
 // sobre promesas comerciales) no se publica.
 // `n`: número de la pregunta en el documento de CJ (solo referencia interna; en la página se
-// numera de 1 a N por página). `discrepancy`: nota de revisión; sus números son los de la página. Se muestra como etiqueta solo en preview, nunca en producción.
+// numera de 1 a N por página). `discrepancy`: nota interna de revisión; no se muestra en la web.
 
 export type FaqBlock = string | { ul: string[] } | { ol: string[] };
 export type FaqItem = { n: number; q: string; a: FaqBlock[]; discrepancy?: string };

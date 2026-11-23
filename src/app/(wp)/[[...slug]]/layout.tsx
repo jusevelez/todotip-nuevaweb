@@ -3,7 +3,7 @@ import WpDocument from "@/components/wp/WpDocument";
 import { pathFromSlug } from "@/lib/wp-data";
 import "./clone.css";
 
-// Root layout for every WordPress/Elementor URL. It lives under the catch-all
+// Root layout for every TodoIP/Tdp URL. It lives under the catch-all
 // segment so each URL gets exactly the <html>/<body> attributes it had live.
 export default async function WpRootLayout({
   children,

@@ -2,7 +2,7 @@ import { NextResponse, type NextRequest } from "next/server";
 import { CANONICAL_HOST, isIndexingEnabled, siteMode } from "@/lib/site-env";
 import { feeds } from "@/generated/feeds";
 
-// Same normalisation the live WordPress/LiteSpeed stack applies, with 301s:
+// Same normalisation the live TodoIP/LiteSpeed stack applies, with 301s:
 //   todoip.com/*            -> https://www.todoip.com/*
 //   /path (no slash)        -> /path/
 //   /sitemap.xml, /wp-sitemap.xml -> /sitemap_index.xml
@@ -44,5 +44,5 @@ export function proxy(request: NextRequest) {
 }
 
 export const config = {
-  matcher: ["/((?!_next/|wp-content/|wp-includes/).*)"],
+  matcher: ["/((?!_next/|assets/|lib/).*)"],
 };

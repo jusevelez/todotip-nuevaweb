@@ -5,21 +5,21 @@ import FooterLegalLinks from "@/components/wp/FooterLegalLinks";
 
 export default function Footer988867({ path }: { path: string }) {
   return (
-    <footer data-elementor-type="footer" data-elementor-id="988867" className="elementor elementor-988867 elementor-location-footer" data-elementor-post-type="elementor_library">
+    <footer data-tdp-type="footer" data-tdp-id="988867" className="tdp tdp-988867 tdp-location-footer" data-tdp-post-type="tdp_library">
       {" "}
-      <section className="elementor-section elementor-top-section elementor-element elementor-element-914085d elementor-section-height-min-height elementor-section-items-stretch elementor-section-content-middle elementor-section-full_width elementor-section-height-default" data-id="914085d" data-element_type="section" data-e-type="section">
+      <section className="tdp-section tdp-top-section tdp-element tdp-element-914085d tdp-section-height-min-height tdp-section-items-stretch tdp-section-content-middle tdp-section-full_width tdp-section-height-default" data-id="914085d" data-element_type="section" data-e-type="section">
         {" "}
-        <div className="elementor-container elementor-column-gap-no">
+        <div className="tdp-container tdp-column-gap-no">
           {" "}
-          <div className="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-e565c98 elementor-hidden-mobile" data-id="e565c98" data-element_type="column" data-e-type="column" data-settings={"{\"background_background\":\"classic\"}"}>
+          <div className="tdp-column tdp-col-33 tdp-top-column tdp-element tdp-element-e565c98 tdp-hidden-mobile" data-id="e565c98" data-element_type="column" data-e-type="column" data-settings={"{\"background_background\":\"classic\"}"}>
             {" "}
-            <div className="elementor-widget-wrap elementor-element-populated">
+            <div className="tdp-widget-wrap tdp-element-populated">
               {" "}
-              <div className="elementor-element elementor-element-8cc27bf elementor-absolute elementor-widget-mobile__width-auto elementor-view-default elementor-widget elementor-widget-icon" data-id="8cc27bf" data-element_type="widget" data-e-type="widget" data-settings={"{\"_position\":\"absolute\"}"} data-widget_type="icon.default">
+              <div className="tdp-element tdp-element-8cc27bf tdp-absolute tdp-widget-mobile__width-auto tdp-view-default tdp-widget tdp-widget-icon" data-id="8cc27bf" data-element_type="widget" data-e-type="widget" data-settings={"{\"_position\":\"absolute\"}"} data-widget_type="icon.default">
                 {" "}
-                <div className="elementor-icon-wrapper">
+                <div className="tdp-icon-wrapper">
                   {" "}
-                  <div className="elementor-icon">
+                  <div className="tdp-icon">
                     {" "}
                     <i aria-hidden="true" className="vamtamtheme- vamtam-theme-brand-symbol"></i>
                     {" "}
@@ -33,17 +33,17 @@ export default function Footer988867({ path }: { path: string }) {
             {" "}
           </div>
           {" "}
-          <div className="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-3f23aea" data-id="3f23aea" data-element_type="column" data-e-type="column" data-settings={"{\"background_background\":\"classic\"}"}>
+          <div className="tdp-column tdp-col-33 tdp-top-column tdp-element tdp-element-3f23aea" data-id="3f23aea" data-element_type="column" data-e-type="column" data-settings={"{\"background_background\":\"classic\"}"}>
             {" "}
-            <div className="elementor-widget-wrap elementor-element-populated">
+            <div className="tdp-widget-wrap tdp-element-populated">
               {" "}
-              <div className="elementor-element elementor-element-a1a0342 elementor-align-justify elementor-widget elementor-widget-button" data-id="a1a0342" data-element_type="widget" data-e-type="widget" data-widget_type="button.default">
+              <div className="tdp-element tdp-element-a1a0342 tdp-align-justify tdp-widget tdp-widget-button" data-id="a1a0342" data-element_type="widget" data-e-type="widget" data-widget_type="button.default">
                 {" "}
-                <a className="elementor-button elementor-button-link elementor-size-sm" href={"https://api.whatsapp.com/send?phone=573009122820&text=Hola%2C%20ingrese%20por%20el%20bot%C3%B3n%20WhatsApp%2C%20necesito%20m%C3%A1s%20informaci%C3%B3n"} target="_blank">
+                <a className="tdp-button tdp-button-link tdp-size-sm" href={"https://api.whatsapp.com/send?phone=573009122820&text=Hola%2C%20ingrese%20por%20el%20bot%C3%B3n%20WhatsApp%2C%20necesito%20m%C3%A1s%20informaci%C3%B3n"} target="_blank">
                   {" "}
-                  <span className="elementor-button-content-wrapper">
+                  <span className="tdp-button-content-wrapper">
                     {" "}
-                    <span className="elementor-button-icon">
+                    <span className="tdp-button-icon">
                       {" "}
                       <svg aria-hidden="true" className="e-font-icon-svg e-fab-whatsapp" viewBox="0 0 448 512" xmlns="http://www.w3.org/2000/svg">
                         <path d="M380.9 97.1C339 55.1 283.2 32 223.9 32c-122.4 0-222 99.6-222 222 0 39.1 10.2 77.3 29.6 111L0 480l117.7-30.9c32.4 17.7 68.9 27 106.1 27h.1c122.3 0 224.1-99.6 224.1-222 0-59.3-25.2-115-67.1-157zm-157 341.6c-33.2 0-65.7-8.9-94-25.7l-6.7-4-69.8 18.3L72 359.2l-4.4-7c-18.5-29.4-28.2-63.3-28.2-98.2 0-101.7 82.8-184.5 184.6-184.5 49.3 0 95.6 19.2 130.4 54.1 34.8 34.9 56.2 81.2 56.1 130.5 0 101.8-84.9 184.6-186.6 184.6zm101.2-138.2c-5.5-2.8-32.8-16.2-37.9-18-5.1-1.9-8.8-2.8-12.5 2.8-3.7 5.6-14.3 18-17.6 21.8-3.2 3.7-6.5 4.2-12 1.4-32.6-16.3-54-29.1-75.5-66-5.7-9.8 5.7-9.1 16.3-30.3 1.8-3.7.9-6.9-.5-9.7-1.4-2.8-12.5-30.1-17.1-41.2-4.5-10.8-9.1-9.3-12.5-9.5-3.2-.2-6.9-.2-10.6-.2-3.7 0-9.7 1.4-14.8 6.9-5.1 5.6-19.4 19-19.4 46.3 0 27.3 19.9 53.7 22.6 57.4 2.8 3.7 39.1 59.7 94.8 83.8 35.2 15.2 49 16.5 66.6 13.9 10.7-1.6 32.8-13.4 37.4-26.4 4.6-13 4.6-24.1 3.2-26.4-1.3-2.5-5-3.9-10.5-6.6z"></path>
@@ -51,7 +51,7 @@ export default function Footer988867({ path }: { path: string }) {
                       {" "}
                     </span>
                     {" "}
-                    <span className="elementor-button-text">
+                    <span className="tdp-button-text">
                       {"3009122820"}
                     </span>
                     {" "}
@@ -65,23 +65,23 @@ export default function Footer988867({ path }: { path: string }) {
             {" "}
           </div>
           {" "}
-          <div className="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-7bb73bc" data-id="7bb73bc" data-element_type="column" data-e-type="column" data-settings={"{\"background_background\":\"classic\"}"}>
+          <div className="tdp-column tdp-col-33 tdp-top-column tdp-element tdp-element-7bb73bc" data-id="7bb73bc" data-element_type="column" data-e-type="column" data-settings={"{\"background_background\":\"classic\"}"}>
             {" "}
-            <div className="elementor-widget-wrap elementor-element-populated">
+            <div className="tdp-widget-wrap tdp-element-populated">
               {" "}
-              <div className="elementor-element elementor-element-bbfa845 elementor-align-justify elementor-widget elementor-widget-button" data-id="bbfa845" data-element_type="widget" data-e-type="widget" data-widget_type="button.default">
+              <div className="tdp-element tdp-element-bbfa845 tdp-align-justify tdp-widget tdp-widget-button" data-id="bbfa845" data-element_type="widget" data-e-type="widget" data-widget_type="button.default">
                 {" "}
-                <a className="elementor-button elementor-button-link elementor-size-sm" href="https://calendar.app.google/q5xy95ZTZ9gkaQC56" target="_blank">
+                <a className="tdp-button tdp-button-link tdp-size-sm" href="https://calendar.app.google/q5xy95ZTZ9gkaQC56" target="_blank">
                   {" "}
-                  <span className="elementor-button-content-wrapper">
+                  <span className="tdp-button-content-wrapper">
                     {" "}
-                    <span className="elementor-button-icon">
+                    <span className="tdp-button-icon">
                       {" "}
                       <i aria-hidden="true" className="vamtamtheme- vamtam-theme-arrow-right"></i>
                       {" "}
                     </span>
                     {" "}
-                    <span className="elementor-button-text">
+                    <span className="tdp-button-text">
                       {"Agenda una cita con nuestros comerciales"}
                     </span>
                     {" "}
@@ -99,49 +99,49 @@ export default function Footer988867({ path }: { path: string }) {
         {" "}
       </section>
       {" "}
-      <div className="elementor-element elementor-element-d511cc4 e-flex e-con-boxed e-con e-parent" data-id="d511cc4" data-element_type="container" data-e-type="container" data-settings={"{\"background_background\":\"classic\"}"}>
+      <div className="tdp-element tdp-element-d511cc4 e-flex e-con-boxed e-con e-parent" data-id="d511cc4" data-element_type="container" data-e-type="container" data-settings={"{\"background_background\":\"classic\"}"}>
         {" "}
         <div className="e-con-inner">
           {" "}
-          <div className="elementor-element elementor-element-aaf0e65 e-con-full e-flex e-con e-child" data-id="aaf0e65" data-element_type="container" data-e-type="container">
+          <div className="tdp-element tdp-element-aaf0e65 e-con-full e-flex e-con e-child" data-id="aaf0e65" data-element_type="container" data-e-type="container">
             {" "}
-            <div className="elementor-element elementor-element-ba58ecf elementor-widget elementor-widget-image" data-id="ba58ecf" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
+            <div className="tdp-element tdp-element-ba58ecf tdp-widget tdp-widget-image" data-id="ba58ecf" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
               {" "}
-              <img width="256" height="104" src="/wp-content/uploads/2023/07/TODO-IP-PIEZA-LOGOTIPO-FINAL2019-negativo1.webp" className="attachment-full size-full wp-image-988017" alt="Logotipo de TodoIP en blanco" loading={pv(path, { "/agente-de-whatsapp-para-agencias-de-viajes-cotiza-rapido-y-no-pierdas-ventas-fuera-de-horario/": "lazy", "/de-la-ventanilla-al-celular-como-digitalizar-el-ingreso-de-pacientes-sin-cambiar-de-sistema/": "lazy", "/revolucionamos-la-comunicacion-omnicanal-lanzamiento-de-nuestras-nuevas-soluciones/": "lazy", "/platzi-conf-2023/": "lazy", "/se-vienen-las-redes-5g-esta-usted-preparado/": "lazy", "/asistente-virtual-para-clinicas-asi-se-ve-el-fin-de-las-cotizaciones-lentas-por-whatsapp/": "lazy", "/resolucion-256-como-cumplir-la-ley-sin-enloquecer-a-tu-equipo/": "lazy", "/un-robot-que-trabaja-por-su-empresa-las-24-horas-los-7-dias-de-la-semana/": "lazy", "/como-reducir-la-inasistencia-a-las-citas-medicas/": "lazy", "/ventajas-de-tener-un-pbx-movil/": "lazy", "/en-todoip-te-entregamos-leads-calificados-en-tiempo-record-aumenta-tus-ventas-con-nuestra-ayuda/": "lazy", "/guia-completa-sobre-chatbots-para-whatsapp-business/": "lazy", "/category/inteligencia-artificial/": "lazy", "/category/analysis/": "lazy", "/category/seguridad/": "lazy", "/author/admin/": "lazy" }, undefined)} />
+              <img width="256" height="104" src="/assets/uploads/2023/07/TODO-IP-PIEZA-LOGOTIPO-FINAL2019-negativo1.webp" className="attachment-full size-full img-988017" alt="Logotipo de TodoIP en blanco" loading={pv(path, { "/agente-de-whatsapp-para-agencias-de-viajes-cotiza-rapido-y-no-pierdas-ventas-fuera-de-horario/": "lazy", "/de-la-ventanilla-al-celular-como-digitalizar-el-ingreso-de-pacientes-sin-cambiar-de-sistema/": "lazy", "/revolucionamos-la-comunicacion-omnicanal-lanzamiento-de-nuestras-nuevas-soluciones/": "lazy", "/platzi-conf-2023/": "lazy", "/se-vienen-las-redes-5g-esta-usted-preparado/": "lazy", "/asistente-virtual-para-clinicas-asi-se-ve-el-fin-de-las-cotizaciones-lentas-por-whatsapp/": "lazy", "/resolucion-256-como-cumplir-la-ley-sin-enloquecer-a-tu-equipo/": "lazy", "/un-robot-que-trabaja-por-su-empresa-las-24-horas-los-7-dias-de-la-semana/": "lazy", "/como-reducir-la-inasistencia-a-las-citas-medicas/": "lazy", "/ventajas-de-tener-un-pbx-movil/": "lazy", "/en-todoip-te-entregamos-leads-calificados-en-tiempo-record-aumenta-tus-ventas-con-nuestra-ayuda/": "lazy", "/guia-completa-sobre-chatbots-para-whatsapp-business/": "lazy", "/category/inteligencia-artificial/": "lazy", "/category/analysis/": "lazy", "/category/seguridad/": "lazy", "/author/admin/": "lazy" }, undefined)} />
               {" "}
             </div>
             {" "}
           </div>
           {" "}
-          <div className="elementor-element elementor-element-e0f10f3 e-con-full e-flex e-con e-child" data-id="e0f10f3" data-element_type="container" data-e-type="container">
+          <div className="tdp-element tdp-element-e0f10f3 e-con-full e-flex e-con e-child" data-id="e0f10f3" data-element_type="container" data-e-type="container">
             {" "}
-            <div className="elementor-element elementor-element-8d9aa06 elementor-widget elementor-widget-heading" data-id="8d9aa06" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+            <div className="tdp-element tdp-element-8d9aa06 tdp-widget tdp-widget-heading" data-id="8d9aa06" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
               {" "}
-              <span className="elementor-heading-title elementor-size-default">
+              <span className="tdp-heading-title tdp-size-default">
                 {"Soluciones de Telefonía "}
               </span>
               {" "}
             </div>
             {" "}
-            <div className="elementor-element elementor-element-6bdd9aa elementor-nav-menu--dropdown-none elementor-widget elementor-widget-nav-menu" data-id="6bdd9aa" data-element_type="widget" data-e-type="widget" data-settings={"{\"layout\":\"vertical\",\"submenu_icon\":{\"value\":\"<svg aria-hidden=\\\"true\\\" class=\\\"e-font-icon-svg e-fas-caret-down\\\" viewBox=\\\"0 0 320 512\\\" xmlns=\\\"http:\\/\\/www.w3.org\\/2000\\/svg\\\"><path d=\\\"M31.3 192h257.3c17.8 0 26.7 21.5 14.1 34.1L174.1 354.8c-7.8 7.8-20.5 7.8-28.3 0L17.2 226.1C4.6 213.5 13.5 192 31.3 192z\\\"><\\/path><\\/svg>\",\"library\":\"fa-solid\"}}"} data-widget_type="nav-menu.default">
+            <div className="tdp-element tdp-element-6bdd9aa tdp-nav-menu--dropdown-none tdp-widget tdp-widget-nav-menu" data-id="6bdd9aa" data-element_type="widget" data-e-type="widget" data-settings={"{\"layout\":\"vertical\",\"submenu_icon\":{\"value\":\"<svg aria-hidden=\\\"true\\\" class=\\\"e-font-icon-svg e-fas-caret-down\\\" viewBox=\\\"0 0 320 512\\\" xmlns=\\\"http:\\/\\/www.w3.org\\/2000\\/svg\\\"><path d=\\\"M31.3 192h257.3c17.8 0 26.7 21.5 14.1 34.1L174.1 354.8c-7.8 7.8-20.5 7.8-28.3 0L17.2 226.1C4.6 213.5 13.5 192 31.3 192z\\\"><\\/path><\\/svg>\",\"library\":\"fa-solid\"}}"} data-widget_type="nav-menu.default">
               {" "}
-              <nav aria-label="Menu" className="elementor-nav-menu--main elementor-nav-menu__container elementor-nav-menu--layout-vertical e--pointer-underline e--animation-fade">
+              <nav aria-label="Menu" className="tdp-nav-menu--main tdp-nav-menu__container tdp-nav-menu--layout-vertical e--pointer-underline e--animation-fade">
                 {" "}
-                <ul id="menu-1-6bdd9aa" className="elementor-nav-menu sm-vertical">
+                <ul id="menu-1-6bdd9aa" className="tdp-nav-menu sm-vertical">
                   <li className={pv(path, { "/pbx-movil/": "menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-6953 current_page_item menu-item-989114" }, "menu-item menu-item-type-post_type menu-item-object-page menu-item-989114")}>
-                    <a href="/pbx-movil/" className={pv(path, { "/pbx-movil/": "elementor-item elementor-item-active" }, "elementor-item")} aria-current={pv(path, { "/pbx-movil/": "page" }, undefined)}>
+                    <a href="/pbx-movil/" className={pv(path, { "/pbx-movil/": "tdp-item tdp-item-active" }, "tdp-item")} aria-current={pv(path, { "/pbx-movil/": "page" }, undefined)}>
                       {"PBX Móvil"}
                     </a>
                   </li>
                   {" "}
                   <li className={pv(path, { "/agente-virtual-ivr/": "menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-988424 current_page_item menu-item-989115" }, "menu-item menu-item-type-post_type menu-item-object-page menu-item-989115")}>
-                    <a href="/agente-virtual-ivr/" className={pv(path, { "/agente-virtual-ivr/": "elementor-item elementor-item-active" }, "elementor-item")} aria-current={pv(path, { "/agente-virtual-ivr/": "page" }, undefined)}>
+                    <a href="/agente-virtual-ivr/" className={pv(path, { "/agente-virtual-ivr/": "tdp-item tdp-item-active" }, "tdp-item")} aria-current={pv(path, { "/agente-virtual-ivr/": "page" }, undefined)}>
                       {"Agente virtual (IVR Transaccional)"}
                     </a>
                   </li>
                   {" "}
                   <li className={pv(path, { "/telefoniaip/": "menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-988518 current_page_item menu-item-989116" }, "menu-item menu-item-type-post_type menu-item-object-page menu-item-989116")}>
-                    <a href="/telefoniaip/" className={pv(path, { "/telefoniaip/": "elementor-item elementor-item-active" }, "elementor-item")} aria-current={pv(path, { "/telefoniaip/": "page" }, undefined)}>
+                    <a href="/telefoniaip/" className={pv(path, { "/telefoniaip/": "tdp-item tdp-item-active" }, "tdp-item")} aria-current={pv(path, { "/telefoniaip/": "page" }, undefined)}>
                       {"Telefonía IP"}
                     </a>
                   </li>
@@ -150,23 +150,23 @@ export default function Footer988867({ path }: { path: string }) {
                 {" "}
               </nav>
               {" "}
-              <nav className="elementor-nav-menu--dropdown elementor-nav-menu__container" aria-hidden="true">
+              <nav className="tdp-nav-menu--dropdown tdp-nav-menu__container" aria-hidden="true">
                 {" "}
-                <ul id="menu-2-6bdd9aa" className="elementor-nav-menu sm-vertical">
+                <ul id="menu-2-6bdd9aa" className="tdp-nav-menu sm-vertical">
                   <li className={pv(path, { "/pbx-movil/": "menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-6953 current_page_item menu-item-989114" }, "menu-item menu-item-type-post_type menu-item-object-page menu-item-989114")}>
-                    <a href="/pbx-movil/" className={pv(path, { "/pbx-movil/": "elementor-item elementor-item-active" }, "elementor-item")} tabIndex={-1} aria-current={pv(path, { "/pbx-movil/": "page" }, undefined)}>
+                    <a href="/pbx-movil/" className={pv(path, { "/pbx-movil/": "tdp-item tdp-item-active" }, "tdp-item")} tabIndex={-1} aria-current={pv(path, { "/pbx-movil/": "page" }, undefined)}>
                       {"PBX Móvil"}
                     </a>
                   </li>
                   {" "}
                   <li className={pv(path, { "/agente-virtual-ivr/": "menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-988424 current_page_item menu-item-989115" }, "menu-item menu-item-type-post_type menu-item-object-page menu-item-989115")}>
-                    <a href="/agente-virtual-ivr/" className={pv(path, { "/agente-virtual-ivr/": "elementor-item elementor-item-active" }, "elementor-item")} tabIndex={-1} aria-current={pv(path, { "/agente-virtual-ivr/": "page" }, undefined)}>
+                    <a href="/agente-virtual-ivr/" className={pv(path, { "/agente-virtual-ivr/": "tdp-item tdp-item-active" }, "tdp-item")} tabIndex={-1} aria-current={pv(path, { "/agente-virtual-ivr/": "page" }, undefined)}>
                       {"Agente virtual (IVR Transaccional)"}
                     </a>
                   </li>
                   {" "}
                   <li className={pv(path, { "/telefoniaip/": "menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-988518 current_page_item menu-item-989116" }, "menu-item menu-item-type-post_type menu-item-object-page menu-item-989116")}>
-                    <a href="/telefoniaip/" className={pv(path, { "/telefoniaip/": "elementor-item elementor-item-active" }, "elementor-item")} tabIndex={-1} aria-current={pv(path, { "/telefoniaip/": "page" }, undefined)}>
+                    <a href="/telefoniaip/" className={pv(path, { "/telefoniaip/": "tdp-item tdp-item-active" }, "tdp-item")} tabIndex={-1} aria-current={pv(path, { "/telefoniaip/": "page" }, undefined)}>
                       {"Telefonía IP"}
                     </a>
                   </li>
@@ -179,35 +179,35 @@ export default function Footer988867({ path }: { path: string }) {
             {" "}
           </div>
           {" "}
-          <div className="elementor-element elementor-element-e97e82f e-con-full e-flex e-con e-child" data-id="e97e82f" data-element_type="container" data-e-type="container">
+          <div className="tdp-element tdp-element-e97e82f e-con-full e-flex e-con e-child" data-id="e97e82f" data-element_type="container" data-e-type="container">
             {" "}
-            <div className="elementor-element elementor-element-6b7f22a elementor-widget elementor-widget-heading" data-id="6b7f22a" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+            <div className="tdp-element tdp-element-6b7f22a tdp-widget tdp-widget-heading" data-id="6b7f22a" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
               {" "}
-              <span className="elementor-heading-title elementor-size-default">
+              <span className="tdp-heading-title tdp-size-default">
                 {"Soluciones de Inteligencia Artificial"}
               </span>
               {" "}
             </div>
             {" "}
-            <div className="elementor-element elementor-element-40f42f9 elementor-nav-menu--dropdown-none elementor-widget elementor-widget-nav-menu" data-id="40f42f9" data-element_type="widget" data-e-type="widget" data-settings={"{\"layout\":\"vertical\",\"submenu_icon\":{\"value\":\"<svg aria-hidden=\\\"true\\\" class=\\\"e-font-icon-svg e-fas-caret-down\\\" viewBox=\\\"0 0 320 512\\\" xmlns=\\\"http:\\/\\/www.w3.org\\/2000\\/svg\\\"><path d=\\\"M31.3 192h257.3c17.8 0 26.7 21.5 14.1 34.1L174.1 354.8c-7.8 7.8-20.5 7.8-28.3 0L17.2 226.1C4.6 213.5 13.5 192 31.3 192z\\\"><\\/path><\\/svg>\",\"library\":\"fa-solid\"}}"} data-widget_type="nav-menu.default">
+            <div className="tdp-element tdp-element-40f42f9 tdp-nav-menu--dropdown-none tdp-widget tdp-widget-nav-menu" data-id="40f42f9" data-element_type="widget" data-e-type="widget" data-settings={"{\"layout\":\"vertical\",\"submenu_icon\":{\"value\":\"<svg aria-hidden=\\\"true\\\" class=\\\"e-font-icon-svg e-fas-caret-down\\\" viewBox=\\\"0 0 320 512\\\" xmlns=\\\"http:\\/\\/www.w3.org\\/2000\\/svg\\\"><path d=\\\"M31.3 192h257.3c17.8 0 26.7 21.5 14.1 34.1L174.1 354.8c-7.8 7.8-20.5 7.8-28.3 0L17.2 226.1C4.6 213.5 13.5 192 31.3 192z\\\"><\\/path><\\/svg>\",\"library\":\"fa-solid\"}}"} data-widget_type="nav-menu.default">
               {" "}
-              <nav aria-label="Menu" className="elementor-nav-menu--main elementor-nav-menu__container elementor-nav-menu--layout-vertical e--pointer-underline e--animation-fade">
+              <nav aria-label="Menu" className="tdp-nav-menu--main tdp-nav-menu__container tdp-nav-menu--layout-vertical e--pointer-underline e--animation-fade">
                 {" "}
-                <ul id="menu-1-40f42f9" className="elementor-nav-menu sm-vertical">
+                <ul id="menu-1-40f42f9" className="tdp-nav-menu sm-vertical">
                   <li className={pv(path, { "/chatbots-con-ia-whatsapp/": "menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-991054 current_page_item menu-item-991735" }, "menu-item menu-item-type-post_type menu-item-object-page menu-item-991735")}>
-                    <a href="/chatbots-con-ia-whatsapp/" className={pv(path, { "/chatbots-con-ia-whatsapp/": "elementor-item elementor-item-active" }, "elementor-item")} aria-current={pv(path, { "/chatbots-con-ia-whatsapp/": "page" }, undefined)}>
+                    <a href="/chatbots-con-ia-whatsapp/" className={pv(path, { "/chatbots-con-ia-whatsapp/": "tdp-item tdp-item-active" }, "tdp-item")} aria-current={pv(path, { "/chatbots-con-ia-whatsapp/": "page" }, undefined)}>
                       {"Chatbots con IA & WhatsApp"}
                     </a>
                   </li>
                   {" "}
                   <li className={pv(path, { "/agente-de-voz-con-ia-voicebot/": "menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-991058 current_page_item menu-item-991733" }, "menu-item menu-item-type-post_type menu-item-object-page menu-item-991733")}>
-                    <a href="/agente-de-voz-con-ia-voicebot/" className={pv(path, { "/agente-de-voz-con-ia-voicebot/": "elementor-item elementor-item-active" }, "elementor-item")} aria-current={pv(path, { "/agente-de-voz-con-ia-voicebot/": "page" }, undefined)}>
+                    <a href="/agente-de-voz-con-ia-voicebot/" className={pv(path, { "/agente-de-voz-con-ia-voicebot/": "tdp-item tdp-item-active" }, "tdp-item")} aria-current={pv(path, { "/agente-de-voz-con-ia-voicebot/": "page" }, undefined)}>
                       {"Agente de Voz con IA (Voicebot)"}
                     </a>
                   </li>
                   {" "}
                   <li className={pv(path, { "/lectura-inteligente-de-documentos/": "menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-991056 current_page_item menu-item-991734" }, "menu-item menu-item-type-post_type menu-item-object-page menu-item-991734")}>
-                    <a href="/lectura-inteligente-de-documentos/" className={pv(path, { "/lectura-inteligente-de-documentos/": "elementor-item elementor-item-active" }, "elementor-item")} aria-current={pv(path, { "/lectura-inteligente-de-documentos/": "page" }, undefined)}>
+                    <a href="/lectura-inteligente-de-documentos/" className={pv(path, { "/lectura-inteligente-de-documentos/": "tdp-item tdp-item-active" }, "tdp-item")} aria-current={pv(path, { "/lectura-inteligente-de-documentos/": "page" }, undefined)}>
                       {"Lectura Inteligente de Documentos"}
                     </a>
                   </li>
@@ -216,23 +216,23 @@ export default function Footer988867({ path }: { path: string }) {
                 {" "}
               </nav>
               {" "}
-              <nav className="elementor-nav-menu--dropdown elementor-nav-menu__container" aria-hidden="true">
+              <nav className="tdp-nav-menu--dropdown tdp-nav-menu__container" aria-hidden="true">
                 {" "}
-                <ul id="menu-2-40f42f9" className="elementor-nav-menu sm-vertical">
+                <ul id="menu-2-40f42f9" className="tdp-nav-menu sm-vertical">
                   <li className={pv(path, { "/chatbots-con-ia-whatsapp/": "menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-991054 current_page_item menu-item-991735" }, "menu-item menu-item-type-post_type menu-item-object-page menu-item-991735")}>
-                    <a href="/chatbots-con-ia-whatsapp/" className={pv(path, { "/chatbots-con-ia-whatsapp/": "elementor-item elementor-item-active" }, "elementor-item")} tabIndex={-1} aria-current={pv(path, { "/chatbots-con-ia-whatsapp/": "page" }, undefined)}>
+                    <a href="/chatbots-con-ia-whatsapp/" className={pv(path, { "/chatbots-con-ia-whatsapp/": "tdp-item tdp-item-active" }, "tdp-item")} tabIndex={-1} aria-current={pv(path, { "/chatbots-con-ia-whatsapp/": "page" }, undefined)}>
                       {"Chatbots con IA & WhatsApp"}
                     </a>
                   </li>
                   {" "}
                   <li className={pv(path, { "/agente-de-voz-con-ia-voicebot/": "menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-991058 current_page_item menu-item-991733" }, "menu-item menu-item-type-post_type menu-item-object-page menu-item-991733")}>
-                    <a href="/agente-de-voz-con-ia-voicebot/" className={pv(path, { "/agente-de-voz-con-ia-voicebot/": "elementor-item elementor-item-active" }, "elementor-item")} tabIndex={-1} aria-current={pv(path, { "/agente-de-voz-con-ia-voicebot/": "page" }, undefined)}>
+                    <a href="/agente-de-voz-con-ia-voicebot/" className={pv(path, { "/agente-de-voz-con-ia-voicebot/": "tdp-item tdp-item-active" }, "tdp-item")} tabIndex={-1} aria-current={pv(path, { "/agente-de-voz-con-ia-voicebot/": "page" }, undefined)}>
                       {"Agente de Voz con IA (Voicebot)"}
                     </a>
                   </li>
                   {" "}
                   <li className={pv(path, { "/lectura-inteligente-de-documentos/": "menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-991056 current_page_item menu-item-991734" }, "menu-item menu-item-type-post_type menu-item-object-page menu-item-991734")}>
-                    <a href="/lectura-inteligente-de-documentos/" className={pv(path, { "/lectura-inteligente-de-documentos/": "elementor-item elementor-item-active" }, "elementor-item")} tabIndex={-1} aria-current={pv(path, { "/lectura-inteligente-de-documentos/": "page" }, undefined)}>
+                    <a href="/lectura-inteligente-de-documentos/" className={pv(path, { "/lectura-inteligente-de-documentos/": "tdp-item tdp-item-active" }, "tdp-item")} tabIndex={-1} aria-current={pv(path, { "/lectura-inteligente-de-documentos/": "page" }, undefined)}>
                       {"Lectura Inteligente de Documentos"}
                     </a>
                   </li>
@@ -243,25 +243,25 @@ export default function Footer988867({ path }: { path: string }) {
               {" "}
             </div>
             {" "}
-            <div className="elementor-element elementor-element-677780c elementor-nav-menu--dropdown-none elementor-widget elementor-widget-nav-menu" data-id="677780c" data-element_type="widget" data-e-type="widget" data-settings={"{\"layout\":\"vertical\",\"submenu_icon\":{\"value\":\"<svg aria-hidden=\\\"true\\\" class=\\\"e-font-icon-svg e-fas-caret-down\\\" viewBox=\\\"0 0 320 512\\\" xmlns=\\\"http:\\/\\/www.w3.org\\/2000\\/svg\\\"><path d=\\\"M31.3 192h257.3c17.8 0 26.7 21.5 14.1 34.1L174.1 354.8c-7.8 7.8-20.5 7.8-28.3 0L17.2 226.1C4.6 213.5 13.5 192 31.3 192z\\\"><\\/path><\\/svg>\",\"library\":\"fa-solid\"}}"} data-widget_type="nav-menu.default">
+            <div className="tdp-element tdp-element-677780c tdp-nav-menu--dropdown-none tdp-widget tdp-widget-nav-menu" data-id="677780c" data-element_type="widget" data-e-type="widget" data-settings={"{\"layout\":\"vertical\",\"submenu_icon\":{\"value\":\"<svg aria-hidden=\\\"true\\\" class=\\\"e-font-icon-svg e-fas-caret-down\\\" viewBox=\\\"0 0 320 512\\\" xmlns=\\\"http:\\/\\/www.w3.org\\/2000\\/svg\\\"><path d=\\\"M31.3 192h257.3c17.8 0 26.7 21.5 14.1 34.1L174.1 354.8c-7.8 7.8-20.5 7.8-28.3 0L17.2 226.1C4.6 213.5 13.5 192 31.3 192z\\\"><\\/path><\\/svg>\",\"library\":\"fa-solid\"}}"} data-widget_type="nav-menu.default">
               {" "}
-              <nav aria-label="Menu" className="elementor-nav-menu--main elementor-nav-menu__container elementor-nav-menu--layout-vertical e--pointer-underline e--animation-fade">
+              <nav aria-label="Menu" className="tdp-nav-menu--main tdp-nav-menu__container tdp-nav-menu--layout-vertical e--pointer-underline e--animation-fade">
                 {" "}
-                <ul id="menu-1-677780c" className="elementor-nav-menu sm-vertical">
+                <ul id="menu-1-677780c" className="tdp-nav-menu sm-vertical">
                   <li className="menu-item menu-item-type-post_type menu-item-object-page menu-item-989121">
-                    <a href="/salud/" className="elementor-item">
+                    <a href="/salud/" className="tdp-item">
                       {"Soluciones para el Sector Salud"}
                     </a>
                   </li>
                   {" "}
                   <li className={pv(path, { "/chatbots/": "menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-988681 current_page_item menu-item-989120" }, "menu-item menu-item-type-post_type menu-item-object-page menu-item-989120")}>
-                    <a href="/chatbots/" className={pv(path, { "/chatbots/": "elementor-item elementor-item-active" }, "elementor-item")} aria-current={pv(path, { "/chatbots/": "page" }, undefined)}>
+                    <a href="/chatbots/" className={pv(path, { "/chatbots/": "tdp-item tdp-item-active" }, "tdp-item")} aria-current={pv(path, { "/chatbots/": "page" }, undefined)}>
                       {"Chatbots"}
                     </a>
                   </li>
                   {" "}
                   <li className={pv(path, { "/calificador-leads/": "menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-988734 current_page_item menu-item-989119" }, "menu-item menu-item-type-post_type menu-item-object-page menu-item-989119")}>
-                    <a href="/calificador-leads/" className={pv(path, { "/calificador-leads/": "elementor-item elementor-item-active" }, "elementor-item")} aria-current={pv(path, { "/calificador-leads/": "page" }, undefined)}>
+                    <a href="/calificador-leads/" className={pv(path, { "/calificador-leads/": "tdp-item tdp-item-active" }, "tdp-item")} aria-current={pv(path, { "/calificador-leads/": "page" }, undefined)}>
                       {"Calificador de Leads"}
                     </a>
                   </li>
@@ -270,23 +270,23 @@ export default function Footer988867({ path }: { path: string }) {
                 {" "}
               </nav>
               {" "}
-              <nav className="elementor-nav-menu--dropdown elementor-nav-menu__container" aria-hidden="true">
+              <nav className="tdp-nav-menu--dropdown tdp-nav-menu__container" aria-hidden="true">
                 {" "}
-                <ul id="menu-2-677780c" className="elementor-nav-menu sm-vertical">
+                <ul id="menu-2-677780c" className="tdp-nav-menu sm-vertical">
                   <li className="menu-item menu-item-type-post_type menu-item-object-page menu-item-989121">
-                    <a href="/salud/" className="elementor-item" tabIndex={-1}>
+                    <a href="/salud/" className="tdp-item" tabIndex={-1}>
                       {"Soluciones para el Sector Salud"}
                     </a>
                   </li>
                   {" "}
                   <li className={pv(path, { "/chatbots/": "menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-988681 current_page_item menu-item-989120" }, "menu-item menu-item-type-post_type menu-item-object-page menu-item-989120")}>
-                    <a href="/chatbots/" className={pv(path, { "/chatbots/": "elementor-item elementor-item-active" }, "elementor-item")} tabIndex={-1} aria-current={pv(path, { "/chatbots/": "page" }, undefined)}>
+                    <a href="/chatbots/" className={pv(path, { "/chatbots/": "tdp-item tdp-item-active" }, "tdp-item")} tabIndex={-1} aria-current={pv(path, { "/chatbots/": "page" }, undefined)}>
                       {"Chatbots"}
                     </a>
                   </li>
                   {" "}
                   <li className={pv(path, { "/calificador-leads/": "menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-988734 current_page_item menu-item-989119" }, "menu-item menu-item-type-post_type menu-item-object-page menu-item-989119")}>
-                    <a href="/calificador-leads/" className={pv(path, { "/calificador-leads/": "elementor-item elementor-item-active" }, "elementor-item")} tabIndex={-1} aria-current={pv(path, { "/calificador-leads/": "page" }, undefined)}>
+                    <a href="/calificador-leads/" className={pv(path, { "/calificador-leads/": "tdp-item tdp-item-active" }, "tdp-item")} tabIndex={-1} aria-current={pv(path, { "/calificador-leads/": "page" }, undefined)}>
                       {"Calificador de Leads"}
                     </a>
                   </li>
@@ -299,23 +299,23 @@ export default function Footer988867({ path }: { path: string }) {
             {" "}
           </div>
           {" "}
-          <div className="elementor-element elementor-element-23ff5da e-con-full e-flex e-con e-child" data-id="23ff5da" data-element_type="container" data-e-type="container">
+          <div className="tdp-element tdp-element-23ff5da e-con-full e-flex e-con e-child" data-id="23ff5da" data-element_type="container" data-e-type="container">
             {" "}
-            <div className="elementor-element elementor-element-8878920 elementor-widget elementor-widget-heading" data-id="8878920" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+            <div className="tdp-element tdp-element-8878920 tdp-widget tdp-widget-heading" data-id="8878920" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
               {" "}
-              <span className="elementor-heading-title elementor-size-default">
+              <span className="tdp-heading-title tdp-size-default">
                 {"Contacto"}
               </span>
               {" "}
             </div>
             {" "}
-            <div className="elementor-element elementor-element-46d6a87 elementor-widget elementor-widget-button" data-id="46d6a87" data-element_type="widget" data-e-type="widget" data-widget_type="button.default">
+            <div className="tdp-element tdp-element-46d6a87 tdp-widget tdp-widget-button" data-id="46d6a87" data-element_type="widget" data-e-type="widget" data-widget_type="button.default">
               {" "}
-              <a className="elementor-button elementor-button-link elementor-size-sm" href={"https://api.whatsapp.com/send?phone=573009122820&text=Hola%2C%20ingrese%20por%20contacto%20WhatsApp%2C%20necesito%20m%C3%A1s%20informaci%C3%B3n"} target="_blank">
+              <a className="tdp-button tdp-button-link tdp-size-sm" href={"https://api.whatsapp.com/send?phone=573009122820&text=Hola%2C%20ingrese%20por%20contacto%20WhatsApp%2C%20necesito%20m%C3%A1s%20informaci%C3%B3n"} target="_blank">
                 {" "}
-                <span className="elementor-button-content-wrapper">
+                <span className="tdp-button-content-wrapper">
                   {" "}
-                  <span className="elementor-button-text">
+                  <span className="tdp-button-text">
                     <b>
                       {"WhatsApp: "}
                     </b>
@@ -328,13 +328,13 @@ export default function Footer988867({ path }: { path: string }) {
               {" "}
             </div>
             {" "}
-            <div className="elementor-element elementor-element-8dc1495 elementor-widget elementor-widget-button" data-id="8dc1495" data-element_type="widget" data-e-type="widget" data-widget_type="button.default">
+            <div className="tdp-element tdp-element-8dc1495 tdp-widget tdp-widget-button" data-id="8dc1495" data-element_type="widget" data-e-type="widget" data-widget_type="button.default">
               {" "}
-              <a className="elementor-button elementor-button-link elementor-size-sm" href="tel:6025244008">
+              <a className="tdp-button tdp-button-link tdp-size-sm" href="tel:6025244008">
                 {" "}
-                <span className="elementor-button-content-wrapper">
+                <span className="tdp-button-content-wrapper">
                   {" "}
-                  <span className="elementor-button-text">
+                  <span className="tdp-button-text">
                     <b>
                       {"Línea Local:"}
                     </b>
@@ -347,13 +347,13 @@ export default function Footer988867({ path }: { path: string }) {
               {" "}
             </div>
             {" "}
-            <div className="elementor-element elementor-element-8a10d58 elementor-align-justify elementor-widget elementor-widget-button" data-id="8a10d58" data-element_type="widget" data-e-type="widget" data-widget_type="button.default">
+            <div className="tdp-element tdp-element-8a10d58 tdp-align-justify tdp-widget tdp-widget-button" data-id="8a10d58" data-element_type="widget" data-e-type="widget" data-widget_type="button.default">
               {" "}
-              <a className="elementor-button elementor-button-link elementor-size-sm" href="mailto:info@todoip.com" target="_blank" rel="nofollow">
+              <a className="tdp-button tdp-button-link tdp-size-sm" href="mailto:info@todoip.com" target="_blank" rel="nofollow">
                 {" "}
-                <span className="elementor-button-content-wrapper">
+                <span className="tdp-button-content-wrapper">
                   {" "}
-                  <span className="elementor-button-text">
+                  <span className="tdp-button-text">
                     {"info@todoip.com"}
                   </span>
                   {" "}
@@ -363,13 +363,13 @@ export default function Footer988867({ path }: { path: string }) {
               {" "}
             </div>
             {" "}
-            <div className="elementor-element elementor-element-b2b9013 elementor-widget elementor-widget-button" data-id="b2b9013" data-element_type="widget" data-e-type="widget" data-widget_type="button.default">
+            <div className="tdp-element tdp-element-b2b9013 tdp-widget tdp-widget-button" data-id="b2b9013" data-element_type="widget" data-e-type="widget" data-widget_type="button.default">
               {" "}
-              <a className="elementor-button elementor-button-link elementor-size-sm" href="/referidos/">
+              <a className="tdp-button tdp-button-link tdp-size-sm" href="/referidos/">
                 {" "}
-                <span className="elementor-button-content-wrapper">
+                <span className="tdp-button-content-wrapper">
                   {" "}
-                  <span className="elementor-button-text">
+                  <span className="tdp-button-text">
                     {"Conoce nuestro "}
                     <b>
                       {"Plan de Referidos"}
@@ -382,15 +382,15 @@ export default function Footer988867({ path }: { path: string }) {
               {" "}
             </div>
             {" "}
-            <div className="elementor-element elementor-element-6948e85 elementor-shape-circle e-grid-align-left e-grid-align-mobile-center elementor-grid-0 elementor-widget elementor-widget-social-icons" data-id="6948e85" data-element_type="widget" data-e-type="widget" data-widget_type="social-icons.default">
+            <div className="tdp-element tdp-element-6948e85 tdp-shape-circle e-grid-align-left e-grid-align-mobile-center tdp-grid-0 tdp-widget tdp-widget-social-icons" data-id="6948e85" data-element_type="widget" data-e-type="widget" data-widget_type="social-icons.default">
               {" "}
-              <div className="elementor-social-icons-wrapper elementor-grid" role="list">
+              <div className="tdp-social-icons-wrapper tdp-grid" role="list">
                 {" "}
-                <span className="elementor-grid-item" role="listitem">
+                <span className="tdp-grid-item" role="listitem">
                   {" "}
-                  <a className="elementor-icon elementor-social-icon elementor-social-icon-linkedin elementor-repeater-item-e2ae87b" href="https://www.linkedin.com/company/todo-ip/" target="_blank">
+                  <a className="tdp-icon tdp-social-icon tdp-social-icon-linkedin tdp-repeater-item-e2ae87b" href="https://www.linkedin.com/company/todo-ip/" target="_blank">
                     {" "}
-                    <span className="elementor-screen-only">
+                    <span className="tdp-screen-only">
                       {"Linkedin"}
                     </span>
                     {" "}
@@ -402,11 +402,11 @@ export default function Footer988867({ path }: { path: string }) {
                   {" "}
                 </span>
                 {" "}
-                <span className="elementor-grid-item" role="listitem">
+                <span className="tdp-grid-item" role="listitem">
                   {" "}
-                  <a className="elementor-icon elementor-social-icon elementor-social-icon-facebook elementor-repeater-item-346e47a" href="https://www.facebook.com/todoip" target="_blank">
+                  <a className="tdp-icon tdp-social-icon tdp-social-icon-facebook tdp-repeater-item-346e47a" href="https://www.facebook.com/todoip" target="_blank">
                     {" "}
-                    <span className="elementor-screen-only">
+                    <span className="tdp-screen-only">
                       {"Facebook"}
                     </span>
                     {" "}
@@ -418,11 +418,11 @@ export default function Footer988867({ path }: { path: string }) {
                   {" "}
                 </span>
                 {" "}
-                <span className="elementor-grid-item" role="listitem">
+                <span className="tdp-grid-item" role="listitem">
                   {" "}
-                  <a className="elementor-icon elementor-social-icon elementor-social-icon-instagram elementor-repeater-item-e732ed0" href="https://www.instagram.com/todo_ip/" target="_blank">
+                  <a className="tdp-icon tdp-social-icon tdp-social-icon-instagram tdp-repeater-item-e732ed0" href="https://www.instagram.com/todo_ip/" target="_blank">
                     {" "}
-                    <span className="elementor-screen-only">
+                    <span className="tdp-screen-only">
                       {"Instagram"}
                     </span>
                     {" "}
@@ -434,11 +434,11 @@ export default function Footer988867({ path }: { path: string }) {
                   {" "}
                 </span>
                 {" "}
-                <span className="elementor-grid-item" role="listitem">
+                <span className="tdp-grid-item" role="listitem">
                   {" "}
-                  <a className="elementor-icon elementor-social-icon elementor-social-icon-youtube elementor-repeater-item-36bc0cd" href="https://www.youtube.com/@TodoIP" target="_blank">
+                  <a className="tdp-icon tdp-social-icon tdp-social-icon-youtube tdp-repeater-item-36bc0cd" href="https://www.youtube.com/@TodoIP" target="_blank">
                     {" "}
-                    <span className="elementor-screen-only">
+                    <span className="tdp-screen-only">
                       {"Youtube"}
                     </span>
                     {" "}

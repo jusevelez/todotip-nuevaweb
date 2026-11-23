@@ -1,7 +1,7 @@
 "use client";
 
 import { useEffect } from "react";
-import { installFormGuard } from "@/components/elementor/forms";
+import { installFormGuard } from "@/components/tdp/forms";
 
 // Port of the inline script shipped with the static landings (WhatsApp widget:
 // toggle panel, close on outside click, hide while the footer is visible).

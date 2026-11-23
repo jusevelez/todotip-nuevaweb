@@ -19,17 +19,17 @@ export default function PageAvisoDePrivacidad({ path }: { path: string }) {
         {" "}
         <div className="page-content">
           {" "}
-          <div data-elementor-type="wp-page" data-elementor-id="990284" className="elementor elementor-990284" data-elementor-post-type="page">
+          <div data-tdp-type="page" data-tdp-id="990284" className="tdp tdp-990284" data-tdp-post-type="page">
             {" "}
-            <section className="elementor-section elementor-top-section elementor-element elementor-element-3e3133dd elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="3e3133dd" data-element_type="section" data-e-type="section">
+            <section className="tdp-section tdp-top-section tdp-element tdp-element-3e3133dd tdp-section-boxed tdp-section-height-default tdp-section-height-default" data-id="3e3133dd" data-element_type="section" data-e-type="section">
               {" "}
-              <div className="elementor-container elementor-column-gap-default">
+              <div className="tdp-container tdp-column-gap-default">
                 {" "}
-                <div className="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-434cffe5" data-id="434cffe5" data-element_type="column" data-e-type="column">
+                <div className="tdp-column tdp-col-100 tdp-top-column tdp-element tdp-element-434cffe5" data-id="434cffe5" data-element_type="column" data-e-type="column">
                   {" "}
-                  <div className="elementor-widget-wrap elementor-element-populated">
+                  <div className="tdp-widget-wrap tdp-element-populated">
                     {" "}
-                    <div className="elementor-element elementor-element-6ef74327 elementor-widget elementor-widget-text-editor" data-id="6ef74327" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
+                    <div className="tdp-element tdp-element-6ef74327 tdp-widget tdp-widget-text-editor" data-id="6ef74327" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
                       {" "}
                       <section data-id="11f1303b" data-element_type="section" data-settings={"{"}>
                         <div>
@@ -521,7 +521,7 @@ export default function PageAvisoDePrivacidad({ path }: { path: string }) {
                                                           </strong>
                                                         </p>
                                                         <p>
-                                                          <img fetchPriority="high" decoding="async" src="/wp-content/uploads/2020/09/tabla-1.png" alt="tabla 1" width="1534" height="762" title="Política de datos 1" />
+                                                          <img fetchPriority="high" decoding="async" src="/assets/uploads/2020/09/tabla-1.png" alt="tabla 1" width="1534" height="762" title="Política de datos 1" />
                                                         </p>
                                                       </div>
                                                     </section>
@@ -551,7 +551,7 @@ export default function PageAvisoDePrivacidad({ path }: { path: string }) {
                           </strong>
                         </p>
                         <p>
-                          <img loading="lazy" decoding="async" src="/wp-content/uploads/2020/09/tabla-2.png" alt="tabla 2" width="1205" height="335" title="Política de datos 2" />
+                          <img loading="lazy" decoding="async" src="/assets/uploads/2020/09/tabla-2.png" alt="tabla 2" width="1205" height="335" title="Política de datos 2" />
                         </p>
                         <p>
                           <strong>
@@ -559,7 +559,7 @@ export default function PageAvisoDePrivacidad({ path }: { path: string }) {
                           </strong>
                         </p>
                         <p>
-                          <img loading="lazy" decoding="async" src="/wp-content/uploads/2020/09/Tabla-3.png" alt="Tabla 3" width="1109" height="627" title="Política de datos 3" />
+                          <img loading="lazy" decoding="async" src="/assets/uploads/2020/09/Tabla-3.png" alt="Tabla 3" width="1109" height="627" title="Política de datos 3" />
                         </p>
                       </section>
                       <div>
@@ -576,7 +576,7 @@ export default function PageAvisoDePrivacidad({ path }: { path: string }) {
                         </strong>
                       </div>
                       <div>
-                        <img loading="lazy" decoding="async" src="/wp-content/uploads/2020/09/TABLA-4.png" alt="TABLA 4" width="1102" height="492" title="Política de datos 4" />
+                        <img loading="lazy" decoding="async" src="/assets/uploads/2020/09/TABLA-4.png" alt="TABLA 4" width="1102" height="492" title="Política de datos 4" />
                       </div>
                       <div>
                         {" "}
@@ -688,8 +688,8 @@ export default function PageAvisoDePrivacidad({ path }: { path: string }) {
       <Popup1670 path={path} />
       <IdEgeiroWhfab path={path} />
       <div className="pafe-break-point" data-pafe-break-point-md="767" data-pafe-break-point-lg="1024" data-pafe-ajax-url="/wp-admin/admin-ajax.php"></div>
-      <div data-pafe-form-builder-tinymce-upload="/wp-content/plugins/piotnet-addons-for-elementor-pro/inc/tinymce/tinymce-upload.php"></div>
-      <div data-pafe-plugin-url="/wp-content/plugins"></div>
+      <div data-pafe-form-builder-tinymce-upload="/assets/plugins/piotnet-addons-for-tdp-pro/inc/tinymce/tinymce-upload.php"></div>
+      <div data-pafe-plugin-url="/assets/plugins"></div>
     </>
   );
 }

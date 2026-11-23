@@ -1,4 +1,4 @@
-// Layout diff by Elementor element: loads one URL on the live site and on the
+// Layout diff by Tdp element: loads one URL on the live site and on the
 // clone, and lists the elements ([data-id]) whose height differs, in page order.
 //
 //   node scripts/test/layout-diff.mjs /aviso-de-privacidad/ [desktop|mobile] [--clone URL]
@@ -22,7 +22,7 @@ async function measure(browser, url) {
   const out = await page.evaluate(() => {
     const m = {};
     for (const el of document.querySelectorAll("[data-id]")) {
-      if (el.closest(".elementor-sticky__spacer, .elementor-popup-modal")) continue;
+      if (el.closest(".tdp-sticky__spacer, .tdp-popup-modal")) continue;
       const r = el.getBoundingClientRect();
       const id = el.getAttribute("data-id");
       if (m[id]) continue;

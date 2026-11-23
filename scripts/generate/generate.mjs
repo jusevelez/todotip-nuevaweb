@@ -10,6 +10,7 @@ import path from "node:path";
 import crypto from "node:crypto";
 import * as cheerio from "cheerio";
 import { toJsx, significantChildren, signature, textOf } from "./jsx.mjs";
+import { debrand, debrandJson } from "./debrand.mjs";
 
 const ROOT = path.resolve(import.meta.dirname, "../..");
 const CAP = path.join(ROOT, "capture");
@@ -21,10 +22,10 @@ const ABS_RE = /(?:https?:)?(\\?\/\\?\/)(?:www\.)?todoip\.com(?=[\\/"'?#\s)]|$)/
 
 const rewrite = (v) => {
   if (typeof v !== "string") return v;
-  const out = v.replace(ABS_RE, "");
+  const out = debrand(v.replace(ABS_RE, ""));
   return out === "" && v !== "" ? "/" : out;
 };
-const rewriteCss = (css) => css.replace(ABS_RE, "");
+const rewriteCss = (css) => debrand(css.replace(ABS_RE, ""));
 const hash = (s) => crypto.createHash("sha1").update(s).digest("hex").slice(0, 10);
 const pascal = (s) =>
   s
@@ -79,7 +80,7 @@ function headData($, pagePath) {
           const href = a.href.startsWith("//") ? "https:" + a.href : a.href;
           const u = new URL(href, "https://www.todoip.com" + pagePath);
           const local = /^(www\.)?todoip\.com$/.test(u.hostname);
-          stylesheets.push({ id: a.id || null, href: local ? u.pathname : u.href, media: a.media && a.media !== "all" ? a.media : null });
+          stylesheets.push({ id: a.id || null, href: debrand(local ? u.pathname : u.href), media: a.media && a.media !== "all" ? a.media : null });
           return;
         }
         if (rel === "https://api.w.org/" || rel === "edituri" || rel === "shortlink" || rel === "profile")
@@ -158,21 +159,23 @@ for (const [gk, g] of groups) {
   // Single-use groups are emitted inline in the page instead.
   if (g.items.length < 2) continue;
   keyCounts[g.key] = (keyCounts[g.key] || 0) + 1;
-  const name = pascal(g.key) + (keyCounts[g.key] > 1 ? `V${keyCounts[g.key]}` : "");
+  const name = debrand(pascal(g.key) + (keyCounts[g.key] > 1 ? `V${keyCounts[g.key]}` : ""));
   templateNames.set(gk, name);
   const ctx = makeCtx();
-  const jsx = toJsx(
+  let jsx = toJsx(
     g.items.map((i) => i.el),
     g.items.map((i) => i.path),
     ctx,
     "    ",
   );
-  // Hand-maintained legal bar (aviso + softphone). Re-injected here because this
-  // template is wiped on every generate; the component lives outside src/generated.
-  const isFooter = g.key.startsWith("footer-");
-  const extraImports = isFooter ? 'import FooterLegalLinks from "@/components/wp/FooterLegalLinks";\n' : "";
-  const outJsx = isFooter ? jsx.replace(/(\n    )<\/footer>/, `$1  <FooterLegalLinks path={path} />$1</footer>`) : jsx;
-  const src = `${header(ctx.usesPv, ctx.usesStyle)}${extraImports}\nexport default function ${name}({ path }: { path: string }) {\n  ${ctx.usesPv ? "" : "void path;\n  "}return (\n    ${outJsx}\n  );\n}\n`;
+  let extraImport = "";
+  if (g.key.startsWith("footer-")) {
+    extraImport = 'import FooterLegalLinks from "@/components/wp/FooterLegalLinks";\n';
+    jsx = jsx.replace("</footer>", "<FooterLegalLinks path={path} />\n    </footer>");
+  }
+  const src = debrand(
+    `${header(ctx.usesPv, ctx.usesStyle)}${extraImport}\nexport default function ${name}({ path }: { path: string }) {\n  ${ctx.usesPv ? "" : "void path;\n  "}return (\n    ${jsx}\n  );\n}\n`,
+  );
   await fs.writeFile(path.join(OUT, "templates", `${name}.tsx`), src);
   for (const d of ctx.dropped) report.dropped[d] = (report.dropped[d] || 0) + 1;
   for (const d of ctx.droppedScripts) report.droppedScripts[d] = (report.droppedScripts[d] || 0) + 1;
@@ -188,25 +191,26 @@ for (const pg of parsed) {
   const imports = new Set();
   let usesFaq = false;
   const parts = pg.segments.map((s) => {
-    if (s.group && templateNames.has(s.group)) {
+    const grouped = s.group && templateNames.has(s.group);
+    const el = grouped ? null : s.local || groups.get(s.group).items.find((i) => i.path === pg.path).el;
+    const key = grouped ? groups.get(s.group).key : el && el.type === "tag" ? bodyKey(el) : null;
+    if (grouped) {
       const n = templateNames.get(s.group);
       imports.add(n);
-      // Product FAQ (src/content/faq.ts) goes right before the footer; it renders nothing
-      // on URLs without FAQ.
-      if (n.startsWith("Footer")) {
+      if (key && key.startsWith("footer-")) {
         usesFaq = true;
         return `<ProductFaq path={path} />\n      <${n} path={path} />`;
       }
       return `<${n} path={path} />`;
     }
-    const el = s.local || groups.get(s.group).items.find((i) => i.path === pg.path).el;
     return toJsx([el], [pg.path], ctx, "      ");
   });
-  const src =
+  const src = debrand(
     header(ctx.usesPv, ctx.usesStyle) +
-    (usesFaq ? 'import ProductFaq from "@/components/faq/ProductFaq";\n' : "") +
-    [...imports].map((n) => `import ${n} from "../templates/${n}";\n`).join("") +
-    `\nexport default function ${comp}({ path }: { path: string }) {\n  ${ctx.usesPv ? "" : "void path;\n  "}return (\n    <>\n      ${parts.join("\n      ")}\n    </>\n  );\n}\n`;
+      (usesFaq ? 'import ProductFaq from "@/components/faq/ProductFaq";\n' : "") +
+      [...imports].map((n) => `import ${n} from "../templates/${n}";\n`).join("") +
+      `\nexport default function ${comp}({ path }: { path: string }) {\n  ${ctx.usesPv ? "" : "void path;\n  "}return (\n    <>\n      ${parts.join("\n      ")}\n    </>\n  );\n}\n`,
+  );
   await fs.writeFile(path.join(OUT, "pages", `${slug}.tsx`), src);
   for (const d of ctx.dropped) report.dropped[d] = (report.dropped[d] || 0) + 1;
   for (const d of ctx.droppedScripts) report.droppedScripts[d] = (report.droppedScripts[d] || 0) + 1;
@@ -223,7 +227,7 @@ for (const pg of parsed) {
       title: pg.head.title,
       robots: pg.head.robots,
       htmlAttrs: pg.htmlAttrs,
-      bodyClass: pg.$("body").attr("class") || "",
+      bodyClass: debrand(pg.$("body").attr("class") || ""),
       head: pg.head.head,
       stylesheets: stylesheetSets.get(sheetKey),
     },
@@ -237,7 +241,7 @@ const data = {
   bodyStyles: Object.fromEntries(bodyStyles),
   routes: Object.fromEntries(routes.map((r) => [r.path, { slug: r.slug, ...r.meta }])),
 };
-await fs.writeFile(path.join(OUT, "data.json"), JSON.stringify(data));
+await fs.writeFile(path.join(OUT, "data.json"), JSON.stringify(debrandJson(data)));
 await fs.writeFile(
   path.join(OUT, "routes.ts"),
   `// AUTO-GENERATED by scripts/generate/generate.mjs. Do not edit by hand.\nimport type { ComponentType } from "react";\n\nexport const pageLoaders: Record<string, () => Promise<{ default: ComponentType<{ path: string }> }>> = {\n${routes
@@ -259,15 +263,15 @@ for (const p of LANDINGS) {
   const body = $("body")[0];
   const kids = significantChildren(body, ctx).filter((c) => !(c.type === "text" && !c.data.trim()) && c.name !== "style");
   const jsx = kids.map((k) => toJsx([k], [p], ctx, "      ")).join("\n      ");
-  await fs.writeFile(path.join(dir, "landing.css"), `/* Extracted verbatim from the original ${p} inline <style>. */\n${css.join("\n")}`);
+  await fs.writeFile(path.join(dir, "landing.css"), debrand(`/* Extracted verbatim from the original ${p} inline <style>. */\n${css.join("\n")}`));
   await fs.writeFile(
     path.join(dir, "LandingBody.tsx"),
-    `${header(false, ctx.usesStyle)}\nexport default function LandingBody() {\n  return (\n    <>\n      ${jsx}\n    </>\n  );\n}\n`,
+    debrand(`${header(false, ctx.usesStyle)}\nexport default function LandingBody() {\n  return (\n    <>\n      ${jsx}\n    </>\n  );\n}\n`),
   );
   await fs.writeFile(
     path.join(dir, "landing.json"),
     JSON.stringify(
-      {
+      debrandJson({
         path: p,
         title: hd.title,
         robots: hd.robots,
@@ -275,7 +279,7 @@ for (const p of LANDINGS) {
         bodyAttrs: { ...$("body")[0].attribs },
         head: hd.head,
         stylesheets: hd.stylesheets,
-      },
+      }),
       null,
       2,
     ),
@@ -304,7 +308,7 @@ const FILES = {
   commentsFeed: "_comments_feed_",
 };
 const filesSrc = Object.entries(FILES)
-  .map(([k, f]) => `export const ${k} = ${JSON.stringify(readFileSync(path.join(CAP, "files", f), "utf8"))};`)
+  .map(([k, f]) => `export const ${k} = ${JSON.stringify(debrand(readFileSync(path.join(CAP, "files", f), "utf8")))};`)
   .join("\n");
 await fs.writeFile(
   path.join(ROOT, "src/generated/seo-files.ts"),
@@ -314,7 +318,7 @@ await fs.writeFile(
 // Per-post comment feeds, category feeds and the author feed advertised in <head>.
 const feedEntries = Object.entries(manifest.feeds ?? {})
   .filter(([, v]) => v.status === 200 && v.file)
-  .map(([p, v]) => [p, readFileSync(path.join(CAP, "files", v.file), "utf8")]);
+  .map(([p, v]) => [p, debrand(readFileSync(path.join(CAP, "files", v.file), "utf8"))]);
 await fs.writeFile(
   path.join(ROOT, "src/generated/feeds.ts"),
   `// AUTO-GENERATED by scripts/generate/generate.mjs: verbatim copies of the live RSS feeds.\nexport const feeds: Record<string, string> = ${JSON.stringify(Object.fromEntries(feedEntries), null, 1)};\n`,

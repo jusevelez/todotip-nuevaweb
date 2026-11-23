@@ -15,39 +15,39 @@ export default function PageAuthorAdmin({ path }: { path: string }) {
     <>
       <SkipLink path={path} />
       <Header6979 path={path} />
-      <div data-elementor-type="archive" data-elementor-id="7944" className="elementor elementor-7944 elementor-location-archive" data-elementor-post-type="elementor_library">
+      <div data-tdp-type="archive" data-tdp-id="7944" className="tdp tdp-7944 tdp-location-archive" data-tdp-post-type="tdp_library">
         {" "}
-        <section className="elementor-section elementor-top-section elementor-element elementor-element-d5de0d6 elementor-section-full_width elementor-section-content-middle elementor-section-height-default elementor-section-height-default" data-id="d5de0d6" data-element_type="section" data-e-type="section" data-settings={"{\"background_background\":\"classic\"}"}>
+        <section className="tdp-section tdp-top-section tdp-element tdp-element-d5de0d6 tdp-section-full_width tdp-section-content-middle tdp-section-height-default tdp-section-height-default" data-id="d5de0d6" data-element_type="section" data-e-type="section" data-settings={"{\"background_background\":\"classic\"}"}>
           {" "}
-          <div className="elementor-background-overlay"></div>
+          <div className="tdp-background-overlay"></div>
           {" "}
-          <div className="elementor-container elementor-column-gap-no">
+          <div className="tdp-container tdp-column-gap-no">
             {" "}
-            <div className="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-b1e88b1" data-id="b1e88b1" data-element_type="column" data-e-type="column" data-settings={"{\"background_background\":\"classic\"}"}>
+            <div className="tdp-column tdp-col-100 tdp-top-column tdp-element tdp-element-b1e88b1" data-id="b1e88b1" data-element_type="column" data-e-type="column" data-settings={"{\"background_background\":\"classic\"}"}>
               {" "}
-              <div className="elementor-widget-wrap elementor-element-populated">
+              <div className="tdp-widget-wrap tdp-element-populated">
                 {" "}
-                <section className="elementor-section elementor-inner-section elementor-element elementor-element-73f6a22 elementor-section-height-min-height elementor-section-content-bottom elementor-section-boxed elementor-section-height-default" data-id="73f6a22" data-element_type="section" data-e-type="section">
+                <section className="tdp-section tdp-inner-section tdp-element tdp-element-73f6a22 tdp-section-height-min-height tdp-section-content-bottom tdp-section-boxed tdp-section-height-default" data-id="73f6a22" data-element_type="section" data-e-type="section">
                   {" "}
-                  <div className="elementor-container elementor-column-gap-no">
+                  <div className="tdp-container tdp-column-gap-no">
                     {" "}
-                    <div className="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-b27b26e" data-id="b27b26e" data-element_type="column" data-e-type="column">
+                    <div className="tdp-column tdp-col-50 tdp-inner-column tdp-element tdp-element-b27b26e" data-id="b27b26e" data-element_type="column" data-e-type="column">
                       {" "}
-                      <div className="elementor-widget-wrap elementor-element-populated">
+                      <div className="tdp-widget-wrap tdp-element-populated">
                         {" "}
-                        <div className="elementor-element elementor-element-4af3b11 elementor-align-start elementor-widget__width-auto elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="4af3b11" data-element_type="widget" data-e-type="widget" data-widget_type="icon-list.default">
+                        <div className="tdp-element tdp-element-4af3b11 tdp-align-start tdp-widget__width-auto tdp-icon-list--layout-traditional tdp-list-item-link-full_width tdp-widget tdp-widget-icon-list" data-id="4af3b11" data-element_type="widget" data-e-type="widget" data-widget_type="icon-list.default">
                           {" "}
-                          <ul className="elementor-icon-list-items">
+                          <ul className="tdp-icon-list-items">
                             {" "}
-                            <li className="elementor-icon-list-item">
+                            <li className="tdp-icon-list-item">
                               {" "}
-                              <span className="elementor-icon-list-icon">
+                              <span className="tdp-icon-list-icon">
                                 {" "}
                                 <i aria-hidden="true" className="vamtamtheme- vamtam-theme-brand-symbol"></i>
                                 {" "}
                               </span>
                               {" "}
-                              <span className="elementor-icon-list-text">
+                              <span className="tdp-icon-list-text">
                                 {" Insights"}
                               </span>
                               {" "}
@@ -57,9 +57,9 @@ export default function PageAuthorAdmin({ path }: { path: string }) {
                           {" "}
                         </div>
                         {" "}
-                        <div className="elementor-element elementor-element-713ba10 elementor-widget elementor-widget-theme-archive-title elementor-page-title elementor-widget-heading" data-id="713ba10" data-element_type="widget" data-e-type="widget" data-settings={"{\"_animation_tablet\":\"none\"}"} data-widget_type="theme-archive-title.default">
+                        <div className="tdp-element tdp-element-713ba10 tdp-widget tdp-widget-theme-archive-title tdp-page-title tdp-widget-heading" data-id="713ba10" data-element_type="widget" data-e-type="widget" data-settings={"{\"_animation_tablet\":\"none\"}"} data-widget_type="theme-archive-title.default">
                           {" "}
-                          <h1 className="elementor-heading-title elementor-size-default">
+                          <h1 className="tdp-heading-title tdp-size-default">
                             <span className="vcard">
                               {"admin"}
                             </span>
@@ -71,9 +71,9 @@ export default function PageAuthorAdmin({ path }: { path: string }) {
                       {" "}
                     </div>
                     {" "}
-                    <div className="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-429633a elementor-hidden-mobile" data-id="429633a" data-element_type="column" data-e-type="column">
+                    <div className="tdp-column tdp-col-50 tdp-inner-column tdp-element tdp-element-429633a tdp-hidden-mobile" data-id="429633a" data-element_type="column" data-e-type="column">
                       {" "}
-                      <div className="elementor-widget-wrap">
+                      <div className="tdp-widget-wrap">
                         {" "}
                       </div>
                       {" "}
@@ -91,43 +91,43 @@ export default function PageAuthorAdmin({ path }: { path: string }) {
           {" "}
         </section>
         {" "}
-        <section className="elementor-section elementor-top-section elementor-element elementor-element-4173f80 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="4173f80" data-element_type="section" data-e-type="section">
+        <section className="tdp-section tdp-top-section tdp-element tdp-element-4173f80 tdp-section-boxed tdp-section-height-default tdp-section-height-default" data-id="4173f80" data-element_type="section" data-e-type="section">
           {" "}
-          <div className="elementor-container elementor-column-gap-no">
+          <div className="tdp-container tdp-column-gap-no">
             {" "}
-            <div className="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-dcd3d31" data-id="dcd3d31" data-element_type="column" data-e-type="column">
+            <div className="tdp-column tdp-col-100 tdp-top-column tdp-element tdp-element-dcd3d31" data-id="dcd3d31" data-element_type="column" data-e-type="column">
               {" "}
-              <div className="elementor-widget-wrap elementor-element-populated">
+              <div className="tdp-widget-wrap tdp-element-populated">
                 {" "}
-                <div className="elementor-element elementor-element-795edfc elementor-grid-3 elementor-grid-tablet-2 elementor-grid-mobile-1 elementor-widget elementor-widget-loop-grid" data-id="795edfc" data-element_type="widget" data-e-type="widget" data-settings={"{\"template_id\":\"7839\",\"columns\":3,\"columns_tablet\":2,\"pagination_type\":\"load_more_on_click\",\"row_gap\":{\"unit\":\"px\",\"size\":30,\"sizes\":[]},\"row_gap_tablet\":{\"unit\":\"px\",\"size\":30,\"sizes\":[]},\"row_gap_mobile\":{\"unit\":\"px\",\"size\":30,\"sizes\":[]},\"_skin\":\"post\",\"columns_mobile\":\"1\",\"edit_handle_selector\":\"[data-elementor-type=\\\"loop-item\\\"]\",\"load_more_spinner\":{\"value\":\"fas fa-spinner\",\"library\":\"fa-solid\"}}"} data-widget_type="loop-grid.post">
+                <div className="tdp-element tdp-element-795edfc tdp-grid-3 tdp-grid-tablet-2 tdp-grid-mobile-1 tdp-widget tdp-widget-loop-grid" data-id="795edfc" data-element_type="widget" data-e-type="widget" data-settings={"{\"template_id\":\"7839\",\"columns\":3,\"columns_tablet\":2,\"pagination_type\":\"load_more_on_click\",\"row_gap\":{\"unit\":\"px\",\"size\":30,\"sizes\":[]},\"row_gap_tablet\":{\"unit\":\"px\",\"size\":30,\"sizes\":[]},\"row_gap_mobile\":{\"unit\":\"px\",\"size\":30,\"sizes\":[]},\"_skin\":\"post\",\"columns_mobile\":\"1\",\"edit_handle_selector\":\"[data-tdp-type=\\\"loop-item\\\"]\",\"load_more_spinner\":{\"value\":\"fas fa-spinner\",\"library\":\"fa-solid\"}}"} data-widget_type="loop-grid.post">
                   {" "}
-                  <div className="elementor-widget-container">
+                  <div className="tdp-widget-container">
                     {" "}
-                    <div className="elementor-loop-container elementor-grid" role="list">
+                    <div className="tdp-loop-container tdp-grid" role="list">
                       {" "}
-                      <style href="wpb-7f77e90a30" precedence="wp-body">{".elementor-7839 .elementor-element.elementor-element-19c84cb{border-style:solid;border-width:1px 1px 1px 1px;border-color:var( --e-global-color-vamtam_accent_7 );margin-top:0px;margin-bottom:0px;padding:0px 0px 0px 0px;}.elementor-7839 .elementor-element.elementor-element-19c84cb a{color:var( --e-global-color-vamtam_accent_1 );}.elementor-7839 .elementor-element.elementor-element-19c84cb a:hover{color:var( --e-global-color-vamtam_accent_2 );}.elementor-7839 .elementor-element.elementor-element-de2c58a > .elementor-widget-wrap > .elementor-widget:not(.elementor-widget__width-auto):not(.elementor-widget__width-initial):not(:last-child):not(.elementor-absolute){--kit-widget-spacing:15px;}.elementor-7839 .elementor-element.elementor-element-de2c58a > .elementor-element-populated{padding:20px 30px 50px 30px;}.elementor-7839 .elementor-element.elementor-element-19afc7a .elementor-icon-list-icon{width:14px;}.elementor-7839 .elementor-element.elementor-element-19afc7a .elementor-icon-list-icon i{font-size:14px;}.elementor-7839 .elementor-element.elementor-element-19afc7a .elementor-icon-list-icon svg{--e-icon-list-icon-size:14px;}.elementor-7839 .elementor-element.elementor-element-19afc7a .elementor-icon-list-item{font-size:var( --e-global-typography-3c3cdc2-font-size );font-weight:var( --e-global-typography-3c3cdc2-font-weight );line-height:var( --e-global-typography-3c3cdc2-line-height );}.elementor-7839 .elementor-element.elementor-element-f420d3f img{width:100%;max-width:100%;height:100%;object-fit:cover;object-position:center center;}.elementor-7839 .elementor-element.elementor-element-f420d3f:hover img{filter:brightness( 100% ) contrast( 100% ) saturate( 100% ) blur( 0px ) hue-rotate( 0deg );}.elementor-7839 .elementor-element.elementor-element-1f17bbe .elementor-button:hover, .elementor-7839 .elementor-element.elementor-element-1f17bbe .elementor-button:focus{background-color:#FFFFFF00;color:var( --e-global-color-vamtam_accent_6 );}.elementor-7839 .elementor-element.elementor-element-1f17bbe{margin:8px 0px calc(var(--kit-widget-spacing, 0px) + 8px) 0px;}.elementor-7839 .elementor-element.elementor-element-1f17bbe .elementor-button{font-family:var( --e-global-typography-vamtam_h5-font-family ), Sans-serif;font-size:var( --e-global-typography-vamtam_h5-font-size );font-weight:var( --e-global-typography-vamtam_h5-font-weight );text-transform:var( --e-global-typography-vamtam_h5-text-transform );font-style:var( --e-global-typography-vamtam_h5-font-style );line-height:var( --e-global-typography-vamtam_h5-line-height );letter-spacing:var( --e-global-typography-vamtam_h5-letter-spacing );fill:var( --e-global-color-vamtam_accent_6 );color:var( --e-global-color-vamtam_accent_6 );border-style:none;padding:0px 0px 0px 0px;}.elementor-7839 .elementor-element.elementor-element-1f17bbe .elementor-button:hover svg, .elementor-7839 .elementor-element.elementor-element-1f17bbe .elementor-button:focus svg{fill:var( --e-global-color-vamtam_accent_6 );}.elementor-7839 .elementor-element.elementor-element-e8247c0{font-size:var( --e-global-typography-610c833-font-size );line-height:var( --e-global-typography-610c833-line-height );}@media(max-width:1024px){.elementor-7839 .elementor-element.elementor-element-de2c58a > .elementor-element-populated{padding:20px 20px 40px 20px;}.elementor-7839 .elementor-element.elementor-element-19afc7a .elementor-icon-list-item{font-size:var( --e-global-typography-3c3cdc2-font-size );line-height:var( --e-global-typography-3c3cdc2-line-height );}.elementor-7839 .elementor-element.elementor-element-1f17bbe .elementor-button{font-size:var( --e-global-typography-vamtam_h5-font-size );line-height:var( --e-global-typography-vamtam_h5-line-height );letter-spacing:var( --e-global-typography-vamtam_h5-letter-spacing );}.elementor-7839 .elementor-element.elementor-element-e8247c0{font-size:var( --e-global-typography-610c833-font-size );line-height:var( --e-global-typography-610c833-line-height );}}@media(max-width:767px){.elementor-7839 .elementor-element.elementor-element-de2c58a > .elementor-element-populated{padding:20px 20px 30px 20px;}.elementor-7839 .elementor-element.elementor-element-19afc7a .elementor-icon-list-item{font-size:var( --e-global-typography-3c3cdc2-font-size );line-height:var( --e-global-typography-3c3cdc2-line-height );}.elementor-7839 .elementor-element.elementor-element-1f17bbe .elementor-button{font-size:var( --e-global-typography-vamtam_h5-font-size );line-height:var( --e-global-typography-vamtam_h5-line-height );letter-spacing:var( --e-global-typography-vamtam_h5-letter-spacing );}.elementor-7839 .elementor-element.elementor-element-e8247c0{font-size:var( --e-global-typography-610c833-font-size );line-height:var( --e-global-typography-610c833-line-height );}}"}</style>
+                      <style href="wpb-7f77e90a30" precedence="wp-body">{".tdp-7839 .tdp-element.tdp-element-19c84cb{border-style:solid;border-width:1px 1px 1px 1px;border-color:var( --e-global-color-vamtam_accent_7 );margin-top:0px;margin-bottom:0px;padding:0px 0px 0px 0px;}.tdp-7839 .tdp-element.tdp-element-19c84cb a{color:var( --e-global-color-vamtam_accent_1 );}.tdp-7839 .tdp-element.tdp-element-19c84cb a:hover{color:var( --e-global-color-vamtam_accent_2 );}.tdp-7839 .tdp-element.tdp-element-de2c58a > .tdp-widget-wrap > .tdp-widget:not(.tdp-widget__width-auto):not(.tdp-widget__width-initial):not(:last-child):not(.tdp-absolute){--kit-widget-spacing:15px;}.tdp-7839 .tdp-element.tdp-element-de2c58a > .tdp-element-populated{padding:20px 30px 50px 30px;}.tdp-7839 .tdp-element.tdp-element-19afc7a .tdp-icon-list-icon{width:14px;}.tdp-7839 .tdp-element.tdp-element-19afc7a .tdp-icon-list-icon i{font-size:14px;}.tdp-7839 .tdp-element.tdp-element-19afc7a .tdp-icon-list-icon svg{--e-icon-list-icon-size:14px;}.tdp-7839 .tdp-element.tdp-element-19afc7a .tdp-icon-list-item{font-size:var( --e-global-typography-3c3cdc2-font-size );font-weight:var( --e-global-typography-3c3cdc2-font-weight );line-height:var( --e-global-typography-3c3cdc2-line-height );}.tdp-7839 .tdp-element.tdp-element-f420d3f img{width:100%;max-width:100%;height:100%;object-fit:cover;object-position:center center;}.tdp-7839 .tdp-element.tdp-element-f420d3f:hover img{filter:brightness( 100% ) contrast( 100% ) saturate( 100% ) blur( 0px ) hue-rotate( 0deg );}.tdp-7839 .tdp-element.tdp-element-1f17bbe .tdp-button:hover, .tdp-7839 .tdp-element.tdp-element-1f17bbe .tdp-button:focus{background-color:#FFFFFF00;color:var( --e-global-color-vamtam_accent_6 );}.tdp-7839 .tdp-element.tdp-element-1f17bbe{margin:8px 0px calc(var(--kit-widget-spacing, 0px) + 8px) 0px;}.tdp-7839 .tdp-element.tdp-element-1f17bbe .tdp-button{font-family:var( --e-global-typography-vamtam_h5-font-family ), Sans-serif;font-size:var( --e-global-typography-vamtam_h5-font-size );font-weight:var( --e-global-typography-vamtam_h5-font-weight );text-transform:var( --e-global-typography-vamtam_h5-text-transform );font-style:var( --e-global-typography-vamtam_h5-font-style );line-height:var( --e-global-typography-vamtam_h5-line-height );letter-spacing:var( --e-global-typography-vamtam_h5-letter-spacing );fill:var( --e-global-color-vamtam_accent_6 );color:var( --e-global-color-vamtam_accent_6 );border-style:none;padding:0px 0px 0px 0px;}.tdp-7839 .tdp-element.tdp-element-1f17bbe .tdp-button:hover svg, .tdp-7839 .tdp-element.tdp-element-1f17bbe .tdp-button:focus svg{fill:var( --e-global-color-vamtam_accent_6 );}.tdp-7839 .tdp-element.tdp-element-e8247c0{font-size:var( --e-global-typography-610c833-font-size );line-height:var( --e-global-typography-610c833-line-height );}@media(max-width:1024px){.tdp-7839 .tdp-element.tdp-element-de2c58a > .tdp-element-populated{padding:20px 20px 40px 20px;}.tdp-7839 .tdp-element.tdp-element-19afc7a .tdp-icon-list-item{font-size:var( --e-global-typography-3c3cdc2-font-size );line-height:var( --e-global-typography-3c3cdc2-line-height );}.tdp-7839 .tdp-element.tdp-element-1f17bbe .tdp-button{font-size:var( --e-global-typography-vamtam_h5-font-size );line-height:var( --e-global-typography-vamtam_h5-line-height );letter-spacing:var( --e-global-typography-vamtam_h5-letter-spacing );}.tdp-7839 .tdp-element.tdp-element-e8247c0{font-size:var( --e-global-typography-610c833-font-size );line-height:var( --e-global-typography-610c833-line-height );}}@media(max-width:767px){.tdp-7839 .tdp-element.tdp-element-de2c58a > .tdp-element-populated{padding:20px 20px 30px 20px;}.tdp-7839 .tdp-element.tdp-element-19afc7a .tdp-icon-list-item{font-size:var( --e-global-typography-3c3cdc2-font-size );line-height:var( --e-global-typography-3c3cdc2-line-height );}.tdp-7839 .tdp-element.tdp-element-1f17bbe .tdp-button{font-size:var( --e-global-typography-vamtam_h5-font-size );line-height:var( --e-global-typography-vamtam_h5-line-height );letter-spacing:var( --e-global-typography-vamtam_h5-letter-spacing );}.tdp-7839 .tdp-element.tdp-element-e8247c0{font-size:var( --e-global-typography-610c833-font-size );line-height:var( --e-global-typography-610c833-line-height );}}"}</style>
                       {" "}
-                      <div data-elementor-type="loop-item" data-elementor-id="7839" className="elementor elementor-7839 e-loop-item e-loop-item-991840 post-991840 post type-post status-publish format-standard has-post-thumbnail hentry category-analysis" data-elementor-post-type="elementor_library" data-custom-edit-handle="1">
+                      <div data-tdp-type="loop-item" data-tdp-id="7839" className="tdp tdp-7839 e-loop-item e-loop-item-991840 post-991840 post type-post status-publish format-standard has-post-thumbnail hentry category-analysis" data-tdp-post-type="tdp_library" data-custom-edit-handle="1">
                         {" "}
-                        <section className="elementor-section elementor-top-section elementor-element elementor-element-19c84cb elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="19c84cb" data-element_type="section" data-e-type="section">
+                        <section className="tdp-section tdp-top-section tdp-element tdp-element-19c84cb tdp-section-boxed tdp-section-height-default tdp-section-height-default" data-id="19c84cb" data-element_type="section" data-e-type="section">
                           {" "}
-                          <div className="elementor-container elementor-column-gap-no">
+                          <div className="tdp-container tdp-column-gap-no">
                             {" "}
-                            <div className="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-de2c58a" data-id="de2c58a" data-element_type="column" data-e-type="column">
+                            <div className="tdp-column tdp-col-100 tdp-top-column tdp-element tdp-element-de2c58a" data-id="de2c58a" data-element_type="column" data-e-type="column">
                               {" "}
-                              <div className="elementor-widget-wrap elementor-element-populated">
+                              <div className="tdp-widget-wrap tdp-element-populated">
                                 {" "}
-                                <div className="elementor-element elementor-element-19afc7a elementor-widget elementor-widget-post-info" data-id="19afc7a" data-element_type="widget" data-e-type="widget" data-widget_type="post-info.default">
+                                <div className="tdp-element tdp-element-19afc7a tdp-widget tdp-widget-post-info" data-id="19afc7a" data-element_type="widget" data-e-type="widget" data-widget_type="post-info.default">
                                   {" "}
-                                  <ul className="elementor-inline-items elementor-icon-list-items elementor-post-info">
+                                  <ul className="tdp-inline-items tdp-icon-list-items tdp-post-info">
                                     {" "}
-                                    <li className="elementor-icon-list-item elementor-repeater-item-d361108 elementor-inline-item" itemProp="about">
+                                    <li className="tdp-icon-list-item tdp-repeater-item-d361108 tdp-inline-item" itemProp="about">
                                       {" "}
-                                      <span className="elementor-icon-list-text elementor-post-info__item elementor-post-info__item--type-terms">
+                                      <span className="tdp-icon-list-text tdp-post-info__item tdp-post-info__item--type-terms">
                                         {" "}
-                                        <span className="elementor-post-info__terms-list">
+                                        <span className="tdp-post-info__terms-list">
                                           {" "}
-                                          <a href="/category/analysis/" className="elementor-post-info__terms-list-item">
+                                          <a href="/category/analysis/" className="tdp-post-info__terms-list-item">
                                             {"Omnicanal"}
                                           </a>
                                           {" "}
@@ -141,23 +141,23 @@ export default function PageAuthorAdmin({ path }: { path: string }) {
                                   {" "}
                                 </div>
                                 {" "}
-                                <div className="elementor-element elementor-element-f420d3f elementor-widget elementor-widget-theme-post-featured-image elementor-widget-image" data-id="f420d3f" data-element_type="widget" data-e-type="widget" data-widget_type="theme-post-featured-image.default">
+                                <div className="tdp-element tdp-element-f420d3f tdp-widget tdp-widget-theme-post-featured-image tdp-widget-image" data-id="f420d3f" data-element_type="widget" data-e-type="widget" data-widget_type="theme-post-featured-image.default">
                                   {" "}
                                   <a href="/resolucion-256-como-cumplir-la-ley-sin-enloquecer-a-tu-equipo/">
                                     {" "}
-                                    <img fetchPriority="high" width="768" height="403" src="/wp-content/uploads/2026/09/Imagen-resolucion-256-768x403.png" className="attachment-medium_large size-medium_large wp-image-991841" alt="" srcSet="/wp-content/uploads/2026/09/Imagen-resolucion-256-768x403.png 768w, /wp-content/uploads/2026/09/Imagen-resolucion-256-300x158.png 300w, /wp-content/uploads/2026/09/Imagen-resolucion-256-1024x538.png 1024w, /wp-content/uploads/2026/09/Imagen-resolucion-256.png 1200w" sizes="(max-width: 768px) 100vw, 768px" />
+                                    <img fetchPriority="high" width="768" height="403" src="/assets/uploads/2026/09/Imagen-resolucion-256-768x403.png" className="attachment-medium_large size-medium_large img-991841" alt="" srcSet="/assets/uploads/2026/09/Imagen-resolucion-256-768x403.png 768w, /assets/uploads/2026/09/Imagen-resolucion-256-300x158.png 300w, /assets/uploads/2026/09/Imagen-resolucion-256-1024x538.png 1024w, /assets/uploads/2026/09/Imagen-resolucion-256.png 1200w" sizes="(max-width: 768px) 100vw, 768px" />
                                     {" "}
                                   </a>
                                   {" "}
                                 </div>
                                 {" "}
-                                <div className="elementor-element elementor-element-1f17bbe elementor-align-justify elementor-widget elementor-widget-button" data-id="1f17bbe" data-element_type="widget" data-e-type="widget" data-widget_type="button.default">
+                                <div className="tdp-element tdp-element-1f17bbe tdp-align-justify tdp-widget tdp-widget-button" data-id="1f17bbe" data-element_type="widget" data-e-type="widget" data-widget_type="button.default">
                                   {" "}
-                                  <a className="elementor-button elementor-button-link elementor-size-sm" href="/resolucion-256-como-cumplir-la-ley-sin-enloquecer-a-tu-equipo/">
+                                  <a className="tdp-button tdp-button-link tdp-size-sm" href="/resolucion-256-como-cumplir-la-ley-sin-enloquecer-a-tu-equipo/">
                                     {" "}
-                                    <span className="elementor-button-content-wrapper">
+                                    <span className="tdp-button-content-wrapper">
                                       {" "}
-                                      <span className="elementor-button-text">
+                                      <span className="tdp-button-text">
                                         {"Resolución 256: cómo cumplir la ley sin enloquecer a tu equipo"}
                                       </span>
                                       {" "}
@@ -167,7 +167,7 @@ export default function PageAuthorAdmin({ path }: { path: string }) {
                                   {" "}
                                 </div>
                                 {" "}
-                                <div className="elementor-element elementor-element-e8247c0 elementor-widget elementor-widget-theme-post-excerpt" data-id="e8247c0" data-element_type="widget" data-e-type="widget" data-widget_type="theme-post-excerpt.default">
+                                <div className="tdp-element tdp-element-e8247c0 tdp-widget tdp-widget-theme-post-excerpt" data-id="e8247c0" data-element_type="widget" data-e-type="widget" data-widget_type="theme-post-excerpt.default">
                                   {" Cumplir con la Resolución 256 del Ministerio de Salud ya no tiene que ser un "}
                                 </div>
                                 {" "}
@@ -181,27 +181,27 @@ export default function PageAuthorAdmin({ path }: { path: string }) {
                         {" "}
                       </div>
                       {" "}
-                      <div data-elementor-type="loop-item" data-elementor-id="7839" className="elementor elementor-7839 e-loop-item e-loop-item-991831 post-991831 post type-post status-publish format-standard has-post-thumbnail hentry category-inteligencia-artificial" data-elementor-post-type="elementor_library" data-custom-edit-handle="1">
+                      <div data-tdp-type="loop-item" data-tdp-id="7839" className="tdp tdp-7839 e-loop-item e-loop-item-991831 post-991831 post type-post status-publish format-standard has-post-thumbnail hentry category-inteligencia-artificial" data-tdp-post-type="tdp_library" data-custom-edit-handle="1">
                         {" "}
-                        <section className="elementor-section elementor-top-section elementor-element elementor-element-19c84cb elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="19c84cb" data-element_type="section" data-e-type="section">
+                        <section className="tdp-section tdp-top-section tdp-element tdp-element-19c84cb tdp-section-boxed tdp-section-height-default tdp-section-height-default" data-id="19c84cb" data-element_type="section" data-e-type="section">
                           {" "}
-                          <div className="elementor-container elementor-column-gap-no">
+                          <div className="tdp-container tdp-column-gap-no">
                             {" "}
-                            <div className="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-de2c58a" data-id="de2c58a" data-element_type="column" data-e-type="column">
+                            <div className="tdp-column tdp-col-100 tdp-top-column tdp-element tdp-element-de2c58a" data-id="de2c58a" data-element_type="column" data-e-type="column">
                               {" "}
-                              <div className="elementor-widget-wrap elementor-element-populated">
+                              <div className="tdp-widget-wrap tdp-element-populated">
                                 {" "}
-                                <div className="elementor-element elementor-element-19afc7a elementor-widget elementor-widget-post-info" data-id="19afc7a" data-element_type="widget" data-e-type="widget" data-widget_type="post-info.default">
+                                <div className="tdp-element tdp-element-19afc7a tdp-widget tdp-widget-post-info" data-id="19afc7a" data-element_type="widget" data-e-type="widget" data-widget_type="post-info.default">
                                   {" "}
-                                  <ul className="elementor-inline-items elementor-icon-list-items elementor-post-info">
+                                  <ul className="tdp-inline-items tdp-icon-list-items tdp-post-info">
                                     {" "}
-                                    <li className="elementor-icon-list-item elementor-repeater-item-d361108 elementor-inline-item" itemProp="about">
+                                    <li className="tdp-icon-list-item tdp-repeater-item-d361108 tdp-inline-item" itemProp="about">
                                       {" "}
-                                      <span className="elementor-icon-list-text elementor-post-info__item elementor-post-info__item--type-terms">
+                                      <span className="tdp-icon-list-text tdp-post-info__item tdp-post-info__item--type-terms">
                                         {" "}
-                                        <span className="elementor-post-info__terms-list">
+                                        <span className="tdp-post-info__terms-list">
                                           {" "}
-                                          <a href="/category/inteligencia-artificial/" className="elementor-post-info__terms-list-item">
+                                          <a href="/category/inteligencia-artificial/" className="tdp-post-info__terms-list-item">
                                             {"Inteligencia Artificial"}
                                           </a>
                                           {" "}
@@ -215,23 +215,23 @@ export default function PageAuthorAdmin({ path }: { path: string }) {
                                   {" "}
                                 </div>
                                 {" "}
-                                <div className="elementor-element elementor-element-f420d3f elementor-widget elementor-widget-theme-post-featured-image elementor-widget-image" data-id="f420d3f" data-element_type="widget" data-e-type="widget" data-widget_type="theme-post-featured-image.default">
+                                <div className="tdp-element tdp-element-f420d3f tdp-widget tdp-widget-theme-post-featured-image tdp-widget-image" data-id="f420d3f" data-element_type="widget" data-e-type="widget" data-widget_type="theme-post-featured-image.default">
                                   {" "}
                                   <a href="/asistente-virtual-para-clinicas-asi-se-ve-el-fin-de-las-cotizaciones-lentas-por-whatsapp/">
                                     {" "}
-                                    <img loading="lazy" width="768" height="403" src="/wp-content/uploads/2026/09/Imagen-Cotizador-automatico-1-768x403.png" className="attachment-medium_large size-medium_large wp-image-991832" alt="" srcSet="/wp-content/uploads/2026/09/Imagen-Cotizador-automatico-1-768x403.png 768w, /wp-content/uploads/2026/09/Imagen-Cotizador-automatico-1-300x158.png 300w, /wp-content/uploads/2026/09/Imagen-Cotizador-automatico-1-1024x538.png 1024w, /wp-content/uploads/2026/09/Imagen-Cotizador-automatico-1.png 1200w" sizes="(max-width: 768px) 100vw, 768px" />
+                                    <img loading="lazy" width="768" height="403" src="/assets/uploads/2026/09/Imagen-Cotizador-automatico-1-768x403.png" className="attachment-medium_large size-medium_large img-991832" alt="" srcSet="/assets/uploads/2026/09/Imagen-Cotizador-automatico-1-768x403.png 768w, /assets/uploads/2026/09/Imagen-Cotizador-automatico-1-300x158.png 300w, /assets/uploads/2026/09/Imagen-Cotizador-automatico-1-1024x538.png 1024w, /assets/uploads/2026/09/Imagen-Cotizador-automatico-1.png 1200w" sizes="(max-width: 768px) 100vw, 768px" />
                                     {" "}
                                   </a>
                                   {" "}
                                 </div>
                                 {" "}
-                                <div className="elementor-element elementor-element-1f17bbe elementor-align-justify elementor-widget elementor-widget-button" data-id="1f17bbe" data-element_type="widget" data-e-type="widget" data-widget_type="button.default">
+                                <div className="tdp-element tdp-element-1f17bbe tdp-align-justify tdp-widget tdp-widget-button" data-id="1f17bbe" data-element_type="widget" data-e-type="widget" data-widget_type="button.default">
                                   {" "}
-                                  <a className="elementor-button elementor-button-link elementor-size-sm" href="/asistente-virtual-para-clinicas-asi-se-ve-el-fin-de-las-cotizaciones-lentas-por-whatsapp/">
+                                  <a className="tdp-button tdp-button-link tdp-size-sm" href="/asistente-virtual-para-clinicas-asi-se-ve-el-fin-de-las-cotizaciones-lentas-por-whatsapp/">
                                     {" "}
-                                    <span className="elementor-button-content-wrapper">
+                                    <span className="tdp-button-content-wrapper">
                                       {" "}
-                                      <span className="elementor-button-text">
+                                      <span className="tdp-button-text">
                                         {"Asistente virtual para clínicas: así se ve el fin de las cotizaciones lentas por WhatsApp"}
                                       </span>
                                       {" "}
@@ -241,7 +241,7 @@ export default function PageAuthorAdmin({ path }: { path: string }) {
                                   {" "}
                                 </div>
                                 {" "}
-                                <div className="elementor-element elementor-element-e8247c0 elementor-widget elementor-widget-theme-post-excerpt" data-id="e8247c0" data-element_type="widget" data-e-type="widget" data-widget_type="theme-post-excerpt.default">
+                                <div className="tdp-element tdp-element-e8247c0 tdp-widget tdp-widget-theme-post-excerpt" data-id="e8247c0" data-element_type="widget" data-e-type="widget" data-widget_type="theme-post-excerpt.default">
                                   {" ¿Tu clínica pierde pacientes porque el equipo no alcanza a responder los cientos de audios "}
                                 </div>
                                 {" "}
@@ -255,27 +255,27 @@ export default function PageAuthorAdmin({ path }: { path: string }) {
                         {" "}
                       </div>
                       {" "}
-                      <div data-elementor-type="loop-item" data-elementor-id="7839" className="elementor elementor-7839 e-loop-item e-loop-item-990899 post-990899 post type-post status-publish format-standard has-post-thumbnail hentry category-analysis tag-con-cta" data-elementor-post-type="elementor_library" data-custom-edit-handle="1">
+                      <div data-tdp-type="loop-item" data-tdp-id="7839" className="tdp tdp-7839 e-loop-item e-loop-item-990899 post-990899 post type-post status-publish format-standard has-post-thumbnail hentry category-analysis tag-con-cta" data-tdp-post-type="tdp_library" data-custom-edit-handle="1">
                         {" "}
-                        <section className="elementor-section elementor-top-section elementor-element elementor-element-19c84cb elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="19c84cb" data-element_type="section" data-e-type="section">
+                        <section className="tdp-section tdp-top-section tdp-element tdp-element-19c84cb tdp-section-boxed tdp-section-height-default tdp-section-height-default" data-id="19c84cb" data-element_type="section" data-e-type="section">
                           {" "}
-                          <div className="elementor-container elementor-column-gap-no">
+                          <div className="tdp-container tdp-column-gap-no">
                             {" "}
-                            <div className="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-de2c58a" data-id="de2c58a" data-element_type="column" data-e-type="column">
+                            <div className="tdp-column tdp-col-100 tdp-top-column tdp-element tdp-element-de2c58a" data-id="de2c58a" data-element_type="column" data-e-type="column">
                               {" "}
-                              <div className="elementor-widget-wrap elementor-element-populated">
+                              <div className="tdp-widget-wrap tdp-element-populated">
                                 {" "}
-                                <div className="elementor-element elementor-element-19afc7a elementor-widget elementor-widget-post-info" data-id="19afc7a" data-element_type="widget" data-e-type="widget" data-widget_type="post-info.default">
+                                <div className="tdp-element tdp-element-19afc7a tdp-widget tdp-widget-post-info" data-id="19afc7a" data-element_type="widget" data-e-type="widget" data-widget_type="post-info.default">
                                   {" "}
-                                  <ul className="elementor-inline-items elementor-icon-list-items elementor-post-info">
+                                  <ul className="tdp-inline-items tdp-icon-list-items tdp-post-info">
                                     {" "}
-                                    <li className="elementor-icon-list-item elementor-repeater-item-d361108 elementor-inline-item" itemProp="about">
+                                    <li className="tdp-icon-list-item tdp-repeater-item-d361108 tdp-inline-item" itemProp="about">
                                       {" "}
-                                      <span className="elementor-icon-list-text elementor-post-info__item elementor-post-info__item--type-terms">
+                                      <span className="tdp-icon-list-text tdp-post-info__item tdp-post-info__item--type-terms">
                                         {" "}
-                                        <span className="elementor-post-info__terms-list">
+                                        <span className="tdp-post-info__terms-list">
                                           {" "}
-                                          <a href="/category/analysis/" className="elementor-post-info__terms-list-item">
+                                          <a href="/category/analysis/" className="tdp-post-info__terms-list-item">
                                             {"Omnicanal"}
                                           </a>
                                           {" "}
@@ -289,23 +289,23 @@ export default function PageAuthorAdmin({ path }: { path: string }) {
                                   {" "}
                                 </div>
                                 {" "}
-                                <div className="elementor-element elementor-element-f420d3f elementor-widget elementor-widget-theme-post-featured-image elementor-widget-image" data-id="f420d3f" data-element_type="widget" data-e-type="widget" data-widget_type="theme-post-featured-image.default">
+                                <div className="tdp-element tdp-element-f420d3f tdp-widget tdp-widget-theme-post-featured-image tdp-widget-image" data-id="f420d3f" data-element_type="widget" data-e-type="widget" data-widget_type="theme-post-featured-image.default">
                                   {" "}
                                   <a href="/por-que-mi-numero-aparece-como-spam/">
                                     {" "}
-                                    <img loading="lazy" width="768" height="512" src="/wp-content/uploads/2025/04/spam-2-768x512.webp" className="attachment-medium_large size-medium_large wp-image-990905" alt="Ícono de protección contra números marcados como spam" srcSet="/wp-content/uploads/2025/04/spam-2-768x512.webp 768w, /wp-content/uploads/2025/04/spam-2-300x200.webp 300w, /wp-content/uploads/2025/04/spam-2-1024x683.webp 1024w, /wp-content/uploads/2025/04/spam-2.webp 1200w" sizes="(max-width: 768px) 100vw, 768px" />
+                                    <img loading="lazy" width="768" height="512" src="/assets/uploads/2025/04/spam-2-768x512.webp" className="attachment-medium_large size-medium_large img-990905" alt="Ícono de protección contra números marcados como spam" srcSet="/assets/uploads/2025/04/spam-2-768x512.webp 768w, /assets/uploads/2025/04/spam-2-300x200.webp 300w, /assets/uploads/2025/04/spam-2-1024x683.webp 1024w, /assets/uploads/2025/04/spam-2.webp 1200w" sizes="(max-width: 768px) 100vw, 768px" />
                                     {" "}
                                   </a>
                                   {" "}
                                 </div>
                                 {" "}
-                                <div className="elementor-element elementor-element-1f17bbe elementor-align-justify elementor-widget elementor-widget-button" data-id="1f17bbe" data-element_type="widget" data-e-type="widget" data-widget_type="button.default">
+                                <div className="tdp-element tdp-element-1f17bbe tdp-align-justify tdp-widget tdp-widget-button" data-id="1f17bbe" data-element_type="widget" data-e-type="widget" data-widget_type="button.default">
                                   {" "}
-                                  <a className="elementor-button elementor-button-link elementor-size-sm" href="/por-que-mi-numero-aparece-como-spam/">
+                                  <a className="tdp-button tdp-button-link tdp-size-sm" href="/por-que-mi-numero-aparece-como-spam/">
                                     {" "}
-                                    <span className="elementor-button-content-wrapper">
+                                    <span className="tdp-button-content-wrapper">
                                       {" "}
-                                      <span className="elementor-button-text">
+                                      <span className="tdp-button-text">
                                         {"¿Por qué mi número aparece como spam?"}
                                       </span>
                                       {" "}
@@ -315,7 +315,7 @@ export default function PageAuthorAdmin({ path }: { path: string }) {
                                   {" "}
                                 </div>
                                 {" "}
-                                <div className="elementor-element elementor-element-e8247c0 elementor-widget elementor-widget-theme-post-excerpt" data-id="e8247c0" data-element_type="widget" data-e-type="widget" data-widget_type="theme-post-excerpt.default">
+                                <div className="tdp-element tdp-element-e8247c0 tdp-widget tdp-widget-theme-post-excerpt" data-id="e8247c0" data-element_type="widget" data-e-type="widget" data-widget_type="theme-post-excerpt.default">
                                   {" Cada vez más usuarios descubren que sus llamadas son marcadas como \"spam\" o \"posible estafa\". "}
                                 </div>
                                 {" "}
@@ -329,27 +329,27 @@ export default function PageAuthorAdmin({ path }: { path: string }) {
                         {" "}
                       </div>
                       {" "}
-                      <div data-elementor-type="loop-item" data-elementor-id="7839" className="elementor elementor-7839 e-loop-item e-loop-item-990759 post-990759 post type-post status-publish format-standard has-post-thumbnail hentry category-analysis tag-con-cta" data-elementor-post-type="elementor_library" data-custom-edit-handle="1">
+                      <div data-tdp-type="loop-item" data-tdp-id="7839" className="tdp tdp-7839 e-loop-item e-loop-item-990759 post-990759 post type-post status-publish format-standard has-post-thumbnail hentry category-analysis tag-con-cta" data-tdp-post-type="tdp_library" data-custom-edit-handle="1">
                         {" "}
-                        <section className="elementor-section elementor-top-section elementor-element elementor-element-19c84cb elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="19c84cb" data-element_type="section" data-e-type="section">
+                        <section className="tdp-section tdp-top-section tdp-element tdp-element-19c84cb tdp-section-boxed tdp-section-height-default tdp-section-height-default" data-id="19c84cb" data-element_type="section" data-e-type="section">
                           {" "}
-                          <div className="elementor-container elementor-column-gap-no">
+                          <div className="tdp-container tdp-column-gap-no">
                             {" "}
-                            <div className="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-de2c58a" data-id="de2c58a" data-element_type="column" data-e-type="column">
+                            <div className="tdp-column tdp-col-100 tdp-top-column tdp-element tdp-element-de2c58a" data-id="de2c58a" data-element_type="column" data-e-type="column">
                               {" "}
-                              <div className="elementor-widget-wrap elementor-element-populated">
+                              <div className="tdp-widget-wrap tdp-element-populated">
                                 {" "}
-                                <div className="elementor-element elementor-element-19afc7a elementor-widget elementor-widget-post-info" data-id="19afc7a" data-element_type="widget" data-e-type="widget" data-widget_type="post-info.default">
+                                <div className="tdp-element tdp-element-19afc7a tdp-widget tdp-widget-post-info" data-id="19afc7a" data-element_type="widget" data-e-type="widget" data-widget_type="post-info.default">
                                   {" "}
-                                  <ul className="elementor-inline-items elementor-icon-list-items elementor-post-info">
+                                  <ul className="tdp-inline-items tdp-icon-list-items tdp-post-info">
                                     {" "}
-                                    <li className="elementor-icon-list-item elementor-repeater-item-d361108 elementor-inline-item" itemProp="about">
+                                    <li className="tdp-icon-list-item tdp-repeater-item-d361108 tdp-inline-item" itemProp="about">
                                       {" "}
-                                      <span className="elementor-icon-list-text elementor-post-info__item elementor-post-info__item--type-terms">
+                                      <span className="tdp-icon-list-text tdp-post-info__item tdp-post-info__item--type-terms">
                                         {" "}
-                                        <span className="elementor-post-info__terms-list">
+                                        <span className="tdp-post-info__terms-list">
                                           {" "}
-                                          <a href="/category/analysis/" className="elementor-post-info__terms-list-item">
+                                          <a href="/category/analysis/" className="tdp-post-info__terms-list-item">
                                             {"Omnicanal"}
                                           </a>
                                           {" "}
@@ -363,23 +363,23 @@ export default function PageAuthorAdmin({ path }: { path: string }) {
                                   {" "}
                                 </div>
                                 {" "}
-                                <div className="elementor-element elementor-element-f420d3f elementor-widget elementor-widget-theme-post-featured-image elementor-widget-image" data-id="f420d3f" data-element_type="widget" data-e-type="widget" data-widget_type="theme-post-featured-image.default">
+                                <div className="tdp-element tdp-element-f420d3f tdp-widget tdp-widget-theme-post-featured-image tdp-widget-image" data-id="f420d3f" data-element_type="widget" data-e-type="widget" data-widget_type="theme-post-featured-image.default">
                                   {" "}
                                   <a href="/guia-completa-sobre-chatbots-para-whatsapp-business/">
                                     {" "}
-                                    <img loading="lazy" width="768" height="426" src="/wp-content/uploads/2025/01/botwhatsapp-768x426.webp" className="attachment-medium_large size-medium_large wp-image-990761" alt="Ícono de chatbot de WhatsApp con inteligencia artificial" srcSet="/wp-content/uploads/2025/01/botwhatsapp-768x426.webp 768w, /wp-content/uploads/2025/01/botwhatsapp-300x167.webp 300w, /wp-content/uploads/2025/01/botwhatsapp-1024x568.webp 1024w, /wp-content/uploads/2025/01/botwhatsapp.webp 1254w" sizes="(max-width: 768px) 100vw, 768px" />
+                                    <img loading="lazy" width="768" height="426" src="/assets/uploads/2025/01/botwhatsapp-768x426.webp" className="attachment-medium_large size-medium_large img-990761" alt="Ícono de chatbot de WhatsApp con inteligencia artificial" srcSet="/assets/uploads/2025/01/botwhatsapp-768x426.webp 768w, /assets/uploads/2025/01/botwhatsapp-300x167.webp 300w, /assets/uploads/2025/01/botwhatsapp-1024x568.webp 1024w, /assets/uploads/2025/01/botwhatsapp.webp 1254w" sizes="(max-width: 768px) 100vw, 768px" />
                                     {" "}
                                   </a>
                                   {" "}
                                 </div>
                                 {" "}
-                                <div className="elementor-element elementor-element-1f17bbe elementor-align-justify elementor-widget elementor-widget-button" data-id="1f17bbe" data-element_type="widget" data-e-type="widget" data-widget_type="button.default">
+                                <div className="tdp-element tdp-element-1f17bbe tdp-align-justify tdp-widget tdp-widget-button" data-id="1f17bbe" data-element_type="widget" data-e-type="widget" data-widget_type="button.default">
                                   {" "}
-                                  <a className="elementor-button elementor-button-link elementor-size-sm" href="/guia-completa-sobre-chatbots-para-whatsapp-business/">
+                                  <a className="tdp-button tdp-button-link tdp-size-sm" href="/guia-completa-sobre-chatbots-para-whatsapp-business/">
                                     {" "}
-                                    <span className="elementor-button-content-wrapper">
+                                    <span className="tdp-button-content-wrapper">
                                       {" "}
-                                      <span className="elementor-button-text">
+                                      <span className="tdp-button-text">
                                         {"Guía completa sobre chatbots para WhatsApp Business "}
                                       </span>
                                       {" "}
@@ -389,7 +389,7 @@ export default function PageAuthorAdmin({ path }: { path: string }) {
                                   {" "}
                                 </div>
                                 {" "}
-                                <div className="elementor-element elementor-element-e8247c0 elementor-widget elementor-widget-theme-post-excerpt" data-id="e8247c0" data-element_type="widget" data-e-type="widget" data-widget_type="theme-post-excerpt.default">
+                                <div className="tdp-element tdp-element-e8247c0 tdp-widget tdp-widget-theme-post-excerpt" data-id="e8247c0" data-element_type="widget" data-e-type="widget" data-widget_type="theme-post-excerpt.default">
                                   {" La comunicación inmediata impulsa el éxito empresarial; los chatbots mejoran atención al cliente y optimizan "}
                                 </div>
                                 {" "}
@@ -403,27 +403,27 @@ export default function PageAuthorAdmin({ path }: { path: string }) {
                         {" "}
                       </div>
                       {" "}
-                      <div data-elementor-type="loop-item" data-elementor-id="7839" className="elementor elementor-7839 e-loop-item e-loop-item-990741 post-990741 post type-post status-publish format-standard has-post-thumbnail hentry category-analysis tag-con-cta" data-elementor-post-type="elementor_library" data-custom-edit-handle="1">
+                      <div data-tdp-type="loop-item" data-tdp-id="7839" className="tdp tdp-7839 e-loop-item e-loop-item-990741 post-990741 post type-post status-publish format-standard has-post-thumbnail hentry category-analysis tag-con-cta" data-tdp-post-type="tdp_library" data-custom-edit-handle="1">
                         {" "}
-                        <section className="elementor-section elementor-top-section elementor-element elementor-element-19c84cb elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="19c84cb" data-element_type="section" data-e-type="section">
+                        <section className="tdp-section tdp-top-section tdp-element tdp-element-19c84cb tdp-section-boxed tdp-section-height-default tdp-section-height-default" data-id="19c84cb" data-element_type="section" data-e-type="section">
                           {" "}
-                          <div className="elementor-container elementor-column-gap-no">
+                          <div className="tdp-container tdp-column-gap-no">
                             {" "}
-                            <div className="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-de2c58a" data-id="de2c58a" data-element_type="column" data-e-type="column">
+                            <div className="tdp-column tdp-col-100 tdp-top-column tdp-element tdp-element-de2c58a" data-id="de2c58a" data-element_type="column" data-e-type="column">
                               {" "}
-                              <div className="elementor-widget-wrap elementor-element-populated">
+                              <div className="tdp-widget-wrap tdp-element-populated">
                                 {" "}
-                                <div className="elementor-element elementor-element-19afc7a elementor-widget elementor-widget-post-info" data-id="19afc7a" data-element_type="widget" data-e-type="widget" data-widget_type="post-info.default">
+                                <div className="tdp-element tdp-element-19afc7a tdp-widget tdp-widget-post-info" data-id="19afc7a" data-element_type="widget" data-e-type="widget" data-widget_type="post-info.default">
                                   {" "}
-                                  <ul className="elementor-inline-items elementor-icon-list-items elementor-post-info">
+                                  <ul className="tdp-inline-items tdp-icon-list-items tdp-post-info">
                                     {" "}
-                                    <li className="elementor-icon-list-item elementor-repeater-item-d361108 elementor-inline-item" itemProp="about">
+                                    <li className="tdp-icon-list-item tdp-repeater-item-d361108 tdp-inline-item" itemProp="about">
                                       {" "}
-                                      <span className="elementor-icon-list-text elementor-post-info__item elementor-post-info__item--type-terms">
+                                      <span className="tdp-icon-list-text tdp-post-info__item tdp-post-info__item--type-terms">
                                         {" "}
-                                        <span className="elementor-post-info__terms-list">
+                                        <span className="tdp-post-info__terms-list">
                                           {" "}
-                                          <a href="/category/analysis/" className="elementor-post-info__terms-list-item">
+                                          <a href="/category/analysis/" className="tdp-post-info__terms-list-item">
                                             {"Omnicanal"}
                                           </a>
                                           {" "}
@@ -437,23 +437,23 @@ export default function PageAuthorAdmin({ path }: { path: string }) {
                                   {" "}
                                 </div>
                                 {" "}
-                                <div className="elementor-element elementor-element-f420d3f elementor-widget elementor-widget-theme-post-featured-image elementor-widget-image" data-id="f420d3f" data-element_type="widget" data-e-type="widget" data-widget_type="theme-post-featured-image.default">
+                                <div className="tdp-element tdp-element-f420d3f tdp-widget tdp-widget-theme-post-featured-image tdp-widget-image" data-id="f420d3f" data-element_type="widget" data-e-type="widget" data-widget_type="theme-post-featured-image.default">
                                   {" "}
                                   <a href="/en-todoip-te-entregamos-leads-calificados-en-tiempo-record-aumenta-tus-ventas-con-nuestra-ayuda/">
                                     {" "}
-                                    <img loading="lazy" width="768" height="512" src="/wp-content/uploads/2024/12/leads-1-768x512.webp" className="attachment-medium_large size-medium_large wp-image-990750" alt="Ícono de generación y calificación de leads" srcSet="/wp-content/uploads/2024/12/leads-1-768x512.webp 768w, /wp-content/uploads/2024/12/leads-1-300x200.webp 300w, /wp-content/uploads/2024/12/leads-1-1024x683.webp 1024w, /wp-content/uploads/2024/12/leads-1-1536x1024.webp 1536w, /wp-content/uploads/2024/12/leads-1.webp 1800w" sizes="(max-width: 768px) 100vw, 768px" />
+                                    <img loading="lazy" width="768" height="512" src="/assets/uploads/2024/12/leads-1-768x512.webp" className="attachment-medium_large size-medium_large img-990750" alt="Ícono de generación y calificación de leads" srcSet="/assets/uploads/2024/12/leads-1-768x512.webp 768w, /assets/uploads/2024/12/leads-1-300x200.webp 300w, /assets/uploads/2024/12/leads-1-1024x683.webp 1024w, /assets/uploads/2024/12/leads-1-1536x1024.webp 1536w, /assets/uploads/2024/12/leads-1.webp 1800w" sizes="(max-width: 768px) 100vw, 768px" />
                                     {" "}
                                   </a>
                                   {" "}
                                 </div>
                                 {" "}
-                                <div className="elementor-element elementor-element-1f17bbe elementor-align-justify elementor-widget elementor-widget-button" data-id="1f17bbe" data-element_type="widget" data-e-type="widget" data-widget_type="button.default">
+                                <div className="tdp-element tdp-element-1f17bbe tdp-align-justify tdp-widget tdp-widget-button" data-id="1f17bbe" data-element_type="widget" data-e-type="widget" data-widget_type="button.default">
                                   {" "}
-                                  <a className="elementor-button elementor-button-link elementor-size-sm" href="/en-todoip-te-entregamos-leads-calificados-en-tiempo-record-aumenta-tus-ventas-con-nuestra-ayuda/">
+                                  <a className="tdp-button tdp-button-link tdp-size-sm" href="/en-todoip-te-entregamos-leads-calificados-en-tiempo-record-aumenta-tus-ventas-con-nuestra-ayuda/">
                                     {" "}
-                                    <span className="elementor-button-content-wrapper">
+                                    <span className="tdp-button-content-wrapper">
                                       {" "}
-                                      <span className="elementor-button-text">
+                                      <span className="tdp-button-text">
                                         {"En TodoIP te entregamos leads calificados en tiempo récord aumenta tus ventas con nuestra ayuda."}
                                       </span>
                                       {" "}
@@ -463,7 +463,7 @@ export default function PageAuthorAdmin({ path }: { path: string }) {
                                   {" "}
                                 </div>
                                 {" "}
-                                <div className="elementor-element elementor-element-e8247c0 elementor-widget elementor-widget-theme-post-excerpt" data-id="e8247c0" data-element_type="widget" data-e-type="widget" data-widget_type="theme-post-excerpt.default">
+                                <div className="tdp-element tdp-element-e8247c0 tdp-widget tdp-widget-theme-post-excerpt" data-id="e8247c0" data-element_type="widget" data-e-type="widget" data-widget_type="theme-post-excerpt.default">
                                   {" Conecta con clientes ideales en tiempo récord y aumenta tus ventas con las herramientas de "}
                                 </div>
                                 {" "}
@@ -477,27 +477,27 @@ export default function PageAuthorAdmin({ path }: { path: string }) {
                         {" "}
                       </div>
                       {" "}
-                      <div data-elementor-type="loop-item" data-elementor-id="7839" className="elementor elementor-7839 e-loop-item e-loop-item-990730 post-990730 post type-post status-publish format-standard has-post-thumbnail hentry category-analysis tag-sin-cta" data-elementor-post-type="elementor_library" data-custom-edit-handle="1">
+                      <div data-tdp-type="loop-item" data-tdp-id="7839" className="tdp tdp-7839 e-loop-item e-loop-item-990730 post-990730 post type-post status-publish format-standard has-post-thumbnail hentry category-analysis tag-sin-cta" data-tdp-post-type="tdp_library" data-custom-edit-handle="1">
                         {" "}
-                        <section className="elementor-section elementor-top-section elementor-element elementor-element-19c84cb elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="19c84cb" data-element_type="section" data-e-type="section">
+                        <section className="tdp-section tdp-top-section tdp-element tdp-element-19c84cb tdp-section-boxed tdp-section-height-default tdp-section-height-default" data-id="19c84cb" data-element_type="section" data-e-type="section">
                           {" "}
-                          <div className="elementor-container elementor-column-gap-no">
+                          <div className="tdp-container tdp-column-gap-no">
                             {" "}
-                            <div className="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-de2c58a" data-id="de2c58a" data-element_type="column" data-e-type="column">
+                            <div className="tdp-column tdp-col-100 tdp-top-column tdp-element tdp-element-de2c58a" data-id="de2c58a" data-element_type="column" data-e-type="column">
                               {" "}
-                              <div className="elementor-widget-wrap elementor-element-populated">
+                              <div className="tdp-widget-wrap tdp-element-populated">
                                 {" "}
-                                <div className="elementor-element elementor-element-19afc7a elementor-widget elementor-widget-post-info" data-id="19afc7a" data-element_type="widget" data-e-type="widget" data-widget_type="post-info.default">
+                                <div className="tdp-element tdp-element-19afc7a tdp-widget tdp-widget-post-info" data-id="19afc7a" data-element_type="widget" data-e-type="widget" data-widget_type="post-info.default">
                                   {" "}
-                                  <ul className="elementor-inline-items elementor-icon-list-items elementor-post-info">
+                                  <ul className="tdp-inline-items tdp-icon-list-items tdp-post-info">
                                     {" "}
-                                    <li className="elementor-icon-list-item elementor-repeater-item-d361108 elementor-inline-item" itemProp="about">
+                                    <li className="tdp-icon-list-item tdp-repeater-item-d361108 tdp-inline-item" itemProp="about">
                                       {" "}
-                                      <span className="elementor-icon-list-text elementor-post-info__item elementor-post-info__item--type-terms">
+                                      <span className="tdp-icon-list-text tdp-post-info__item tdp-post-info__item--type-terms">
                                         {" "}
-                                        <span className="elementor-post-info__terms-list">
+                                        <span className="tdp-post-info__terms-list">
                                           {" "}
-                                          <a href="/category/analysis/" className="elementor-post-info__terms-list-item">
+                                          <a href="/category/analysis/" className="tdp-post-info__terms-list-item">
                                             {"Omnicanal"}
                                           </a>
                                           {" "}
@@ -511,23 +511,23 @@ export default function PageAuthorAdmin({ path }: { path: string }) {
                                   {" "}
                                 </div>
                                 {" "}
-                                <div className="elementor-element elementor-element-f420d3f elementor-widget elementor-widget-theme-post-featured-image elementor-widget-image" data-id="f420d3f" data-element_type="widget" data-e-type="widget" data-widget_type="theme-post-featured-image.default">
+                                <div className="tdp-element tdp-element-f420d3f tdp-widget tdp-widget-theme-post-featured-image tdp-widget-image" data-id="f420d3f" data-element_type="widget" data-e-type="widget" data-widget_type="theme-post-featured-image.default">
                                   {" "}
                                   <a href="/se-vienen-las-redes-5g-esta-usted-preparado/">
                                     {" "}
-                                    <img loading="lazy" width="768" height="512" src="/wp-content/uploads/2024/12/5G-1024x683-1-768x512.jpg" className="attachment-medium_large size-medium_large wp-image-990731" alt="" srcSet="/wp-content/uploads/2024/12/5G-1024x683-1-768x512.jpg 768w, /wp-content/uploads/2024/12/5G-1024x683-1-300x200.jpg 300w, /wp-content/uploads/2024/12/5G-1024x683-1.jpg 1024w" sizes="(max-width: 768px) 100vw, 768px" />
+                                    <img loading="lazy" width="768" height="512" src="/assets/uploads/2024/12/5G-1024x683-1-768x512.jpg" className="attachment-medium_large size-medium_large img-990731" alt="" srcSet="/assets/uploads/2024/12/5G-1024x683-1-768x512.jpg 768w, /assets/uploads/2024/12/5G-1024x683-1-300x200.jpg 300w, /assets/uploads/2024/12/5G-1024x683-1.jpg 1024w" sizes="(max-width: 768px) 100vw, 768px" />
                                     {" "}
                                   </a>
                                   {" "}
                                 </div>
                                 {" "}
-                                <div className="elementor-element elementor-element-1f17bbe elementor-align-justify elementor-widget elementor-widget-button" data-id="1f17bbe" data-element_type="widget" data-e-type="widget" data-widget_type="button.default">
+                                <div className="tdp-element tdp-element-1f17bbe tdp-align-justify tdp-widget tdp-widget-button" data-id="1f17bbe" data-element_type="widget" data-e-type="widget" data-widget_type="button.default">
                                   {" "}
-                                  <a className="elementor-button elementor-button-link elementor-size-sm" href="/se-vienen-las-redes-5g-esta-usted-preparado/">
+                                  <a className="tdp-button tdp-button-link tdp-size-sm" href="/se-vienen-las-redes-5g-esta-usted-preparado/">
                                     {" "}
-                                    <span className="elementor-button-content-wrapper">
+                                    <span className="tdp-button-content-wrapper">
                                       {" "}
-                                      <span className="elementor-button-text">
+                                      <span className="tdp-button-text">
                                         {"Se vienen las redes 5G ¿Está usted preparado?"}
                                       </span>
                                       {" "}
@@ -537,7 +537,7 @@ export default function PageAuthorAdmin({ path }: { path: string }) {
                                   {" "}
                                 </div>
                                 {" "}
-                                <div className="elementor-element elementor-element-e8247c0 elementor-widget elementor-widget-theme-post-excerpt" data-id="e8247c0" data-element_type="widget" data-e-type="widget" data-widget_type="theme-post-excerpt.default">
+                                <div className="tdp-element tdp-element-e8247c0 tdp-widget tdp-widget-theme-post-excerpt" data-id="e8247c0" data-element_type="widget" data-e-type="widget" data-widget_type="theme-post-excerpt.default">
                                   {" La tecnología 5G ofrece mayor velocidad, baja latencia y conexión masiva, revolucionando la comunicación y "}
                                 </div>
                                 {" "}
@@ -551,27 +551,27 @@ export default function PageAuthorAdmin({ path }: { path: string }) {
                         {" "}
                       </div>
                       {" "}
-                      <div data-elementor-type="loop-item" data-elementor-id="7839" className="elementor elementor-7839 e-loop-item e-loop-item-990703 post-990703 post type-post status-publish format-standard has-post-thumbnail hentry category-inteligencia-artificial tag-sin-cta" data-elementor-post-type="elementor_library" data-custom-edit-handle="1">
+                      <div data-tdp-type="loop-item" data-tdp-id="7839" className="tdp tdp-7839 e-loop-item e-loop-item-990703 post-990703 post type-post status-publish format-standard has-post-thumbnail hentry category-inteligencia-artificial tag-sin-cta" data-tdp-post-type="tdp_library" data-custom-edit-handle="1">
                         {" "}
-                        <section className="elementor-section elementor-top-section elementor-element elementor-element-19c84cb elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="19c84cb" data-element_type="section" data-e-type="section">
+                        <section className="tdp-section tdp-top-section tdp-element tdp-element-19c84cb tdp-section-boxed tdp-section-height-default tdp-section-height-default" data-id="19c84cb" data-element_type="section" data-e-type="section">
                           {" "}
-                          <div className="elementor-container elementor-column-gap-no">
+                          <div className="tdp-container tdp-column-gap-no">
                             {" "}
-                            <div className="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-de2c58a" data-id="de2c58a" data-element_type="column" data-e-type="column">
+                            <div className="tdp-column tdp-col-100 tdp-top-column tdp-element tdp-element-de2c58a" data-id="de2c58a" data-element_type="column" data-e-type="column">
                               {" "}
-                              <div className="elementor-widget-wrap elementor-element-populated">
+                              <div className="tdp-widget-wrap tdp-element-populated">
                                 {" "}
-                                <div className="elementor-element elementor-element-19afc7a elementor-widget elementor-widget-post-info" data-id="19afc7a" data-element_type="widget" data-e-type="widget" data-widget_type="post-info.default">
+                                <div className="tdp-element tdp-element-19afc7a tdp-widget tdp-widget-post-info" data-id="19afc7a" data-element_type="widget" data-e-type="widget" data-widget_type="post-info.default">
                                   {" "}
-                                  <ul className="elementor-inline-items elementor-icon-list-items elementor-post-info">
+                                  <ul className="tdp-inline-items tdp-icon-list-items tdp-post-info">
                                     {" "}
-                                    <li className="elementor-icon-list-item elementor-repeater-item-d361108 elementor-inline-item" itemProp="about">
+                                    <li className="tdp-icon-list-item tdp-repeater-item-d361108 tdp-inline-item" itemProp="about">
                                       {" "}
-                                      <span className="elementor-icon-list-text elementor-post-info__item elementor-post-info__item--type-terms">
+                                      <span className="tdp-icon-list-text tdp-post-info__item tdp-post-info__item--type-terms">
                                         {" "}
-                                        <span className="elementor-post-info__terms-list">
+                                        <span className="tdp-post-info__terms-list">
                                           {" "}
-                                          <a href="/category/inteligencia-artificial/" className="elementor-post-info__terms-list-item">
+                                          <a href="/category/inteligencia-artificial/" className="tdp-post-info__terms-list-item">
                                             {"Inteligencia Artificial"}
                                           </a>
                                           {" "}
@@ -585,23 +585,23 @@ export default function PageAuthorAdmin({ path }: { path: string }) {
                                   {" "}
                                 </div>
                                 {" "}
-                                <div className="elementor-element elementor-element-f420d3f elementor-widget elementor-widget-theme-post-featured-image elementor-widget-image" data-id="f420d3f" data-element_type="widget" data-e-type="widget" data-widget_type="theme-post-featured-image.default">
+                                <div className="tdp-element tdp-element-f420d3f tdp-widget tdp-widget-theme-post-featured-image tdp-widget-image" data-id="f420d3f" data-element_type="widget" data-e-type="widget" data-widget_type="theme-post-featured-image.default">
                                   {" "}
                                   <a href="/platzi-conf-2023/">
                                     {" "}
-                                    <img loading="lazy" width="720" height="722" src="/wp-content/uploads/2024/12/Imagen-de-WhatsApp-2023-09-sssa-las-16.09.15.jpg" className="attachment-medium_large size-medium_large wp-image-990706" alt="" srcSet="/wp-content/uploads/2024/12/Imagen-de-WhatsApp-2023-09-sssa-las-16.09.15.jpg 720w, /wp-content/uploads/2024/12/Imagen-de-WhatsApp-2023-09-sssa-las-16.09.15-300x300.jpg 300w, /wp-content/uploads/2024/12/Imagen-de-WhatsApp-2023-09-sssa-las-16.09.15-150x150.jpg 150w" sizes="(max-width: 720px) 100vw, 720px" />
+                                    <img loading="lazy" width="720" height="722" src="/assets/uploads/2024/12/Imagen-de-WhatsApp-2023-09-sssa-las-16.09.15.jpg" className="attachment-medium_large size-medium_large img-990706" alt="" srcSet="/assets/uploads/2024/12/Imagen-de-WhatsApp-2023-09-sssa-las-16.09.15.jpg 720w, /assets/uploads/2024/12/Imagen-de-WhatsApp-2023-09-sssa-las-16.09.15-300x300.jpg 300w, /assets/uploads/2024/12/Imagen-de-WhatsApp-2023-09-sssa-las-16.09.15-150x150.jpg 150w" sizes="(max-width: 720px) 100vw, 720px" />
                                     {" "}
                                   </a>
                                   {" "}
                                 </div>
                                 {" "}
-                                <div className="elementor-element elementor-element-1f17bbe elementor-align-justify elementor-widget elementor-widget-button" data-id="1f17bbe" data-element_type="widget" data-e-type="widget" data-widget_type="button.default">
+                                <div className="tdp-element tdp-element-1f17bbe tdp-align-justify tdp-widget tdp-widget-button" data-id="1f17bbe" data-element_type="widget" data-e-type="widget" data-widget_type="button.default">
                                   {" "}
-                                  <a className="elementor-button elementor-button-link elementor-size-sm" href="/platzi-conf-2023/">
+                                  <a className="tdp-button tdp-button-link tdp-size-sm" href="/platzi-conf-2023/">
                                     {" "}
-                                    <span className="elementor-button-content-wrapper">
+                                    <span className="tdp-button-content-wrapper">
                                       {" "}
-                                      <span className="elementor-button-text">
+                                      <span className="tdp-button-text">
                                         {"¡Platzi Conf 2023: Un viaje a través de la Inteligencia Artificial! 🚀💡"}
                                       </span>
                                       {" "}
@@ -611,7 +611,7 @@ export default function PageAuthorAdmin({ path }: { path: string }) {
                                   {" "}
                                 </div>
                                 {" "}
-                                <div className="elementor-element elementor-element-e8247c0 elementor-widget elementor-widget-theme-post-excerpt" data-id="e8247c0" data-element_type="widget" data-e-type="widget" data-widget_type="theme-post-excerpt.default">
+                                <div className="tdp-element tdp-element-e8247c0 tdp-widget tdp-widget-theme-post-excerpt" data-id="e8247c0" data-element_type="widget" data-e-type="widget" data-widget_type="theme-post-excerpt.default">
                                   {" Hoy queremos compartir con ustedes nuestra emocionante experiencia en Platzi Conf 2023, un evento que "}
                                 </div>
                                 {" "}
@@ -625,27 +625,27 @@ export default function PageAuthorAdmin({ path }: { path: string }) {
                         {" "}
                       </div>
                       {" "}
-                      <div data-elementor-type="loop-item" data-elementor-id="7839" className="elementor elementor-7839 e-loop-item e-loop-item-990697 post-990697 post type-post status-publish format-standard has-post-thumbnail hentry category-analysis tag-con-cta" data-elementor-post-type="elementor_library" data-custom-edit-handle="1">
+                      <div data-tdp-type="loop-item" data-tdp-id="7839" className="tdp tdp-7839 e-loop-item e-loop-item-990697 post-990697 post type-post status-publish format-standard has-post-thumbnail hentry category-analysis tag-con-cta" data-tdp-post-type="tdp_library" data-custom-edit-handle="1">
                         {" "}
-                        <section className="elementor-section elementor-top-section elementor-element elementor-element-19c84cb elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="19c84cb" data-element_type="section" data-e-type="section">
+                        <section className="tdp-section tdp-top-section tdp-element tdp-element-19c84cb tdp-section-boxed tdp-section-height-default tdp-section-height-default" data-id="19c84cb" data-element_type="section" data-e-type="section">
                           {" "}
-                          <div className="elementor-container elementor-column-gap-no">
+                          <div className="tdp-container tdp-column-gap-no">
                             {" "}
-                            <div className="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-de2c58a" data-id="de2c58a" data-element_type="column" data-e-type="column">
+                            <div className="tdp-column tdp-col-100 tdp-top-column tdp-element tdp-element-de2c58a" data-id="de2c58a" data-element_type="column" data-e-type="column">
                               {" "}
-                              <div className="elementor-widget-wrap elementor-element-populated">
+                              <div className="tdp-widget-wrap tdp-element-populated">
                                 {" "}
-                                <div className="elementor-element elementor-element-19afc7a elementor-widget elementor-widget-post-info" data-id="19afc7a" data-element_type="widget" data-e-type="widget" data-widget_type="post-info.default">
+                                <div className="tdp-element tdp-element-19afc7a tdp-widget tdp-widget-post-info" data-id="19afc7a" data-element_type="widget" data-e-type="widget" data-widget_type="post-info.default">
                                   {" "}
-                                  <ul className="elementor-inline-items elementor-icon-list-items elementor-post-info">
+                                  <ul className="tdp-inline-items tdp-icon-list-items tdp-post-info">
                                     {" "}
-                                    <li className="elementor-icon-list-item elementor-repeater-item-d361108 elementor-inline-item" itemProp="about">
+                                    <li className="tdp-icon-list-item tdp-repeater-item-d361108 tdp-inline-item" itemProp="about">
                                       {" "}
-                                      <span className="elementor-icon-list-text elementor-post-info__item elementor-post-info__item--type-terms">
+                                      <span className="tdp-icon-list-text tdp-post-info__item tdp-post-info__item--type-terms">
                                         {" "}
-                                        <span className="elementor-post-info__terms-list">
+                                        <span className="tdp-post-info__terms-list">
                                           {" "}
-                                          <a href="/category/analysis/" className="elementor-post-info__terms-list-item">
+                                          <a href="/category/analysis/" className="tdp-post-info__terms-list-item">
                                             {"Omnicanal"}
                                           </a>
                                           {" "}
@@ -659,23 +659,23 @@ export default function PageAuthorAdmin({ path }: { path: string }) {
                                   {" "}
                                 </div>
                                 {" "}
-                                <div className="elementor-element elementor-element-f420d3f elementor-widget elementor-widget-theme-post-featured-image elementor-widget-image" data-id="f420d3f" data-element_type="widget" data-e-type="widget" data-widget_type="theme-post-featured-image.default">
+                                <div className="tdp-element tdp-element-f420d3f tdp-widget tdp-widget-theme-post-featured-image tdp-widget-image" data-id="f420d3f" data-element_type="widget" data-e-type="widget" data-widget_type="theme-post-featured-image.default">
                                   {" "}
                                   <a href="/ventajas-de-tener-un-pbx-movil/">
                                     {" "}
-                                    <img loading="lazy" width="768" height="432" src="/wp-content/uploads/2024/12/Nuevo-proyecto39-1024x576-1-768x432.jpg" className="attachment-medium_large size-medium_large wp-image-990698" alt="" srcSet="/wp-content/uploads/2024/12/Nuevo-proyecto39-1024x576-1-768x432.jpg 768w, /wp-content/uploads/2024/12/Nuevo-proyecto39-1024x576-1-300x169.jpg 300w, /wp-content/uploads/2024/12/Nuevo-proyecto39-1024x576-1.jpg 1024w" sizes="(max-width: 768px) 100vw, 768px" />
+                                    <img loading="lazy" width="768" height="432" src="/assets/uploads/2024/12/Nuevo-proyecto39-1024x576-1-768x432.jpg" className="attachment-medium_large size-medium_large img-990698" alt="" srcSet="/assets/uploads/2024/12/Nuevo-proyecto39-1024x576-1-768x432.jpg 768w, /assets/uploads/2024/12/Nuevo-proyecto39-1024x576-1-300x169.jpg 300w, /assets/uploads/2024/12/Nuevo-proyecto39-1024x576-1.jpg 1024w" sizes="(max-width: 768px) 100vw, 768px" />
                                     {" "}
                                   </a>
                                   {" "}
                                 </div>
                                 {" "}
-                                <div className="elementor-element elementor-element-1f17bbe elementor-align-justify elementor-widget elementor-widget-button" data-id="1f17bbe" data-element_type="widget" data-e-type="widget" data-widget_type="button.default">
+                                <div className="tdp-element tdp-element-1f17bbe tdp-align-justify tdp-widget tdp-widget-button" data-id="1f17bbe" data-element_type="widget" data-e-type="widget" data-widget_type="button.default">
                                   {" "}
-                                  <a className="elementor-button elementor-button-link elementor-size-sm" href="/ventajas-de-tener-un-pbx-movil/">
+                                  <a className="tdp-button tdp-button-link tdp-size-sm" href="/ventajas-de-tener-un-pbx-movil/">
                                     {" "}
-                                    <span className="elementor-button-content-wrapper">
+                                    <span className="tdp-button-content-wrapper">
                                       {" "}
-                                      <span className="elementor-button-text">
+                                      <span className="tdp-button-text">
                                         {"Ventajas de tener un PBX Móvil en su empresa"}
                                       </span>
                                       {" "}
@@ -685,7 +685,7 @@ export default function PageAuthorAdmin({ path }: { path: string }) {
                                   {" "}
                                 </div>
                                 {" "}
-                                <div className="elementor-element elementor-element-e8247c0 elementor-widget elementor-widget-theme-post-excerpt" data-id="e8247c0" data-element_type="widget" data-e-type="widget" data-widget_type="theme-post-excerpt.default">
+                                <div className="tdp-element tdp-element-e8247c0 tdp-widget tdp-widget-theme-post-excerpt" data-id="e8247c0" data-element_type="widget" data-e-type="widget" data-widget_type="theme-post-excerpt.default">
                                   {" Un PBX móvil garantiza atención inmediata, optimiza costos, mejora trazabilidad, y adapta tu empresa a "}
                                 </div>
                                 {" "}
@@ -699,27 +699,27 @@ export default function PageAuthorAdmin({ path }: { path: string }) {
                         {" "}
                       </div>
                       {" "}
-                      <div data-elementor-type="loop-item" data-elementor-id="7839" className="elementor elementor-7839 e-loop-item e-loop-item-990687 post-990687 post type-post status-publish format-standard has-post-thumbnail hentry category-analysis tag-sin-cta" data-elementor-post-type="elementor_library" data-custom-edit-handle="1">
+                      <div data-tdp-type="loop-item" data-tdp-id="7839" className="tdp tdp-7839 e-loop-item e-loop-item-990687 post-990687 post type-post status-publish format-standard has-post-thumbnail hentry category-analysis tag-sin-cta" data-tdp-post-type="tdp_library" data-custom-edit-handle="1">
                         {" "}
-                        <section className="elementor-section elementor-top-section elementor-element elementor-element-19c84cb elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="19c84cb" data-element_type="section" data-e-type="section">
+                        <section className="tdp-section tdp-top-section tdp-element tdp-element-19c84cb tdp-section-boxed tdp-section-height-default tdp-section-height-default" data-id="19c84cb" data-element_type="section" data-e-type="section">
                           {" "}
-                          <div className="elementor-container elementor-column-gap-no">
+                          <div className="tdp-container tdp-column-gap-no">
                             {" "}
-                            <div className="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-de2c58a" data-id="de2c58a" data-element_type="column" data-e-type="column">
+                            <div className="tdp-column tdp-col-100 tdp-top-column tdp-element tdp-element-de2c58a" data-id="de2c58a" data-element_type="column" data-e-type="column">
                               {" "}
-                              <div className="elementor-widget-wrap elementor-element-populated">
+                              <div className="tdp-widget-wrap tdp-element-populated">
                                 {" "}
-                                <div className="elementor-element elementor-element-19afc7a elementor-widget elementor-widget-post-info" data-id="19afc7a" data-element_type="widget" data-e-type="widget" data-widget_type="post-info.default">
+                                <div className="tdp-element tdp-element-19afc7a tdp-widget tdp-widget-post-info" data-id="19afc7a" data-element_type="widget" data-e-type="widget" data-widget_type="post-info.default">
                                   {" "}
-                                  <ul className="elementor-inline-items elementor-icon-list-items elementor-post-info">
+                                  <ul className="tdp-inline-items tdp-icon-list-items tdp-post-info">
                                     {" "}
-                                    <li className="elementor-icon-list-item elementor-repeater-item-d361108 elementor-inline-item" itemProp="about">
+                                    <li className="tdp-icon-list-item tdp-repeater-item-d361108 tdp-inline-item" itemProp="about">
                                       {" "}
-                                      <span className="elementor-icon-list-text elementor-post-info__item elementor-post-info__item--type-terms">
+                                      <span className="tdp-icon-list-text tdp-post-info__item tdp-post-info__item--type-terms">
                                         {" "}
-                                        <span className="elementor-post-info__terms-list">
+                                        <span className="tdp-post-info__terms-list">
                                           {" "}
-                                          <a href="/category/analysis/" className="elementor-post-info__terms-list-item">
+                                          <a href="/category/analysis/" className="tdp-post-info__terms-list-item">
                                             {"Omnicanal"}
                                           </a>
                                           {" "}
@@ -733,23 +733,23 @@ export default function PageAuthorAdmin({ path }: { path: string }) {
                                   {" "}
                                 </div>
                                 {" "}
-                                <div className="elementor-element elementor-element-f420d3f elementor-widget elementor-widget-theme-post-featured-image elementor-widget-image" data-id="f420d3f" data-element_type="widget" data-e-type="widget" data-widget_type="theme-post-featured-image.default">
+                                <div className="tdp-element tdp-element-f420d3f tdp-widget tdp-widget-theme-post-featured-image tdp-widget-image" data-id="f420d3f" data-element_type="widget" data-e-type="widget" data-widget_type="theme-post-featured-image.default">
                                   {" "}
                                   <a href="/revolucionamos-la-comunicacion-omnicanal-lanzamiento-de-nuestras-nuevas-soluciones/">
                                     {" "}
-                                    <img loading="lazy" width="768" height="512" src="/wp-content/uploads/2024/12/Evento-3-1536x1024-1-768x512.jpg" className="attachment-medium_large size-medium_large wp-image-990689" alt="" srcSet="/wp-content/uploads/2024/12/Evento-3-1536x1024-1-768x512.jpg 768w, /wp-content/uploads/2024/12/Evento-3-1536x1024-1-300x200.jpg 300w, /wp-content/uploads/2024/12/Evento-3-1536x1024-1-1024x683.jpg 1024w, /wp-content/uploads/2024/12/Evento-3-1536x1024-1.jpg 1536w" sizes="(max-width: 768px) 100vw, 768px" />
+                                    <img loading="lazy" width="768" height="512" src="/assets/uploads/2024/12/Evento-3-1536x1024-1-768x512.jpg" className="attachment-medium_large size-medium_large img-990689" alt="" srcSet="/assets/uploads/2024/12/Evento-3-1536x1024-1-768x512.jpg 768w, /assets/uploads/2024/12/Evento-3-1536x1024-1-300x200.jpg 300w, /assets/uploads/2024/12/Evento-3-1536x1024-1-1024x683.jpg 1024w, /assets/uploads/2024/12/Evento-3-1536x1024-1.jpg 1536w" sizes="(max-width: 768px) 100vw, 768px" />
                                     {" "}
                                   </a>
                                   {" "}
                                 </div>
                                 {" "}
-                                <div className="elementor-element elementor-element-1f17bbe elementor-align-justify elementor-widget elementor-widget-button" data-id="1f17bbe" data-element_type="widget" data-e-type="widget" data-widget_type="button.default">
+                                <div className="tdp-element tdp-element-1f17bbe tdp-align-justify tdp-widget tdp-widget-button" data-id="1f17bbe" data-element_type="widget" data-e-type="widget" data-widget_type="button.default">
                                   {" "}
-                                  <a className="elementor-button elementor-button-link elementor-size-sm" href="/revolucionamos-la-comunicacion-omnicanal-lanzamiento-de-nuestras-nuevas-soluciones/">
+                                  <a className="tdp-button tdp-button-link tdp-size-sm" href="/revolucionamos-la-comunicacion-omnicanal-lanzamiento-de-nuestras-nuevas-soluciones/">
                                     {" "}
-                                    <span className="elementor-button-content-wrapper">
+                                    <span className="tdp-button-content-wrapper">
                                       {" "}
-                                      <span className="elementor-button-text">
+                                      <span className="tdp-button-text">
                                         {"Revolucionamos la comunicación omnicanal: lanzamiento de nuestras nuevas soluciones."}
                                       </span>
                                       {" "}
@@ -759,7 +759,7 @@ export default function PageAuthorAdmin({ path }: { path: string }) {
                                   {" "}
                                 </div>
                                 {" "}
-                                <div className="elementor-element elementor-element-e8247c0 elementor-widget elementor-widget-theme-post-excerpt" data-id="e8247c0" data-element_type="widget" data-e-type="widget" data-widget_type="theme-post-excerpt.default">
+                                <div className="tdp-element tdp-element-e8247c0 tdp-widget tdp-widget-theme-post-excerpt" data-id="e8247c0" data-element_type="widget" data-e-type="widget" data-widget_type="theme-post-excerpt.default">
                                   {" TodoIP revoluciona la comunicación omnicanal con nuevas soluciones innovadoras para clientes, aliados y proveedores. "}
                                 </div>
                                 {" "}
@@ -773,27 +773,27 @@ export default function PageAuthorAdmin({ path }: { path: string }) {
                         {" "}
                       </div>
                       {" "}
-                      <div data-elementor-type="loop-item" data-elementor-id="7839" className="elementor elementor-7839 e-loop-item e-loop-item-990661 post-990661 post type-post status-publish format-standard has-post-thumbnail hentry category-analysis tag-con-cta" data-elementor-post-type="elementor_library" data-custom-edit-handle="1">
+                      <div data-tdp-type="loop-item" data-tdp-id="7839" className="tdp tdp-7839 e-loop-item e-loop-item-990661 post-990661 post type-post status-publish format-standard has-post-thumbnail hentry category-analysis tag-con-cta" data-tdp-post-type="tdp_library" data-custom-edit-handle="1">
                         {" "}
-                        <section className="elementor-section elementor-top-section elementor-element elementor-element-19c84cb elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="19c84cb" data-element_type="section" data-e-type="section">
+                        <section className="tdp-section tdp-top-section tdp-element tdp-element-19c84cb tdp-section-boxed tdp-section-height-default tdp-section-height-default" data-id="19c84cb" data-element_type="section" data-e-type="section">
                           {" "}
-                          <div className="elementor-container elementor-column-gap-no">
+                          <div className="tdp-container tdp-column-gap-no">
                             {" "}
-                            <div className="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-de2c58a" data-id="de2c58a" data-element_type="column" data-e-type="column">
+                            <div className="tdp-column tdp-col-100 tdp-top-column tdp-element tdp-element-de2c58a" data-id="de2c58a" data-element_type="column" data-e-type="column">
                               {" "}
-                              <div className="elementor-widget-wrap elementor-element-populated">
+                              <div className="tdp-widget-wrap tdp-element-populated">
                                 {" "}
-                                <div className="elementor-element elementor-element-19afc7a elementor-widget elementor-widget-post-info" data-id="19afc7a" data-element_type="widget" data-e-type="widget" data-widget_type="post-info.default">
+                                <div className="tdp-element tdp-element-19afc7a tdp-widget tdp-widget-post-info" data-id="19afc7a" data-element_type="widget" data-e-type="widget" data-widget_type="post-info.default">
                                   {" "}
-                                  <ul className="elementor-inline-items elementor-icon-list-items elementor-post-info">
+                                  <ul className="tdp-inline-items tdp-icon-list-items tdp-post-info">
                                     {" "}
-                                    <li className="elementor-icon-list-item elementor-repeater-item-d361108 elementor-inline-item" itemProp="about">
+                                    <li className="tdp-icon-list-item tdp-repeater-item-d361108 tdp-inline-item" itemProp="about">
                                       {" "}
-                                      <span className="elementor-icon-list-text elementor-post-info__item elementor-post-info__item--type-terms">
+                                      <span className="tdp-icon-list-text tdp-post-info__item tdp-post-info__item--type-terms">
                                         {" "}
-                                        <span className="elementor-post-info__terms-list">
+                                        <span className="tdp-post-info__terms-list">
                                           {" "}
-                                          <a href="/category/analysis/" className="elementor-post-info__terms-list-item">
+                                          <a href="/category/analysis/" className="tdp-post-info__terms-list-item">
                                             {"Omnicanal"}
                                           </a>
                                           {" "}
@@ -807,23 +807,23 @@ export default function PageAuthorAdmin({ path }: { path: string }) {
                                   {" "}
                                 </div>
                                 {" "}
-                                <div className="elementor-element elementor-element-f420d3f elementor-widget elementor-widget-theme-post-featured-image elementor-widget-image" data-id="f420d3f" data-element_type="widget" data-e-type="widget" data-widget_type="theme-post-featured-image.default">
+                                <div className="tdp-element tdp-element-f420d3f tdp-widget tdp-widget-theme-post-featured-image tdp-widget-image" data-id="f420d3f" data-element_type="widget" data-e-type="widget" data-widget_type="theme-post-featured-image.default">
                                   {" "}
                                   <a href="/como-reducir-la-inasistencia-a-las-citas-medicas/">
                                     {" "}
-                                    <img loading="lazy" width="768" height="488" src="/wp-content/uploads/2024/12/bot-post-768x488.webp" className="attachment-medium_large size-medium_large wp-image-990663" alt="" srcSet="/wp-content/uploads/2024/12/bot-post-768x488.webp 768w, /wp-content/uploads/2024/12/bot-post-300x191.webp 300w, /wp-content/uploads/2024/12/bot-post-1024x651.webp 1024w, /wp-content/uploads/2024/12/bot-post.webp 1280w" sizes="(max-width: 768px) 100vw, 768px" />
+                                    <img loading="lazy" width="768" height="488" src="/assets/uploads/2024/12/bot-post-768x488.webp" className="attachment-medium_large size-medium_large img-990663" alt="" srcSet="/assets/uploads/2024/12/bot-post-768x488.webp 768w, /assets/uploads/2024/12/bot-post-300x191.webp 300w, /assets/uploads/2024/12/bot-post-1024x651.webp 1024w, /assets/uploads/2024/12/bot-post.webp 1280w" sizes="(max-width: 768px) 100vw, 768px" />
                                     {" "}
                                   </a>
                                   {" "}
                                 </div>
                                 {" "}
-                                <div className="elementor-element elementor-element-1f17bbe elementor-align-justify elementor-widget elementor-widget-button" data-id="1f17bbe" data-element_type="widget" data-e-type="widget" data-widget_type="button.default">
+                                <div className="tdp-element tdp-element-1f17bbe tdp-align-justify tdp-widget tdp-widget-button" data-id="1f17bbe" data-element_type="widget" data-e-type="widget" data-widget_type="button.default">
                                   {" "}
-                                  <a className="elementor-button elementor-button-link elementor-size-sm" href="/como-reducir-la-inasistencia-a-las-citas-medicas/">
+                                  <a className="tdp-button tdp-button-link tdp-size-sm" href="/como-reducir-la-inasistencia-a-las-citas-medicas/">
                                     {" "}
-                                    <span className="elementor-button-content-wrapper">
+                                    <span className="tdp-button-content-wrapper">
                                       {" "}
-                                      <span className="elementor-button-text">
+                                      <span className="tdp-button-text">
                                         {"¿Cómo reducir la inasistencia a las citas médicas?"}
                                       </span>
                                       {" "}
@@ -833,7 +833,7 @@ export default function PageAuthorAdmin({ path }: { path: string }) {
                                   {" "}
                                 </div>
                                 {" "}
-                                <div className="elementor-element elementor-element-e8247c0 elementor-widget elementor-widget-theme-post-excerpt" data-id="e8247c0" data-element_type="widget" data-e-type="widget" data-widget_type="theme-post-excerpt.default">
+                                <div className="tdp-element tdp-element-e8247c0 tdp-widget tdp-widget-theme-post-excerpt" data-id="e8247c0" data-element_type="widget" data-e-type="widget" data-widget_type="theme-post-excerpt.default">
                                   {" Descubre cómo reducir la inasistencia a citas médicas con soluciones innovadoras como WhatsApp API, mejorando "}
                                 </div>
                                 {" "}
@@ -859,13 +859,13 @@ export default function PageAuthorAdmin({ path }: { path: string }) {
                     {" "}
                     <div className="e-load-more-anchor" data-page="1" data-max-page="2" data-next-page="/author/admin/page/2/"></div>
                     {" "}
-                    <div className="e-loop__load-more elementor-button-wrapper">
+                    <div className="e-loop__load-more tdp-button-wrapper">
                       {" "}
-                      <a className="elementor-button elementor-size-sm" role="button">
+                      <a className="tdp-button tdp-size-sm" role="button">
                         {" "}
-                        <span className="elementor-button-content-wrapper">
+                        <span className="tdp-button-content-wrapper">
                           {" "}
-                          <span className="elementor-button-text">
+                          <span className="tdp-button-text">
                             {"Load More"}
                           </span>
                           {" "}
@@ -897,8 +897,8 @@ export default function PageAuthorAdmin({ path }: { path: string }) {
       <IdWidgetPostInfoCss path={path} />
       <IdEgeiroWhfab path={path} />
       <div className="pafe-break-point" data-pafe-break-point-md="767" data-pafe-break-point-lg="1024" data-pafe-ajax-url="/wp-admin/admin-ajax.php"></div>
-      <div data-pafe-form-builder-tinymce-upload="/wp-content/plugins/piotnet-addons-for-elementor-pro/inc/tinymce/tinymce-upload.php"></div>
-      <div data-pafe-plugin-url="/wp-content/plugins"></div>
+      <div data-pafe-form-builder-tinymce-upload="/assets/plugins/piotnet-addons-for-tdp-pro/inc/tinymce/tinymce-upload.php"></div>
+      <div data-pafe-plugin-url="/assets/plugins"></div>
     </>
   );
 }

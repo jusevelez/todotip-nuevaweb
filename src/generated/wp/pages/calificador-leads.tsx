@@ -6,7 +6,7 @@ import Header6979 from "../templates/Header6979";
 import Footer988867 from "../templates/Footer988867";
 import Popup9913 from "../templates/Popup9913";
 import Popup1670 from "../templates/Popup1670";
-import IdElementorPost10889Css from "../templates/IdElementorPost10889Css";
+import IdTdpPost10889Css from "../templates/IdTdpPost10889Css";
 import IdEgeiroWhfab from "../templates/IdEgeiroWhfab";
 
 export default function PageCalificadorLeads({ path }: { path: string }) {
@@ -19,39 +19,39 @@ export default function PageCalificadorLeads({ path }: { path: string }) {
         {" "}
         <div className="page-content">
           {" "}
-          <div data-elementor-type="wp-page" data-elementor-id="988734" className="elementor elementor-988734" data-elementor-post-type="page">
+          <div data-tdp-type="page" data-tdp-id="988734" className="tdp tdp-988734" data-tdp-post-type="page">
             {" "}
-            <section className="elementor-section elementor-top-section elementor-element elementor-element-4bf0d211 elementor-section-full_width elementor-section-content-middle elementor-section-height-default elementor-section-height-default" data-id="4bf0d211" data-element_type="section" data-e-type="section" data-settings={"{\"background_background\":\"classic\"}"}>
+            <section className="tdp-section tdp-top-section tdp-element tdp-element-4bf0d211 tdp-section-full_width tdp-section-content-middle tdp-section-height-default tdp-section-height-default" data-id="4bf0d211" data-element_type="section" data-e-type="section" data-settings={"{\"background_background\":\"classic\"}"}>
               {" "}
-              <div className="elementor-background-overlay"></div>
+              <div className="tdp-background-overlay"></div>
               {" "}
-              <div className="elementor-container elementor-column-gap-no">
+              <div className="tdp-container tdp-column-gap-no">
                 {" "}
-                <div className="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-6d80153f" data-id="6d80153f" data-element_type="column" data-e-type="column" data-settings={"{\"background_background\":\"classic\"}"}>
+                <div className="tdp-column tdp-col-100 tdp-top-column tdp-element tdp-element-6d80153f" data-id="6d80153f" data-element_type="column" data-e-type="column" data-settings={"{\"background_background\":\"classic\"}"}>
                   {" "}
-                  <div className="elementor-widget-wrap elementor-element-populated">
+                  <div className="tdp-widget-wrap tdp-element-populated">
                     {" "}
-                    <section className="elementor-section elementor-inner-section elementor-element elementor-element-572cf30b elementor-section-height-min-height elementor-section-content-bottom elementor-section-boxed elementor-section-height-default" data-id="572cf30b" data-element_type="section" data-e-type="section">
+                    <section className="tdp-section tdp-inner-section tdp-element tdp-element-572cf30b tdp-section-height-min-height tdp-section-content-bottom tdp-section-boxed tdp-section-height-default" data-id="572cf30b" data-element_type="section" data-e-type="section">
                       {" "}
-                      <div className="elementor-container elementor-column-gap-no">
+                      <div className="tdp-container tdp-column-gap-no">
                         {" "}
-                        <div className="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-a746733" data-id="a746733" data-element_type="column" data-e-type="column">
+                        <div className="tdp-column tdp-col-50 tdp-inner-column tdp-element tdp-element-a746733" data-id="a746733" data-element_type="column" data-e-type="column">
                           {" "}
-                          <div className="elementor-widget-wrap elementor-element-populated">
+                          <div className="tdp-widget-wrap tdp-element-populated">
                             {" "}
-                            <div className="elementor-element elementor-element-75198276 elementor-align-start elementor-widget__width-auto elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="75198276" data-element_type="widget" data-e-type="widget" data-widget_type="icon-list.default">
+                            <div className="tdp-element tdp-element-75198276 tdp-align-start tdp-widget__width-auto tdp-icon-list--layout-traditional tdp-list-item-link-full_width tdp-widget tdp-widget-icon-list" data-id="75198276" data-element_type="widget" data-e-type="widget" data-widget_type="icon-list.default">
                               {" "}
-                              <ul className="elementor-icon-list-items">
+                              <ul className="tdp-icon-list-items">
                                 {" "}
-                                <li className="elementor-icon-list-item">
+                                <li className="tdp-icon-list-item">
                                   {" "}
-                                  <span className="elementor-icon-list-icon">
+                                  <span className="tdp-icon-list-icon">
                                     {" "}
                                     <i aria-hidden="true" className="vamtamtheme- vamtam-theme-brand-symbol"></i>
                                     {" "}
                                   </span>
                                   {" "}
-                                  <span className="elementor-icon-list-text">
+                                  <span className="tdp-icon-list-text">
                                     {"Calificador de Leads"}
                                   </span>
                                   {" "}
@@ -61,9 +61,9 @@ export default function PageCalificadorLeads({ path }: { path: string }) {
                               {" "}
                             </div>
                             {" "}
-                            <div className="elementor-element elementor-element-194666e7 animated-slow elementor-widget elementor-widget-heading" data-id="194666e7" data-element_type="widget" data-e-type="widget" data-settings={"{\"_animation_tablet\":\"none\",\"_animation_delay\":300,\"_animation\":\"none\"}"} data-widget_type="heading.default">
+                            <div className="tdp-element tdp-element-194666e7 animated-slow tdp-widget tdp-widget-heading" data-id="194666e7" data-element_type="widget" data-e-type="widget" data-settings={"{\"_animation_tablet\":\"none\",\"_animation_delay\":300,\"_animation\":\"none\"}"} data-widget_type="heading.default">
                               {" "}
-                              <h1 className="elementor-heading-title elementor-size-default">
+                              <h1 className="tdp-heading-title tdp-size-default">
                                 {"Calificador de Leads para WhatsApp, Instagram y Messenger de Facebook "}
                               </h1>
                               {" "}
@@ -73,9 +73,9 @@ export default function PageCalificadorLeads({ path }: { path: string }) {
                           {" "}
                         </div>
                         {" "}
-                        <div className="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-54cdbe86 elementor-hidden-mobile" data-id="54cdbe86" data-element_type="column" data-e-type="column">
+                        <div className="tdp-column tdp-col-50 tdp-inner-column tdp-element tdp-element-54cdbe86 tdp-hidden-mobile" data-id="54cdbe86" data-element_type="column" data-e-type="column">
                           {" "}
-                          <div className="elementor-widget-wrap">
+                          <div className="tdp-widget-wrap">
                             {" "}
                           </div>
                           {" "}
@@ -93,27 +93,27 @@ export default function PageCalificadorLeads({ path }: { path: string }) {
               {" "}
             </section>
             {" "}
-            <section className="elementor-section elementor-top-section elementor-element elementor-element-bd12152 elementor-section-content-middle elementor-reverse-mobile elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="bd12152" data-element_type="section" data-e-type="section">
+            <section className="tdp-section tdp-top-section tdp-element tdp-element-bd12152 tdp-section-content-middle tdp-reverse-mobile tdp-section-boxed tdp-section-height-default tdp-section-height-default" data-id="bd12152" data-element_type="section" data-e-type="section">
               {" "}
-              <div className="elementor-container elementor-column-gap-no">
+              <div className="tdp-container tdp-column-gap-no">
                 {" "}
-                <div className="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-bc4bbb7" data-id="bc4bbb7" data-element_type="column" data-e-type="column">
+                <div className="tdp-column tdp-col-50 tdp-top-column tdp-element tdp-element-bc4bbb7" data-id="bc4bbb7" data-element_type="column" data-e-type="column">
                   {" "}
-                  <div className="elementor-widget-wrap elementor-element-populated">
+                  <div className="tdp-widget-wrap tdp-element-populated">
                     {" "}
-                    <div className="elementor-element elementor-element-bdd6817 elementor-align-start elementor-widget__width-initial elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="bdd6817" data-element_type="widget" data-e-type="widget" data-widget_type="icon-list.default">
+                    <div className="tdp-element tdp-element-bdd6817 tdp-align-start tdp-widget__width-initial tdp-icon-list--layout-traditional tdp-list-item-link-full_width tdp-widget tdp-widget-icon-list" data-id="bdd6817" data-element_type="widget" data-e-type="widget" data-widget_type="icon-list.default">
                       {" "}
-                      <ul className="elementor-icon-list-items">
+                      <ul className="tdp-icon-list-items">
                         {" "}
-                        <li className="elementor-icon-list-item">
+                        <li className="tdp-icon-list-item">
                           {" "}
-                          <span className="elementor-icon-list-icon">
+                          <span className="tdp-icon-list-icon">
                             {" "}
                             <i aria-hidden="true" className="vamtamtheme- vamtam-theme-brand-symbol"></i>
                             {" "}
                           </span>
                           {" "}
-                          <span className="elementor-icon-list-text">
+                          <span className="tdp-icon-list-text">
                             {"Sobre nuestra solución "}
                           </span>
                           {" "}
@@ -123,7 +123,7 @@ export default function PageCalificadorLeads({ path }: { path: string }) {
                       {" "}
                     </div>
                     {" "}
-                    <div className="elementor-element elementor-element-e7760bc elementor-widget__width-initial elementor-widget elementor-widget-text-editor" data-id="e7760bc" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
+                    <div className="tdp-element tdp-element-e7760bc tdp-widget__width-initial tdp-widget tdp-widget-text-editor" data-id="e7760bc" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
                       {" "}
                       <p>
                         {"Automatiza la calificación de leads en WhatsApp, Instagram y Messenger, respondiendo preguntas en tiempo real y mejorando la eficiencia de tu equipo de ventas. Aumenta la tasa de conversión al identificar y calificar leads según criterios personalizados."}
@@ -138,13 +138,13 @@ export default function PageCalificadorLeads({ path }: { path: string }) {
                   {" "}
                 </div>
                 {" "}
-                <div className="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-e197cf7" data-id="e197cf7" data-element_type="column" data-e-type="column">
+                <div className="tdp-column tdp-col-50 tdp-top-column tdp-element tdp-element-e197cf7" data-id="e197cf7" data-element_type="column" data-e-type="column">
                   {" "}
-                  <div className="elementor-widget-wrap elementor-element-populated">
+                  <div className="tdp-widget-wrap tdp-element-populated">
                     {" "}
-                    <div className="elementor-element elementor-element-90cb260 elementor-widget elementor-widget-image" data-id="90cb260" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
+                    <div className="tdp-element tdp-element-90cb260 tdp-widget tdp-widget-image" data-id="90cb260" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
                       {" "}
-                      <img decoding="async" src="/wp-content/uploads/elementor/thumbs/GettyImages-1125619200-square-9-rawr5cadzpwnr9f8jqhjvlpjz15xhnm916rdf74uv4.webp" title="GettyImages-1125619200-square (9)" alt="GettyImages-1125619200-square (9)" loading="lazy" />
+                      <img decoding="async" src="/assets/uploads/tdp/thumbs/GettyImages-1125619200-square-9-rawr5cadzpwnr9f8jqhjvlpjz15xhnm916rdf74uv4.webp" title="GettyImages-1125619200-square (9)" alt="GettyImages-1125619200-square (9)" loading="lazy" />
                       {" "}
                     </div>
                     {" "}
@@ -156,27 +156,27 @@ export default function PageCalificadorLeads({ path }: { path: string }) {
               {" "}
             </section>
             {" "}
-            <section className="elementor-section elementor-top-section elementor-element elementor-element-1af84932 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="1af84932" data-element_type="section" data-e-type="section">
+            <section className="tdp-section tdp-top-section tdp-element tdp-element-1af84932 tdp-section-boxed tdp-section-height-default tdp-section-height-default" data-id="1af84932" data-element_type="section" data-e-type="section">
               {" "}
-              <div className="elementor-container elementor-column-gap-no">
+              <div className="tdp-container tdp-column-gap-no">
                 {" "}
-                <div className="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-7be8fe17" data-id="7be8fe17" data-element_type="column" data-e-type="column">
+                <div className="tdp-column tdp-col-100 tdp-top-column tdp-element tdp-element-7be8fe17" data-id="7be8fe17" data-element_type="column" data-e-type="column">
                   {" "}
-                  <div className="elementor-widget-wrap elementor-element-populated">
+                  <div className="tdp-widget-wrap tdp-element-populated">
                     {" "}
-                    <div className="elementor-element elementor-element-5e29328c elementor-align-start elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="5e29328c" data-element_type="widget" data-e-type="widget" data-widget_type="icon-list.default">
+                    <div className="tdp-element tdp-element-5e29328c tdp-align-start tdp-icon-list--layout-traditional tdp-list-item-link-full_width tdp-widget tdp-widget-icon-list" data-id="5e29328c" data-element_type="widget" data-e-type="widget" data-widget_type="icon-list.default">
                       {" "}
-                      <ul className="elementor-icon-list-items">
+                      <ul className="tdp-icon-list-items">
                         {" "}
-                        <li className="elementor-icon-list-item">
+                        <li className="tdp-icon-list-item">
                           {" "}
-                          <span className="elementor-icon-list-icon">
+                          <span className="tdp-icon-list-icon">
                             {" "}
                             <i aria-hidden="true" className="vamtamtheme- vamtam-theme-brand-symbol"></i>
                             {" "}
                           </span>
                           {" "}
-                          <span className="elementor-icon-list-text">
+                          <span className="tdp-icon-list-text">
                             {"¿Por qué las empresas deberían contar con un Calificador de Leads?"}
                           </span>
                           {" "}
@@ -194,21 +194,21 @@ export default function PageCalificadorLeads({ path }: { path: string }) {
               {" "}
             </section>
             {" "}
-            <section className="elementor-section elementor-top-section elementor-element elementor-element-6ec62b81 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="6ec62b81" data-element_type="section" data-e-type="section">
+            <section className="tdp-section tdp-top-section tdp-element tdp-element-6ec62b81 tdp-section-boxed tdp-section-height-default tdp-section-height-default" data-id="6ec62b81" data-element_type="section" data-e-type="section">
               {" "}
-              <div className="elementor-container elementor-column-gap-no">
+              <div className="tdp-container tdp-column-gap-no">
                 {" "}
-                <div className="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-cdc7115" data-id="cdc7115" data-element_type="column" data-e-type="column">
+                <div className="tdp-column tdp-col-33 tdp-top-column tdp-element tdp-element-cdc7115" data-id="cdc7115" data-element_type="column" data-e-type="column">
                   {" "}
-                  <div className="elementor-widget-wrap elementor-element-populated">
+                  <div className="tdp-widget-wrap tdp-element-populated">
                     {" "}
-                    <div className="elementor-element elementor-element-68dbb7d elementor-position-inline-start elementor-mobile-position-inline-start elementor-view-default elementor-widget elementor-widget-icon-box" data-id="68dbb7d" data-element_type="widget" data-e-type="widget" data-widget_type="icon-box.default">
+                    <div className="tdp-element tdp-element-68dbb7d tdp-position-inline-start tdp-mobile-position-inline-start tdp-view-default tdp-widget tdp-widget-icon-box" data-id="68dbb7d" data-element_type="widget" data-e-type="widget" data-widget_type="icon-box.default">
                       {" "}
-                      <div className="elementor-icon-box-wrapper">
+                      <div className="tdp-icon-box-wrapper">
                         {" "}
-                        <div className="elementor-icon-box-icon">
+                        <div className="tdp-icon-box-icon">
                           {" "}
-                          <span className="elementor-icon">
+                          <span className="tdp-icon">
                             {" "}
                             <i aria-hidden="true" className="vamtamtheme- vamtam-theme-check"></i>
                             {" "}
@@ -216,9 +216,9 @@ export default function PageCalificadorLeads({ path }: { path: string }) {
                           {" "}
                         </div>
                         {" "}
-                        <div className="elementor-icon-box-content">
+                        <div className="tdp-icon-box-content">
                           {" "}
-                          <div className="elementor-icon-box-title">
+                          <div className="tdp-icon-box-title">
                             {" "}
                             <span>
                               {" Automatiza "}
@@ -226,7 +226,7 @@ export default function PageCalificadorLeads({ path }: { path: string }) {
                             {" "}
                           </div>
                           {" "}
-                          <p className="elementor-icon-box-description">
+                          <p className="tdp-icon-box-description">
                             {" Optimiza tareas repetitivas y responde de forma instantánea, mejorando la eficiencia operativa de tu equipo y permitiéndole concentrarse en clientes más cualificados. "}
                           </p>
                           {" "}
@@ -240,17 +240,17 @@ export default function PageCalificadorLeads({ path }: { path: string }) {
                   {" "}
                 </div>
                 {" "}
-                <div className="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-94f036f" data-id="94f036f" data-element_type="column" data-e-type="column">
+                <div className="tdp-column tdp-col-33 tdp-top-column tdp-element tdp-element-94f036f" data-id="94f036f" data-element_type="column" data-e-type="column">
                   {" "}
-                  <div className="elementor-widget-wrap elementor-element-populated">
+                  <div className="tdp-widget-wrap tdp-element-populated">
                     {" "}
-                    <div className="elementor-element elementor-element-6b2e1cd4 elementor-position-inline-start elementor-mobile-position-inline-start elementor-view-default elementor-widget elementor-widget-icon-box" data-id="6b2e1cd4" data-element_type="widget" data-e-type="widget" data-widget_type="icon-box.default">
+                    <div className="tdp-element tdp-element-6b2e1cd4 tdp-position-inline-start tdp-mobile-position-inline-start tdp-view-default tdp-widget tdp-widget-icon-box" data-id="6b2e1cd4" data-element_type="widget" data-e-type="widget" data-widget_type="icon-box.default">
                       {" "}
-                      <div className="elementor-icon-box-wrapper">
+                      <div className="tdp-icon-box-wrapper">
                         {" "}
-                        <div className="elementor-icon-box-icon">
+                        <div className="tdp-icon-box-icon">
                           {" "}
-                          <span className="elementor-icon">
+                          <span className="tdp-icon">
                             {" "}
                             <i aria-hidden="true" className="vamtamtheme- vamtam-theme-check"></i>
                             {" "}
@@ -258,9 +258,9 @@ export default function PageCalificadorLeads({ path }: { path: string }) {
                           {" "}
                         </div>
                         {" "}
-                        <div className="elementor-icon-box-content">
+                        <div className="tdp-icon-box-content">
                           {" "}
-                          <div className="elementor-icon-box-title">
+                          <div className="tdp-icon-box-title">
                             {" "}
                             <span>
                               {" Califica Leads "}
@@ -268,7 +268,7 @@ export default function PageCalificadorLeads({ path }: { path: string }) {
                             {" "}
                           </div>
                           {" "}
-                          <p className="elementor-icon-box-description">
+                          <p className="tdp-icon-box-description">
                             {" Identifica y califica automáticamente a clientes potenciales de forma eficaz, aplicando criterios personalizados que aumentan la probabilidad de conversión. "}
                           </p>
                           {" "}
@@ -282,17 +282,17 @@ export default function PageCalificadorLeads({ path }: { path: string }) {
                   {" "}
                 </div>
                 {" "}
-                <div className="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-36d1ad69" data-id="36d1ad69" data-element_type="column" data-e-type="column">
+                <div className="tdp-column tdp-col-33 tdp-top-column tdp-element tdp-element-36d1ad69" data-id="36d1ad69" data-element_type="column" data-e-type="column">
                   {" "}
-                  <div className="elementor-widget-wrap elementor-element-populated">
+                  <div className="tdp-widget-wrap tdp-element-populated">
                     {" "}
-                    <div className="elementor-element elementor-element-2521cf67 elementor-position-inline-start elementor-mobile-position-inline-start elementor-view-default elementor-widget elementor-widget-icon-box" data-id="2521cf67" data-element_type="widget" data-e-type="widget" data-widget_type="icon-box.default">
+                    <div className="tdp-element tdp-element-2521cf67 tdp-position-inline-start tdp-mobile-position-inline-start tdp-view-default tdp-widget tdp-widget-icon-box" data-id="2521cf67" data-element_type="widget" data-e-type="widget" data-widget_type="icon-box.default">
                       {" "}
-                      <div className="elementor-icon-box-wrapper">
+                      <div className="tdp-icon-box-wrapper">
                         {" "}
-                        <div className="elementor-icon-box-icon">
+                        <div className="tdp-icon-box-icon">
                           {" "}
-                          <span className="elementor-icon">
+                          <span className="tdp-icon">
                             {" "}
                             <i aria-hidden="true" className="vamtamtheme- vamtam-theme-check"></i>
                             {" "}
@@ -300,9 +300,9 @@ export default function PageCalificadorLeads({ path }: { path: string }) {
                           {" "}
                         </div>
                         {" "}
-                        <div className="elementor-icon-box-content">
+                        <div className="tdp-icon-box-content">
                           {" "}
-                          <div className="elementor-icon-box-title">
+                          <div className="tdp-icon-box-title">
                             {" "}
                             <span>
                               {" Convierte "}
@@ -310,7 +310,7 @@ export default function PageCalificadorLeads({ path }: { path: string }) {
                             {" "}
                           </div>
                           {" "}
-                          <p className="elementor-icon-box-description">
+                          <p className="tdp-icon-box-description">
                             {" Maximiza la captación de oportunidades al nutrir y guiar a los leads más calificados a través del embudo de ventas, incrementando la tasa de cierre. "}
                           </p>
                           {" "}
@@ -328,55 +328,55 @@ export default function PageCalificadorLeads({ path }: { path: string }) {
               {" "}
             </section>
             {" "}
-            <section className="elementor-section elementor-top-section elementor-element elementor-element-10009d7 elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="10009d7" data-element_type="section" data-e-type="section">
+            <section className="tdp-section tdp-top-section tdp-element tdp-element-10009d7 tdp-section-full_width tdp-section-height-default tdp-section-height-default" data-id="10009d7" data-element_type="section" data-e-type="section">
               {" "}
-              <div className="elementor-container elementor-column-gap-no">
+              <div className="tdp-container tdp-column-gap-no">
                 {" "}
-                <div className="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-2910740a" data-id="2910740a" data-element_type="column" data-e-type="column">
+                <div className="tdp-column tdp-col-100 tdp-top-column tdp-element tdp-element-2910740a" data-id="2910740a" data-element_type="column" data-e-type="column">
                   {" "}
-                  <div className="elementor-widget-wrap elementor-element-populated">
+                  <div className="tdp-widget-wrap tdp-element-populated">
                     {" "}
-                    <div className="elementor-element elementor-element-4b4a3e9c elementor-absolute elementor-widget elementor-widget-template" data-id="4b4a3e9c" data-element_type="widget" data-e-type="widget" data-settings={"{\"_position\":\"absolute\"}"} data-widget_type="template.default">
+                    <div className="tdp-element tdp-element-4b4a3e9c tdp-absolute tdp-widget tdp-widget-template" data-id="4b4a3e9c" data-element_type="widget" data-e-type="widget" data-settings={"{\"_position\":\"absolute\"}"} data-widget_type="template.default">
                       {" "}
-                      <div className="elementor-widget-container">
+                      <div className="tdp-widget-container">
                         {" "}
-                        <div className="elementor-template">
+                        <div className="tdp-template">
                           {" "}
-                          <div data-elementor-type="section" data-elementor-id="10889" className="elementor elementor-10889" data-elementor-post-type="elementor_library">
+                          <div data-tdp-type="section" data-tdp-id="10889" className="tdp tdp-10889" data-tdp-post-type="tdp_library">
                             {" "}
-                            <section className="elementor-section elementor-top-section elementor-element elementor-element-aff5d0f elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="aff5d0f" data-element_type="section" data-e-type="section" data-settings={"{\"motion_fx_motion_fx_scrolling\":\"yes\",\"motion_fx_translateY_effect\":\"yes\",\"motion_fx_translateY_speed\":{\"unit\":\"px\",\"size\":1,\"sizes\":[]},\"motion_fx_translateY_affectedRange\":{\"unit\":\"%\",\"size\":\"\",\"sizes\":{\"start\":0,\"end\":58}},\"motion_fx_devices\":[\"desktop\"]}"}>
+                            <section className="tdp-section tdp-top-section tdp-element tdp-element-aff5d0f tdp-section-full_width tdp-section-height-default tdp-section-height-default" data-id="aff5d0f" data-element_type="section" data-e-type="section" data-settings={"{\"motion_fx_motion_fx_scrolling\":\"yes\",\"motion_fx_translateY_effect\":\"yes\",\"motion_fx_translateY_speed\":{\"unit\":\"px\",\"size\":1,\"sizes\":[]},\"motion_fx_translateY_affectedRange\":{\"unit\":\"%\",\"size\":\"\",\"sizes\":{\"start\":0,\"end\":58}},\"motion_fx_devices\":[\"desktop\"]}"}>
                               {" "}
-                              <div className="elementor-container elementor-column-gap-no">
+                              <div className="tdp-container tdp-column-gap-no">
                                 {" "}
-                                <div className="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-70019ce" data-id="70019ce" data-element_type="column" data-e-type="column">
+                                <div className="tdp-column tdp-col-100 tdp-top-column tdp-element tdp-element-70019ce" data-id="70019ce" data-element_type="column" data-e-type="column">
                                   {" "}
-                                  <div className="elementor-widget-wrap elementor-element-populated">
+                                  <div className="tdp-widget-wrap tdp-element-populated">
                                     {" "}
-                                    <div className="elementor-element elementor-element-6ed649e elementor-widget__width-initial e-transform elementor-absolute elementor-widget elementor-widget-spacer" data-id="6ed649e" data-element_type="widget" data-e-type="widget" data-settings={"{\"_transform_skewX_effect\":{\"unit\":\"px\",\"size\":-20,\"sizes\":[]},\"_position\":\"absolute\",\"_transform_skewX_effect_tablet\":{\"unit\":\"deg\",\"size\":\"\",\"sizes\":[]},\"_transform_skewX_effect_mobile\":{\"unit\":\"deg\",\"size\":\"\",\"sizes\":[]},\"_transform_skewY_effect\":{\"unit\":\"px\",\"size\":\"\",\"sizes\":[]},\"_transform_skewY_effect_tablet\":{\"unit\":\"deg\",\"size\":\"\",\"sizes\":[]},\"_transform_skewY_effect_mobile\":{\"unit\":\"deg\",\"size\":\"\",\"sizes\":[]}}"} data-widget_type="spacer.default">
+                                    <div className="tdp-element tdp-element-6ed649e tdp-widget__width-initial e-transform tdp-absolute tdp-widget tdp-widget-spacer" data-id="6ed649e" data-element_type="widget" data-e-type="widget" data-settings={"{\"_transform_skewX_effect\":{\"unit\":\"px\",\"size\":-20,\"sizes\":[]},\"_position\":\"absolute\",\"_transform_skewX_effect_tablet\":{\"unit\":\"deg\",\"size\":\"\",\"sizes\":[]},\"_transform_skewX_effect_mobile\":{\"unit\":\"deg\",\"size\":\"\",\"sizes\":[]},\"_transform_skewY_effect\":{\"unit\":\"px\",\"size\":\"\",\"sizes\":[]},\"_transform_skewY_effect_tablet\":{\"unit\":\"deg\",\"size\":\"\",\"sizes\":[]},\"_transform_skewY_effect_mobile\":{\"unit\":\"deg\",\"size\":\"\",\"sizes\":[]}}"} data-widget_type="spacer.default">
                                       {" "}
-                                      <div className="elementor-spacer">
+                                      <div className="tdp-spacer">
                                         {" "}
-                                        <div className="elementor-spacer-inner"></div>
+                                        <div className="tdp-spacer-inner"></div>
                                         {" "}
                                       </div>
                                       {" "}
                                     </div>
                                     {" "}
-                                    <div className="elementor-element elementor-element-c25e4d3 elementor-widget__width-initial e-transform elementor-absolute elementor-widget elementor-widget-spacer" data-id="c25e4d3" data-element_type="widget" data-e-type="widget" data-settings={"{\"_transform_skewX_effect\":{\"unit\":\"px\",\"size\":-20,\"sizes\":[]},\"_position\":\"absolute\",\"_transform_skewX_effect_tablet\":{\"unit\":\"deg\",\"size\":\"\",\"sizes\":[]},\"_transform_skewX_effect_mobile\":{\"unit\":\"deg\",\"size\":\"\",\"sizes\":[]},\"_transform_skewY_effect\":{\"unit\":\"px\",\"size\":\"\",\"sizes\":[]},\"_transform_skewY_effect_tablet\":{\"unit\":\"deg\",\"size\":\"\",\"sizes\":[]},\"_transform_skewY_effect_mobile\":{\"unit\":\"deg\",\"size\":\"\",\"sizes\":[]}}"} data-widget_type="spacer.default">
+                                    <div className="tdp-element tdp-element-c25e4d3 tdp-widget__width-initial e-transform tdp-absolute tdp-widget tdp-widget-spacer" data-id="c25e4d3" data-element_type="widget" data-e-type="widget" data-settings={"{\"_transform_skewX_effect\":{\"unit\":\"px\",\"size\":-20,\"sizes\":[]},\"_position\":\"absolute\",\"_transform_skewX_effect_tablet\":{\"unit\":\"deg\",\"size\":\"\",\"sizes\":[]},\"_transform_skewX_effect_mobile\":{\"unit\":\"deg\",\"size\":\"\",\"sizes\":[]},\"_transform_skewY_effect\":{\"unit\":\"px\",\"size\":\"\",\"sizes\":[]},\"_transform_skewY_effect_tablet\":{\"unit\":\"deg\",\"size\":\"\",\"sizes\":[]},\"_transform_skewY_effect_mobile\":{\"unit\":\"deg\",\"size\":\"\",\"sizes\":[]}}"} data-widget_type="spacer.default">
                                       {" "}
-                                      <div className="elementor-spacer">
+                                      <div className="tdp-spacer">
                                         {" "}
-                                        <div className="elementor-spacer-inner"></div>
+                                        <div className="tdp-spacer-inner"></div>
                                         {" "}
                                       </div>
                                       {" "}
                                     </div>
                                     {" "}
-                                    <div className="elementor-element elementor-element-71e2d13 elementor-widget__width-initial e-transform elementor-absolute elementor-widget elementor-widget-spacer" data-id="71e2d13" data-element_type="widget" data-e-type="widget" data-settings={"{\"_transform_skewX_effect\":{\"unit\":\"px\",\"size\":-20,\"sizes\":[]},\"_position\":\"absolute\",\"_transform_skewX_effect_tablet\":{\"unit\":\"deg\",\"size\":\"\",\"sizes\":[]},\"_transform_skewX_effect_mobile\":{\"unit\":\"deg\",\"size\":\"\",\"sizes\":[]},\"_transform_skewY_effect\":{\"unit\":\"px\",\"size\":\"\",\"sizes\":[]},\"_transform_skewY_effect_tablet\":{\"unit\":\"deg\",\"size\":\"\",\"sizes\":[]},\"_transform_skewY_effect_mobile\":{\"unit\":\"deg\",\"size\":\"\",\"sizes\":[]}}"} data-widget_type="spacer.default">
+                                    <div className="tdp-element tdp-element-71e2d13 tdp-widget__width-initial e-transform tdp-absolute tdp-widget tdp-widget-spacer" data-id="71e2d13" data-element_type="widget" data-e-type="widget" data-settings={"{\"_transform_skewX_effect\":{\"unit\":\"px\",\"size\":-20,\"sizes\":[]},\"_position\":\"absolute\",\"_transform_skewX_effect_tablet\":{\"unit\":\"deg\",\"size\":\"\",\"sizes\":[]},\"_transform_skewX_effect_mobile\":{\"unit\":\"deg\",\"size\":\"\",\"sizes\":[]},\"_transform_skewY_effect\":{\"unit\":\"px\",\"size\":\"\",\"sizes\":[]},\"_transform_skewY_effect_tablet\":{\"unit\":\"deg\",\"size\":\"\",\"sizes\":[]},\"_transform_skewY_effect_mobile\":{\"unit\":\"deg\",\"size\":\"\",\"sizes\":[]}}"} data-widget_type="spacer.default">
                                       {" "}
-                                      <div className="elementor-spacer">
+                                      <div className="tdp-spacer">
                                         {" "}
-                                        <div className="elementor-spacer-inner"></div>
+                                        <div className="tdp-spacer-inner"></div>
                                         {" "}
                                       </div>
                                       {" "}
@@ -398,27 +398,27 @@ export default function PageCalificadorLeads({ path }: { path: string }) {
                       {" "}
                     </div>
                     {" "}
-                    <section className="elementor-section elementor-inner-section elementor-element elementor-element-5eaa9829 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="5eaa9829" data-element_type="section" data-e-type="section" data-settings={"{\"background_background\":\"classic\"}"}>
+                    <section className="tdp-section tdp-inner-section tdp-element tdp-element-5eaa9829 tdp-section-boxed tdp-section-height-default tdp-section-height-default" data-id="5eaa9829" data-element_type="section" data-e-type="section" data-settings={"{\"background_background\":\"classic\"}"}>
                       {" "}
-                      <div className="elementor-container elementor-column-gap-no">
+                      <div className="tdp-container tdp-column-gap-no">
                         {" "}
-                        <div className="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-224bcc38" data-id="224bcc38" data-element_type="column" data-e-type="column">
+                        <div className="tdp-column tdp-col-100 tdp-inner-column tdp-element tdp-element-224bcc38" data-id="224bcc38" data-element_type="column" data-e-type="column">
                           {" "}
-                          <div className="elementor-widget-wrap elementor-element-populated">
+                          <div className="tdp-widget-wrap tdp-element-populated">
                             {" "}
-                            <div className="elementor-element elementor-element-637195c4 elementor-align-start elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="637195c4" data-element_type="widget" data-e-type="widget" data-widget_type="icon-list.default">
+                            <div className="tdp-element tdp-element-637195c4 tdp-align-start tdp-icon-list--layout-traditional tdp-list-item-link-full_width tdp-widget tdp-widget-icon-list" data-id="637195c4" data-element_type="widget" data-e-type="widget" data-widget_type="icon-list.default">
                               {" "}
-                              <ul className="elementor-icon-list-items">
+                              <ul className="tdp-icon-list-items">
                                 {" "}
-                                <li className="elementor-icon-list-item">
+                                <li className="tdp-icon-list-item">
                                   {" "}
-                                  <span className="elementor-icon-list-icon">
+                                  <span className="tdp-icon-list-icon">
                                     {" "}
                                     <i aria-hidden="true" className="vamtamtheme- vamtam-theme-brand-symbol"></i>
                                     {" "}
                                   </span>
                                   {" "}
-                                  <span className="elementor-icon-list-text">
+                                  <span className="tdp-icon-list-text">
                                     {"Características"}
                                   </span>
                                   {" "}
@@ -428,9 +428,9 @@ export default function PageCalificadorLeads({ path }: { path: string }) {
                               {" "}
                             </div>
                             {" "}
-                            <div className="elementor-element elementor-element-6f9fec0b elementor-widget__width-initial elementor-widget elementor-widget-heading" data-id="6f9fec0b" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+                            <div className="tdp-element tdp-element-6f9fec0b tdp-widget__width-initial tdp-widget tdp-widget-heading" data-id="6f9fec0b" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
                               {" "}
-                              <h2 className="elementor-heading-title elementor-size-default">
+                              <h2 className="tdp-heading-title tdp-size-default">
                                 {"Funcionalidades de nuestro Calificador de Leads para WhatsApp, Instagram y Messenger "}
                               </h2>
                               {" "}
@@ -444,37 +444,37 @@ export default function PageCalificadorLeads({ path }: { path: string }) {
                       {" "}
                     </section>
                     {" "}
-                    <section className="elementor-section elementor-inner-section elementor-element elementor-element-511cef7 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="511cef7" data-element_type="section" data-e-type="section" data-settings={"{\"background_background\":\"classic\"}"}>
+                    <section className="tdp-section tdp-inner-section tdp-element tdp-element-511cef7 tdp-section-boxed tdp-section-height-default tdp-section-height-default" data-id="511cef7" data-element_type="section" data-e-type="section" data-settings={"{\"background_background\":\"classic\"}"}>
                       {" "}
-                      <div className="elementor-container elementor-column-gap-no">
+                      <div className="tdp-container tdp-column-gap-no">
                         {" "}
-                        <div className="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-4f216113" data-id="4f216113" data-element_type="column" data-e-type="column" data-settings={"{\"background_background\":\"classic\"}"}>
+                        <div className="tdp-column tdp-col-25 tdp-inner-column tdp-element tdp-element-4f216113" data-id="4f216113" data-element_type="column" data-e-type="column" data-settings={"{\"background_background\":\"classic\"}"}>
                           {" "}
-                          <div className="elementor-widget-wrap elementor-element-populated">
+                          <div className="tdp-widget-wrap tdp-element-populated">
                             {" "}
-                            <div className="elementor-element elementor-element-2dba96d8 elementor-widget elementor-widget-menu-anchor" data-id="2dba96d8" data-element_type="widget" data-e-type="widget" data-widget_type="menu-anchor.default">
+                            <div className="tdp-element tdp-element-2dba96d8 tdp-widget tdp-widget-menu-anchor" data-id="2dba96d8" data-element_type="widget" data-e-type="widget" data-widget_type="menu-anchor.default">
                               {" "}
-                              <div className="elementor-menu-anchor" id="Investment"></div>
+                              <div className="tdp-menu-anchor" id="Investment"></div>
                               {" "}
                             </div>
                             {" "}
-                            <div className="elementor-element elementor-element-52e0e438 elementor-widget elementor-widget-spacer" data-id="52e0e438" data-element_type="widget" data-e-type="widget" data-widget_type="spacer.default">
+                            <div className="tdp-element tdp-element-52e0e438 tdp-widget tdp-widget-spacer" data-id="52e0e438" data-element_type="widget" data-e-type="widget" data-widget_type="spacer.default">
                               {" "}
-                              <div className="elementor-spacer">
+                              <div className="tdp-spacer">
                                 {" "}
-                                <div className="elementor-spacer-inner"></div>
+                                <div className="tdp-spacer-inner"></div>
                                 {" "}
                               </div>
                               {" "}
                             </div>
                             {" "}
-                            <div className="elementor-element elementor-element-51bff4ff elementor-view-default elementor-position-block-start elementor-mobile-position-block-start elementor-widget elementor-widget-icon-box" data-id="51bff4ff" data-element_type="widget" data-e-type="widget" data-widget_type="icon-box.default">
+                            <div className="tdp-element tdp-element-51bff4ff tdp-view-default tdp-position-block-start tdp-mobile-position-block-start tdp-widget tdp-widget-icon-box" data-id="51bff4ff" data-element_type="widget" data-e-type="widget" data-widget_type="icon-box.default">
                               {" "}
-                              <div className="elementor-icon-box-wrapper">
+                              <div className="tdp-icon-box-wrapper">
                                 {" "}
-                                <div className="elementor-icon-box-icon">
+                                <div className="tdp-icon-box-icon">
                                   {" "}
-                                  <span className="elementor-icon">
+                                  <span className="tdp-icon">
                                     {" "}
                                     <i aria-hidden="true" className="vamtamtheme- vamtam-theme-check"></i>
                                     {" "}
@@ -482,9 +482,9 @@ export default function PageCalificadorLeads({ path }: { path: string }) {
                                   {" "}
                                 </div>
                                 {" "}
-                                <div className="elementor-icon-box-content">
+                                <div className="tdp-icon-box-content">
                                   {" "}
-                                  <h5 className="elementor-icon-box-title">
+                                  <h5 className="tdp-icon-box-title">
                                     {" "}
                                     <span>
                                       {" Calificador Omnicanal "}
@@ -492,7 +492,7 @@ export default function PageCalificadorLeads({ path }: { path: string }) {
                                     {" "}
                                   </h5>
                                   {" "}
-                                  <p className="elementor-icon-box-description">
+                                  <p className="tdp-icon-box-description">
                                     {" Bots para WhatsApp, Instagram y Facebook Messenger que unifican las conversaciones de distintos canales en un solo lugar. "}
                                   </p>
                                   {" "}
@@ -506,33 +506,33 @@ export default function PageCalificadorLeads({ path }: { path: string }) {
                           {" "}
                         </div>
                         {" "}
-                        <div className="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-56a92ab7" data-id="56a92ab7" data-element_type="column" data-e-type="column" data-settings={"{\"background_background\":\"classic\"}"}>
+                        <div className="tdp-column tdp-col-25 tdp-inner-column tdp-element tdp-element-56a92ab7" data-id="56a92ab7" data-element_type="column" data-e-type="column" data-settings={"{\"background_background\":\"classic\"}"}>
                           {" "}
-                          <div className="elementor-widget-wrap elementor-element-populated">
+                          <div className="tdp-widget-wrap tdp-element-populated">
                             {" "}
-                            <div className="elementor-element elementor-element-30a85c9d elementor-widget elementor-widget-menu-anchor" data-id="30a85c9d" data-element_type="widget" data-e-type="widget" data-widget_type="menu-anchor.default">
+                            <div className="tdp-element tdp-element-30a85c9d tdp-widget tdp-widget-menu-anchor" data-id="30a85c9d" data-element_type="widget" data-e-type="widget" data-widget_type="menu-anchor.default">
                               {" "}
-                              <div className="elementor-menu-anchor" id="Retirement"></div>
+                              <div className="tdp-menu-anchor" id="Retirement"></div>
                               {" "}
                             </div>
                             {" "}
-                            <div className="elementor-element elementor-element-2ca08ee5 elementor-widget elementor-widget-spacer" data-id="2ca08ee5" data-element_type="widget" data-e-type="widget" data-widget_type="spacer.default">
+                            <div className="tdp-element tdp-element-2ca08ee5 tdp-widget tdp-widget-spacer" data-id="2ca08ee5" data-element_type="widget" data-e-type="widget" data-widget_type="spacer.default">
                               {" "}
-                              <div className="elementor-spacer">
+                              <div className="tdp-spacer">
                                 {" "}
-                                <div className="elementor-spacer-inner"></div>
+                                <div className="tdp-spacer-inner"></div>
                                 {" "}
                               </div>
                               {" "}
                             </div>
                             {" "}
-                            <div className="elementor-element elementor-element-6d495eec elementor-view-default elementor-position-block-start elementor-mobile-position-block-start elementor-widget elementor-widget-icon-box" data-id="6d495eec" data-element_type="widget" data-e-type="widget" data-widget_type="icon-box.default">
+                            <div className="tdp-element tdp-element-6d495eec tdp-view-default tdp-position-block-start tdp-mobile-position-block-start tdp-widget tdp-widget-icon-box" data-id="6d495eec" data-element_type="widget" data-e-type="widget" data-widget_type="icon-box.default">
                               {" "}
-                              <div className="elementor-icon-box-wrapper">
+                              <div className="tdp-icon-box-wrapper">
                                 {" "}
-                                <div className="elementor-icon-box-icon">
+                                <div className="tdp-icon-box-icon">
                                   {" "}
-                                  <span className="elementor-icon">
+                                  <span className="tdp-icon">
                                     {" "}
                                     <i aria-hidden="true" className="vamtamtheme- vamtam-theme-check"></i>
                                     {" "}
@@ -540,9 +540,9 @@ export default function PageCalificadorLeads({ path }: { path: string }) {
                                   {" "}
                                 </div>
                                 {" "}
-                                <div className="elementor-icon-box-content">
+                                <div className="tdp-icon-box-content">
                                   {" "}
-                                  <h5 className="elementor-icon-box-title">
+                                  <h5 className="tdp-icon-box-title">
                                     {" "}
                                     <span>
                                       {" Respuestas Inteligentes "}
@@ -550,7 +550,7 @@ export default function PageCalificadorLeads({ path }: { path: string }) {
                                     {" "}
                                   </h5>
                                   {" "}
-                                  <p className="elementor-icon-box-description">
+                                  <p className="tdp-icon-box-description">
                                     {" Responde automáticamente a preguntas frecuentes y proporciona información clave a leads potenciales. "}
                                   </p>
                                   {" "}
@@ -564,33 +564,33 @@ export default function PageCalificadorLeads({ path }: { path: string }) {
                           {" "}
                         </div>
                         {" "}
-                        <div className="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-6efe78d4" data-id="6efe78d4" data-element_type="column" data-e-type="column" data-settings={"{\"background_background\":\"classic\"}"}>
+                        <div className="tdp-column tdp-col-25 tdp-inner-column tdp-element tdp-element-6efe78d4" data-id="6efe78d4" data-element_type="column" data-e-type="column" data-settings={"{\"background_background\":\"classic\"}"}>
                           {" "}
-                          <div className="elementor-widget-wrap elementor-element-populated">
+                          <div className="tdp-widget-wrap tdp-element-populated">
                             {" "}
-                            <div className="elementor-element elementor-element-370c1aed elementor-widget elementor-widget-menu-anchor" data-id="370c1aed" data-element_type="widget" data-e-type="widget" data-widget_type="menu-anchor.default">
+                            <div className="tdp-element tdp-element-370c1aed tdp-widget tdp-widget-menu-anchor" data-id="370c1aed" data-element_type="widget" data-e-type="widget" data-widget_type="menu-anchor.default">
                               {" "}
-                              <div className="elementor-menu-anchor" id="Education"></div>
+                              <div className="tdp-menu-anchor" id="Education"></div>
                               {" "}
                             </div>
                             {" "}
-                            <div className="elementor-element elementor-element-8d934f1 elementor-widget elementor-widget-spacer" data-id="8d934f1" data-element_type="widget" data-e-type="widget" data-widget_type="spacer.default">
+                            <div className="tdp-element tdp-element-8d934f1 tdp-widget tdp-widget-spacer" data-id="8d934f1" data-element_type="widget" data-e-type="widget" data-widget_type="spacer.default">
                               {" "}
-                              <div className="elementor-spacer">
+                              <div className="tdp-spacer">
                                 {" "}
-                                <div className="elementor-spacer-inner"></div>
+                                <div className="tdp-spacer-inner"></div>
                                 {" "}
                               </div>
                               {" "}
                             </div>
                             {" "}
-                            <div className="elementor-element elementor-element-25f6842 elementor-view-default elementor-position-block-start elementor-mobile-position-block-start elementor-widget elementor-widget-icon-box" data-id="25f6842" data-element_type="widget" data-e-type="widget" data-widget_type="icon-box.default">
+                            <div className="tdp-element tdp-element-25f6842 tdp-view-default tdp-position-block-start tdp-mobile-position-block-start tdp-widget tdp-widget-icon-box" data-id="25f6842" data-element_type="widget" data-e-type="widget" data-widget_type="icon-box.default">
                               {" "}
-                              <div className="elementor-icon-box-wrapper">
+                              <div className="tdp-icon-box-wrapper">
                                 {" "}
-                                <div className="elementor-icon-box-icon">
+                                <div className="tdp-icon-box-icon">
                                   {" "}
-                                  <span className="elementor-icon">
+                                  <span className="tdp-icon">
                                     {" "}
                                     <i aria-hidden="true" className="vamtamtheme- vamtam-theme-check"></i>
                                     {" "}
@@ -598,9 +598,9 @@ export default function PageCalificadorLeads({ path }: { path: string }) {
                                   {" "}
                                 </div>
                                 {" "}
-                                <div className="elementor-icon-box-content">
+                                <div className="tdp-icon-box-content">
                                   {" "}
-                                  <h5 className="elementor-icon-box-title">
+                                  <h5 className="tdp-icon-box-title">
                                     {" "}
                                     <span>
                                       {" Seguimiento de Leads "}
@@ -608,7 +608,7 @@ export default function PageCalificadorLeads({ path }: { path: string }) {
                                     {" "}
                                   </h5>
                                   {" "}
-                                  <p className="elementor-icon-box-description">
+                                  <p className="tdp-icon-box-description">
                                     {" Realiza un seguimiento automatizado de las interacciones para una gestión más efectiva de cada lead. "}
                                   </p>
                                   {" "}
@@ -622,33 +622,33 @@ export default function PageCalificadorLeads({ path }: { path: string }) {
                           {" "}
                         </div>
                         {" "}
-                        <div className="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-651064a2" data-id="651064a2" data-element_type="column" data-e-type="column" data-settings={"{\"background_background\":\"classic\"}"}>
+                        <div className="tdp-column tdp-col-25 tdp-inner-column tdp-element tdp-element-651064a2" data-id="651064a2" data-element_type="column" data-e-type="column" data-settings={"{\"background_background\":\"classic\"}"}>
                           {" "}
-                          <div className="elementor-widget-wrap elementor-element-populated">
+                          <div className="tdp-widget-wrap tdp-element-populated">
                             {" "}
-                            <div className="elementor-element elementor-element-562713b4 elementor-widget elementor-widget-menu-anchor" data-id="562713b4" data-element_type="widget" data-e-type="widget" data-widget_type="menu-anchor.default">
+                            <div className="tdp-element tdp-element-562713b4 tdp-widget tdp-widget-menu-anchor" data-id="562713b4" data-element_type="widget" data-e-type="widget" data-widget_type="menu-anchor.default">
                               {" "}
-                              <div className="elementor-menu-anchor" id="Education"></div>
+                              <div className="tdp-menu-anchor" id="Education"></div>
                               {" "}
                             </div>
                             {" "}
-                            <div className="elementor-element elementor-element-3fe093ec elementor-widget elementor-widget-spacer" data-id="3fe093ec" data-element_type="widget" data-e-type="widget" data-widget_type="spacer.default">
+                            <div className="tdp-element tdp-element-3fe093ec tdp-widget tdp-widget-spacer" data-id="3fe093ec" data-element_type="widget" data-e-type="widget" data-widget_type="spacer.default">
                               {" "}
-                              <div className="elementor-spacer">
+                              <div className="tdp-spacer">
                                 {" "}
-                                <div className="elementor-spacer-inner"></div>
+                                <div className="tdp-spacer-inner"></div>
                                 {" "}
                               </div>
                               {" "}
                             </div>
                             {" "}
-                            <div className="elementor-element elementor-element-97eac61 elementor-view-default elementor-position-block-start elementor-mobile-position-block-start elementor-widget elementor-widget-icon-box" data-id="97eac61" data-element_type="widget" data-e-type="widget" data-widget_type="icon-box.default">
+                            <div className="tdp-element tdp-element-97eac61 tdp-view-default tdp-position-block-start tdp-mobile-position-block-start tdp-widget tdp-widget-icon-box" data-id="97eac61" data-element_type="widget" data-e-type="widget" data-widget_type="icon-box.default">
                               {" "}
-                              <div className="elementor-icon-box-wrapper">
+                              <div className="tdp-icon-box-wrapper">
                                 {" "}
-                                <div className="elementor-icon-box-icon">
+                                <div className="tdp-icon-box-icon">
                                   {" "}
-                                  <span className="elementor-icon">
+                                  <span className="tdp-icon">
                                     {" "}
                                     <i aria-hidden="true" className="vamtamtheme- vamtam-theme-check"></i>
                                     {" "}
@@ -656,9 +656,9 @@ export default function PageCalificadorLeads({ path }: { path: string }) {
                                   {" "}
                                 </div>
                                 {" "}
-                                <div className="elementor-icon-box-content">
+                                <div className="tdp-icon-box-content">
                                   {" "}
-                                  <h5 className="elementor-icon-box-title">
+                                  <h5 className="tdp-icon-box-title">
                                     {" "}
                                     <span>
                                       {" Escalamiento a Asesor Humano "}
@@ -666,7 +666,7 @@ export default function PageCalificadorLeads({ path }: { path: string }) {
                                     {" "}
                                   </h5>
                                   {" "}
-                                  <p className="elementor-icon-box-description">
+                                  <p className="tdp-icon-box-description">
                                     {" Permite a los usuarios comunicarse con un asesor por chat o llamada cuando el lead cumple ciertos criterios de calificación. "}
                                   </p>
                                   {" "}
@@ -684,21 +684,21 @@ export default function PageCalificadorLeads({ path }: { path: string }) {
                       {" "}
                     </section>
                     {" "}
-                    <section className="elementor-section elementor-inner-section elementor-element elementor-element-c0fc7a0 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="c0fc7a0" data-element_type="section" data-e-type="section" data-settings={"{\"background_background\":\"classic\"}"}>
+                    <section className="tdp-section tdp-inner-section tdp-element tdp-element-c0fc7a0 tdp-section-boxed tdp-section-height-default tdp-section-height-default" data-id="c0fc7a0" data-element_type="section" data-e-type="section" data-settings={"{\"background_background\":\"classic\"}"}>
                       {" "}
-                      <div className="elementor-container elementor-column-gap-no">
+                      <div className="tdp-container tdp-column-gap-no">
                         {" "}
-                        <div className="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-4f97d6ac" data-id="4f97d6ac" data-element_type="column" data-e-type="column" data-settings={"{\"background_background\":\"classic\"}"}>
+                        <div className="tdp-column tdp-col-25 tdp-inner-column tdp-element tdp-element-4f97d6ac" data-id="4f97d6ac" data-element_type="column" data-e-type="column" data-settings={"{\"background_background\":\"classic\"}"}>
                           {" "}
-                          <div className="elementor-widget-wrap elementor-element-populated">
+                          <div className="tdp-widget-wrap tdp-element-populated">
                             {" "}
-                            <div className="elementor-element elementor-element-7042b36c elementor-view-default elementor-position-block-start elementor-mobile-position-block-start elementor-widget elementor-widget-icon-box" data-id="7042b36c" data-element_type="widget" data-e-type="widget" data-widget_type="icon-box.default">
+                            <div className="tdp-element tdp-element-7042b36c tdp-view-default tdp-position-block-start tdp-mobile-position-block-start tdp-widget tdp-widget-icon-box" data-id="7042b36c" data-element_type="widget" data-e-type="widget" data-widget_type="icon-box.default">
                               {" "}
-                              <div className="elementor-icon-box-wrapper">
+                              <div className="tdp-icon-box-wrapper">
                                 {" "}
-                                <div className="elementor-icon-box-icon">
+                                <div className="tdp-icon-box-icon">
                                   {" "}
-                                  <span className="elementor-icon">
+                                  <span className="tdp-icon">
                                     {" "}
                                     <i aria-hidden="true" className="vamtamtheme- vamtam-theme-check"></i>
                                     {" "}
@@ -706,9 +706,9 @@ export default function PageCalificadorLeads({ path }: { path: string }) {
                                   {" "}
                                 </div>
                                 {" "}
-                                <div className="elementor-icon-box-content">
+                                <div className="tdp-icon-box-content">
                                   {" "}
-                                  <h5 className="elementor-icon-box-title">
+                                  <h5 className="tdp-icon-box-title">
                                     {" "}
                                     <span>
                                       {" Integración con CRM/ERP "}
@@ -716,7 +716,7 @@ export default function PageCalificadorLeads({ path }: { path: string }) {
                                     {" "}
                                   </h5>
                                   {" "}
-                                  <p className="elementor-icon-box-description">
+                                  <p className="tdp-icon-box-description">
                                     {" Conecta nuestro calificador a CRMs populares como HubSpot, Zoho y Salesforce para sincronizar los datos de los leads. "}
                                   </p>
                                   {" "}
@@ -730,17 +730,17 @@ export default function PageCalificadorLeads({ path }: { path: string }) {
                           {" "}
                         </div>
                         {" "}
-                        <div className="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-1a5af557" data-id="1a5af557" data-element_type="column" data-e-type="column" data-settings={"{\"background_background\":\"classic\"}"}>
+                        <div className="tdp-column tdp-col-25 tdp-inner-column tdp-element tdp-element-1a5af557" data-id="1a5af557" data-element_type="column" data-e-type="column" data-settings={"{\"background_background\":\"classic\"}"}>
                           {" "}
-                          <div className="elementor-widget-wrap elementor-element-populated">
+                          <div className="tdp-widget-wrap tdp-element-populated">
                             {" "}
-                            <div className="elementor-element elementor-element-677b0062 elementor-view-default elementor-position-block-start elementor-mobile-position-block-start elementor-widget elementor-widget-icon-box" data-id="677b0062" data-element_type="widget" data-e-type="widget" data-widget_type="icon-box.default">
+                            <div className="tdp-element tdp-element-677b0062 tdp-view-default tdp-position-block-start tdp-mobile-position-block-start tdp-widget tdp-widget-icon-box" data-id="677b0062" data-element_type="widget" data-e-type="widget" data-widget_type="icon-box.default">
                               {" "}
-                              <div className="elementor-icon-box-wrapper">
+                              <div className="tdp-icon-box-wrapper">
                                 {" "}
-                                <div className="elementor-icon-box-icon">
+                                <div className="tdp-icon-box-icon">
                                   {" "}
-                                  <span className="elementor-icon">
+                                  <span className="tdp-icon">
                                     {" "}
                                     <i aria-hidden="true" className="vamtamtheme- vamtam-theme-check"></i>
                                     {" "}
@@ -748,9 +748,9 @@ export default function PageCalificadorLeads({ path }: { path: string }) {
                                   {" "}
                                 </div>
                                 {" "}
-                                <div className="elementor-icon-box-content">
+                                <div className="tdp-icon-box-content">
                                   {" "}
-                                  <h5 className="elementor-icon-box-title">
+                                  <h5 className="tdp-icon-box-title">
                                     {" "}
                                     <span>
                                       {" Historial de Conversaciones "}
@@ -758,7 +758,7 @@ export default function PageCalificadorLeads({ path }: { path: string }) {
                                     {" "}
                                   </h5>
                                   {" "}
-                                  <p className="elementor-icon-box-description">
+                                  <p className="tdp-icon-box-description">
                                     {" Conserva un registro completo de todas las interacciones para una auditoría y seguimiento detallado. "}
                                   </p>
                                   {" "}
@@ -772,17 +772,17 @@ export default function PageCalificadorLeads({ path }: { path: string }) {
                           {" "}
                         </div>
                         {" "}
-                        <div className="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-447c603e" data-id="447c603e" data-element_type="column" data-e-type="column" data-settings={"{\"background_background\":\"classic\"}"}>
+                        <div className="tdp-column tdp-col-25 tdp-inner-column tdp-element tdp-element-447c603e" data-id="447c603e" data-element_type="column" data-e-type="column" data-settings={"{\"background_background\":\"classic\"}"}>
                           {" "}
-                          <div className="elementor-widget-wrap elementor-element-populated">
+                          <div className="tdp-widget-wrap tdp-element-populated">
                             {" "}
-                            <div className="elementor-element elementor-element-35a14ce0 elementor-view-default elementor-position-block-start elementor-mobile-position-block-start elementor-widget elementor-widget-icon-box" data-id="35a14ce0" data-element_type="widget" data-e-type="widget" data-widget_type="icon-box.default">
+                            <div className="tdp-element tdp-element-35a14ce0 tdp-view-default tdp-position-block-start tdp-mobile-position-block-start tdp-widget tdp-widget-icon-box" data-id="35a14ce0" data-element_type="widget" data-e-type="widget" data-widget_type="icon-box.default">
                               {" "}
-                              <div className="elementor-icon-box-wrapper">
+                              <div className="tdp-icon-box-wrapper">
                                 {" "}
-                                <div className="elementor-icon-box-icon">
+                                <div className="tdp-icon-box-icon">
                                   {" "}
-                                  <span className="elementor-icon">
+                                  <span className="tdp-icon">
                                     {" "}
                                     <i aria-hidden="true" className="vamtamtheme- vamtam-theme-check"></i>
                                     {" "}
@@ -790,9 +790,9 @@ export default function PageCalificadorLeads({ path }: { path: string }) {
                                   {" "}
                                 </div>
                                 {" "}
-                                <div className="elementor-icon-box-content">
+                                <div className="tdp-icon-box-content">
                                   {" "}
-                                  <h5 className="elementor-icon-box-title">
+                                  <h5 className="tdp-icon-box-title">
                                     {" "}
                                     <span>
                                       {" Distribución de Leads "}
@@ -800,7 +800,7 @@ export default function PageCalificadorLeads({ path }: { path: string }) {
                                     {" "}
                                   </h5>
                                   {" "}
-                                  <p className="elementor-icon-box-description">
+                                  <p className="tdp-icon-box-description">
                                     {" Asigna leads calificados automáticamente a los miembros de tu equipo de ventas, optimizando la carga de trabajo. "}
                                   </p>
                                   {" "}
@@ -814,17 +814,17 @@ export default function PageCalificadorLeads({ path }: { path: string }) {
                           {" "}
                         </div>
                         {" "}
-                        <div className="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-71f1c9b3" data-id="71f1c9b3" data-element_type="column" data-e-type="column" data-settings={"{\"background_background\":\"classic\"}"}>
+                        <div className="tdp-column tdp-col-25 tdp-inner-column tdp-element tdp-element-71f1c9b3" data-id="71f1c9b3" data-element_type="column" data-e-type="column" data-settings={"{\"background_background\":\"classic\"}"}>
                           {" "}
-                          <div className="elementor-widget-wrap elementor-element-populated">
+                          <div className="tdp-widget-wrap tdp-element-populated">
                             {" "}
-                            <div className="elementor-element elementor-element-adcb6bd elementor-view-default elementor-position-block-start elementor-mobile-position-block-start elementor-widget elementor-widget-icon-box" data-id="adcb6bd" data-element_type="widget" data-e-type="widget" data-widget_type="icon-box.default">
+                            <div className="tdp-element tdp-element-adcb6bd tdp-view-default tdp-position-block-start tdp-mobile-position-block-start tdp-widget tdp-widget-icon-box" data-id="adcb6bd" data-element_type="widget" data-e-type="widget" data-widget_type="icon-box.default">
                               {" "}
-                              <div className="elementor-icon-box-wrapper">
+                              <div className="tdp-icon-box-wrapper">
                                 {" "}
-                                <div className="elementor-icon-box-icon">
+                                <div className="tdp-icon-box-icon">
                                   {" "}
-                                  <span className="elementor-icon">
+                                  <span className="tdp-icon">
                                     {" "}
                                     <i aria-hidden="true" className="vamtamtheme- vamtam-theme-check"></i>
                                     {" "}
@@ -832,9 +832,9 @@ export default function PageCalificadorLeads({ path }: { path: string }) {
                                   {" "}
                                 </div>
                                 {" "}
-                                <div className="elementor-icon-box-content">
+                                <div className="tdp-icon-box-content">
                                   {" "}
-                                  <h5 className="elementor-icon-box-title">
+                                  <h5 className="tdp-icon-box-title">
                                     {" "}
                                     <span>
                                       {" Retargeting y"}
@@ -844,7 +844,7 @@ export default function PageCalificadorLeads({ path }: { path: string }) {
                                     {" "}
                                   </h5>
                                   {" "}
-                                  <p className="elementor-icon-box-description">
+                                  <p className="tdp-icon-box-description">
                                     {" Reactiva los leads fríos con procesos automaticos de recontacto por mensajes de WhatsApp con alta tasa de conversión. "}
                                   </p>
                                   {" "}
@@ -870,27 +870,27 @@ export default function PageCalificadorLeads({ path }: { path: string }) {
               {" "}
             </section>
             {" "}
-            <section className="elementor-section elementor-top-section elementor-element elementor-element-473d1ede elementor-section-height-min-height elementor-section-items-stretch elementor-section-boxed elementor-section-height-default" data-id="473d1ede" data-element_type="section" data-e-type="section">
+            <section className="tdp-section tdp-top-section tdp-element tdp-element-473d1ede tdp-section-height-min-height tdp-section-items-stretch tdp-section-boxed tdp-section-height-default" data-id="473d1ede" data-element_type="section" data-e-type="section">
               {" "}
-              <div className="elementor-container elementor-column-gap-no">
+              <div className="tdp-container tdp-column-gap-no">
                 {" "}
-                <div className="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-85e5afc" data-id="85e5afc" data-element_type="column" data-e-type="column" data-settings={"{\"background_background\":\"classic\",\"background_motion_fx_motion_fx_scrolling\":\"yes\",\"background_motion_fx_translateY_effect\":\"yes\",\"background_motion_fx_translateY_speed\":{\"unit\":\"px\",\"size\":1,\"sizes\":[]},\"background_motion_fx_translateY_affectedRange\":{\"unit\":\"%\",\"size\":\"\",\"sizes\":{\"start\":0,\"end\":58}},\"background_motion_fx_devices\":[\"desktop\"]}"}>
+                <div className="tdp-column tdp-col-33 tdp-top-column tdp-element tdp-element-85e5afc" data-id="85e5afc" data-element_type="column" data-e-type="column" data-settings={"{\"background_background\":\"classic\",\"background_motion_fx_motion_fx_scrolling\":\"yes\",\"background_motion_fx_translateY_effect\":\"yes\",\"background_motion_fx_translateY_speed\":{\"unit\":\"px\",\"size\":1,\"sizes\":[]},\"background_motion_fx_translateY_affectedRange\":{\"unit\":\"%\",\"size\":\"\",\"sizes\":{\"start\":0,\"end\":58}},\"background_motion_fx_devices\":[\"desktop\"]}"}>
                   {" "}
-                  <div className="elementor-widget-wrap elementor-element-populated">
+                  <div className="tdp-widget-wrap tdp-element-populated">
                     {" "}
-                    <div className="elementor-element elementor-element-62670445 elementor-align-start elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="62670445" data-element_type="widget" data-e-type="widget" data-widget_type="icon-list.default">
+                    <div className="tdp-element tdp-element-62670445 tdp-align-start tdp-icon-list--layout-traditional tdp-list-item-link-full_width tdp-widget tdp-widget-icon-list" data-id="62670445" data-element_type="widget" data-e-type="widget" data-widget_type="icon-list.default">
                       {" "}
-                      <ul className="elementor-icon-list-items">
+                      <ul className="tdp-icon-list-items">
                         {" "}
-                        <li className="elementor-icon-list-item">
+                        <li className="tdp-icon-list-item">
                           {" "}
-                          <span className="elementor-icon-list-icon">
+                          <span className="tdp-icon-list-icon">
                             {" "}
                             <i aria-hidden="true" className="vamtamtheme- vamtam-theme-brand-symbol"></i>
                             {" "}
                           </span>
                           {" "}
-                          <span className="elementor-icon-list-text">
+                          <span className="tdp-icon-list-text">
                             {"En video"}
                           </span>
                           {" "}
@@ -900,15 +900,15 @@ export default function PageCalificadorLeads({ path }: { path: string }) {
                       {" "}
                     </div>
                     {" "}
-                    <div className="elementor-element elementor-element-101e65a8 elementor-widget__width-initial elementor-widget elementor-widget-heading" data-id="101e65a8" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+                    <div className="tdp-element tdp-element-101e65a8 tdp-widget__width-initial tdp-widget tdp-widget-heading" data-id="101e65a8" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
                       {" "}
-                      <h2 className="elementor-heading-title elementor-size-default">
+                      <h2 className="tdp-heading-title tdp-size-default">
                         {"Nuestro Calificador de Leads "}
                       </h2>
                       {" "}
                     </div>
                     {" "}
-                    <div className="elementor-element elementor-element-1555c594 elementor-widget elementor-widget-text-editor" data-id="1555c594" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
+                    <div className="tdp-element tdp-element-1555c594 tdp-widget tdp-widget-text-editor" data-id="1555c594" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
                       {" "}
                       <p>
                         {"En el siguiente video te explicamos los beneficios del Calificador de Leads para tu empresa."}
@@ -920,15 +920,15 @@ export default function PageCalificadorLeads({ path }: { path: string }) {
                   {" "}
                 </div>
                 {" "}
-                <div className="elementor-column elementor-col-66 elementor-top-column elementor-element elementor-element-130b92fe" data-id="130b92fe" data-element_type="column" data-e-type="column">
+                <div className="tdp-column tdp-col-66 tdp-top-column tdp-element tdp-element-130b92fe" data-id="130b92fe" data-element_type="column" data-e-type="column">
                   {" "}
-                  <div className="elementor-widget-wrap elementor-element-populated">
+                  <div className="tdp-widget-wrap tdp-element-populated">
                     {" "}
-                    <div className="elementor-element elementor-element-0d79994 elementor-widget elementor-widget-video" data-id="0d79994" data-element_type="widget" data-e-type="widget" data-settings={"{\"youtube_url\":\"https:\\/\\/www.youtube.com\\/watch?v=rbtze2DAnm8\",\"video_type\":\"youtube\",\"controls\":\"yes\"}"} data-widget_type="video.default">
+                    <div className="tdp-element tdp-element-0d79994 tdp-widget tdp-widget-video" data-id="0d79994" data-element_type="widget" data-e-type="widget" data-settings={"{\"youtube_url\":\"https:\\/\\/www.youtube.com\\/watch?v=rbtze2DAnm8\",\"video_type\":\"youtube\",\"controls\":\"yes\"}"} data-widget_type="video.default">
                       {" "}
-                      <div className="elementor-wrapper elementor-open-inline">
+                      <div className="tdp-wrapper tdp-open-inline">
                         {" "}
-                        <div className="elementor-video"></div>
+                        <div className="tdp-video"></div>
                         {" "}
                       </div>
                       {" "}
@@ -951,11 +951,11 @@ export default function PageCalificadorLeads({ path }: { path: string }) {
       <Footer988867 path={path} />
       <Popup9913 path={path} />
       <Popup1670 path={path} />
-      <IdElementorPost10889Css path={path} />
+      <IdTdpPost10889Css path={path} />
       <IdEgeiroWhfab path={path} />
       <div className="pafe-break-point" data-pafe-break-point-md="767" data-pafe-break-point-lg="1024" data-pafe-ajax-url="/wp-admin/admin-ajax.php"></div>
-      <div data-pafe-form-builder-tinymce-upload="/wp-content/plugins/piotnet-addons-for-elementor-pro/inc/tinymce/tinymce-upload.php"></div>
-      <div data-pafe-plugin-url="/wp-content/plugins"></div>
+      <div data-pafe-form-builder-tinymce-upload="/assets/plugins/piotnet-addons-for-tdp-pro/inc/tinymce/tinymce-upload.php"></div>
+      <div data-pafe-plugin-url="/assets/plugins"></div>
     </>
   );
 }

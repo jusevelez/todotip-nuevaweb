@@ -1,10 +1,9 @@
 import type { ReactNode } from "react";
 import { faqByPath, type FaqBlock, type FaqItem } from "@/content/faq";
-import { siteMode } from "@/lib/site-env";
 
 // Bloque de preguntas frecuentes por producto, insertado antes del footer de cada página
 // que tenga FAQ (ver src/content/faq.ts). Incluye el schema FAQPage para buscadores e IA.
-// Las etiquetas «Discrepancia» son notas de revisión: solo se muestran fuera de producción.
+// Las notas de discrepancia viven en el código y en el Doc de revisión, no en la web.
 
 const URL_RE = /(https?:\/\/[^\s)]+[^\s).,;])/g;
 
@@ -56,12 +55,11 @@ function plainText(blocks: FaqBlock[]): string {
     .join(" ");
 }
 
-function Item({ item, num, review }: { item: FaqItem; num: number; review: boolean }) {
+function Item({ item, num }: { item: FaqItem; num: number }) {
   return (
     <div className="tip-faq__item" id={`faq-${num}`}>
       <details className="tip-faq__qa">
         <summary>
-          {review && <span className="tip-faq__num">{num}</span>}
           <h4 className="tip-faq__q">{item.q}</h4>
         </summary>
         <div className="tip-faq__a">
@@ -70,12 +68,6 @@ function Item({ item, num, review }: { item: FaqItem; num: number; review: boole
           ))}
         </div>
       </details>
-      {review && item.discrepancy && (
-        <details className="tip-faq__disc">
-          <summary>Discrepancia</summary>
-          <p>{item.discrepancy}</p>
-        </details>
-      )}
     </div>
   );
 }
@@ -83,9 +75,7 @@ function Item({ item, num, review }: { item: FaqItem; num: number; review: boole
 export default function ProductFaq({ path }: { path: string }) {
   const faq = faqByPath[path];
   if (!faq) return null;
-  const review = siteMode() !== "production";
   const items = faq.groups.flatMap((g) => g.items);
-  // Numeración propia de cada página (1..N), no la del documento de origen.
   const numOf = new Map(items.map((it, i) => [it, i + 1]));
   const jsonLd = {
     "@context": "https://schema.org",
@@ -114,10 +104,9 @@ export default function ProductFaq({ path }: { path: string }) {
           <details key={g.title} className="tip-faq__group" open={i === 0}>
             <summary>
               <h3>{g.title}</h3>
-              {review && g.items.some((it) => it.discrepancy) && <span className="tip-faq__flag">Discrepancia</span>}
             </summary>
             {g.items.map((it) => (
-              <Item key={it.n} item={it} num={numOf.get(it)!} review={review} />
+              <Item key={it.n} item={it} num={numOf.get(it)!} />
             ))}
           </details>
         ))}
@@ -144,16 +133,10 @@ const CSS = `
 .tip-faq__qa>summary::after{content:"+";margin-left:auto;font-size:22px;line-height:1;color:#83C140}
 .tip-faq__qa[open]>summary::after{content:"−"}
 .tip-faq h4.tip-faq__q{font-family:"Geologica",sans-serif;font-size:17px;line-height:1.4;font-weight:500;letter-spacing:0;text-transform:none;margin:0;color:#1d1d1b}
-.tip-faq__num{flex:none;min-width:30px;font-size:13px;line-height:24px;color:#8a8a85}
 .tip-faq__a{padding:0 32px 20px 0;font-size:16px;line-height:1.6;color:#3a3a38}
 .tip-faq__a p{margin:0 0 12px}
 .tip-faq__a ul,.tip-faq__a ol{margin:0 0 12px;padding-left:22px}
 .tip-faq__a li{margin:0 0 6px}
 .tip-faq__a a{color:#5f9a2a;text-decoration:underline}
-.tip-faq__flag,.tip-faq__disc>summary{display:inline-block;font-size:12px;font-weight:600;line-height:1;letter-spacing:.02em;text-transform:uppercase;color:#8a4b00;background:#FFE8C2;border:1px solid #F2B24C;border-radius:999px;padding:5px 10px}
-.tip-faq__disc{margin:0 0 16px 42px}
-.tip-faq__disc>summary::after{content:" ▾"}
-.tip-faq__disc[open]>summary::after{content:" ▴"}
-.tip-faq__disc p{margin:10px 0 0;padding:12px 14px;font-size:14px;line-height:1.5;background:#FFF6E6;border-left:3px solid #F2B24C;color:#4a3a20}
-@media (max-width:767px){.tip-faq{padding:44px 16px}.tip-faq h2.tip-faq__title{font-size:28px}.tip-faq .tip-faq__group>summary h3{font-size:19px}.tip-faq__a{padding-right:0}.tip-faq__disc{margin-left:0}}
+@media (max-width:767px){.tip-faq{padding:44px 16px}.tip-faq h2.tip-faq__title{font-size:28px}.tip-faq .tip-faq__group>summary h3{font-size:19px}.tip-faq__a{padding-right:0}}
 `;

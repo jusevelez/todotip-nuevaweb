@@ -25,7 +25,7 @@ export default async function WpPage({ params }: { params: Promise<{ slug?: stri
   const path = pathFromSlug((await params).slug);
   if (!getRoute(path)) notFound();
   // Hand-maintained pages. They are absent from the generated pageLoaders map,
-  // which scripts/generate/generate.mjs rewrites from the WordPress capture.
+  // which scripts/generate/generate.mjs rewrites from the TodoIP capture.
   if (isSoftphonePath(path)) return <SoftphoneLegalPage path={path} />;
   const { default: Content } = await pageLoaders[path]();
   return <Content path={path} />;

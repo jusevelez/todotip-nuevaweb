@@ -14,15 +14,15 @@ const CLONE = args.includes("--clone") ? args[args.indexOf("--clone") + 1] : "ht
 const manifest = JSON.parse(await fs.readFile(path.join(ROOT, "capture/manifest.json"), "utf8"));
 // Already broken on the live site (404 there too); kept as-is and reported.
 const LIVE_BROKEN = new Set(manifest.liveBrokenAssets ?? [
-  "/wp-content/uploads/2020/09/tabla-1.png",
-  "/wp-content/uploads/2020/09/tabla-2.png",
-  "/wp-content/uploads/2020/09/TABLA-4.png",
-  "/wp-content/uploads/2020/09/Tabla-3.png",
+  "/assets/uploads/2020/09/tabla-1.png",
+  "/assets/uploads/2020/09/tabla-2.png",
+  "/assets/uploads/2020/09/TABLA-4.png",
+  "/assets/uploads/2020/09/Tabla-3.png",
   // Relative link inside the /salud/ and /turismo/ landings; 404 on the live site.
   "/salud/landing_page_optimizada_todoip_bots.html",
   "/turismo/landing_page_optimizada_todoip_bots.html",
 ]);
-// WordPress login/password recovery for the telephony portal: not migrated (WP auth backend).
+// TodoIP login/password recovery for the telephony portal: not migrated (WP auth backend).
 const BACKEND = [/^\/wp-login\.php/];
 
 const internal = (u, base) => {
