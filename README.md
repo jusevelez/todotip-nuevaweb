@@ -43,10 +43,13 @@ El modo se decide **en el build** (las páginas son estáticas) en `src/lib/site
 
 ## Formularios
 
-Los formularios conservan su interfaz y validación, pero **no envían nada**: el envío se
+Los formularios de contacto conservan su interfaz y validación, pero **no envían nada**: el envío se
 bloquea y se muestra un aviso honesto (sin simular éxito). Conectarlos requiere un backend
 (ver informe). El reCAPTCHA v2 muestra un marcador del mismo tamaño porque su clave está
 ligada al dominio real.
+
+Excepción: el login de **Acceso Clientes** en `/reportes-telefonia/` hace POST nativo
+(`application/x-www-form-urlencoded`) a `https://telefonia.todoip.com/_autenticacion/login.php`.
 
 ## Cómo se generó
 

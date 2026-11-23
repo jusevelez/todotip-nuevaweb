@@ -82,11 +82,11 @@ Se replicaron tal cual porque el objetivo es no cambiar SEO; quedan para decisi�
   (ruta relativa), que es 404 en vivo.
 - Las fuentes Geologica se cargan desde `beratung.vamtam.com` (dominio demo del tema
   VamTam), igual que en vivo.
-- **Seguridad**: en `/reportes-telefonia/` hay dos formularios de acceso; uno envía a
-  `https://telefonia.todoip.com/_autenticacion/login.php` y el otro a
-  `https://telefonia.com/_autenticacion/login.php` (dominio ajeno a TodoIP). En vivo, quien
-  use ese segundo formulario enviaría sus credenciales a un tercero. En el clon ambos están
-  bloqueados.
+- **Seguridad**: el capture de `/reportes-telefonia/` traía dos formularios de acceso; uno
+  envía a `https://telefonia.todoip.com/_autenticacion/login.php` y el otro a
+  `https://telefonia.com/_autenticacion/login.php` (dominio ajeno a TodoIP). El segundo se
+  elimina en la generación. El login visible hace POST nativo al portal; el resto de
+  formularios del clon siguen bloqueados.
 
 ## 4. Paridad visual
 
@@ -132,7 +132,7 @@ formularios.
 | Formulario "Schedule consultation" (home, Elementor + reCAPTCHA v2) | **Interfaz y validación sí; envío no.** Requiere backend (endpoint, correo/CRM) y una clave reCAPTCHA autorizada para el dominio. Muestra un aviso y no envía datos ni simula éxito |
 | Formulario de referidos (`/referidos/`, Piotnet Forms) | Igual: requiere backend |
 | Búsqueda (`elementor-search-form`, 33 páginas) | Interfaz sí; requiere un índice de búsqueda o backend |
-| Login del portal de telefonía (`/reportes-telefonia/`) | Bloqueado; el portal externo `telefonia.todoip.com` no se tocó. Requiere decidir si se reactiva el envío directo (y corregir el `action` a `telefonia.com`) |
+| Login del portal de telefonía (`/reportes-telefonia/`) | POST nativo a `https://telefonia.todoip.com/_autenticacion/login.php`. El formulario oculto a `telefonia.com` se eliminó. «Recuperar Contraseña» sigue oculto y apunta a `/wp-login.php` (404; no se halló la URL de recuperación del portal) |
 | Analítica (Site Kit GT-55JLXX5H, GA4 G-D2PT7HZGP2, Hotjar 6406092, GTM-WPNDKSR en landings) | Mismos snippets, solo en producción; desactivables con `SITE_DISABLE_TRACKING=1` |
 
 ## 6. Despliegue
