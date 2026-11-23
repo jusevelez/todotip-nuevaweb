@@ -179,6 +179,11 @@ for (const [p, f] of Object.entries(files)) {
   if (r.status !== 200) add(p, "status", 200, r.status);
   if (p === "/robots.txt" && MODE === "preview") {
     if (!/Disallow: \/\s*$/m.test(body)) add(p, "robots.txt(preview)", "Disallow: /", body);
+  } else if (p === "/robots.txt") {
+    const expectedRobots = /^Disallow:\s*\/firmas\//m.test(expected)
+      ? expected
+      : expected.replace("Disallow: /imunify-bot-check\n", "Disallow: /imunify-bot-check\nDisallow: /firmas/\n");
+    if (body !== expectedRobots) add(p, "body", `${expectedRobots.length} bytes`, `${body.length} bytes`);
   } else if (body !== expected) add(p, "body", `${expected.length} bytes`, `${body.length} bytes`);
   if (/sitemap|xsl/.test(p) && !/noindex/.test(r.headers.get("x-robots-tag") ?? "")) add(p, "x-robots-tag", "noindex", r.headers.get("x-robots-tag"));
 }

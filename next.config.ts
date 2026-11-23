@@ -1,5 +1,7 @@
 import type { NextConfig } from "next";
-import { isIndexingEnabled } from "./src/lib/site-env";
+import { isIndexingEnabled, SIGNATURE_NOINDEX, SIGNATURE_NOINDEX_IMAGES } from "./src/lib/site-env";
+
+const NOINDEX_HEADER = [{ key: "X-Robots-Tag", value: SIGNATURE_NOINDEX }];
 
 const nextConfig: NextConfig = {
   // URLs keep the live site's trailing slash; the 301 for slash-less URLs lives in
@@ -15,9 +17,31 @@ const nextConfig: NextConfig = {
   // Lets a production-mode test build live next to the preview one (see README).
   distDir: process.env.NEXT_DIST_DIR || ".next",
   async headers() {
-    // Static assets bypass the proxy, so the preview noindex header is also set here.
-    if (isIndexingEnabled()) return [];
-    return [{ source: "/:path*", headers: [{ key: "X-Robots-Tag", value: "noindex, nofollow" }] }];
+    // Email signatures and their /img assets stay noindex even in production.
+    // /firmas/:path* matches /firmas, nested folders, and files (Next path-to-regexp).
+    const signatureHeaders = [
+      { source: "/firmas/:path*", headers: NOINDEX_HEADER },
+      ...SIGNATURE_NOINDEX_IMAGES.map((source) => ({ source, headers: NOINDEX_HEADER })),
+    ];
+    // Static assets under /assets and /lib bypass the proxy, so preview noindex
+    // is also set here for the rest of the site.
+    if (!isIndexingEnabled()) {
+      return [{ source: "/:path*", headers: NOINDEX_HEADER }, ...signatureHeaders];
+    }
+    return signatureHeaders;
+  },
+  async rewrites() {
+    // Directory URLs like /firmas/2026/cristina/ must serve that folder's index.html
+    // so relative assets (fb.png, Nuestra IA.svg) resolve. :path+ skips /firmas/
+    // itself, which has no index on purpose (no directory listing).
+    return {
+      beforeFiles: [
+        {
+          source: "/firmas/:path+/",
+          destination: "/firmas/:path+/index.html",
+        },
+      ],
+    };
   },
 };
 
