@@ -131,6 +131,44 @@ async function formGuard(browser) {
   return { notice, nonGetRequests: posts, pass: !!notice && posts.length === 0 };
 }
 
+async function telephonyLoginPosts(browser) {
+  const ctx = await browser.newContext(DESKTOP);
+  const page = await ctx.newPage();
+  const posts = [];
+  await page.route("https://telefonia.todoip.com/**", async (route) => {
+    const req = route.request();
+    posts.push({
+      method: req.method(),
+      url: req.url(),
+      contentType: req.headers()["content-type"] || "",
+      postData: req.postData() || "",
+    });
+    await route.abort();
+  });
+  await page.goto(CLONE + "/reportes-telefonia/", { waitUntil: "networkidle" });
+  const leak = await page.locator('form[action="https://telefonia.com/_autenticacion/login.php"]').count();
+  const form = page.locator('form[action="https://telefonia.todoip.com/_autenticacion/login.php"]').first();
+  await form.locator('input[name="login"]').fill("usuario-prueba");
+  await form.locator('input[name="password"]').fill("clave-prueba");
+  await form.locator('button[type="submit"]').click();
+  await sleep(1500);
+  const notice = await page.locator(".clone-form-notice").count();
+  const post = posts[0];
+  const body = post?.postData ?? "";
+  const pass =
+    leak === 0 &&
+    notice === 0 &&
+    post?.method === "POST" &&
+    post?.url === "https://telefonia.todoip.com/_autenticacion/login.php" &&
+    /application\/x-www-form-urlencoded/i.test(post.contentType) &&
+    /(?:^|&)login=usuario-prueba(?:&|$)/.test(body) &&
+    /(?:^|&)password=clave-prueba(?:&|$)/.test(body) &&
+    /(?:^|&)continue=false(?:&|$)/.test(body) &&
+    /(?:^|&)wp-submit=/.test(body);
+  await ctx.close();
+  return { leak, notice, posts, pass };
+}
+
 await fs.mkdir(OUT, { recursive: true });
 const browser = await chromium.launch({ executablePath: "/usr/local/bin/google-chrome" });
 const results = {};
@@ -147,5 +185,7 @@ for (const s of selected) {
 }
 results.formGuard = await formGuard(browser);
 console.log("form guard:", JSON.stringify(results.formGuard));
+results.telephonyLogin = await telephonyLoginPosts(browser);
+console.log("telephony login:", JSON.stringify(results.telephonyLogin));
 await browser.close();
 await fs.writeFile(path.join(OUT, "report.json"), JSON.stringify(results, null, 2));

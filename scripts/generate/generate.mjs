@@ -123,10 +123,31 @@ const wpPaths = Object.entries(manifest.pages)
   .map(([p]) => p);
 const pages = [...wpPaths.map((p) => ({ path: p, file: manifest.pages[p].file })), { path: "__404", file: "html/__404.html" }];
 
+/** Drop login forms that POST to telefonia.com (missing .todoip) — credential leak. */
+function stripCredentialLeakLoginForms($) {
+  $("form[action]").each((_, el) => {
+    const action = $(el).attr("action") || "";
+    let hostname = "";
+    try {
+      hostname = new URL(action, "https://www.todoip.com").hostname;
+    } catch {
+      return;
+    }
+    if (hostname !== "telefonia.com") return;
+    const $form = $(el);
+    const $hiddenWidget = $form.closest(
+      ".elementor-hidden-desktop.elementor-hidden-tablet.elementor-hidden-mobile, .tdp-hidden-desktop.tdp-hidden-tablet.tdp-hidden-mobile",
+    );
+    if ($hiddenWidget.length) $hiddenWidget.remove();
+    else $form.remove();
+  });
+}
+
 const parsed = [];
 for (const pg of pages) {
   const html = await fs.readFile(path.join(CAP, pg.file), "utf8");
   const $ = cheerio.load(html);
+  stripCredentialLeakLoginForms($);
   const body = $("body")[0];
   const kids = significantChildren(body, null).filter((c) => !(c.type === "text" && !c.data.trim()));
   parsed.push({ ...pg, $, head: headData($, pg.path), body, kids, htmlAttrs: { ...$("html")[0].attribs } });
