@@ -1,5 +1,5 @@
 import { NextResponse, type NextRequest } from "next/server";
-import { CANONICAL_HOST, isIndexingEnabled, siteMode } from "@/lib/site-env";
+import { CANONICAL_HOST, isIndexingEnabled, isSignatureNoindexPath, SIGNATURE_NOINDEX, siteMode } from "@/lib/site-env";
 import { feeds } from "@/generated/feeds";
 
 // Same normalisation the live TodoIP/LiteSpeed stack applies, with 301s:
@@ -36,9 +36,14 @@ export function proxy(request: NextRequest) {
     ? new NextResponse(feed, { headers: { "Content-Type": "application/rss+xml; charset=UTF-8" } })
     : NextResponse.next();
   // Preview/dev: whole site noindex. Production: only the canonical host is indexable
-  // (the *.vercel.app production alias stays noindex).
-  if (!isIndexingEnabled() || (siteMode() === "production" && host !== CANONICAL_HOST)) {
-    response.headers.set("X-Robots-Tag", "noindex, nofollow");
+  // (the *.vercel.app production alias stays noindex). Email signatures stay noindex
+  // on every host, including www.todoip.com.
+  if (
+    isSignatureNoindexPath(url.pathname) ||
+    !isIndexingEnabled() ||
+    (siteMode() === "production" && host !== CANONICAL_HOST)
+  ) {
+    response.headers.set("X-Robots-Tag", SIGNATURE_NOINDEX);
   }
   return response;
 }
