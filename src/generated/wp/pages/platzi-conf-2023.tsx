@@ -14,39 +14,39 @@ export default function PagePlatziConf2023({ path }: { path: string }) {
     <>
       <SkipLink path={path} />
       <Header6979 path={path} />
-      <div data-elementor-type="single-post" data-elementor-id="990945" className="elementor elementor-990945 elementor-location-single post-990703 post type-post status-publish format-standard has-post-thumbnail hentry category-inteligencia-artificial tag-sin-cta" data-elementor-post-type="elementor_library">
+      <div data-tdp-type="single-post" data-tdp-id="990945" className="tdp tdp-990945 tdp-location-single post-990703 post type-post status-publish format-standard has-post-thumbnail hentry category-inteligencia-artificial tag-sin-cta" data-tdp-post-type="tdp_library">
         {" "}
-        <section className="elementor-section elementor-top-section elementor-element elementor-element-0836a56 elementor-section-full_width elementor-section-content-middle elementor-section-height-default elementor-section-height-default" data-id="0836a56" data-element_type="section" data-e-type="section" data-settings={"{\"background_background\":\"classic\"}"}>
+        <section className="tdp-section tdp-top-section tdp-element tdp-element-0836a56 tdp-section-full_width tdp-section-content-middle tdp-section-height-default tdp-section-height-default" data-id="0836a56" data-element_type="section" data-e-type="section" data-settings={"{\"background_background\":\"classic\"}"}>
           {" "}
-          <div className="elementor-background-overlay"></div>
+          <div className="tdp-background-overlay"></div>
           {" "}
-          <div className="elementor-container elementor-column-gap-no">
+          <div className="tdp-container tdp-column-gap-no">
             {" "}
-            <div className="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-8c6d3d3" data-id="8c6d3d3" data-element_type="column" data-e-type="column" data-settings={"{\"background_background\":\"classic\"}"}>
+            <div className="tdp-column tdp-col-100 tdp-top-column tdp-element tdp-element-8c6d3d3" data-id="8c6d3d3" data-element_type="column" data-e-type="column" data-settings={"{\"background_background\":\"classic\"}"}>
               {" "}
-              <div className="elementor-widget-wrap elementor-element-populated">
+              <div className="tdp-widget-wrap tdp-element-populated">
                 {" "}
-                <section className="elementor-section elementor-inner-section elementor-element elementor-element-e13df0c elementor-section-height-min-height elementor-section-content-bottom elementor-section-boxed elementor-section-height-default" data-id="e13df0c" data-element_type="section" data-e-type="section">
+                <section className="tdp-section tdp-inner-section tdp-element tdp-element-e13df0c tdp-section-height-min-height tdp-section-content-bottom tdp-section-boxed tdp-section-height-default" data-id="e13df0c" data-element_type="section" data-e-type="section">
                   {" "}
-                  <div className="elementor-container elementor-column-gap-no">
+                  <div className="tdp-container tdp-column-gap-no">
                     {" "}
-                    <div className="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-61ca081" data-id="61ca081" data-element_type="column" data-e-type="column">
+                    <div className="tdp-column tdp-col-50 tdp-inner-column tdp-element tdp-element-61ca081" data-id="61ca081" data-element_type="column" data-e-type="column">
                       {" "}
-                      <div className="elementor-widget-wrap elementor-element-populated">
+                      <div className="tdp-widget-wrap tdp-element-populated">
                         {" "}
-                        <div className="elementor-element elementor-element-a4f74c4 elementor-align-start elementor-widget__width-auto elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="a4f74c4" data-element_type="widget" data-e-type="widget" data-widget_type="icon-list.default">
+                        <div className="tdp-element tdp-element-a4f74c4 tdp-align-start tdp-widget__width-auto tdp-icon-list--layout-traditional tdp-list-item-link-full_width tdp-widget tdp-widget-icon-list" data-id="a4f74c4" data-element_type="widget" data-e-type="widget" data-widget_type="icon-list.default">
                           {" "}
-                          <ul className="elementor-icon-list-items">
+                          <ul className="tdp-icon-list-items">
                             {" "}
-                            <li className="elementor-icon-list-item">
+                            <li className="tdp-icon-list-item">
                               {" "}
-                              <span className="elementor-icon-list-icon">
+                              <span className="tdp-icon-list-icon">
                                 {" "}
                                 <i aria-hidden="true" className="vamtamtheme- vamtam-theme-brand-symbol"></i>
                                 {" "}
                               </span>
                               {" "}
-                              <span className="elementor-icon-list-text">
+                              <span className="tdp-icon-list-text">
                                 <span>
                                   {"Inteligencia Artificial"}
                                 </span>
@@ -58,9 +58,9 @@ export default function PagePlatziConf2023({ path }: { path: string }) {
                           {" "}
                         </div>
                         {" "}
-                        <div className="elementor-element elementor-element-608f714 elementor-widget elementor-widget-theme-post-title elementor-page-title elementor-widget-heading" data-id="608f714" data-element_type="widget" data-e-type="widget" data-settings={"{\"_animation_tablet\":\"none\"}"} data-widget_type="theme-post-title.default">
+                        <div className="tdp-element tdp-element-608f714 tdp-widget tdp-widget-theme-post-title tdp-page-title tdp-widget-heading" data-id="608f714" data-element_type="widget" data-e-type="widget" data-settings={"{\"_animation_tablet\":\"none\"}"} data-widget_type="theme-post-title.default">
                           {" "}
-                          <h1 className="elementor-heading-title elementor-size-default">
+                          <h1 className="tdp-heading-title tdp-size-default">
                             {"¡Platzi Conf 2023: Un viaje a través de la Inteligencia Artificial! 🚀💡"}
                           </h1>
                           {" "}
@@ -70,9 +70,9 @@ export default function PagePlatziConf2023({ path }: { path: string }) {
                       {" "}
                     </div>
                     {" "}
-                    <div className="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-048fdb8" data-id="048fdb8" data-element_type="column" data-e-type="column">
+                    <div className="tdp-column tdp-col-50 tdp-inner-column tdp-element tdp-element-048fdb8" data-id="048fdb8" data-element_type="column" data-e-type="column">
                       {" "}
-                      <div className="elementor-widget-wrap">
+                      <div className="tdp-widget-wrap">
                         {" "}
                       </div>
                       {" "}
@@ -90,15 +90,15 @@ export default function PagePlatziConf2023({ path }: { path: string }) {
           {" "}
         </section>
         {" "}
-        <section className="elementor-section elementor-top-section elementor-element elementor-element-c524c07 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="c524c07" data-element_type="section" data-e-type="section" data-settings={"{\"background_background\":\"classic\"}"}>
+        <section className="tdp-section tdp-top-section tdp-element tdp-element-c524c07 tdp-section-boxed tdp-section-height-default tdp-section-height-default" data-id="c524c07" data-element_type="section" data-e-type="section" data-settings={"{\"background_background\":\"classic\"}"}>
           {" "}
-          <div className="elementor-container elementor-column-gap-no">
+          <div className="tdp-container tdp-column-gap-no">
             {" "}
-            <div className="elementor-column elementor-col-66 elementor-top-column elementor-element elementor-element-3e2d622" data-id="3e2d622" data-element_type="column" data-e-type="column">
+            <div className="tdp-column tdp-col-66 tdp-top-column tdp-element tdp-element-3e2d622" data-id="3e2d622" data-element_type="column" data-e-type="column">
               {" "}
-              <div className="elementor-widget-wrap elementor-element-populated">
+              <div className="tdp-widget-wrap tdp-element-populated">
                 {" "}
-                <div className="elementor-element elementor-element-24d3622 elementor-widget elementor-widget-theme-post-content" data-id="24d3622" data-element_type="widget" data-e-type="widget" data-widget_type="theme-post-content.default">
+                <div className="tdp-element tdp-element-24d3622 tdp-widget tdp-widget-theme-post-content" data-id="24d3622" data-element_type="widget" data-e-type="widget" data-widget_type="theme-post-content.default">
                   {" "}
                   <p className="wp-block-paragraph">
                     {"Hoy queremos compartir con ustedes nuestra emocionante experiencia en Platzi Conf 2023, un evento que nos dejó sin palabras y nos hizo vivir la Inteligencia Artificial en primera persona. 🚀💻"}
@@ -111,21 +111,21 @@ export default function PagePlatziConf2023({ path }: { path: string }) {
                   <figure className="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-1 is-layout-flex wp-block-gallery-is-layout-flex">
                     {" "}
                     <figure className="wp-block-image size-large">
-                      <img fetchPriority="high" decoding="async" width="720" height="722" data-id="990708" src="/wp-content/uploads/2024/12/Imagen-de-WhatsApp-2023-09-sssa-las-16.09.15-1.jpg" alt="Imagen de WhatsApp 2023 09 sssa las 16.09.15 1" className="wp-image-990708" title="¡Platzi Conf 2023: Un viaje a través de la Inteligencia Artificial! 🚀💡 1" srcSet="/wp-content/uploads/2024/12/Imagen-de-WhatsApp-2023-09-sssa-las-16.09.15-1.jpg 720w, /wp-content/uploads/2024/12/Imagen-de-WhatsApp-2023-09-sssa-las-16.09.15-1-300x300.jpg 300w, /wp-content/uploads/2024/12/Imagen-de-WhatsApp-2023-09-sssa-las-16.09.15-1-150x150.jpg 150w" sizes="(max-width: 720px) 100vw, 720px" />
+                      <img fetchPriority="high" decoding="async" width="720" height="722" data-id="990708" src="/assets/uploads/2024/12/Imagen-de-WhatsApp-2023-09-sssa-las-16.09.15-1.jpg" alt="Imagen de WhatsApp 2023 09 sssa las 16.09.15 1" className="img-990708" title="¡Platzi Conf 2023: Un viaje a través de la Inteligencia Artificial! 🚀💡 1" srcSet="/assets/uploads/2024/12/Imagen-de-WhatsApp-2023-09-sssa-las-16.09.15-1.jpg 720w, /assets/uploads/2024/12/Imagen-de-WhatsApp-2023-09-sssa-las-16.09.15-1-300x300.jpg 300w, /assets/uploads/2024/12/Imagen-de-WhatsApp-2023-09-sssa-las-16.09.15-1-150x150.jpg 150w" sizes="(max-width: 720px) 100vw, 720px" />
                     </figure>
                     {" "}
                     <figure className="wp-block-image size-large">
-                      <img decoding="async" width="720" height="982" data-id="990709" src="/wp-content/uploads/2024/12/Imagen-de-WhatsApp-2023-09-23-a-las-16.09.16555-1.jpg" alt="Imagen de WhatsApp 2023 09 23 a las 16.09.16555 1" className="wp-image-990709" title="¡Platzi Conf 2023: Un viaje a través de la Inteligencia Artificial! 🚀💡 2" srcSet="/wp-content/uploads/2024/12/Imagen-de-WhatsApp-2023-09-23-a-las-16.09.16555-1.jpg 720w, /wp-content/uploads/2024/12/Imagen-de-WhatsApp-2023-09-23-a-las-16.09.16555-1-220x300.jpg 220w" sizes="(max-width: 720px) 100vw, 720px" />
+                      <img decoding="async" width="720" height="982" data-id="990709" src="/assets/uploads/2024/12/Imagen-de-WhatsApp-2023-09-23-a-las-16.09.16555-1.jpg" alt="Imagen de WhatsApp 2023 09 23 a las 16.09.16555 1" className="img-990709" title="¡Platzi Conf 2023: Un viaje a través de la Inteligencia Artificial! 🚀💡 2" srcSet="/assets/uploads/2024/12/Imagen-de-WhatsApp-2023-09-23-a-las-16.09.16555-1.jpg 720w, /assets/uploads/2024/12/Imagen-de-WhatsApp-2023-09-23-a-las-16.09.16555-1-220x300.jpg 220w" sizes="(max-width: 720px) 100vw, 720px" />
                     </figure>
                     {" "}
                     <figure className="wp-block-image size-large">
-                      <img decoding="async" width="693" height="1024" data-id="990707" src="/wp-content/uploads/2024/12/Imagen-de-WhatsApp-2023-09-23-a-las-16.09.16-693x1024-2.jpg" alt="Imagen de WhatsApp 2023 09 23 a las 16.09.16 693x1024 2" className="wp-image-990707" title="¡Platzi Conf 2023: Un viaje a través de la Inteligencia Artificial! 🚀💡 3" srcSet="/wp-content/uploads/2024/12/Imagen-de-WhatsApp-2023-09-23-a-las-16.09.16-693x1024-2.jpg 693w, /wp-content/uploads/2024/12/Imagen-de-WhatsApp-2023-09-23-a-las-16.09.16-693x1024-2-203x300.jpg 203w" sizes="(max-width: 693px) 100vw, 693px" />
+                      <img decoding="async" width="693" height="1024" data-id="990707" src="/assets/uploads/2024/12/Imagen-de-WhatsApp-2023-09-23-a-las-16.09.16-693x1024-2.jpg" alt="Imagen de WhatsApp 2023 09 23 a las 16.09.16 693x1024 2" className="img-990707" title="¡Platzi Conf 2023: Un viaje a través de la Inteligencia Artificial! 🚀💡 3" srcSet="/assets/uploads/2024/12/Imagen-de-WhatsApp-2023-09-23-a-las-16.09.16-693x1024-2.jpg 693w, /assets/uploads/2024/12/Imagen-de-WhatsApp-2023-09-23-a-las-16.09.16-693x1024-2-203x300.jpg 203w" sizes="(max-width: 693px) 100vw, 693px" />
                     </figure>
                     {" "}
                   </figure>
                   {" "}
                   <figure className="wp-block-image size-full">
-                    <img loading="lazy" decoding="async" width="1024" height="768" src="/wp-content/uploads/2024/12/Imagen-de-WhatsApp-2023-09-23-a-las-16.09.15-1024x768-1.jpg" alt="Imagen de WhatsApp 2023 09 23 a las 16.09.15 1024x768 1" className="wp-image-990712" title="¡Platzi Conf 2023: Un viaje a través de la Inteligencia Artificial! 🚀💡 4" srcSet="/wp-content/uploads/2024/12/Imagen-de-WhatsApp-2023-09-23-a-las-16.09.15-1024x768-1.jpg 1024w, /wp-content/uploads/2024/12/Imagen-de-WhatsApp-2023-09-23-a-las-16.09.15-1024x768-1-300x225.jpg 300w, /wp-content/uploads/2024/12/Imagen-de-WhatsApp-2023-09-23-a-las-16.09.15-1024x768-1-768x576.jpg 768w" sizes="(max-width: 1024px) 100vw, 1024px" />
+                    <img loading="lazy" decoding="async" width="1024" height="768" src="/assets/uploads/2024/12/Imagen-de-WhatsApp-2023-09-23-a-las-16.09.15-1024x768-1.jpg" alt="Imagen de WhatsApp 2023 09 23 a las 16.09.15 1024x768 1" className="img-990712" title="¡Platzi Conf 2023: Un viaje a través de la Inteligencia Artificial! 🚀💡 4" srcSet="/assets/uploads/2024/12/Imagen-de-WhatsApp-2023-09-23-a-las-16.09.15-1024x768-1.jpg 1024w, /assets/uploads/2024/12/Imagen-de-WhatsApp-2023-09-23-a-las-16.09.15-1024x768-1-300x225.jpg 300w, /assets/uploads/2024/12/Imagen-de-WhatsApp-2023-09-23-a-las-16.09.15-1024x768-1-768x576.jpg 768w" sizes="(max-width: 1024px) 100vw, 1024px" />
                   </figure>
                   {" "}
                   <p className="wp-block-paragraph">
@@ -147,27 +147,27 @@ export default function PagePlatziConf2023({ path }: { path: string }) {
                   <figure className="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-2 is-layout-flex wp-block-gallery-is-layout-flex">
                     {" "}
                     <figure className="wp-block-image size-large">
-                      <img loading="lazy" decoding="async" width="768" height="1024" data-id="990716" src="/wp-content/uploads/2024/12/Imagen-de-WhatsApp-2023-09-27-a-las-12.01.04-768x1024-1.jpg" alt="Imagen de WhatsApp 2023 09 27 a las 12.01.04 768x1024 1" className="wp-image-990716" title="¡Platzi Conf 2023: Un viaje a través de la Inteligencia Artificial! 🚀💡 5" srcSet="/wp-content/uploads/2024/12/Imagen-de-WhatsApp-2023-09-27-a-las-12.01.04-768x1024-1.jpg 768w, /wp-content/uploads/2024/12/Imagen-de-WhatsApp-2023-09-27-a-las-12.01.04-768x1024-1-225x300.jpg 225w" sizes="(max-width: 768px) 100vw, 768px" />
+                      <img loading="lazy" decoding="async" width="768" height="1024" data-id="990716" src="/assets/uploads/2024/12/Imagen-de-WhatsApp-2023-09-27-a-las-12.01.04-768x1024-1.jpg" alt="Imagen de WhatsApp 2023 09 27 a las 12.01.04 768x1024 1" className="img-990716" title="¡Platzi Conf 2023: Un viaje a través de la Inteligencia Artificial! 🚀💡 5" srcSet="/assets/uploads/2024/12/Imagen-de-WhatsApp-2023-09-27-a-las-12.01.04-768x1024-1.jpg 768w, /assets/uploads/2024/12/Imagen-de-WhatsApp-2023-09-27-a-las-12.01.04-768x1024-1-225x300.jpg 225w" sizes="(max-width: 768px) 100vw, 768px" />
                     </figure>
                     {" "}
                     <figure className="wp-block-image size-large">
-                      <img loading="lazy" decoding="async" width="300" height="225" data-id="990715" src="/wp-content/uploads/2024/12/Imagen-de-WhatsApp-2029893-09-27-a-las-12.01.04-300x225-1.jpg" alt="Imagen de WhatsApp 2029893 09 27 a las 12.01.04 300x225 1" className="wp-image-990715" title="¡Platzi Conf 2023: Un viaje a través de la Inteligencia Artificial! 🚀💡 6" />
+                      <img loading="lazy" decoding="async" width="300" height="225" data-id="990715" src="/assets/uploads/2024/12/Imagen-de-WhatsApp-2029893-09-27-a-las-12.01.04-300x225-1.jpg" alt="Imagen de WhatsApp 2029893 09 27 a las 12.01.04 300x225 1" className="img-990715" title="¡Platzi Conf 2023: Un viaje a través de la Inteligencia Artificial! 🚀💡 6" />
                     </figure>
                     {" "}
                     <figure className="wp-block-image size-large">
-                      <img loading="lazy" decoding="async" width="768" height="1024" data-id="990719" src="/wp-content/uploads/2024/12/Imagen-de-WhatsApp-2iii023-09-27-a-las-12.01.04-768x1024-1.jpg" alt="Imagen de WhatsApp 2iii023 09 27 a las 12.01.04 768x1024 1" className="wp-image-990719" title="¡Platzi Conf 2023: Un viaje a través de la Inteligencia Artificial! 🚀💡 7" srcSet="/wp-content/uploads/2024/12/Imagen-de-WhatsApp-2iii023-09-27-a-las-12.01.04-768x1024-1.jpg 768w, /wp-content/uploads/2024/12/Imagen-de-WhatsApp-2iii023-09-27-a-las-12.01.04-768x1024-1-225x300.jpg 225w" sizes="(max-width: 768px) 100vw, 768px" />
+                      <img loading="lazy" decoding="async" width="768" height="1024" data-id="990719" src="/assets/uploads/2024/12/Imagen-de-WhatsApp-2iii023-09-27-a-las-12.01.04-768x1024-1.jpg" alt="Imagen de WhatsApp 2iii023 09 27 a las 12.01.04 768x1024 1" className="img-990719" title="¡Platzi Conf 2023: Un viaje a través de la Inteligencia Artificial! 🚀💡 7" srcSet="/assets/uploads/2024/12/Imagen-de-WhatsApp-2iii023-09-27-a-las-12.01.04-768x1024-1.jpg 768w, /assets/uploads/2024/12/Imagen-de-WhatsApp-2iii023-09-27-a-las-12.01.04-768x1024-1-225x300.jpg 225w" sizes="(max-width: 768px) 100vw, 768px" />
                     </figure>
                     {" "}
                     <figure className="wp-block-image size-large">
-                      <img loading="lazy" decoding="async" width="300" height="225" data-id="990717" src="/wp-content/uploads/2024/12/Imagen-de-WhatsApp-2023-09-27-85655a-las-12.01.05-300x225-1.jpg" alt="Imagen de WhatsApp 2023 09 27 85655a las 12.01.05 300x225 1" className="wp-image-990717" title="¡Platzi Conf 2023: Un viaje a través de la Inteligencia Artificial! 🚀💡 8" />
+                      <img loading="lazy" decoding="async" width="300" height="225" data-id="990717" src="/assets/uploads/2024/12/Imagen-de-WhatsApp-2023-09-27-85655a-las-12.01.05-300x225-1.jpg" alt="Imagen de WhatsApp 2023 09 27 85655a las 12.01.05 300x225 1" className="img-990717" title="¡Platzi Conf 2023: Un viaje a través de la Inteligencia Artificial! 🚀💡 8" />
                     </figure>
                     {" "}
                     <figure className="wp-block-image size-large">
-                      <img loading="lazy" decoding="async" width="768" height="1024" data-id="990720" src="/wp-content/uploads/2024/12/Imagen-de-WhatsApp-2023-09-27-a-las-12.0154512133.05-768x1024-1.jpg" alt="Imagen de WhatsApp 2023 09 27 a las 12.0154512133.05 768x1024 1" className="wp-image-990720" title="¡Platzi Conf 2023: Un viaje a través de la Inteligencia Artificial! 🚀💡 9" srcSet="/wp-content/uploads/2024/12/Imagen-de-WhatsApp-2023-09-27-a-las-12.0154512133.05-768x1024-1.jpg 768w, /wp-content/uploads/2024/12/Imagen-de-WhatsApp-2023-09-27-a-las-12.0154512133.05-768x1024-1-225x300.jpg 225w" sizes="(max-width: 768px) 100vw, 768px" />
+                      <img loading="lazy" decoding="async" width="768" height="1024" data-id="990720" src="/assets/uploads/2024/12/Imagen-de-WhatsApp-2023-09-27-a-las-12.0154512133.05-768x1024-1.jpg" alt="Imagen de WhatsApp 2023 09 27 a las 12.0154512133.05 768x1024 1" className="img-990720" title="¡Platzi Conf 2023: Un viaje a través de la Inteligencia Artificial! 🚀💡 9" srcSet="/assets/uploads/2024/12/Imagen-de-WhatsApp-2023-09-27-a-las-12.0154512133.05-768x1024-1.jpg 768w, /assets/uploads/2024/12/Imagen-de-WhatsApp-2023-09-27-a-las-12.0154512133.05-768x1024-1-225x300.jpg 225w" sizes="(max-width: 768px) 100vw, 768px" />
                     </figure>
                     {" "}
                     <figure className="wp-block-image size-large">
-                      <img loading="lazy" decoding="async" width="768" height="1024" data-id="990718" src="/wp-content/uploads/2024/12/Imagen-de-WhatsApp-2023-09-27-a-las-1299999.01.05-768x1024-1.jpg" alt="Imagen de WhatsApp 2023 09 27 a las 1299999.01.05 768x1024 1" className="wp-image-990718" title="¡Platzi Conf 2023: Un viaje a través de la Inteligencia Artificial! 🚀💡 10" srcSet="/wp-content/uploads/2024/12/Imagen-de-WhatsApp-2023-09-27-a-las-1299999.01.05-768x1024-1.jpg 768w, /wp-content/uploads/2024/12/Imagen-de-WhatsApp-2023-09-27-a-las-1299999.01.05-768x1024-1-225x300.jpg 225w" sizes="(max-width: 768px) 100vw, 768px" />
+                      <img loading="lazy" decoding="async" width="768" height="1024" data-id="990718" src="/assets/uploads/2024/12/Imagen-de-WhatsApp-2023-09-27-a-las-1299999.01.05-768x1024-1.jpg" alt="Imagen de WhatsApp 2023 09 27 a las 1299999.01.05 768x1024 1" className="img-990718" title="¡Platzi Conf 2023: Un viaje a través de la Inteligencia Artificial! 🚀💡 10" srcSet="/assets/uploads/2024/12/Imagen-de-WhatsApp-2023-09-27-a-las-1299999.01.05-768x1024-1.jpg 768w, /assets/uploads/2024/12/Imagen-de-WhatsApp-2023-09-27-a-las-1299999.01.05-768x1024-1-225x300.jpg 225w" sizes="(max-width: 768px) 100vw, 768px" />
                     </figure>
                     {" "}
                   </figure>
@@ -178,9 +178,9 @@ export default function PagePlatziConf2023({ path }: { path: string }) {
               {" "}
             </div>
             {" "}
-            <div className="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-cd064e1" data-id="cd064e1" data-element_type="column" data-e-type="column">
+            <div className="tdp-column tdp-col-33 tdp-top-column tdp-element tdp-element-cd064e1" data-id="cd064e1" data-element_type="column" data-e-type="column">
               {" "}
-              <div className="elementor-widget-wrap">
+              <div className="tdp-widget-wrap">
                 {" "}
               </div>
               {" "}
@@ -198,8 +198,8 @@ export default function PagePlatziConf2023({ path }: { path: string }) {
       <style href="wpb-051b525973" precedence="wp-body">{".wp-block-gallery.wp-block-gallery-1{--wp--style--unstable-gallery-gap:var( --wp--style--gallery-gap-default, var( --gallery-block--gutter-size, var( --wp--style--block-gap, 0.5em ) ) );}.wp-block-gallery.wp-block-gallery-2{--wp--style--unstable-gallery-gap:var( --wp--style--gallery-gap-default, var( --gallery-block--gutter-size, var( --wp--style--block-gap, 0.5em ) ) );}\n/*# sourceURL=core-block-supports-inline-css */"}</style>
       <IdEgeiroWhfab path={path} />
       <div className="pafe-break-point" data-pafe-break-point-md="767" data-pafe-break-point-lg="1024" data-pafe-ajax-url="/wp-admin/admin-ajax.php"></div>
-      <div data-pafe-form-builder-tinymce-upload="/wp-content/plugins/piotnet-addons-for-elementor-pro/inc/tinymce/tinymce-upload.php"></div>
-      <div data-pafe-plugin-url="/wp-content/plugins"></div>
+      <div data-pafe-form-builder-tinymce-upload="/assets/plugins/piotnet-addons-for-tdp-pro/inc/tinymce/tinymce-upload.php"></div>
+      <div data-pafe-plugin-url="/assets/plugins"></div>
     </>
   );
 }

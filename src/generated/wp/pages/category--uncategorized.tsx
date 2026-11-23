@@ -14,39 +14,39 @@ export default function PageCategoryUncategorized({ path }: { path: string }) {
     <>
       <SkipLink path={path} />
       <Header6979 path={path} />
-      <div data-elementor-type="archive" data-elementor-id="7944" className="elementor elementor-7944 elementor-location-archive" data-elementor-post-type="elementor_library">
+      <div data-tdp-type="archive" data-tdp-id="7944" className="tdp tdp-7944 tdp-location-archive" data-tdp-post-type="tdp_library">
         {" "}
-        <section className="elementor-section elementor-top-section elementor-element elementor-element-d5de0d6 elementor-section-full_width elementor-section-content-middle elementor-section-height-default elementor-section-height-default" data-id="d5de0d6" data-element_type="section" data-e-type="section" data-settings={"{\"background_background\":\"classic\"}"}>
+        <section className="tdp-section tdp-top-section tdp-element tdp-element-d5de0d6 tdp-section-full_width tdp-section-content-middle tdp-section-height-default tdp-section-height-default" data-id="d5de0d6" data-element_type="section" data-e-type="section" data-settings={"{\"background_background\":\"classic\"}"}>
           {" "}
-          <div className="elementor-background-overlay"></div>
+          <div className="tdp-background-overlay"></div>
           {" "}
-          <div className="elementor-container elementor-column-gap-no">
+          <div className="tdp-container tdp-column-gap-no">
             {" "}
-            <div className="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-b1e88b1" data-id="b1e88b1" data-element_type="column" data-e-type="column" data-settings={"{\"background_background\":\"classic\"}"}>
+            <div className="tdp-column tdp-col-100 tdp-top-column tdp-element tdp-element-b1e88b1" data-id="b1e88b1" data-element_type="column" data-e-type="column" data-settings={"{\"background_background\":\"classic\"}"}>
               {" "}
-              <div className="elementor-widget-wrap elementor-element-populated">
+              <div className="tdp-widget-wrap tdp-element-populated">
                 {" "}
-                <section className="elementor-section elementor-inner-section elementor-element elementor-element-73f6a22 elementor-section-height-min-height elementor-section-content-bottom elementor-section-boxed elementor-section-height-default" data-id="73f6a22" data-element_type="section" data-e-type="section">
+                <section className="tdp-section tdp-inner-section tdp-element tdp-element-73f6a22 tdp-section-height-min-height tdp-section-content-bottom tdp-section-boxed tdp-section-height-default" data-id="73f6a22" data-element_type="section" data-e-type="section">
                   {" "}
-                  <div className="elementor-container elementor-column-gap-no">
+                  <div className="tdp-container tdp-column-gap-no">
                     {" "}
-                    <div className="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-b27b26e" data-id="b27b26e" data-element_type="column" data-e-type="column">
+                    <div className="tdp-column tdp-col-50 tdp-inner-column tdp-element tdp-element-b27b26e" data-id="b27b26e" data-element_type="column" data-e-type="column">
                       {" "}
-                      <div className="elementor-widget-wrap elementor-element-populated">
+                      <div className="tdp-widget-wrap tdp-element-populated">
                         {" "}
-                        <div className="elementor-element elementor-element-4af3b11 elementor-align-start elementor-widget__width-auto elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="4af3b11" data-element_type="widget" data-e-type="widget" data-widget_type="icon-list.default">
+                        <div className="tdp-element tdp-element-4af3b11 tdp-align-start tdp-widget__width-auto tdp-icon-list--layout-traditional tdp-list-item-link-full_width tdp-widget tdp-widget-icon-list" data-id="4af3b11" data-element_type="widget" data-e-type="widget" data-widget_type="icon-list.default">
                           {" "}
-                          <ul className="elementor-icon-list-items">
+                          <ul className="tdp-icon-list-items">
                             {" "}
-                            <li className="elementor-icon-list-item">
+                            <li className="tdp-icon-list-item">
                               {" "}
-                              <span className="elementor-icon-list-icon">
+                              <span className="tdp-icon-list-icon">
                                 {" "}
                                 <i aria-hidden="true" className="vamtamtheme- vamtam-theme-brand-symbol"></i>
                                 {" "}
                               </span>
                               {" "}
-                              <span className="elementor-icon-list-text">
+                              <span className="tdp-icon-list-text">
                                 {" Insights"}
                               </span>
                               {" "}
@@ -56,9 +56,9 @@ export default function PageCategoryUncategorized({ path }: { path: string }) {
                           {" "}
                         </div>
                         {" "}
-                        <div className="elementor-element elementor-element-713ba10 elementor-widget elementor-widget-theme-archive-title elementor-page-title elementor-widget-heading" data-id="713ba10" data-element_type="widget" data-e-type="widget" data-settings={"{\"_animation_tablet\":\"none\"}"} data-widget_type="theme-archive-title.default">
+                        <div className="tdp-element tdp-element-713ba10 tdp-widget tdp-widget-theme-archive-title tdp-page-title tdp-widget-heading" data-id="713ba10" data-element_type="widget" data-e-type="widget" data-settings={"{\"_animation_tablet\":\"none\"}"} data-widget_type="theme-archive-title.default">
                           {" "}
-                          <h1 className="elementor-heading-title elementor-size-default">
+                          <h1 className="tdp-heading-title tdp-size-default">
                             {"Uncategorized"}
                           </h1>
                           {" "}
@@ -68,9 +68,9 @@ export default function PageCategoryUncategorized({ path }: { path: string }) {
                       {" "}
                     </div>
                     {" "}
-                    <div className="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-429633a elementor-hidden-mobile" data-id="429633a" data-element_type="column" data-e-type="column">
+                    <div className="tdp-column tdp-col-50 tdp-inner-column tdp-element tdp-element-429633a tdp-hidden-mobile" data-id="429633a" data-element_type="column" data-e-type="column">
                       {" "}
-                      <div className="elementor-widget-wrap">
+                      <div className="tdp-widget-wrap">
                         {" "}
                       </div>
                       {" "}
@@ -88,17 +88,17 @@ export default function PageCategoryUncategorized({ path }: { path: string }) {
           {" "}
         </section>
         {" "}
-        <section className="elementor-section elementor-top-section elementor-element elementor-element-4173f80 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="4173f80" data-element_type="section" data-e-type="section">
+        <section className="tdp-section tdp-top-section tdp-element tdp-element-4173f80 tdp-section-boxed tdp-section-height-default tdp-section-height-default" data-id="4173f80" data-element_type="section" data-e-type="section">
           {" "}
-          <div className="elementor-container elementor-column-gap-no">
+          <div className="tdp-container tdp-column-gap-no">
             {" "}
-            <div className="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-dcd3d31" data-id="dcd3d31" data-element_type="column" data-e-type="column">
+            <div className="tdp-column tdp-col-100 tdp-top-column tdp-element tdp-element-dcd3d31" data-id="dcd3d31" data-element_type="column" data-e-type="column">
               {" "}
-              <div className="elementor-widget-wrap elementor-element-populated">
+              <div className="tdp-widget-wrap tdp-element-populated">
                 {" "}
-                <div className="elementor-element elementor-element-795edfc elementor-grid-3 elementor-grid-tablet-2 elementor-grid-mobile-1 elementor-widget elementor-widget-loop-grid" data-id="795edfc" data-element_type="widget" data-e-type="widget" data-settings={"{\"template_id\":\"7839\",\"columns\":3,\"columns_tablet\":2,\"pagination_type\":\"load_more_on_click\",\"row_gap\":{\"unit\":\"px\",\"size\":30,\"sizes\":[]},\"row_gap_tablet\":{\"unit\":\"px\",\"size\":30,\"sizes\":[]},\"row_gap_mobile\":{\"unit\":\"px\",\"size\":30,\"sizes\":[]},\"_skin\":\"post\",\"columns_mobile\":\"1\",\"edit_handle_selector\":\"[data-elementor-type=\\\"loop-item\\\"]\",\"load_more_spinner\":{\"value\":\"fas fa-spinner\",\"library\":\"fa-solid\"}}"} data-widget_type="loop-grid.post">
+                <div className="tdp-element tdp-element-795edfc tdp-grid-3 tdp-grid-tablet-2 tdp-grid-mobile-1 tdp-widget tdp-widget-loop-grid" data-id="795edfc" data-element_type="widget" data-e-type="widget" data-settings={"{\"template_id\":\"7839\",\"columns\":3,\"columns_tablet\":2,\"pagination_type\":\"load_more_on_click\",\"row_gap\":{\"unit\":\"px\",\"size\":30,\"sizes\":[]},\"row_gap_tablet\":{\"unit\":\"px\",\"size\":30,\"sizes\":[]},\"row_gap_mobile\":{\"unit\":\"px\",\"size\":30,\"sizes\":[]},\"_skin\":\"post\",\"columns_mobile\":\"1\",\"edit_handle_selector\":\"[data-tdp-type=\\\"loop-item\\\"]\",\"load_more_spinner\":{\"value\":\"fas fa-spinner\",\"library\":\"fa-solid\"}}"} data-widget_type="loop-grid.post">
                   {" "}
-                  <div className="elementor-widget-container">
+                  <div className="tdp-widget-container">
                     {" "}
                     <div className="e-loop-nothing-found-message">
                       {" "}
@@ -123,8 +123,8 @@ export default function PageCategoryUncategorized({ path }: { path: string }) {
       <Popup1670 path={path} />
       <IdEgeiroWhfab path={path} />
       <div className="pafe-break-point" data-pafe-break-point-md="767" data-pafe-break-point-lg="1024" data-pafe-ajax-url="/wp-admin/admin-ajax.php"></div>
-      <div data-pafe-form-builder-tinymce-upload="/wp-content/plugins/piotnet-addons-for-elementor-pro/inc/tinymce/tinymce-upload.php"></div>
-      <div data-pafe-plugin-url="/wp-content/plugins"></div>
+      <div data-pafe-form-builder-tinymce-upload="/assets/plugins/piotnet-addons-for-tdp-pro/inc/tinymce/tinymce-upload.php"></div>
+      <div data-pafe-plugin-url="/assets/plugins"></div>
     </>
   );
 }

@@ -6,7 +6,7 @@ import Header6979 from "../templates/Header6979";
 import Footer988867 from "../templates/Footer988867";
 import Popup9913 from "../templates/Popup9913";
 import Popup1670 from "../templates/Popup1670";
-import IdElementorPost10889Css from "../templates/IdElementorPost10889Css";
+import IdTdpPost10889Css from "../templates/IdTdpPost10889Css";
 import IdEgeiroWhfab from "../templates/IdEgeiroWhfab";
 
 export default function PageChatbots({ path }: { path: string }) {
@@ -19,39 +19,39 @@ export default function PageChatbots({ path }: { path: string }) {
         {" "}
         <div className="page-content">
           {" "}
-          <div data-elementor-type="wp-page" data-elementor-id="988681" className="elementor elementor-988681" data-elementor-post-type="page">
+          <div data-tdp-type="page" data-tdp-id="988681" className="tdp tdp-988681" data-tdp-post-type="page">
             {" "}
-            <section className="elementor-section elementor-top-section elementor-element elementor-element-f05a50c elementor-section-full_width elementor-section-content-middle elementor-section-height-default elementor-section-height-default" data-id="f05a50c" data-element_type="section" data-e-type="section" data-settings={"{\"background_background\":\"classic\"}"}>
+            <section className="tdp-section tdp-top-section tdp-element tdp-element-f05a50c tdp-section-full_width tdp-section-content-middle tdp-section-height-default tdp-section-height-default" data-id="f05a50c" data-element_type="section" data-e-type="section" data-settings={"{\"background_background\":\"classic\"}"}>
               {" "}
-              <div className="elementor-background-overlay"></div>
+              <div className="tdp-background-overlay"></div>
               {" "}
-              <div className="elementor-container elementor-column-gap-no">
+              <div className="tdp-container tdp-column-gap-no">
                 {" "}
-                <div className="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-1ee14d22" data-id="1ee14d22" data-element_type="column" data-e-type="column" data-settings={"{\"background_background\":\"classic\"}"}>
+                <div className="tdp-column tdp-col-100 tdp-top-column tdp-element tdp-element-1ee14d22" data-id="1ee14d22" data-element_type="column" data-e-type="column" data-settings={"{\"background_background\":\"classic\"}"}>
                   {" "}
-                  <div className="elementor-widget-wrap elementor-element-populated">
+                  <div className="tdp-widget-wrap tdp-element-populated">
                     {" "}
-                    <section className="elementor-section elementor-inner-section elementor-element elementor-element-4a95631e elementor-section-height-min-height elementor-section-content-bottom elementor-section-boxed elementor-section-height-default" data-id="4a95631e" data-element_type="section" data-e-type="section">
+                    <section className="tdp-section tdp-inner-section tdp-element tdp-element-4a95631e tdp-section-height-min-height tdp-section-content-bottom tdp-section-boxed tdp-section-height-default" data-id="4a95631e" data-element_type="section" data-e-type="section">
                       {" "}
-                      <div className="elementor-container elementor-column-gap-no">
+                      <div className="tdp-container tdp-column-gap-no">
                         {" "}
-                        <div className="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-bb309c2" data-id="bb309c2" data-element_type="column" data-e-type="column">
+                        <div className="tdp-column tdp-col-50 tdp-inner-column tdp-element tdp-element-bb309c2" data-id="bb309c2" data-element_type="column" data-e-type="column">
                           {" "}
-                          <div className="elementor-widget-wrap elementor-element-populated">
+                          <div className="tdp-widget-wrap tdp-element-populated">
                             {" "}
-                            <div className="elementor-element elementor-element-198331d4 elementor-align-start elementor-widget__width-auto elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="198331d4" data-element_type="widget" data-e-type="widget" data-widget_type="icon-list.default">
+                            <div className="tdp-element tdp-element-198331d4 tdp-align-start tdp-widget__width-auto tdp-icon-list--layout-traditional tdp-list-item-link-full_width tdp-widget tdp-widget-icon-list" data-id="198331d4" data-element_type="widget" data-e-type="widget" data-widget_type="icon-list.default">
                               {" "}
-                              <ul className="elementor-icon-list-items">
+                              <ul className="tdp-icon-list-items">
                                 {" "}
-                                <li className="elementor-icon-list-item">
+                                <li className="tdp-icon-list-item">
                                   {" "}
-                                  <span className="elementor-icon-list-icon">
+                                  <span className="tdp-icon-list-icon">
                                     {" "}
                                     <i aria-hidden="true" className="vamtamtheme- vamtam-theme-brand-symbol"></i>
                                     {" "}
                                   </span>
                                   {" "}
-                                  <span className="elementor-icon-list-text">
+                                  <span className="tdp-icon-list-text">
                                     {"Chatbots"}
                                   </span>
                                   {" "}
@@ -61,9 +61,9 @@ export default function PageChatbots({ path }: { path: string }) {
                               {" "}
                             </div>
                             {" "}
-                            <div className="elementor-element elementor-element-3f0557d7 animated-slow elementor-widget elementor-widget-heading" data-id="3f0557d7" data-element_type="widget" data-e-type="widget" data-settings={"{\"_animation_tablet\":\"none\",\"_animation_delay\":300,\"_animation\":\"none\"}"} data-widget_type="heading.default">
+                            <div className="tdp-element tdp-element-3f0557d7 animated-slow tdp-widget tdp-widget-heading" data-id="3f0557d7" data-element_type="widget" data-e-type="widget" data-settings={"{\"_animation_tablet\":\"none\",\"_animation_delay\":300,\"_animation\":\"none\"}"} data-widget_type="heading.default">
                               {" "}
-                              <h1 className="elementor-heading-title elementor-size-default">
+                              <h1 className="tdp-heading-title tdp-size-default">
                                 {"Chatbots para WhatsApp, Instagram y Messenger de Facebook "}
                               </h1>
                               {" "}
@@ -73,9 +73,9 @@ export default function PageChatbots({ path }: { path: string }) {
                           {" "}
                         </div>
                         {" "}
-                        <div className="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-62442b31 elementor-hidden-mobile" data-id="62442b31" data-element_type="column" data-e-type="column">
+                        <div className="tdp-column tdp-col-50 tdp-inner-column tdp-element tdp-element-62442b31 tdp-hidden-mobile" data-id="62442b31" data-element_type="column" data-e-type="column">
                           {" "}
-                          <div className="elementor-widget-wrap">
+                          <div className="tdp-widget-wrap">
                             {" "}
                           </div>
                           {" "}
@@ -93,27 +93,27 @@ export default function PageChatbots({ path }: { path: string }) {
               {" "}
             </section>
             {" "}
-            <section className="elementor-section elementor-top-section elementor-element elementor-element-38936ac elementor-section-content-middle elementor-reverse-mobile elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="38936ac" data-element_type="section" data-e-type="section">
+            <section className="tdp-section tdp-top-section tdp-element tdp-element-38936ac tdp-section-content-middle tdp-reverse-mobile tdp-section-boxed tdp-section-height-default tdp-section-height-default" data-id="38936ac" data-element_type="section" data-e-type="section">
               {" "}
-              <div className="elementor-container elementor-column-gap-no">
+              <div className="tdp-container tdp-column-gap-no">
                 {" "}
-                <div className="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-d045149" data-id="d045149" data-element_type="column" data-e-type="column">
+                <div className="tdp-column tdp-col-50 tdp-top-column tdp-element tdp-element-d045149" data-id="d045149" data-element_type="column" data-e-type="column">
                   {" "}
-                  <div className="elementor-widget-wrap elementor-element-populated">
+                  <div className="tdp-widget-wrap tdp-element-populated">
                     {" "}
-                    <div className="elementor-element elementor-element-bea518a elementor-align-start elementor-widget__width-initial elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="bea518a" data-element_type="widget" data-e-type="widget" data-widget_type="icon-list.default">
+                    <div className="tdp-element tdp-element-bea518a tdp-align-start tdp-widget__width-initial tdp-icon-list--layout-traditional tdp-list-item-link-full_width tdp-widget tdp-widget-icon-list" data-id="bea518a" data-element_type="widget" data-e-type="widget" data-widget_type="icon-list.default">
                       {" "}
-                      <ul className="elementor-icon-list-items">
+                      <ul className="tdp-icon-list-items">
                         {" "}
-                        <li className="elementor-icon-list-item">
+                        <li className="tdp-icon-list-item">
                           {" "}
-                          <span className="elementor-icon-list-icon">
+                          <span className="tdp-icon-list-icon">
                             {" "}
                             <i aria-hidden="true" className="vamtamtheme- vamtam-theme-brand-symbol"></i>
                             {" "}
                           </span>
                           {" "}
-                          <span className="elementor-icon-list-text">
+                          <span className="tdp-icon-list-text">
                             {"Sobre nuestra solución "}
                           </span>
                           {" "}
@@ -123,7 +123,7 @@ export default function PageChatbots({ path }: { path: string }) {
                       {" "}
                     </div>
                     {" "}
-                    <div className="elementor-element elementor-element-d410617 elementor-widget__width-initial elementor-widget elementor-widget-text-editor" data-id="d410617" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
+                    <div className="tdp-element tdp-element-d410617 tdp-widget__width-initial tdp-widget tdp-widget-text-editor" data-id="d410617" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
                       {" "}
                       <p>
                         {"Automatiza la atención al cliente 24/7 con nuestros chatbots impulsados por inteligencia artificial. Responde rápidamente a consultas frecuentes y mejora la fidelización de tus clientes en plataformas clave como WhatsApp, Instagram y Facebook Messenger."}
@@ -138,13 +138,13 @@ export default function PageChatbots({ path }: { path: string }) {
                   {" "}
                 </div>
                 {" "}
-                <div className="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-aebfa58" data-id="aebfa58" data-element_type="column" data-e-type="column">
+                <div className="tdp-column tdp-col-50 tdp-top-column tdp-element tdp-element-aebfa58" data-id="aebfa58" data-element_type="column" data-e-type="column">
                   {" "}
-                  <div className="elementor-widget-wrap elementor-element-populated">
+                  <div className="tdp-widget-wrap tdp-element-populated">
                     {" "}
-                    <div className="elementor-element elementor-element-3aa95a8 elementor-widget elementor-widget-image" data-id="3aa95a8" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
+                    <div className="tdp-element tdp-element-3aa95a8 tdp-widget tdp-widget-image" data-id="3aa95a8" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
                       {" "}
-                      <img decoding="async" src="/wp-content/uploads/elementor/thumbs/GettyImages-1125619200-square-6-1-rawr5d886jxy2vdve8w6g3h0kf1apcpzdbeuwh3gow.webp" title="GettyImages-1125619200-square-6 (1)" alt="GettyImages-1125619200-square-6 (1)" loading="lazy" />
+                      <img decoding="async" src="/assets/uploads/tdp/thumbs/GettyImages-1125619200-square-6-1-rawr5d886jxy2vdve8w6g3h0kf1apcpzdbeuwh3gow.webp" title="GettyImages-1125619200-square-6 (1)" alt="GettyImages-1125619200-square-6 (1)" loading="lazy" />
                       {" "}
                     </div>
                     {" "}
@@ -156,27 +156,27 @@ export default function PageChatbots({ path }: { path: string }) {
               {" "}
             </section>
             {" "}
-            <section className="elementor-section elementor-top-section elementor-element elementor-element-60b34e62 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="60b34e62" data-element_type="section" data-e-type="section">
+            <section className="tdp-section tdp-top-section tdp-element tdp-element-60b34e62 tdp-section-boxed tdp-section-height-default tdp-section-height-default" data-id="60b34e62" data-element_type="section" data-e-type="section">
               {" "}
-              <div className="elementor-container elementor-column-gap-no">
+              <div className="tdp-container tdp-column-gap-no">
                 {" "}
-                <div className="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-7e5702d" data-id="7e5702d" data-element_type="column" data-e-type="column">
+                <div className="tdp-column tdp-col-100 tdp-top-column tdp-element tdp-element-7e5702d" data-id="7e5702d" data-element_type="column" data-e-type="column">
                   {" "}
-                  <div className="elementor-widget-wrap elementor-element-populated">
+                  <div className="tdp-widget-wrap tdp-element-populated">
                     {" "}
-                    <div className="elementor-element elementor-element-2d3468e5 elementor-align-start elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="2d3468e5" data-element_type="widget" data-e-type="widget" data-widget_type="icon-list.default">
+                    <div className="tdp-element tdp-element-2d3468e5 tdp-align-start tdp-icon-list--layout-traditional tdp-list-item-link-full_width tdp-widget tdp-widget-icon-list" data-id="2d3468e5" data-element_type="widget" data-e-type="widget" data-widget_type="icon-list.default">
                       {" "}
-                      <ul className="elementor-icon-list-items">
+                      <ul className="tdp-icon-list-items">
                         {" "}
-                        <li className="elementor-icon-list-item">
+                        <li className="tdp-icon-list-item">
                           {" "}
-                          <span className="elementor-icon-list-icon">
+                          <span className="tdp-icon-list-icon">
                             {" "}
                             <i aria-hidden="true" className="vamtamtheme- vamtam-theme-brand-symbol"></i>
                             {" "}
                           </span>
                           {" "}
-                          <span className="elementor-icon-list-text">
+                          <span className="tdp-icon-list-text">
                             {"¿Por qué las empresas deberían contar con nuestros Chatbots?"}
                           </span>
                           {" "}
@@ -194,21 +194,21 @@ export default function PageChatbots({ path }: { path: string }) {
               {" "}
             </section>
             {" "}
-            <section className="elementor-section elementor-top-section elementor-element elementor-element-132dfdb8 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="132dfdb8" data-element_type="section" data-e-type="section">
+            <section className="tdp-section tdp-top-section tdp-element tdp-element-132dfdb8 tdp-section-boxed tdp-section-height-default tdp-section-height-default" data-id="132dfdb8" data-element_type="section" data-e-type="section">
               {" "}
-              <div className="elementor-container elementor-column-gap-no">
+              <div className="tdp-container tdp-column-gap-no">
                 {" "}
-                <div className="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-3a553ef2" data-id="3a553ef2" data-element_type="column" data-e-type="column">
+                <div className="tdp-column tdp-col-33 tdp-top-column tdp-element tdp-element-3a553ef2" data-id="3a553ef2" data-element_type="column" data-e-type="column">
                   {" "}
-                  <div className="elementor-widget-wrap elementor-element-populated">
+                  <div className="tdp-widget-wrap tdp-element-populated">
                     {" "}
-                    <div className="elementor-element elementor-element-952d874 elementor-position-inline-start elementor-mobile-position-inline-start elementor-view-default elementor-widget elementor-widget-icon-box" data-id="952d874" data-element_type="widget" data-e-type="widget" data-widget_type="icon-box.default">
+                    <div className="tdp-element tdp-element-952d874 tdp-position-inline-start tdp-mobile-position-inline-start tdp-view-default tdp-widget tdp-widget-icon-box" data-id="952d874" data-element_type="widget" data-e-type="widget" data-widget_type="icon-box.default">
                       {" "}
-                      <div className="elementor-icon-box-wrapper">
+                      <div className="tdp-icon-box-wrapper">
                         {" "}
-                        <div className="elementor-icon-box-icon">
+                        <div className="tdp-icon-box-icon">
                           {" "}
-                          <span className="elementor-icon">
+                          <span className="tdp-icon">
                             {" "}
                             <i aria-hidden="true" className="vamtamtheme- vamtam-theme-check"></i>
                             {" "}
@@ -216,9 +216,9 @@ export default function PageChatbots({ path }: { path: string }) {
                           {" "}
                         </div>
                         {" "}
-                        <div className="elementor-icon-box-content">
+                        <div className="tdp-icon-box-content">
                           {" "}
-                          <div className="elementor-icon-box-title">
+                          <div className="tdp-icon-box-title">
                             {" "}
                             <span>
                               {" Automatiza "}
@@ -226,7 +226,7 @@ export default function PageChatbots({ path }: { path: string }) {
                             {" "}
                           </div>
                           {" "}
-                          <p className="elementor-icon-box-description">
+                          <p className="tdp-icon-box-description">
                             {" Optimiza tareas repetitivas, permite respuestas instantáneas, mejora la eficiencia operativa de tu equipo y libera tiempo para tareas estratégicas. "}
                           </p>
                           {" "}
@@ -240,17 +240,17 @@ export default function PageChatbots({ path }: { path: string }) {
                   {" "}
                 </div>
                 {" "}
-                <div className="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-474ae3d9" data-id="474ae3d9" data-element_type="column" data-e-type="column">
+                <div className="tdp-column tdp-col-33 tdp-top-column tdp-element tdp-element-474ae3d9" data-id="474ae3d9" data-element_type="column" data-e-type="column">
                   {" "}
-                  <div className="elementor-widget-wrap elementor-element-populated">
+                  <div className="tdp-widget-wrap tdp-element-populated">
                     {" "}
-                    <div className="elementor-element elementor-element-331f8164 elementor-position-inline-start elementor-mobile-position-inline-start elementor-view-default elementor-widget elementor-widget-icon-box" data-id="331f8164" data-element_type="widget" data-e-type="widget" data-widget_type="icon-box.default">
+                    <div className="tdp-element tdp-element-331f8164 tdp-position-inline-start tdp-mobile-position-inline-start tdp-view-default tdp-widget tdp-widget-icon-box" data-id="331f8164" data-element_type="widget" data-e-type="widget" data-widget_type="icon-box.default">
                       {" "}
-                      <div className="elementor-icon-box-wrapper">
+                      <div className="tdp-icon-box-wrapper">
                         {" "}
-                        <div className="elementor-icon-box-icon">
+                        <div className="tdp-icon-box-icon">
                           {" "}
-                          <span className="elementor-icon">
+                          <span className="tdp-icon">
                             {" "}
                             <i aria-hidden="true" className="vamtamtheme- vamtam-theme-check"></i>
                             {" "}
@@ -258,9 +258,9 @@ export default function PageChatbots({ path }: { path: string }) {
                           {" "}
                         </div>
                         {" "}
-                        <div className="elementor-icon-box-content">
+                        <div className="tdp-icon-box-content">
                           {" "}
-                          <div className="elementor-icon-box-title">
+                          <div className="tdp-icon-box-title">
                             {" "}
                             <span>
                               {" Prospecta "}
@@ -268,7 +268,7 @@ export default function PageChatbots({ path }: { path: string }) {
                             {" "}
                           </div>
                           {" "}
-                          <p className="elementor-icon-box-description">
+                          <p className="tdp-icon-box-description">
                             {" Identifica y califica nuevos clientes potenciales de manera efectiva, asegurando un enfoque personalizado y dirigido para cada prospecto, incrementando oportunidades. "}
                           </p>
                           {" "}
@@ -282,17 +282,17 @@ export default function PageChatbots({ path }: { path: string }) {
                   {" "}
                 </div>
                 {" "}
-                <div className="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-3d13a012" data-id="3d13a012" data-element_type="column" data-e-type="column">
+                <div className="tdp-column tdp-col-33 tdp-top-column tdp-element tdp-element-3d13a012" data-id="3d13a012" data-element_type="column" data-e-type="column">
                   {" "}
-                  <div className="elementor-widget-wrap elementor-element-populated">
+                  <div className="tdp-widget-wrap tdp-element-populated">
                     {" "}
-                    <div className="elementor-element elementor-element-270055d2 elementor-position-inline-start elementor-mobile-position-inline-start elementor-view-default elementor-widget elementor-widget-icon-box" data-id="270055d2" data-element_type="widget" data-e-type="widget" data-widget_type="icon-box.default">
+                    <div className="tdp-element tdp-element-270055d2 tdp-position-inline-start tdp-mobile-position-inline-start tdp-view-default tdp-widget tdp-widget-icon-box" data-id="270055d2" data-element_type="widget" data-e-type="widget" data-widget_type="icon-box.default">
                       {" "}
-                      <div className="elementor-icon-box-wrapper">
+                      <div className="tdp-icon-box-wrapper">
                         {" "}
-                        <div className="elementor-icon-box-icon">
+                        <div className="tdp-icon-box-icon">
                           {" "}
-                          <span className="elementor-icon">
+                          <span className="tdp-icon">
                             {" "}
                             <i aria-hidden="true" className="vamtamtheme- vamtam-theme-check"></i>
                             {" "}
@@ -300,9 +300,9 @@ export default function PageChatbots({ path }: { path: string }) {
                           {" "}
                         </div>
                         {" "}
-                        <div className="elementor-icon-box-content">
+                        <div className="tdp-icon-box-content">
                           {" "}
-                          <div className="elementor-icon-box-title">
+                          <div className="tdp-icon-box-title">
                             {" "}
                             <span>
                               {" Integra "}
@@ -310,7 +310,7 @@ export default function PageChatbots({ path }: { path: string }) {
                             {" "}
                           </div>
                           {" "}
-                          <p className="elementor-icon-box-description">
+                          <p className="tdp-icon-box-description">
                             {" Entrega información en tiempo real desde tu sistema CRM/ERP y permite la transferencia a un asesor humano para atención personalizada en casos urgentes. "}
                           </p>
                           {" "}
@@ -328,55 +328,55 @@ export default function PageChatbots({ path }: { path: string }) {
               {" "}
             </section>
             {" "}
-            <section className="elementor-section elementor-top-section elementor-element elementor-element-ec8ff0c elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="ec8ff0c" data-element_type="section" data-e-type="section">
+            <section className="tdp-section tdp-top-section tdp-element tdp-element-ec8ff0c tdp-section-full_width tdp-section-height-default tdp-section-height-default" data-id="ec8ff0c" data-element_type="section" data-e-type="section">
               {" "}
-              <div className="elementor-container elementor-column-gap-no">
+              <div className="tdp-container tdp-column-gap-no">
                 {" "}
-                <div className="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-1a366e01" data-id="1a366e01" data-element_type="column" data-e-type="column">
+                <div className="tdp-column tdp-col-100 tdp-top-column tdp-element tdp-element-1a366e01" data-id="1a366e01" data-element_type="column" data-e-type="column">
                   {" "}
-                  <div className="elementor-widget-wrap elementor-element-populated">
+                  <div className="tdp-widget-wrap tdp-element-populated">
                     {" "}
-                    <div className="elementor-element elementor-element-1f7d1e17 elementor-absolute elementor-widget elementor-widget-template" data-id="1f7d1e17" data-element_type="widget" data-e-type="widget" data-settings={"{\"_position\":\"absolute\"}"} data-widget_type="template.default">
+                    <div className="tdp-element tdp-element-1f7d1e17 tdp-absolute tdp-widget tdp-widget-template" data-id="1f7d1e17" data-element_type="widget" data-e-type="widget" data-settings={"{\"_position\":\"absolute\"}"} data-widget_type="template.default">
                       {" "}
-                      <div className="elementor-widget-container">
+                      <div className="tdp-widget-container">
                         {" "}
-                        <div className="elementor-template">
+                        <div className="tdp-template">
                           {" "}
-                          <div data-elementor-type="section" data-elementor-id="10889" className="elementor elementor-10889" data-elementor-post-type="elementor_library">
+                          <div data-tdp-type="section" data-tdp-id="10889" className="tdp tdp-10889" data-tdp-post-type="tdp_library">
                             {" "}
-                            <section className="elementor-section elementor-top-section elementor-element elementor-element-aff5d0f elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="aff5d0f" data-element_type="section" data-e-type="section" data-settings={"{\"motion_fx_motion_fx_scrolling\":\"yes\",\"motion_fx_translateY_effect\":\"yes\",\"motion_fx_translateY_speed\":{\"unit\":\"px\",\"size\":1,\"sizes\":[]},\"motion_fx_translateY_affectedRange\":{\"unit\":\"%\",\"size\":\"\",\"sizes\":{\"start\":0,\"end\":58}},\"motion_fx_devices\":[\"desktop\"]}"}>
+                            <section className="tdp-section tdp-top-section tdp-element tdp-element-aff5d0f tdp-section-full_width tdp-section-height-default tdp-section-height-default" data-id="aff5d0f" data-element_type="section" data-e-type="section" data-settings={"{\"motion_fx_motion_fx_scrolling\":\"yes\",\"motion_fx_translateY_effect\":\"yes\",\"motion_fx_translateY_speed\":{\"unit\":\"px\",\"size\":1,\"sizes\":[]},\"motion_fx_translateY_affectedRange\":{\"unit\":\"%\",\"size\":\"\",\"sizes\":{\"start\":0,\"end\":58}},\"motion_fx_devices\":[\"desktop\"]}"}>
                               {" "}
-                              <div className="elementor-container elementor-column-gap-no">
+                              <div className="tdp-container tdp-column-gap-no">
                                 {" "}
-                                <div className="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-70019ce" data-id="70019ce" data-element_type="column" data-e-type="column">
+                                <div className="tdp-column tdp-col-100 tdp-top-column tdp-element tdp-element-70019ce" data-id="70019ce" data-element_type="column" data-e-type="column">
                                   {" "}
-                                  <div className="elementor-widget-wrap elementor-element-populated">
+                                  <div className="tdp-widget-wrap tdp-element-populated">
                                     {" "}
-                                    <div className="elementor-element elementor-element-6ed649e elementor-widget__width-initial e-transform elementor-absolute elementor-widget elementor-widget-spacer" data-id="6ed649e" data-element_type="widget" data-e-type="widget" data-settings={"{\"_transform_skewX_effect\":{\"unit\":\"px\",\"size\":-20,\"sizes\":[]},\"_position\":\"absolute\",\"_transform_skewX_effect_tablet\":{\"unit\":\"deg\",\"size\":\"\",\"sizes\":[]},\"_transform_skewX_effect_mobile\":{\"unit\":\"deg\",\"size\":\"\",\"sizes\":[]},\"_transform_skewY_effect\":{\"unit\":\"px\",\"size\":\"\",\"sizes\":[]},\"_transform_skewY_effect_tablet\":{\"unit\":\"deg\",\"size\":\"\",\"sizes\":[]},\"_transform_skewY_effect_mobile\":{\"unit\":\"deg\",\"size\":\"\",\"sizes\":[]}}"} data-widget_type="spacer.default">
+                                    <div className="tdp-element tdp-element-6ed649e tdp-widget__width-initial e-transform tdp-absolute tdp-widget tdp-widget-spacer" data-id="6ed649e" data-element_type="widget" data-e-type="widget" data-settings={"{\"_transform_skewX_effect\":{\"unit\":\"px\",\"size\":-20,\"sizes\":[]},\"_position\":\"absolute\",\"_transform_skewX_effect_tablet\":{\"unit\":\"deg\",\"size\":\"\",\"sizes\":[]},\"_transform_skewX_effect_mobile\":{\"unit\":\"deg\",\"size\":\"\",\"sizes\":[]},\"_transform_skewY_effect\":{\"unit\":\"px\",\"size\":\"\",\"sizes\":[]},\"_transform_skewY_effect_tablet\":{\"unit\":\"deg\",\"size\":\"\",\"sizes\":[]},\"_transform_skewY_effect_mobile\":{\"unit\":\"deg\",\"size\":\"\",\"sizes\":[]}}"} data-widget_type="spacer.default">
                                       {" "}
-                                      <div className="elementor-spacer">
+                                      <div className="tdp-spacer">
                                         {" "}
-                                        <div className="elementor-spacer-inner"></div>
+                                        <div className="tdp-spacer-inner"></div>
                                         {" "}
                                       </div>
                                       {" "}
                                     </div>
                                     {" "}
-                                    <div className="elementor-element elementor-element-c25e4d3 elementor-widget__width-initial e-transform elementor-absolute elementor-widget elementor-widget-spacer" data-id="c25e4d3" data-element_type="widget" data-e-type="widget" data-settings={"{\"_transform_skewX_effect\":{\"unit\":\"px\",\"size\":-20,\"sizes\":[]},\"_position\":\"absolute\",\"_transform_skewX_effect_tablet\":{\"unit\":\"deg\",\"size\":\"\",\"sizes\":[]},\"_transform_skewX_effect_mobile\":{\"unit\":\"deg\",\"size\":\"\",\"sizes\":[]},\"_transform_skewY_effect\":{\"unit\":\"px\",\"size\":\"\",\"sizes\":[]},\"_transform_skewY_effect_tablet\":{\"unit\":\"deg\",\"size\":\"\",\"sizes\":[]},\"_transform_skewY_effect_mobile\":{\"unit\":\"deg\",\"size\":\"\",\"sizes\":[]}}"} data-widget_type="spacer.default">
+                                    <div className="tdp-element tdp-element-c25e4d3 tdp-widget__width-initial e-transform tdp-absolute tdp-widget tdp-widget-spacer" data-id="c25e4d3" data-element_type="widget" data-e-type="widget" data-settings={"{\"_transform_skewX_effect\":{\"unit\":\"px\",\"size\":-20,\"sizes\":[]},\"_position\":\"absolute\",\"_transform_skewX_effect_tablet\":{\"unit\":\"deg\",\"size\":\"\",\"sizes\":[]},\"_transform_skewX_effect_mobile\":{\"unit\":\"deg\",\"size\":\"\",\"sizes\":[]},\"_transform_skewY_effect\":{\"unit\":\"px\",\"size\":\"\",\"sizes\":[]},\"_transform_skewY_effect_tablet\":{\"unit\":\"deg\",\"size\":\"\",\"sizes\":[]},\"_transform_skewY_effect_mobile\":{\"unit\":\"deg\",\"size\":\"\",\"sizes\":[]}}"} data-widget_type="spacer.default">
                                       {" "}
-                                      <div className="elementor-spacer">
+                                      <div className="tdp-spacer">
                                         {" "}
-                                        <div className="elementor-spacer-inner"></div>
+                                        <div className="tdp-spacer-inner"></div>
                                         {" "}
                                       </div>
                                       {" "}
                                     </div>
                                     {" "}
-                                    <div className="elementor-element elementor-element-71e2d13 elementor-widget__width-initial e-transform elementor-absolute elementor-widget elementor-widget-spacer" data-id="71e2d13" data-element_type="widget" data-e-type="widget" data-settings={"{\"_transform_skewX_effect\":{\"unit\":\"px\",\"size\":-20,\"sizes\":[]},\"_position\":\"absolute\",\"_transform_skewX_effect_tablet\":{\"unit\":\"deg\",\"size\":\"\",\"sizes\":[]},\"_transform_skewX_effect_mobile\":{\"unit\":\"deg\",\"size\":\"\",\"sizes\":[]},\"_transform_skewY_effect\":{\"unit\":\"px\",\"size\":\"\",\"sizes\":[]},\"_transform_skewY_effect_tablet\":{\"unit\":\"deg\",\"size\":\"\",\"sizes\":[]},\"_transform_skewY_effect_mobile\":{\"unit\":\"deg\",\"size\":\"\",\"sizes\":[]}}"} data-widget_type="spacer.default">
+                                    <div className="tdp-element tdp-element-71e2d13 tdp-widget__width-initial e-transform tdp-absolute tdp-widget tdp-widget-spacer" data-id="71e2d13" data-element_type="widget" data-e-type="widget" data-settings={"{\"_transform_skewX_effect\":{\"unit\":\"px\",\"size\":-20,\"sizes\":[]},\"_position\":\"absolute\",\"_transform_skewX_effect_tablet\":{\"unit\":\"deg\",\"size\":\"\",\"sizes\":[]},\"_transform_skewX_effect_mobile\":{\"unit\":\"deg\",\"size\":\"\",\"sizes\":[]},\"_transform_skewY_effect\":{\"unit\":\"px\",\"size\":\"\",\"sizes\":[]},\"_transform_skewY_effect_tablet\":{\"unit\":\"deg\",\"size\":\"\",\"sizes\":[]},\"_transform_skewY_effect_mobile\":{\"unit\":\"deg\",\"size\":\"\",\"sizes\":[]}}"} data-widget_type="spacer.default">
                                       {" "}
-                                      <div className="elementor-spacer">
+                                      <div className="tdp-spacer">
                                         {" "}
-                                        <div className="elementor-spacer-inner"></div>
+                                        <div className="tdp-spacer-inner"></div>
                                         {" "}
                                       </div>
                                       {" "}
@@ -398,27 +398,27 @@ export default function PageChatbots({ path }: { path: string }) {
                       {" "}
                     </div>
                     {" "}
-                    <section className="elementor-section elementor-inner-section elementor-element elementor-element-292344b9 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="292344b9" data-element_type="section" data-e-type="section" data-settings={"{\"background_background\":\"classic\"}"}>
+                    <section className="tdp-section tdp-inner-section tdp-element tdp-element-292344b9 tdp-section-boxed tdp-section-height-default tdp-section-height-default" data-id="292344b9" data-element_type="section" data-e-type="section" data-settings={"{\"background_background\":\"classic\"}"}>
                       {" "}
-                      <div className="elementor-container elementor-column-gap-no">
+                      <div className="tdp-container tdp-column-gap-no">
                         {" "}
-                        <div className="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-3d5ac31" data-id="3d5ac31" data-element_type="column" data-e-type="column">
+                        <div className="tdp-column tdp-col-100 tdp-inner-column tdp-element tdp-element-3d5ac31" data-id="3d5ac31" data-element_type="column" data-e-type="column">
                           {" "}
-                          <div className="elementor-widget-wrap elementor-element-populated">
+                          <div className="tdp-widget-wrap tdp-element-populated">
                             {" "}
-                            <div className="elementor-element elementor-element-43ff112c elementor-align-start elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="43ff112c" data-element_type="widget" data-e-type="widget" data-widget_type="icon-list.default">
+                            <div className="tdp-element tdp-element-43ff112c tdp-align-start tdp-icon-list--layout-traditional tdp-list-item-link-full_width tdp-widget tdp-widget-icon-list" data-id="43ff112c" data-element_type="widget" data-e-type="widget" data-widget_type="icon-list.default">
                               {" "}
-                              <ul className="elementor-icon-list-items">
+                              <ul className="tdp-icon-list-items">
                                 {" "}
-                                <li className="elementor-icon-list-item">
+                                <li className="tdp-icon-list-item">
                                   {" "}
-                                  <span className="elementor-icon-list-icon">
+                                  <span className="tdp-icon-list-icon">
                                     {" "}
                                     <i aria-hidden="true" className="vamtamtheme- vamtam-theme-brand-symbol"></i>
                                     {" "}
                                   </span>
                                   {" "}
-                                  <span className="elementor-icon-list-text">
+                                  <span className="tdp-icon-list-text">
                                     {"Características"}
                                   </span>
                                   {" "}
@@ -428,9 +428,9 @@ export default function PageChatbots({ path }: { path: string }) {
                               {" "}
                             </div>
                             {" "}
-                            <div className="elementor-element elementor-element-244d03bb elementor-widget__width-initial elementor-widget elementor-widget-heading" data-id="244d03bb" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+                            <div className="tdp-element tdp-element-244d03bb tdp-widget__width-initial tdp-widget tdp-widget-heading" data-id="244d03bb" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
                               {" "}
-                              <h2 className="elementor-heading-title elementor-size-default">
+                              <h2 className="tdp-heading-title tdp-size-default">
                                 {"Funcionalidades de nuestros Chatbots para WhatsApp, Instagram y Facebook Messenger"}
                               </h2>
                               {" "}
@@ -444,31 +444,31 @@ export default function PageChatbots({ path }: { path: string }) {
                       {" "}
                     </section>
                     {" "}
-                    <section className="elementor-section elementor-inner-section elementor-element elementor-element-5f3af4ab elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="5f3af4ab" data-element_type="section" data-e-type="section" data-settings={"{\"background_background\":\"classic\"}"}>
+                    <section className="tdp-section tdp-inner-section tdp-element tdp-element-5f3af4ab tdp-section-boxed tdp-section-height-default tdp-section-height-default" data-id="5f3af4ab" data-element_type="section" data-e-type="section" data-settings={"{\"background_background\":\"classic\"}"}>
                       {" "}
-                      <div className="elementor-container elementor-column-gap-no">
+                      <div className="tdp-container tdp-column-gap-no">
                         {" "}
-                        <div className="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-783210b2" data-id="783210b2" data-element_type="column" data-e-type="column" data-settings={"{\"background_background\":\"classic\"}"}>
+                        <div className="tdp-column tdp-col-25 tdp-inner-column tdp-element tdp-element-783210b2" data-id="783210b2" data-element_type="column" data-e-type="column" data-settings={"{\"background_background\":\"classic\"}"}>
                           {" "}
-                          <div className="elementor-widget-wrap elementor-element-populated">
+                          <div className="tdp-widget-wrap tdp-element-populated">
                             {" "}
-                            <div className="elementor-element elementor-element-47e10c0e elementor-widget elementor-widget-spacer" data-id="47e10c0e" data-element_type="widget" data-e-type="widget" data-widget_type="spacer.default">
+                            <div className="tdp-element tdp-element-47e10c0e tdp-widget tdp-widget-spacer" data-id="47e10c0e" data-element_type="widget" data-e-type="widget" data-widget_type="spacer.default">
                               {" "}
-                              <div className="elementor-spacer">
+                              <div className="tdp-spacer">
                                 {" "}
-                                <div className="elementor-spacer-inner"></div>
+                                <div className="tdp-spacer-inner"></div>
                                 {" "}
                               </div>
                               {" "}
                             </div>
                             {" "}
-                            <div className="elementor-element elementor-element-3bd2e3b6 elementor-view-default elementor-position-block-start elementor-mobile-position-block-start elementor-widget elementor-widget-icon-box" data-id="3bd2e3b6" data-element_type="widget" data-e-type="widget" data-widget_type="icon-box.default">
+                            <div className="tdp-element tdp-element-3bd2e3b6 tdp-view-default tdp-position-block-start tdp-mobile-position-block-start tdp-widget tdp-widget-icon-box" data-id="3bd2e3b6" data-element_type="widget" data-e-type="widget" data-widget_type="icon-box.default">
                               {" "}
-                              <div className="elementor-icon-box-wrapper">
+                              <div className="tdp-icon-box-wrapper">
                                 {" "}
-                                <div className="elementor-icon-box-icon">
+                                <div className="tdp-icon-box-icon">
                                   {" "}
-                                  <span className="elementor-icon">
+                                  <span className="tdp-icon">
                                     {" "}
                                     <i aria-hidden="true" className="vamtamtheme- vamtam-theme-check"></i>
                                     {" "}
@@ -476,9 +476,9 @@ export default function PageChatbots({ path }: { path: string }) {
                                   {" "}
                                 </div>
                                 {" "}
-                                <div className="elementor-icon-box-content">
+                                <div className="tdp-icon-box-content">
                                   {" "}
-                                  <h5 className="elementor-icon-box-title">
+                                  <h5 className="tdp-icon-box-title">
                                     {" "}
                                     <span>
                                       {" Chatbot Omincanal "}
@@ -486,7 +486,7 @@ export default function PageChatbots({ path }: { path: string }) {
                                     {" "}
                                   </h5>
                                   {" "}
-                                  <p className="elementor-icon-box-description">
+                                  <p className="tdp-icon-box-description">
                                     {" Bots para WhatsApp, Instagram y Facebook Messenger. "}
                                   </p>
                                   {" "}
@@ -500,27 +500,27 @@ export default function PageChatbots({ path }: { path: string }) {
                           {" "}
                         </div>
                         {" "}
-                        <div className="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-199c5658" data-id="199c5658" data-element_type="column" data-e-type="column" data-settings={"{\"background_background\":\"classic\"}"}>
+                        <div className="tdp-column tdp-col-25 tdp-inner-column tdp-element tdp-element-199c5658" data-id="199c5658" data-element_type="column" data-e-type="column" data-settings={"{\"background_background\":\"classic\"}"}>
                           {" "}
-                          <div className="elementor-widget-wrap elementor-element-populated">
+                          <div className="tdp-widget-wrap tdp-element-populated">
                             {" "}
-                            <div className="elementor-element elementor-element-36bca810 elementor-widget elementor-widget-spacer" data-id="36bca810" data-element_type="widget" data-e-type="widget" data-widget_type="spacer.default">
+                            <div className="tdp-element tdp-element-36bca810 tdp-widget tdp-widget-spacer" data-id="36bca810" data-element_type="widget" data-e-type="widget" data-widget_type="spacer.default">
                               {" "}
-                              <div className="elementor-spacer">
+                              <div className="tdp-spacer">
                                 {" "}
-                                <div className="elementor-spacer-inner"></div>
+                                <div className="tdp-spacer-inner"></div>
                                 {" "}
                               </div>
                               {" "}
                             </div>
                             {" "}
-                            <div className="elementor-element elementor-element-237f273d elementor-view-default elementor-position-block-start elementor-mobile-position-block-start elementor-widget elementor-widget-icon-box" data-id="237f273d" data-element_type="widget" data-e-type="widget" data-widget_type="icon-box.default">
+                            <div className="tdp-element tdp-element-237f273d tdp-view-default tdp-position-block-start tdp-mobile-position-block-start tdp-widget tdp-widget-icon-box" data-id="237f273d" data-element_type="widget" data-e-type="widget" data-widget_type="icon-box.default">
                               {" "}
-                              <div className="elementor-icon-box-wrapper">
+                              <div className="tdp-icon-box-wrapper">
                                 {" "}
-                                <div className="elementor-icon-box-icon">
+                                <div className="tdp-icon-box-icon">
                                   {" "}
-                                  <span className="elementor-icon">
+                                  <span className="tdp-icon">
                                     {" "}
                                     <i aria-hidden="true" className="vamtamtheme- vamtam-theme-check"></i>
                                     {" "}
@@ -528,9 +528,9 @@ export default function PageChatbots({ path }: { path: string }) {
                                   {" "}
                                 </div>
                                 {" "}
-                                <div className="elementor-icon-box-content">
+                                <div className="tdp-icon-box-content">
                                   {" "}
-                                  <h5 className="elementor-icon-box-title">
+                                  <h5 className="tdp-icon-box-title">
                                     {" "}
                                     <span>
                                       {" Respuestas Automáticas "}
@@ -538,7 +538,7 @@ export default function PageChatbots({ path }: { path: string }) {
                                     {" "}
                                   </h5>
                                   {" "}
-                                  <p className="elementor-icon-box-description">
+                                  <p className="tdp-icon-box-description">
                                     {" Responde automáticamente a preguntas frecuentes. "}
                                   </p>
                                   {" "}
@@ -552,27 +552,27 @@ export default function PageChatbots({ path }: { path: string }) {
                           {" "}
                         </div>
                         {" "}
-                        <div className="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-58b56d17" data-id="58b56d17" data-element_type="column" data-e-type="column" data-settings={"{\"background_background\":\"classic\"}"}>
+                        <div className="tdp-column tdp-col-25 tdp-inner-column tdp-element tdp-element-58b56d17" data-id="58b56d17" data-element_type="column" data-e-type="column" data-settings={"{\"background_background\":\"classic\"}"}>
                           {" "}
-                          <div className="elementor-widget-wrap elementor-element-populated">
+                          <div className="tdp-widget-wrap tdp-element-populated">
                             {" "}
-                            <div className="elementor-element elementor-element-6331bcbf elementor-widget elementor-widget-spacer" data-id="6331bcbf" data-element_type="widget" data-e-type="widget" data-widget_type="spacer.default">
+                            <div className="tdp-element tdp-element-6331bcbf tdp-widget tdp-widget-spacer" data-id="6331bcbf" data-element_type="widget" data-e-type="widget" data-widget_type="spacer.default">
                               {" "}
-                              <div className="elementor-spacer">
+                              <div className="tdp-spacer">
                                 {" "}
-                                <div className="elementor-spacer-inner"></div>
+                                <div className="tdp-spacer-inner"></div>
                                 {" "}
                               </div>
                               {" "}
                             </div>
                             {" "}
-                            <div className="elementor-element elementor-element-2eda058b elementor-view-default elementor-position-block-start elementor-mobile-position-block-start elementor-widget elementor-widget-icon-box" data-id="2eda058b" data-element_type="widget" data-e-type="widget" data-widget_type="icon-box.default">
+                            <div className="tdp-element tdp-element-2eda058b tdp-view-default tdp-position-block-start tdp-mobile-position-block-start tdp-widget tdp-widget-icon-box" data-id="2eda058b" data-element_type="widget" data-e-type="widget" data-widget_type="icon-box.default">
                               {" "}
-                              <div className="elementor-icon-box-wrapper">
+                              <div className="tdp-icon-box-wrapper">
                                 {" "}
-                                <div className="elementor-icon-box-icon">
+                                <div className="tdp-icon-box-icon">
                                   {" "}
-                                  <span className="elementor-icon">
+                                  <span className="tdp-icon">
                                     {" "}
                                     <i aria-hidden="true" className="vamtamtheme- vamtam-theme-check"></i>
                                     {" "}
@@ -580,9 +580,9 @@ export default function PageChatbots({ path }: { path: string }) {
                                   {" "}
                                 </div>
                                 {" "}
-                                <div className="elementor-icon-box-content">
+                                <div className="tdp-icon-box-content">
                                   {" "}
-                                  <h5 className="elementor-icon-box-title">
+                                  <h5 className="tdp-icon-box-title">
                                     {" "}
                                     <span>
                                       {" Seguimiento de Tickets "}
@@ -590,7 +590,7 @@ export default function PageChatbots({ path }: { path: string }) {
                                     {" "}
                                   </h5>
                                   {" "}
-                                  <p className="elementor-icon-box-description">
+                                  <p className="tdp-icon-box-description">
                                     {" Brinda soporte de Chat para WhatsApp, Instagram y Messenger. "}
                                   </p>
                                   {" "}
@@ -604,27 +604,27 @@ export default function PageChatbots({ path }: { path: string }) {
                           {" "}
                         </div>
                         {" "}
-                        <div className="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-75c618b6" data-id="75c618b6" data-element_type="column" data-e-type="column" data-settings={"{\"background_background\":\"classic\"}"}>
+                        <div className="tdp-column tdp-col-25 tdp-inner-column tdp-element tdp-element-75c618b6" data-id="75c618b6" data-element_type="column" data-e-type="column" data-settings={"{\"background_background\":\"classic\"}"}>
                           {" "}
-                          <div className="elementor-widget-wrap elementor-element-populated">
+                          <div className="tdp-widget-wrap tdp-element-populated">
                             {" "}
-                            <div className="elementor-element elementor-element-7141a8b4 elementor-widget elementor-widget-spacer" data-id="7141a8b4" data-element_type="widget" data-e-type="widget" data-widget_type="spacer.default">
+                            <div className="tdp-element tdp-element-7141a8b4 tdp-widget tdp-widget-spacer" data-id="7141a8b4" data-element_type="widget" data-e-type="widget" data-widget_type="spacer.default">
                               {" "}
-                              <div className="elementor-spacer">
+                              <div className="tdp-spacer">
                                 {" "}
-                                <div className="elementor-spacer-inner"></div>
+                                <div className="tdp-spacer-inner"></div>
                                 {" "}
                               </div>
                               {" "}
                             </div>
                             {" "}
-                            <div className="elementor-element elementor-element-7f411513 elementor-view-default elementor-position-block-start elementor-mobile-position-block-start elementor-widget elementor-widget-icon-box" data-id="7f411513" data-element_type="widget" data-e-type="widget" data-widget_type="icon-box.default">
+                            <div className="tdp-element tdp-element-7f411513 tdp-view-default tdp-position-block-start tdp-mobile-position-block-start tdp-widget tdp-widget-icon-box" data-id="7f411513" data-element_type="widget" data-e-type="widget" data-widget_type="icon-box.default">
                               {" "}
-                              <div className="elementor-icon-box-wrapper">
+                              <div className="tdp-icon-box-wrapper">
                                 {" "}
-                                <div className="elementor-icon-box-icon">
+                                <div className="tdp-icon-box-icon">
                                   {" "}
-                                  <span className="elementor-icon">
+                                  <span className="tdp-icon">
                                     {" "}
                                     <i aria-hidden="true" className="vamtamtheme- vamtam-theme-check"></i>
                                     {" "}
@@ -632,9 +632,9 @@ export default function PageChatbots({ path }: { path: string }) {
                                   {" "}
                                 </div>
                                 {" "}
-                                <div className="elementor-icon-box-content">
+                                <div className="tdp-icon-box-content">
                                   {" "}
-                                  <h5 className="elementor-icon-box-title">
+                                  <h5 className="tdp-icon-box-title">
                                     {" "}
                                     <span>
                                       {" Interacción con Asesor Humano "}
@@ -642,7 +642,7 @@ export default function PageChatbots({ path }: { path: string }) {
                                     {" "}
                                   </h5>
                                   {" "}
-                                  <p className="elementor-icon-box-description">
+                                  <p className="tdp-icon-box-description">
                                     {" Tus clientes podrán chatear con un asesor que gestiona todos los canales desde una sola plataforma. "}
                                   </p>
                                   {" "}
@@ -660,31 +660,31 @@ export default function PageChatbots({ path }: { path: string }) {
                       {" "}
                     </section>
                     {" "}
-                    <section className="elementor-section elementor-inner-section elementor-element elementor-element-e0c1397 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="e0c1397" data-element_type="section" data-e-type="section" data-settings={"{\"background_background\":\"classic\"}"}>
+                    <section className="tdp-section tdp-inner-section tdp-element tdp-element-e0c1397 tdp-section-boxed tdp-section-height-default tdp-section-height-default" data-id="e0c1397" data-element_type="section" data-e-type="section" data-settings={"{\"background_background\":\"classic\"}"}>
                       {" "}
-                      <div className="elementor-container elementor-column-gap-no">
+                      <div className="tdp-container tdp-column-gap-no">
                         {" "}
-                        <div className="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-d89413d" data-id="d89413d" data-element_type="column" data-e-type="column" data-settings={"{\"background_background\":\"classic\"}"}>
+                        <div className="tdp-column tdp-col-25 tdp-inner-column tdp-element tdp-element-d89413d" data-id="d89413d" data-element_type="column" data-e-type="column" data-settings={"{\"background_background\":\"classic\"}"}>
                           {" "}
-                          <div className="elementor-widget-wrap elementor-element-populated">
+                          <div className="tdp-widget-wrap tdp-element-populated">
                             {" "}
-                            <div className="elementor-element elementor-element-03cc327 elementor-widget elementor-widget-spacer" data-id="03cc327" data-element_type="widget" data-e-type="widget" data-widget_type="spacer.default">
+                            <div className="tdp-element tdp-element-03cc327 tdp-widget tdp-widget-spacer" data-id="03cc327" data-element_type="widget" data-e-type="widget" data-widget_type="spacer.default">
                               {" "}
-                              <div className="elementor-spacer">
+                              <div className="tdp-spacer">
                                 {" "}
-                                <div className="elementor-spacer-inner"></div>
+                                <div className="tdp-spacer-inner"></div>
                                 {" "}
                               </div>
                               {" "}
                             </div>
                             {" "}
-                            <div className="elementor-element elementor-element-e99ee86 elementor-view-default elementor-position-block-start elementor-mobile-position-block-start elementor-widget elementor-widget-icon-box" data-id="e99ee86" data-element_type="widget" data-e-type="widget" data-widget_type="icon-box.default">
+                            <div className="tdp-element tdp-element-e99ee86 tdp-view-default tdp-position-block-start tdp-mobile-position-block-start tdp-widget tdp-widget-icon-box" data-id="e99ee86" data-element_type="widget" data-e-type="widget" data-widget_type="icon-box.default">
                               {" "}
-                              <div className="elementor-icon-box-wrapper">
+                              <div className="tdp-icon-box-wrapper">
                                 {" "}
-                                <div className="elementor-icon-box-icon">
+                                <div className="tdp-icon-box-icon">
                                   {" "}
-                                  <span className="elementor-icon">
+                                  <span className="tdp-icon">
                                     {" "}
                                     <i aria-hidden="true" className="vamtamtheme- vamtam-theme-check"></i>
                                     {" "}
@@ -692,9 +692,9 @@ export default function PageChatbots({ path }: { path: string }) {
                                   {" "}
                                 </div>
                                 {" "}
-                                <div className="elementor-icon-box-content">
+                                <div className="tdp-icon-box-content">
                                   {" "}
-                                  <h5 className="elementor-icon-box-title">
+                                  <h5 className="tdp-icon-box-title">
                                     {" "}
                                     <span>
                                       {" Integración CRM/ERP "}
@@ -702,7 +702,7 @@ export default function PageChatbots({ path }: { path: string }) {
                                     {" "}
                                   </h5>
                                   {" "}
-                                  <p className="elementor-icon-box-description">
+                                  <p className="tdp-icon-box-description">
                                     {" Integra nuestro chatbot a los CRMs más utilizados: Hubspot, Zoho y Salesforce. "}
                                   </p>
                                   {" "}
@@ -716,27 +716,27 @@ export default function PageChatbots({ path }: { path: string }) {
                           {" "}
                         </div>
                         {" "}
-                        <div className="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-8dd012c" data-id="8dd012c" data-element_type="column" data-e-type="column" data-settings={"{\"background_background\":\"classic\"}"}>
+                        <div className="tdp-column tdp-col-25 tdp-inner-column tdp-element tdp-element-8dd012c" data-id="8dd012c" data-element_type="column" data-e-type="column" data-settings={"{\"background_background\":\"classic\"}"}>
                           {" "}
-                          <div className="elementor-widget-wrap elementor-element-populated">
+                          <div className="tdp-widget-wrap tdp-element-populated">
                             {" "}
-                            <div className="elementor-element elementor-element-1b1eb8f elementor-widget elementor-widget-spacer" data-id="1b1eb8f" data-element_type="widget" data-e-type="widget" data-widget_type="spacer.default">
+                            <div className="tdp-element tdp-element-1b1eb8f tdp-widget tdp-widget-spacer" data-id="1b1eb8f" data-element_type="widget" data-e-type="widget" data-widget_type="spacer.default">
                               {" "}
-                              <div className="elementor-spacer">
+                              <div className="tdp-spacer">
                                 {" "}
-                                <div className="elementor-spacer-inner"></div>
+                                <div className="tdp-spacer-inner"></div>
                                 {" "}
                               </div>
                               {" "}
                             </div>
                             {" "}
-                            <div className="elementor-element elementor-element-7c276fd elementor-view-default elementor-position-block-start elementor-mobile-position-block-start elementor-widget elementor-widget-icon-box" data-id="7c276fd" data-element_type="widget" data-e-type="widget" data-widget_type="icon-box.default">
+                            <div className="tdp-element tdp-element-7c276fd tdp-view-default tdp-position-block-start tdp-mobile-position-block-start tdp-widget tdp-widget-icon-box" data-id="7c276fd" data-element_type="widget" data-e-type="widget" data-widget_type="icon-box.default">
                               {" "}
-                              <div className="elementor-icon-box-wrapper">
+                              <div className="tdp-icon-box-wrapper">
                                 {" "}
-                                <div className="elementor-icon-box-icon">
+                                <div className="tdp-icon-box-icon">
                                   {" "}
-                                  <span className="elementor-icon">
+                                  <span className="tdp-icon">
                                     {" "}
                                     <i aria-hidden="true" className="vamtamtheme- vamtam-theme-check"></i>
                                     {" "}
@@ -744,9 +744,9 @@ export default function PageChatbots({ path }: { path: string }) {
                                   {" "}
                                 </div>
                                 {" "}
-                                <div className="elementor-icon-box-content">
+                                <div className="tdp-icon-box-content">
                                   {" "}
-                                  <h5 className="elementor-icon-box-title">
+                                  <h5 className="tdp-icon-box-title">
                                     {" "}
                                     <span>
                                       {" Historial de "}
@@ -756,7 +756,7 @@ export default function PageChatbots({ path }: { path: string }) {
                                     {" "}
                                   </h5>
                                   {" "}
-                                  <p className="elementor-icon-box-description">
+                                  <p className="tdp-icon-box-description">
                                     {" Conservamos todos los archivos enviados para una auditoría completa de tu servicio. "}
                                   </p>
                                   {" "}
@@ -770,27 +770,27 @@ export default function PageChatbots({ path }: { path: string }) {
                           {" "}
                         </div>
                         {" "}
-                        <div className="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-b5d21da" data-id="b5d21da" data-element_type="column" data-e-type="column" data-settings={"{\"background_background\":\"classic\"}"}>
+                        <div className="tdp-column tdp-col-25 tdp-inner-column tdp-element tdp-element-b5d21da" data-id="b5d21da" data-element_type="column" data-e-type="column" data-settings={"{\"background_background\":\"classic\"}"}>
                           {" "}
-                          <div className="elementor-widget-wrap elementor-element-populated">
+                          <div className="tdp-widget-wrap tdp-element-populated">
                             {" "}
-                            <div className="elementor-element elementor-element-7b7d8b6 elementor-widget elementor-widget-spacer" data-id="7b7d8b6" data-element_type="widget" data-e-type="widget" data-widget_type="spacer.default">
+                            <div className="tdp-element tdp-element-7b7d8b6 tdp-widget tdp-widget-spacer" data-id="7b7d8b6" data-element_type="widget" data-e-type="widget" data-widget_type="spacer.default">
                               {" "}
-                              <div className="elementor-spacer">
+                              <div className="tdp-spacer">
                                 {" "}
-                                <div className="elementor-spacer-inner"></div>
+                                <div className="tdp-spacer-inner"></div>
                                 {" "}
                               </div>
                               {" "}
                             </div>
                             {" "}
-                            <div className="elementor-element elementor-element-36c5b6f elementor-view-default elementor-position-block-start elementor-mobile-position-block-start elementor-widget elementor-widget-icon-box" data-id="36c5b6f" data-element_type="widget" data-e-type="widget" data-widget_type="icon-box.default">
+                            <div className="tdp-element tdp-element-36c5b6f tdp-view-default tdp-position-block-start tdp-mobile-position-block-start tdp-widget tdp-widget-icon-box" data-id="36c5b6f" data-element_type="widget" data-e-type="widget" data-widget_type="icon-box.default">
                               {" "}
-                              <div className="elementor-icon-box-wrapper">
+                              <div className="tdp-icon-box-wrapper">
                                 {" "}
-                                <div className="elementor-icon-box-icon">
+                                <div className="tdp-icon-box-icon">
                                   {" "}
-                                  <span className="elementor-icon">
+                                  <span className="tdp-icon">
                                     {" "}
                                     <i aria-hidden="true" className="vamtamtheme- vamtam-theme-check"></i>
                                     {" "}
@@ -798,9 +798,9 @@ export default function PageChatbots({ path }: { path: string }) {
                                   {" "}
                                 </div>
                                 {" "}
-                                <div className="elementor-icon-box-content">
+                                <div className="tdp-icon-box-content">
                                   {" "}
-                                  <h5 className="elementor-icon-box-title">
+                                  <h5 className="tdp-icon-box-title">
                                     {" "}
                                     <span>
                                       {" Chat"}
@@ -810,7 +810,7 @@ export default function PageChatbots({ path }: { path: string }) {
                                     {" "}
                                   </h5>
                                   {" "}
-                                  <p className="elementor-icon-box-description">
+                                  <p className="tdp-icon-box-description">
                                     {" Distribuye las conversaciones entre tu equipo por áreas o grupos de trabajo. "}
                                   </p>
                                   {" "}
@@ -824,27 +824,27 @@ export default function PageChatbots({ path }: { path: string }) {
                           {" "}
                         </div>
                         {" "}
-                        <div className="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-fbfd670" data-id="fbfd670" data-element_type="column" data-e-type="column" data-settings={"{\"background_background\":\"classic\"}"}>
+                        <div className="tdp-column tdp-col-25 tdp-inner-column tdp-element tdp-element-fbfd670" data-id="fbfd670" data-element_type="column" data-e-type="column" data-settings={"{\"background_background\":\"classic\"}"}>
                           {" "}
-                          <div className="elementor-widget-wrap elementor-element-populated">
+                          <div className="tdp-widget-wrap tdp-element-populated">
                             {" "}
-                            <div className="elementor-element elementor-element-89f8da8 elementor-widget elementor-widget-spacer" data-id="89f8da8" data-element_type="widget" data-e-type="widget" data-widget_type="spacer.default">
+                            <div className="tdp-element tdp-element-89f8da8 tdp-widget tdp-widget-spacer" data-id="89f8da8" data-element_type="widget" data-e-type="widget" data-widget_type="spacer.default">
                               {" "}
-                              <div className="elementor-spacer">
+                              <div className="tdp-spacer">
                                 {" "}
-                                <div className="elementor-spacer-inner"></div>
+                                <div className="tdp-spacer-inner"></div>
                                 {" "}
                               </div>
                               {" "}
                             </div>
                             {" "}
-                            <div className="elementor-element elementor-element-ec42fd3 elementor-view-default elementor-position-block-start elementor-mobile-position-block-start elementor-widget elementor-widget-icon-box" data-id="ec42fd3" data-element_type="widget" data-e-type="widget" data-widget_type="icon-box.default">
+                            <div className="tdp-element tdp-element-ec42fd3 tdp-view-default tdp-position-block-start tdp-mobile-position-block-start tdp-widget tdp-widget-icon-box" data-id="ec42fd3" data-element_type="widget" data-e-type="widget" data-widget_type="icon-box.default">
                               {" "}
-                              <div className="elementor-icon-box-wrapper">
+                              <div className="tdp-icon-box-wrapper">
                                 {" "}
-                                <div className="elementor-icon-box-icon">
+                                <div className="tdp-icon-box-icon">
                                   {" "}
-                                  <span className="elementor-icon">
+                                  <span className="tdp-icon">
                                     {" "}
                                     <i aria-hidden="true" className="vamtamtheme- vamtam-theme-check"></i>
                                     {" "}
@@ -852,9 +852,9 @@ export default function PageChatbots({ path }: { path: string }) {
                                   {" "}
                                 </div>
                                 {" "}
-                                <div className="elementor-icon-box-content">
+                                <div className="tdp-icon-box-content">
                                   {" "}
-                                  <h5 className="elementor-icon-box-title">
+                                  <h5 className="tdp-icon-box-title">
                                     {" "}
                                     <span>
                                       {" Reportes"}
@@ -864,7 +864,7 @@ export default function PageChatbots({ path }: { path: string }) {
                                     {" "}
                                   </h5>
                                   {" "}
-                                  <p className="elementor-icon-box-description">
+                                  <p className="tdp-icon-box-description">
                                     {" Recibe información detallada de la actividad del bot. "}
                                   </p>
                                   {" "}
@@ -890,19 +890,19 @@ export default function PageChatbots({ path }: { path: string }) {
               {" "}
             </section>
             {" "}
-            <section className="elementor-section elementor-top-section elementor-element elementor-element-6a7cdfb8 elementor-section-height-min-height elementor-section-items-stretch elementor-section-boxed elementor-section-height-default" data-id="6a7cdfb8" data-element_type="section" data-e-type="section">
+            <section className="tdp-section tdp-top-section tdp-element tdp-element-6a7cdfb8 tdp-section-height-min-height tdp-section-items-stretch tdp-section-boxed tdp-section-height-default" data-id="6a7cdfb8" data-element_type="section" data-e-type="section">
               {" "}
-              <div className="elementor-container elementor-column-gap-no">
+              <div className="tdp-container tdp-column-gap-no">
                 {" "}
-                <div className="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-1f3713de" data-id="1f3713de" data-element_type="column" data-e-type="column">
+                <div className="tdp-column tdp-col-100 tdp-top-column tdp-element tdp-element-1f3713de" data-id="1f3713de" data-element_type="column" data-e-type="column">
                   {" "}
-                  <div className="elementor-widget-wrap elementor-element-populated">
+                  <div className="tdp-widget-wrap tdp-element-populated">
                     {" "}
-                    <div className="elementor-element elementor-element-1fd3650f elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="1fd3650f" data-element_type="widget" data-e-type="widget" data-widget_type="divider.default">
+                    <div className="tdp-element tdp-element-1fd3650f tdp-widget-divider--view-line tdp-widget tdp-widget-divider" data-id="1fd3650f" data-element_type="widget" data-e-type="widget" data-widget_type="divider.default">
                       {" "}
-                      <div className="elementor-divider">
+                      <div className="tdp-divider">
                         {" "}
-                        <span className="elementor-divider-separator">
+                        <span className="tdp-divider-separator">
                           {" "}
                         </span>
                         {" "}
@@ -918,27 +918,27 @@ export default function PageChatbots({ path }: { path: string }) {
               {" "}
             </section>
             {" "}
-            <section className="elementor-section elementor-top-section elementor-element elementor-element-73cf35f5 elementor-section-height-min-height elementor-section-items-stretch elementor-section-boxed elementor-section-height-default" data-id="73cf35f5" data-element_type="section" data-e-type="section">
+            <section className="tdp-section tdp-top-section tdp-element tdp-element-73cf35f5 tdp-section-height-min-height tdp-section-items-stretch tdp-section-boxed tdp-section-height-default" data-id="73cf35f5" data-element_type="section" data-e-type="section">
               {" "}
-              <div className="elementor-container elementor-column-gap-no">
+              <div className="tdp-container tdp-column-gap-no">
                 {" "}
-                <div className="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-661e5b64" data-id="661e5b64" data-element_type="column" data-e-type="column" data-settings={"{\"background_background\":\"classic\",\"background_motion_fx_motion_fx_scrolling\":\"yes\",\"background_motion_fx_translateY_effect\":\"yes\",\"background_motion_fx_translateY_speed\":{\"unit\":\"px\",\"size\":1,\"sizes\":[]},\"background_motion_fx_translateY_affectedRange\":{\"unit\":\"%\",\"size\":\"\",\"sizes\":{\"start\":0,\"end\":58}},\"background_motion_fx_devices\":[\"desktop\"]}"}>
+                <div className="tdp-column tdp-col-33 tdp-top-column tdp-element tdp-element-661e5b64" data-id="661e5b64" data-element_type="column" data-e-type="column" data-settings={"{\"background_background\":\"classic\",\"background_motion_fx_motion_fx_scrolling\":\"yes\",\"background_motion_fx_translateY_effect\":\"yes\",\"background_motion_fx_translateY_speed\":{\"unit\":\"px\",\"size\":1,\"sizes\":[]},\"background_motion_fx_translateY_affectedRange\":{\"unit\":\"%\",\"size\":\"\",\"sizes\":{\"start\":0,\"end\":58}},\"background_motion_fx_devices\":[\"desktop\"]}"}>
                   {" "}
-                  <div className="elementor-widget-wrap elementor-element-populated">
+                  <div className="tdp-widget-wrap tdp-element-populated">
                     {" "}
-                    <div className="elementor-element elementor-element-716edf5e elementor-align-start elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="716edf5e" data-element_type="widget" data-e-type="widget" data-widget_type="icon-list.default">
+                    <div className="tdp-element tdp-element-716edf5e tdp-align-start tdp-icon-list--layout-traditional tdp-list-item-link-full_width tdp-widget tdp-widget-icon-list" data-id="716edf5e" data-element_type="widget" data-e-type="widget" data-widget_type="icon-list.default">
                       {" "}
-                      <ul className="elementor-icon-list-items">
+                      <ul className="tdp-icon-list-items">
                         {" "}
-                        <li className="elementor-icon-list-item">
+                        <li className="tdp-icon-list-item">
                           {" "}
-                          <span className="elementor-icon-list-icon">
+                          <span className="tdp-icon-list-icon">
                             {" "}
                             <i aria-hidden="true" className="vamtamtheme- vamtam-theme-brand-symbol"></i>
                             {" "}
                           </span>
                           {" "}
-                          <span className="elementor-icon-list-text">
+                          <span className="tdp-icon-list-text">
                             {"Ellos confiaron "}
                           </span>
                           {" "}
@@ -948,9 +948,9 @@ export default function PageChatbots({ path }: { path: string }) {
                       {" "}
                     </div>
                     {" "}
-                    <div className="elementor-element elementor-element-14dbae87 elementor-widget__width-initial elementor-widget elementor-widget-heading" data-id="14dbae87" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+                    <div className="tdp-element tdp-element-14dbae87 tdp-widget__width-initial tdp-widget tdp-widget-heading" data-id="14dbae87" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
                       {" "}
-                      <h2 className="elementor-heading-title elementor-size-default">
+                      <h2 className="tdp-heading-title tdp-size-default">
                         {"Nuestros clientes"}
                       </h2>
                       {" "}
@@ -960,9 +960,9 @@ export default function PageChatbots({ path }: { path: string }) {
                   {" "}
                 </div>
                 {" "}
-                <div className="elementor-column elementor-col-66 elementor-top-column elementor-element elementor-element-6935a701" data-id="6935a701" data-element_type="column" data-e-type="column">
+                <div className="tdp-column tdp-col-66 tdp-top-column tdp-element tdp-element-6935a701" data-id="6935a701" data-element_type="column" data-e-type="column">
                   {" "}
-                  <div className="elementor-widget-wrap">
+                  <div className="tdp-widget-wrap">
                     {" "}
                   </div>
                   {" "}
@@ -972,29 +972,29 @@ export default function PageChatbots({ path }: { path: string }) {
               {" "}
             </section>
             {" "}
-            <section className="elementor-section elementor-top-section elementor-element elementor-element-6296ee2d elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="6296ee2d" data-element_type="section" data-e-type="section">
+            <section className="tdp-section tdp-top-section tdp-element tdp-element-6296ee2d tdp-section-boxed tdp-section-height-default tdp-section-height-default" data-id="6296ee2d" data-element_type="section" data-e-type="section">
               {" "}
-              <div className="elementor-container elementor-column-gap-no">
+              <div className="tdp-container tdp-column-gap-no">
                 {" "}
-                <div className="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-2468df55" data-id="2468df55" data-element_type="column" data-e-type="column" data-settings={"{\"background_background\":\"classic\"}"}>
+                <div className="tdp-column tdp-col-33 tdp-top-column tdp-element tdp-element-2468df55" data-id="2468df55" data-element_type="column" data-e-type="column" data-settings={"{\"background_background\":\"classic\"}"}>
                   {" "}
-                  <div className="elementor-widget-wrap elementor-element-populated">
+                  <div className="tdp-widget-wrap tdp-element-populated">
                     {" "}
-                    <div className="elementor-element elementor-element-443ec3f1 elementor-widget elementor-widget-image" data-id="443ec3f1" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
+                    <div className="tdp-element tdp-element-443ec3f1 tdp-widget tdp-widget-image" data-id="443ec3f1" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
                       {" "}
-                      <img fetchPriority="high" decoding="async" width="367" height="140" src="/wp-content/uploads/2024/11/LOGO-COSMOAGRO-1-svg.webp" className="attachment-full size-full wp-image-988723" alt="LOGO COSMOAGRO 1 svg" srcSet="/wp-content/uploads/2024/11/LOGO-COSMOAGRO-1-svg.webp 367w, /wp-content/uploads/2024/11/LOGO-COSMOAGRO-1-svg-300x114.webp 300w" sizes="(max-width: 367px) 100vw, 367px" title="Chatbots 1" />
+                      <img fetchPriority="high" decoding="async" width="367" height="140" src="/assets/uploads/2024/11/LOGO-COSMOAGRO-1-svg.webp" className="attachment-full size-full img-988723" alt="LOGO COSMOAGRO 1 svg" srcSet="/assets/uploads/2024/11/LOGO-COSMOAGRO-1-svg.webp 367w, /assets/uploads/2024/11/LOGO-COSMOAGRO-1-svg-300x114.webp 300w" sizes="(max-width: 367px) 100vw, 367px" title="Chatbots 1" />
                       {" "}
                     </div>
                     {" "}
-                    <div className="elementor-element elementor-element-1009e239 elementor-widget elementor-widget-heading" data-id="1009e239" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+                    <div className="tdp-element tdp-element-1009e239 tdp-widget tdp-widget-heading" data-id="1009e239" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
                       {" "}
-                      <h4 className="elementor-heading-title elementor-size-default">
+                      <h4 className="tdp-heading-title tdp-size-default">
                         {"Cosmoagro - Chatbot Asesor de Productos Agrícolas "}
                       </h4>
                       {" "}
                     </div>
                     {" "}
-                    <div className="elementor-element elementor-element-3ca6a61d elementor-widget elementor-widget-text-editor" data-id="3ca6a61d" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
+                    <div className="tdp-element tdp-element-3ca6a61d tdp-widget tdp-widget-text-editor" data-id="3ca6a61d" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
                       {" "}
                       <p>
                         {"Bot para consultas automáticas de productos agrícolas y comunicación en tiempo real con un asesor multiagente, facilitando la búsqueda y recomendación personalizada de productos para mejorar la productividad en el sector agropecuario."}
@@ -1006,25 +1006,25 @@ export default function PageChatbots({ path }: { path: string }) {
                   {" "}
                 </div>
                 {" "}
-                <div className="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-32327b8d" data-id="32327b8d" data-element_type="column" data-e-type="column">
+                <div className="tdp-column tdp-col-33 tdp-top-column tdp-element tdp-element-32327b8d" data-id="32327b8d" data-element_type="column" data-e-type="column">
                   {" "}
-                  <div className="elementor-widget-wrap elementor-element-populated">
+                  <div className="tdp-widget-wrap tdp-element-populated">
                     {" "}
-                    <div className="elementor-element elementor-element-5fcc89a0 elementor-widget elementor-widget-image" data-id="5fcc89a0" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
+                    <div className="tdp-element tdp-element-5fcc89a0 tdp-widget tdp-widget-image" data-id="5fcc89a0" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
                       {" "}
-                      <img loading="lazy" decoding="async" width="300" height="64" src="/wp-content/uploads/2024/11/download-300x64.png" className="attachment-medium size-medium wp-image-988724" alt="download" srcSet="/wp-content/uploads/2024/11/download-300x64.png 300w, /wp-content/uploads/2024/11/download.png 486w" sizes="(max-width: 300px) 100vw, 300px" title="Chatbots 2" />
+                      <img loading="lazy" decoding="async" width="300" height="64" src="/assets/uploads/2024/11/download-300x64.png" className="attachment-medium size-medium img-988724" alt="download" srcSet="/assets/uploads/2024/11/download-300x64.png 300w, /assets/uploads/2024/11/download.png 486w" sizes="(max-width: 300px) 100vw, 300px" title="Chatbots 2" />
                       {" "}
                     </div>
                     {" "}
-                    <div className="elementor-element elementor-element-4ec7781a elementor-widget elementor-widget-heading" data-id="4ec7781a" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+                    <div className="tdp-element tdp-element-4ec7781a tdp-widget tdp-widget-heading" data-id="4ec7781a" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
                       {" "}
-                      <h4 className="elementor-heading-title elementor-size-default">
+                      <h4 className="tdp-heading-title tdp-size-default">
                         {"Constructora Normandía - Chatbot para Prospección de Clientes "}
                       </h4>
                       {" "}
                     </div>
                     {" "}
-                    <div className="elementor-element elementor-element-427600c1 elementor-widget elementor-widget-text-editor" data-id="427600c1" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
+                    <div className="tdp-element tdp-element-427600c1 tdp-widget tdp-widget-text-editor" data-id="427600c1" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
                       {" "}
                       <p>
                         {"Plataforma de atención virtual para la asesoría de compra de vivienda, consultando los proyectos de forma automática en el CRM y entregando el asesor asignado para una atención inmediata."}
@@ -1036,25 +1036,25 @@ export default function PageChatbots({ path }: { path: string }) {
                   {" "}
                 </div>
                 {" "}
-                <div className="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-43ed2727" data-id="43ed2727" data-element_type="column" data-e-type="column" data-settings={"{\"background_background\":\"classic\"}"}>
+                <div className="tdp-column tdp-col-33 tdp-top-column tdp-element tdp-element-43ed2727" data-id="43ed2727" data-element_type="column" data-e-type="column" data-settings={"{\"background_background\":\"classic\"}"}>
                   {" "}
-                  <div className="elementor-widget-wrap elementor-element-populated">
+                  <div className="tdp-widget-wrap tdp-element-populated">
                     {" "}
-                    <div className="elementor-element elementor-element-176daa1d elementor-widget elementor-widget-image" data-id="176daa1d" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
+                    <div className="tdp-element tdp-element-176daa1d tdp-widget tdp-widget-image" data-id="176daa1d" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
                       {" "}
-                      <img loading="lazy" decoding="async" width="300" height="190" src="/wp-content/uploads/2024/11/60144353_1309840259170138_5128546647730552832_n-e1657752896495-300x190.png" className="attachment-medium size-medium wp-image-988728" alt="60144353 1309840259170138 5128546647730552832 n e1657752896495" srcSet="/wp-content/uploads/2024/11/60144353_1309840259170138_5128546647730552832_n-e1657752896495-300x190.png 300w, /wp-content/uploads/2024/11/60144353_1309840259170138_5128546647730552832_n-e1657752896495.png 416w" sizes="(max-width: 300px) 100vw, 300px" title="Chatbots 3" />
+                      <img loading="lazy" decoding="async" width="300" height="190" src="/assets/uploads/2024/11/60144353_1309840259170138_5128546647730552832_n-e1657752896495-300x190.png" className="attachment-medium size-medium img-988728" alt="60144353 1309840259170138 5128546647730552832 n e1657752896495" srcSet="/assets/uploads/2024/11/60144353_1309840259170138_5128546647730552832_n-e1657752896495-300x190.png 300w, /assets/uploads/2024/11/60144353_1309840259170138_5128546647730552832_n-e1657752896495.png 416w" sizes="(max-width: 300px) 100vw, 300px" title="Chatbots 3" />
                       {" "}
                     </div>
                     {" "}
-                    <div className="elementor-element elementor-element-16f5af7 elementor-widget elementor-widget-heading" data-id="16f5af7" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+                    <div className="tdp-element tdp-element-16f5af7 tdp-widget tdp-widget-heading" data-id="16f5af7" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
                       {" "}
-                      <h4 className="elementor-heading-title elementor-size-default">
+                      <h4 className="tdp-heading-title tdp-size-default">
                         {"ECO Grupo Dental - Chatbot Gestión de Citas para Pacientes "}
                       </h4>
                       {" "}
                     </div>
                     {" "}
-                    <div className="elementor-element elementor-element-13894d58 elementor-widget elementor-widget-text-editor" data-id="13894d58" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
+                    <div className="tdp-element tdp-element-13894d58 tdp-widget tdp-widget-text-editor" data-id="13894d58" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
                       {" "}
                       <p>
                         {"Asignación automática de citas para pacientes de EPS Sanitas, optimizando el proceso de agendamiento y garantizando una mejor experiencia en la gestión de consultas y atención para el sector odontológico."}
@@ -1079,11 +1079,11 @@ export default function PageChatbots({ path }: { path: string }) {
       <Footer988867 path={path} />
       <Popup9913 path={path} />
       <Popup1670 path={path} />
-      <IdElementorPost10889Css path={path} />
+      <IdTdpPost10889Css path={path} />
       <IdEgeiroWhfab path={path} />
       <div className="pafe-break-point" data-pafe-break-point-md="767" data-pafe-break-point-lg="1024" data-pafe-ajax-url="/wp-admin/admin-ajax.php"></div>
-      <div data-pafe-form-builder-tinymce-upload="/wp-content/plugins/piotnet-addons-for-elementor-pro/inc/tinymce/tinymce-upload.php"></div>
-      <div data-pafe-plugin-url="/wp-content/plugins"></div>
+      <div data-pafe-form-builder-tinymce-upload="/assets/plugins/piotnet-addons-for-tdp-pro/inc/tinymce/tinymce-upload.php"></div>
+      <div data-pafe-plugin-url="/assets/plugins"></div>
     </>
   );
 }

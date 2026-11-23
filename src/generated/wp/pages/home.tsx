@@ -2,7 +2,6 @@
 /* eslint-disable */
 import ProductFaq from "@/components/faq/ProductFaq";
 import SkipLink from "../templates/SkipLink";
-import Header6979 from "../templates/Header6979";
 import Footer988867 from "../templates/Footer988867";
 import Popup9913 from "../templates/Popup9913";
 import IdWidgetPostInfoCss from "../templates/IdWidgetPostInfoCss";
@@ -13,44 +12,762 @@ export default function PageHome({ path }: { path: string }) {
   return (
     <>
       <SkipLink path={path} />
-      <Header6979 path={path} />
+      <header data-tdp-type="header" data-tdp-id="10833" className="tdp tdp-10833 tdp-location-header" data-tdp-post-type="tdp_library">
+        {" "}
+        <section className="tdp-section tdp-top-section tdp-element tdp-element-7a8778e tdp-section-height-min-height tdp-section-items-stretch tdp-section-content-middle tdp-hidden-mobile tdp-hidden-tablet tdp-section-boxed tdp-section-height-default" data-id="7a8778e" data-element_type="section" data-e-type="section" data-settings={"{\"background_background\":\"classic\"}"}>
+          {" "}
+          <div className="tdp-container tdp-column-gap-no">
+            {" "}
+            <div className="tdp-column tdp-col-50 tdp-top-column tdp-element tdp-element-8e5789a" data-id="8e5789a" data-element_type="column" data-e-type="column">
+              {" "}
+              <div className="tdp-widget-wrap tdp-element-populated">
+                {" "}
+                <div className="tdp-element tdp-element-7ad430b tdp-widget tdp-widget-image" data-id="7ad430b" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
+                  {" "}
+                  <a href="/">
+                    {" "}
+                    <img width="256" height="104" src="/assets/uploads/2023/07/TODO-IP-PIEZA-LOGOTIPO-FINAL2019-negativo1.webp" className="attachment-full size-full img-988017" alt="Logotipo de TodoIP en blanco" />
+                    {" "}
+                  </a>
+                  {" "}
+                </div>
+                {" "}
+              </div>
+              {" "}
+            </div>
+            {" "}
+            <div className="tdp-column tdp-col-50 tdp-top-column tdp-element tdp-element-216a1d5" data-id="216a1d5" data-element_type="column" data-e-type="column">
+              {" "}
+              <div className="tdp-widget-wrap tdp-element-populated">
+                {" "}
+                <div className="tdp-element tdp-element-1f01bac tdp-widget__width-initial e-full_width e-n-menu-layout-horizontal e-n-menu-tablet tdp-widget tdp-widget-n-menu" data-id="1f01bac" data-element_type="widget" data-e-type="widget" data-settings={"{\"menu_items\":[{\"item_title\":\"Inicio\",\"_id\":\"52c867c\",\"__dynamic__\":{\"item_link\":\"[tdp-tag id=\\\"729f8c3\\\" name=\\\"site-url\\\" settings=\\\"%7B%7D\\\"]\"},\"item_link\":{\"url\":\"\",\"is_external\":\"\",\"nofollow\":\"\",\"custom_attributes\":\"\"},\"item_dropdown_content\":\"no\",\"item_icon\":{\"value\":\"\",\"library\":\"\"},\"item_icon_active\":null,\"element_id\":\"\"},{\"item_title\":\"Productos\",\"_id\":\"afe505a\",\"item_dropdown_content\":\"yes\",\"item_link\":{\"url\":\"\",\"is_external\":\"\",\"nofollow\":\"\",\"custom_attributes\":\"\"},\"item_icon\":{\"value\":\"\",\"library\":\"\"},\"item_icon_active\":null,\"element_id\":\"\"},{\"_id\":\"b07d2b9\",\"item_title\":\"Nuestro blog\",\"item_link\":{\"url\":\"\\/blog\\/\",\"is_external\":\"\",\"nofollow\":\"\",\"custom_attributes\":\"\"},\"item_dropdown_content\":\"no\",\"item_icon\":{\"value\":\"\",\"library\":\"\"},\"item_icon_active\":null,\"element_id\":\"\"},{\"_id\":\"f00bbe6\",\"item_title\":\"Acceso Clientes\",\"item_link\":{\"url\":\"\\/reportes-telefonia\\/\",\"is_external\":\"\",\"nofollow\":\"\",\"custom_attributes\":\"\"},\"item_dropdown_content\":\"no\",\"item_icon\":{\"value\":\"\",\"library\":\"\"},\"item_icon_active\":null,\"element_id\":\"\"}],\"menu_item_title_distance_from_content\":{\"unit\":\"px\",\"size\":15,\"sizes\":[]},\"content_width\":\"full_width\",\"item_layout\":\"horizontal\",\"open_on\":\"hover\",\"horizontal_scroll\":\"disable\",\"breakpoint_selector\":\"tablet\",\"menu_item_title_distance_from_content_tablet\":{\"unit\":\"px\",\"size\":\"\",\"sizes\":[]},\"menu_item_title_distance_from_content_mobile\":{\"unit\":\"px\",\"size\":\"\",\"sizes\":[]}}"} data-widget_type="mega-menu.default">
+                  {" "}
+                  <nav className="e-n-menu" data-widget-number="325" aria-label="Menu">
+                    {" "}
+                    <button className="e-n-menu-toggle" id="menu-toggle-325" aria-haspopup="true" aria-expanded="false" aria-controls="menubar-325" aria-label="Menu Toggle">
+                      {" "}
+                      <span className="e-n-menu-toggle-icon e-open">
+                        {" "}
+                        <svg className="e-font-icon-svg e-eicon-menu-bar" viewBox="0 0 1000 1000" xmlns="http://www.w3.org/2000/svg">
+                          <path d="M104 333H896C929 333 958 304 958 271S929 208 896 208H104C71 208 42 237 42 271S71 333 104 333ZM104 583H896C929 583 958 554 958 521S929 458 896 458H104C71 458 42 487 42 521S71 583 104 583ZM104 833H896C929 833 958 804 958 771S929 708 896 708H104C71 708 42 737 42 771S71 833 104 833Z"></path>
+                        </svg>
+                        {" "}
+                      </span>
+                      {" "}
+                      <span className="e-n-menu-toggle-icon e-close">
+                        {" "}
+                        <svg className="e-font-icon-svg e-eicon-close" viewBox="0 0 1000 1000" xmlns="http://www.w3.org/2000/svg">
+                          <path d="M742 167L500 408 258 167C246 154 233 150 217 150 196 150 179 158 167 167 154 179 150 196 150 212 150 229 154 242 171 254L408 500 167 742C138 771 138 800 167 829 196 858 225 858 254 829L496 587 738 829C750 842 767 846 783 846 800 846 817 842 829 829 842 817 846 804 846 783 846 767 842 750 829 737L588 500 833 258C863 229 863 200 833 171 804 137 775 137 742 167Z"></path>
+                        </svg>
+                        {" "}
+                      </span>
+                      {" "}
+                    </button>
+                    {" "}
+                    <div className="e-n-menu-wrapper" id="menubar-325" aria-labelledby="menu-toggle-325">
+                      {" "}
+                      <ul className="e-n-menu-heading">
+                        {" "}
+                        <li className="e-n-menu-item">
+                          {" "}
+                          <div id="e-n-menu-title-3251" className="e-n-menu-title e-current">
+                            {" "}
+                            <a className="e-n-menu-title-container e-focus e-link" href="/" aria-current="page">
+                              {" "}
+                              <span className="e-n-menu-title-text">
+                                {" Inicio "}
+                              </span>
+                              {" "}
+                            </a>
+                            {" "}
+                          </div>
+                          {" "}
+                        </li>
+                        {" "}
+                        <li className="e-n-menu-item">
+                          {" "}
+                          <div id="e-n-menu-title-3252" className="e-n-menu-title">
+                            {" "}
+                            <div className="e-n-menu-title-container">
+                              {" "}
+                              <span className="e-n-menu-title-text">
+                                {" Productos "}
+                              </span>
+                              {" "}
+                            </div>
+                            {" "}
+                            <button id="e-n-menu-dropdown-icon-3252" className="e-n-menu-dropdown-icon e-focus" data-tab-index="2" aria-haspopup="true" aria-expanded="false" aria-controls="e-n-menu-content-3252">
+                              {" "}
+                              <span className="e-n-menu-dropdown-icon-opened">
+                                {" "}
+                                <svg aria-hidden="true" className="e-font-icon-svg e-fas-caret-up" viewBox="0 0 320 512" xmlns="http://www.w3.org/2000/svg">
+                                  <path d="M288.662 352H31.338c-17.818 0-26.741-21.543-14.142-34.142l128.662-128.662c7.81-7.81 20.474-7.81 28.284 0l128.662 128.662c12.6 12.599 3.676 34.142-14.142 34.142z"></path>
+                                </svg>
+                                {" "}
+                                <span className="tdp-screen-only">
+                                  {"Close Productos"}
+                                </span>
+                                {" "}
+                              </span>
+                              {" "}
+                              <span className="e-n-menu-dropdown-icon-closed">
+                                {" "}
+                                <svg aria-hidden="true" className="e-font-icon-svg e-fas-caret-down" viewBox="0 0 320 512" xmlns="http://www.w3.org/2000/svg">
+                                  <path d="M31.3 192h257.3c17.8 0 26.7 21.5 14.1 34.1L174.1 354.8c-7.8 7.8-20.5 7.8-28.3 0L17.2 226.1C4.6 213.5 13.5 192 31.3 192z"></path>
+                                </svg>
+                                {" "}
+                                <span className="tdp-screen-only">
+                                  {"Open Productos"}
+                                </span>
+                                {" "}
+                              </span>
+                              {" "}
+                            </button>
+                            {" "}
+                          </div>
+                          {" "}
+                          <div className="e-n-menu-content">
+                            {" "}
+                            <div id="e-n-menu-content-3252" data-tab-index="2" aria-labelledby="e-n-menu-dropdown-icon-3252" className="tdp-element tdp-element-41f0227 e-flex e-con-boxed e-con e-child" data-id="41f0227" data-element_type="container" data-e-type="container" data-settings={"{\"background_background\":\"classic\"}"}>
+                              {" "}
+                              <div className="e-con-inner">
+                                {" "}
+                                <div className="tdp-element tdp-element-7ce21a8 e-con-full e-flex e-con e-child" data-id="7ce21a8" data-element_type="container" data-e-type="container" data-settings={"{\"background_background\":\"classic\"}"}>
+                                  {" "}
+                                  <div className="tdp-element tdp-element-7345006 tdp-widget tdp-widget-heading" data-id="7345006" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+                                    {" "}
+                                    <span className="tdp-heading-title tdp-size-default">
+                                      {"INTELIGENCIA ARTIFICIAL "}
+                                    </span>
+                                    {" "}
+                                  </div>
+                                  {" "}
+                                  <div className="tdp-element tdp-element-305f85a tdp-widget tdp-widget-heading" data-id="305f85a" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+                                    {" "}
+                                    <span className="tdp-heading-title tdp-size-default">
+                                      {"(Soluciones que piensan, aprenden y ejecutan)"}
+                                    </span>
+                                    {" "}
+                                  </div>
+                                  {" "}
+                                  <div className="tdp-element tdp-element-ab5584c tdp-cta--valign-top tdp-widget__width-initial tdp-cta--skin-classic tdp-animated-content tdp-widget tdp-widget-call-to-action" data-id="ab5584c" data-element_type="widget" data-e-type="widget" data-widget_type="call-to-action.default">
+                                    {" "}
+                                    <a className="tdp-cta" href="/chatbots-con-ia-whatsapp/">
+                                      {" "}
+                                      <div className="tdp-cta__content">
+                                        {" "}
+                                        <span className="tdp-cta__title tdp-cta__content-item tdp-content-item">
+                                          {" 💬 Chatbots con IA & WhatsApp "}
+                                        </span>
+                                        {" "}
+                                        <div className="tdp-cta__description tdp-cta__content-item tdp-content-item">
+                                          {" Automatiza conversaciones, ventas y procesos por chat. "}
+                                        </div>
+                                        {" "}
+                                      </div>
+                                      {" "}
+                                    </a>
+                                    {" "}
+                                  </div>
+                                  {" "}
+                                  <div className="tdp-element tdp-element-d18b8c7 tdp-cta--valign-top tdp-widget__width-initial tdp-cta--skin-classic tdp-animated-content tdp-widget tdp-widget-call-to-action" data-id="d18b8c7" data-element_type="widget" data-e-type="widget" data-widget_type="call-to-action.default">
+                                    {" "}
+                                    <a className="tdp-cta" href="/agente-de-voz-con-ia-voicebot/">
+                                      {" "}
+                                      <div className="tdp-cta__content">
+                                        {" "}
+                                        <span className="tdp-cta__title tdp-cta__content-item tdp-content-item">
+                                          {" 🎙️ Agente de Voz con IA (Voicebot) "}
+                                        </span>
+                                        {" "}
+                                        <div className="tdp-cta__description tdp-cta__content-item tdp-content-item">
+                                          {" Tu IA que contesta, gestiona trámites y analiza conversaciones. "}
+                                        </div>
+                                        {" "}
+                                      </div>
+                                      {" "}
+                                    </a>
+                                    {" "}
+                                  </div>
+                                  {" "}
+                                  <div className="tdp-element tdp-element-ccf1578 tdp-cta--valign-top tdp-widget__width-initial tdp-cta--skin-classic tdp-animated-content tdp-widget tdp-widget-call-to-action" data-id="ccf1578" data-element_type="widget" data-e-type="widget" data-widget_type="call-to-action.default">
+                                    {" "}
+                                    <a className="tdp-cta" href="/lectura-inteligente-de-documentos/">
+                                      {" "}
+                                      <div className="tdp-cta__content">
+                                        {" "}
+                                        <span className="tdp-cta__title tdp-cta__content-item tdp-content-item">
+                                          {" 📄 Lectura Inteligente de Documentos "}
+                                        </span>
+                                        {" "}
+                                        <div className="tdp-cta__description tdp-cta__content-item tdp-content-item">
+                                          {" Extrae datos de imágenes y PDFs para llenar formularios. "}
+                                        </div>
+                                        {" "}
+                                      </div>
+                                      {" "}
+                                    </a>
+                                    {" "}
+                                  </div>
+                                  {" "}
+                                </div>
+                                {" "}
+                                <div className="tdp-element tdp-element-6829075 e-con-full e-flex e-con e-child" data-id="6829075" data-element_type="container" data-e-type="container" data-settings={"{\"background_background\":\"classic\"}"}>
+                                  {" "}
+                                  <div className="tdp-element tdp-element-168e79a tdp-widget tdp-widget-heading" data-id="168e79a" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+                                    {" "}
+                                    <span className="tdp-heading-title tdp-size-default">
+                                      {"COMUNICACIÓN DE VOZ "}
+                                    </span>
+                                    {" "}
+                                  </div>
+                                  {" "}
+                                  <div className="tdp-element tdp-element-262b09f tdp-widget tdp-widget-heading" data-id="262b09f" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+                                    {" "}
+                                    <span className="tdp-heading-title tdp-size-default">
+                                      {"(Infraestructura y conectividad empresarial)"}
+                                    </span>
+                                    {" "}
+                                  </div>
+                                  {" "}
+                                  <div className="tdp-element tdp-element-291e318 tdp-cta--valign-top tdp-widget__width-initial tdp-cta--skin-classic tdp-animated-content tdp-widget tdp-widget-call-to-action" data-id="291e318" data-element_type="widget" data-e-type="widget" data-widget_type="call-to-action.default">
+                                    {" "}
+                                    <a className="tdp-cta" href="/pbx-movil/">
+                                      {" "}
+                                      <div className="tdp-cta__content">
+                                        {" "}
+                                        <span className="tdp-cta__title tdp-cta__content-item tdp-content-item">
+                                          {" 📱 PBX Móvil "}
+                                        </span>
+                                        {" "}
+                                        <div className="tdp-cta__description tdp-cta__content-item tdp-content-item">
+                                          {" Tu extensión telefónica empresarial en la Nube. "}
+                                        </div>
+                                        {" "}
+                                      </div>
+                                      {" "}
+                                    </a>
+                                    {" "}
+                                  </div>
+                                  {" "}
+                                  <div className="tdp-element tdp-element-51916dc tdp-cta--valign-top tdp-widget__width-initial tdp-cta--skin-classic tdp-animated-content tdp-widget tdp-widget-call-to-action" data-id="51916dc" data-element_type="widget" data-e-type="widget" data-widget_type="call-to-action.default">
+                                    {" "}
+                                    <a className="tdp-cta" href="/agente-virtual-ivr/">
+                                      {" "}
+                                      <div className="tdp-cta__content">
+                                        {" "}
+                                        <span className="tdp-cta__title tdp-cta__content-item tdp-content-item">
+                                          {" 🔀 Portal de Autogestión Telefónica "}
+                                        </span>
+                                        {" "}
+                                        <div className="tdp-cta__description tdp-cta__content-item tdp-content-item">
+                                          {" Integra telefonía y datos para respuestas en tiempo real. "}
+                                        </div>
+                                        {" "}
+                                      </div>
+                                      {" "}
+                                    </a>
+                                    {" "}
+                                  </div>
+                                  {" "}
+                                  <div className="tdp-element tdp-element-be6866c tdp-cta--valign-top tdp-widget__width-initial tdp-cta--skin-classic tdp-animated-content tdp-widget tdp-widget-call-to-action" data-id="be6866c" data-element_type="widget" data-e-type="widget" data-widget_type="call-to-action.default">
+                                    {" "}
+                                    <a className="tdp-cta" href="/telefoniaip/">
+                                      {" "}
+                                      <div className="tdp-cta__content">
+                                        {" "}
+                                        <span className="tdp-cta__title tdp-cta__content-item tdp-content-item">
+                                          {" 📞 Troncales y Telefonía IP "}
+                                        </span>
+                                        {" "}
+                                        <div className="tdp-cta__description tdp-cta__content-item tdp-content-item">
+                                          {" Conectividad empresarial robusta y numeración. "}
+                                        </div>
+                                        {" "}
+                                      </div>
+                                      {" "}
+                                    </a>
+                                    {" "}
+                                  </div>
+                                  {" "}
+                                </div>
+                                {" "}
+                              </div>
+                              {" "}
+                            </div>
+                            {" "}
+                          </div>
+                          {" "}
+                        </li>
+                        {" "}
+                        <li className="e-n-menu-item">
+                          {" "}
+                          <div id="e-n-menu-title-3253" className="e-n-menu-title">
+                            {" "}
+                            <a className="e-n-menu-title-container e-focus e-link" href="/blog/">
+                              {" "}
+                              <span className="e-n-menu-title-text">
+                                {" Nuestro blog "}
+                              </span>
+                              {" "}
+                            </a>
+                            {" "}
+                          </div>
+                          {" "}
+                        </li>
+                        {" "}
+                        <li className="e-n-menu-item">
+                          {" "}
+                          <div id="e-n-menu-title-3254" className="e-n-menu-title">
+                            {" "}
+                            <a className="e-n-menu-title-container e-focus e-link" href="/reportes-telefonia/">
+                              {" "}
+                              <span className="e-n-menu-title-text">
+                                {" Acceso Clientes "}
+                              </span>
+                              {" "}
+                            </a>
+                            {" "}
+                          </div>
+                          {" "}
+                        </li>
+                        {" "}
+                      </ul>
+                      {" "}
+                    </div>
+                    {" "}
+                  </nav>
+                  {" "}
+                </div>
+                {" "}
+                <div className="tdp-element tdp-element-3baaf14 tdp-widget__width-initial tdp-hidden-tablet tdp-hidden-mobile tdp-view-default tdp-widget tdp-widget-icon" data-id="3baaf14" data-element_type="widget" data-e-type="widget" data-widget_type="icon.default">
+                  {" "}
+                  <div className="tdp-icon-wrapper">
+                    {" "}
+                    <div className="tdp-icon">
+                      {" "}
+                      <svg xmlns="http://www.w3.org/2000/svg" height="44.236648" viewBox="0 0 17.7768741 44.236648" width="17.776874">
+                        <path d="m16.8432936 0 .9335805.35836795-.179184.46679021-16.4849257 42.94469964-.17918397.4667902-.93358043-.358368.17918398-.4667902 16.48492572-42.94469959z"></path>
+                      </svg>
+                      {" "}
+                    </div>
+                    {" "}
+                  </div>
+                  {" "}
+                </div>
+                {" "}
+                <div className="tdp-element tdp-element-b1ae9ce tdp-widget__width-auto tdp-hidden-tablet tdp-hidden-mobile tdp-widget tdp-widget-button" data-id="b1ae9ce" data-element_type="widget" data-e-type="widget" data-widget_type="button.default">
+                  {" "}
+                  <a className="tdp-button tdp-button-link tdp-size-sm" href={"https://api.whatsapp.com/send?phone=573009122820&text=Hola%2C%20ingrese%20por%20el%20link%20WhatsApp%2C%20necesito%20m%C3%A1s%20informaci%C3%B3n"} target="_blank">
+                    {" "}
+                    <span className="tdp-button-content-wrapper">
+                      {" "}
+                      <span className="tdp-button-icon">
+                        {" "}
+                        <svg aria-hidden="true" className="e-font-icon-svg e-fab-whatsapp" viewBox="0 0 448 512" xmlns="http://www.w3.org/2000/svg">
+                          <path d="M380.9 97.1C339 55.1 283.2 32 223.9 32c-122.4 0-222 99.6-222 222 0 39.1 10.2 77.3 29.6 111L0 480l117.7-30.9c32.4 17.7 68.9 27 106.1 27h.1c122.3 0 224.1-99.6 224.1-222 0-59.3-25.2-115-67.1-157zm-157 341.6c-33.2 0-65.7-8.9-94-25.7l-6.7-4-69.8 18.3L72 359.2l-4.4-7c-18.5-29.4-28.2-63.3-28.2-98.2 0-101.7 82.8-184.5 184.6-184.5 49.3 0 95.6 19.2 130.4 54.1 34.8 34.9 56.2 81.2 56.1 130.5 0 101.8-84.9 184.6-186.6 184.6zm101.2-138.2c-5.5-2.8-32.8-16.2-37.9-18-5.1-1.9-8.8-2.8-12.5 2.8-3.7 5.6-14.3 18-17.6 21.8-3.2 3.7-6.5 4.2-12 1.4-32.6-16.3-54-29.1-75.5-66-5.7-9.8 5.7-9.1 16.3-30.3 1.8-3.7.9-6.9-.5-9.7-1.4-2.8-12.5-30.1-17.1-41.2-4.5-10.8-9.1-9.3-12.5-9.5-3.2-.2-6.9-.2-10.6-.2-3.7 0-9.7 1.4-14.8 6.9-5.1 5.6-19.4 19-19.4 46.3 0 27.3 19.9 53.7 22.6 57.4 2.8 3.7 39.1 59.7 94.8 83.8 35.2 15.2 49 16.5 66.6 13.9 10.7-1.6 32.8-13.4 37.4-26.4 4.6-13 4.6-24.1 3.2-26.4-1.3-2.5-5-3.9-10.5-6.6z"></path>
+                        </svg>
+                        {" "}
+                      </span>
+                      {" "}
+                      <span className="tdp-button-text">
+                        {" 3009122820"}
+                      </span>
+                      {" "}
+                    </span>
+                    {" "}
+                  </a>
+                  {" "}
+                </div>
+                {" "}
+                <div className="tdp-element tdp-element-64661e4 tdp-widget__width-auto tdp-widget tdp-widget-button" data-id="64661e4" data-element_type="widget" data-e-type="widget" data-widget_type="button.default">
+                  {" "}
+                  <a className="tdp-button tdp-button-link tdp-size-sm" href="#form">
+                    {" "}
+                    <span className="tdp-button-content-wrapper">
+                      {" "}
+                      <span className="tdp-button-text">
+                        {"Contáctanos "}
+                      </span>
+                      {" "}
+                    </span>
+                    {" "}
+                  </a>
+                  {" "}
+                </div>
+                {" "}
+              </div>
+              {" "}
+            </div>
+            {" "}
+          </div>
+          {" "}
+        </section>
+        {" "}
+        <div className="tdp-element tdp-element-03be3c3 tdp-hidden-desktop e-flex e-con-boxed e-con e-parent" data-id="03be3c3" data-element_type="container" data-e-type="container" data-settings={"{\"background_background\":\"classic\",\"sticky\":\"top\",\"sticky_on\":[\"desktop\",\"tablet\",\"mobile\"],\"sticky_offset\":0,\"sticky_effects_offset\":0,\"sticky_anchor_link_offset\":0}"}>
+          {" "}
+          <div className="e-con-inner">
+            {" "}
+            <div className="tdp-element tdp-element-5a94f9c e-con-full e-flex e-con e-child" data-id="5a94f9c" data-element_type="container" data-e-type="container">
+              {" "}
+              <div className="tdp-element tdp-element-f66030b tdp-widget tdp-widget-image" data-id="f66030b" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
+                {" "}
+                <a href="/">
+                  {" "}
+                  <img width="272" height="111" src="/assets/uploads/2023/07/logo-TodoIP.webp" className="attachment-large size-large img-988449" alt="Logotipo de TodoIP" />
+                  {" "}
+                </a>
+                {" "}
+              </div>
+              {" "}
+            </div>
+            {" "}
+            <div className="tdp-element tdp-element-06023eb e-con-full e-flex e-con e-child" data-id="06023eb" data-element_type="container" data-e-type="container">
+              {" "}
+              <div className="tdp-element tdp-element-22706db tdp-widget__width-auto tdp-widget tdp-widget-button" data-id="22706db" data-element_type="widget" data-e-type="widget" data-widget_type="button.default">
+                {" "}
+                <a className="tdp-button tdp-button-link tdp-size-sm" href="#form-mobie">
+                  {" "}
+                  <span className="tdp-button-content-wrapper">
+                    {" "}
+                    <span className="tdp-button-text">
+                      {"Contáctanos "}
+                    </span>
+                    {" "}
+                  </span>
+                  {" "}
+                </a>
+                {" "}
+              </div>
+              {" "}
+            </div>
+            {" "}
+            <div className="tdp-element tdp-element-1323dc6 e-con-full e-flex e-con e-child" data-id="1323dc6" data-element_type="container" data-e-type="container">
+              {" "}
+              <div className="tdp-element tdp-element-bb7252c e-full_width e-n-menu-layout-horizontal e-n-menu-tablet tdp-widget tdp-widget-n-menu" data-id="bb7252c" data-element_type="widget" data-e-type="widget" data-settings={"{\"menu_items\":[{\"item_title\":\"Inicio\",\"_id\":\"52c867c\",\"__dynamic__\":{\"item_link\":\"[tdp-tag id=\\\"729f8c3\\\" name=\\\"site-url\\\" settings=\\\"%7B%7D\\\"]\"},\"item_link\":{\"url\":\"\",\"is_external\":\"\",\"nofollow\":\"\",\"custom_attributes\":\"\"},\"item_dropdown_content\":\"no\",\"item_icon\":{\"value\":\"\",\"library\":\"\"},\"item_icon_active\":null,\"element_id\":\"\"},{\"item_title\":\"Productos\",\"_id\":\"afe505a\",\"item_dropdown_content\":\"yes\",\"item_link\":{\"url\":\"\",\"is_external\":\"\",\"nofollow\":\"\",\"custom_attributes\":\"\"},\"item_icon\":{\"value\":\"\",\"library\":\"\"},\"item_icon_active\":null,\"element_id\":\"\"},{\"_id\":\"4765768\",\"item_title\":\"Nuestro blog \",\"item_link\":{\"url\":\"\\/blog\\/\",\"is_external\":\"\",\"nofollow\":\"\",\"custom_attributes\":\"\"},\"item_dropdown_content\":\"no\",\"item_icon\":{\"value\":\"\",\"library\":\"\"},\"item_icon_active\":null,\"element_id\":\"\"},{\"_id\":\"e804e19\",\"item_title\":\"Acceso Clientes\",\"item_link\":{\"url\":\"\\/reportes-telefonia\\/\",\"is_external\":\"\",\"nofollow\":\"\",\"custom_attributes\":\"\"},\"item_dropdown_content\":\"no\",\"item_icon\":{\"value\":\"\",\"library\":\"\"},\"item_icon_active\":null,\"element_id\":\"\"}],\"open_on\":\"click\",\"content_width\":\"full_width\",\"item_layout\":\"horizontal\",\"horizontal_scroll\":\"disable\",\"breakpoint_selector\":\"tablet\",\"menu_item_title_distance_from_content\":{\"unit\":\"px\",\"size\":0,\"sizes\":[]},\"menu_item_title_distance_from_content_tablet\":{\"unit\":\"px\",\"size\":\"\",\"sizes\":[]},\"menu_item_title_distance_from_content_mobile\":{\"unit\":\"px\",\"size\":\"\",\"sizes\":[]}}"} data-widget_type="mega-menu.default">
+                {" "}
+                <nav className="e-n-menu" data-widget-number="196" aria-label="Menu">
+                  {" "}
+                  <button className="e-n-menu-toggle" id="menu-toggle-196" aria-haspopup="true" aria-expanded="false" aria-controls="menubar-196" aria-label="Menu Toggle">
+                    {" "}
+                    <span className="e-n-menu-toggle-icon e-open">
+                      {" "}
+                      <svg className="e-font-icon-svg e-eicon-menu-bar" viewBox="0 0 1000 1000" xmlns="http://www.w3.org/2000/svg">
+                        <path d="M104 333H896C929 333 958 304 958 271S929 208 896 208H104C71 208 42 237 42 271S71 333 104 333ZM104 583H896C929 583 958 554 958 521S929 458 896 458H104C71 458 42 487 42 521S71 583 104 583ZM104 833H896C929 833 958 804 958 771S929 708 896 708H104C71 708 42 737 42 771S71 833 104 833Z"></path>
+                      </svg>
+                      {" "}
+                    </span>
+                    {" "}
+                    <span className="e-n-menu-toggle-icon e-close">
+                      {" "}
+                      <svg className="e-font-icon-svg e-eicon-close" viewBox="0 0 1000 1000" xmlns="http://www.w3.org/2000/svg">
+                        <path d="M742 167L500 408 258 167C246 154 233 150 217 150 196 150 179 158 167 167 154 179 150 196 150 212 150 229 154 242 171 254L408 500 167 742C138 771 138 800 167 829 196 858 225 858 254 829L496 587 738 829C750 842 767 846 783 846 800 846 817 842 829 829 842 817 846 804 846 783 846 767 842 750 829 737L588 500 833 258C863 229 863 200 833 171 804 137 775 137 742 167Z"></path>
+                      </svg>
+                      {" "}
+                    </span>
+                    {" "}
+                  </button>
+                  {" "}
+                  <div className="e-n-menu-wrapper" id="menubar-196" aria-labelledby="menu-toggle-196">
+                    {" "}
+                    <ul className="e-n-menu-heading">
+                      {" "}
+                      <li className="e-n-menu-item">
+                        {" "}
+                        <div id="e-n-menu-title-1961" className="e-n-menu-title e-current">
+                          {" "}
+                          <a className="e-n-menu-title-container e-focus e-link" href="/" aria-current="page">
+                            {" "}
+                            <span className="e-n-menu-title-text">
+                              {" Inicio "}
+                            </span>
+                            {" "}
+                          </a>
+                          {" "}
+                        </div>
+                        {" "}
+                      </li>
+                      {" "}
+                      <li className="e-n-menu-item">
+                        {" "}
+                        <div id="e-n-menu-title-1962" className="e-n-menu-title e-click">
+                          {" "}
+                          <div className="e-n-menu-title-container">
+                            {" "}
+                            <span className="e-n-menu-title-text">
+                              {" Productos "}
+                            </span>
+                            {" "}
+                          </div>
+                          {" "}
+                          <button id="e-n-menu-dropdown-icon-1962" className="e-n-menu-dropdown-icon e-focus" data-tab-index="2" aria-haspopup="true" aria-expanded="false" aria-controls="e-n-menu-content-1962">
+                            {" "}
+                            <span className="e-n-menu-dropdown-icon-opened">
+                              {" "}
+                              <svg aria-hidden="true" className="e-font-icon-svg e-fas-caret-up" viewBox="0 0 320 512" xmlns="http://www.w3.org/2000/svg">
+                                <path d="M288.662 352H31.338c-17.818 0-26.741-21.543-14.142-34.142l128.662-128.662c7.81-7.81 20.474-7.81 28.284 0l128.662 128.662c12.6 12.599 3.676 34.142-14.142 34.142z"></path>
+                              </svg>
+                              {" "}
+                              <span className="tdp-screen-only">
+                                {"Close Productos"}
+                              </span>
+                              {" "}
+                            </span>
+                            {" "}
+                            <span className="e-n-menu-dropdown-icon-closed">
+                              {" "}
+                              <svg aria-hidden="true" className="e-font-icon-svg e-fas-caret-down" viewBox="0 0 320 512" xmlns="http://www.w3.org/2000/svg">
+                                <path d="M31.3 192h257.3c17.8 0 26.7 21.5 14.1 34.1L174.1 354.8c-7.8 7.8-20.5 7.8-28.3 0L17.2 226.1C4.6 213.5 13.5 192 31.3 192z"></path>
+                              </svg>
+                              {" "}
+                              <span className="tdp-screen-only">
+                                {"Open Productos"}
+                              </span>
+                              {" "}
+                            </span>
+                            {" "}
+                          </button>
+                          {" "}
+                        </div>
+                        {" "}
+                        <div className="e-n-menu-content">
+                          {" "}
+                          <div id="e-n-menu-content-1962" data-tab-index="2" aria-labelledby="e-n-menu-dropdown-icon-1962" className="tdp-element tdp-element-48c331b e-flex e-con-boxed e-con e-child" data-id="48c331b" data-element_type="container" data-e-type="container" data-settings={"{\"background_background\":\"classic\"}"}>
+                            {" "}
+                            <div className="e-con-inner">
+                              {" "}
+                              <div className="tdp-element tdp-element-c57c374 e-con-full e-flex e-con e-child" data-id="c57c374" data-element_type="container" data-e-type="container" data-settings={"{\"background_background\":\"classic\"}"}>
+                                {" "}
+                                <div className="tdp-element tdp-element-6e4cd08 tdp-widget tdp-widget-heading" data-id="6e4cd08" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+                                  {" "}
+                                  <span className="tdp-heading-title tdp-size-default">
+                                    {"INTELIGENCIA ARTIFICIAL "}
+                                  </span>
+                                  {" "}
+                                </div>
+                                {" "}
+                                <div className="tdp-element tdp-element-d3b8500 tdp-cta--valign-top tdp-widget__width-initial tdp-cta--skin-classic tdp-animated-content tdp-widget tdp-widget-call-to-action" data-id="d3b8500" data-element_type="widget" data-e-type="widget" data-widget_type="call-to-action.default">
+                                  {" "}
+                                  <a className="tdp-cta" href="/chatbots-con-ia-whatsapp/">
+                                    {" "}
+                                    <div className="tdp-cta__content">
+                                      {" "}
+                                      <span className="tdp-cta__title tdp-cta__content-item tdp-content-item">
+                                        {" 💬 Chatbots con IA & WhatsApp "}
+                                      </span>
+                                      {" "}
+                                      <div className="tdp-cta__description tdp-cta__content-item tdp-content-item">
+                                        {" Automatiza conversaciones, ventas y procesos por chat. "}
+                                      </div>
+                                      {" "}
+                                    </div>
+                                    {" "}
+                                  </a>
+                                  {" "}
+                                </div>
+                                {" "}
+                                <div className="tdp-element tdp-element-62fc512 tdp-cta--valign-top tdp-widget__width-initial tdp-cta--skin-classic tdp-animated-content tdp-widget tdp-widget-call-to-action" data-id="62fc512" data-element_type="widget" data-e-type="widget" data-widget_type="call-to-action.default">
+                                  {" "}
+                                  <a className="tdp-cta" href="/lectura-inteligente-de-documentos/">
+                                    {" "}
+                                    <div className="tdp-cta__content">
+                                      {" "}
+                                      <span className="tdp-cta__title tdp-cta__content-item tdp-content-item">
+                                        {" 📄 Lectura Inteligente de Documentos "}
+                                      </span>
+                                      {" "}
+                                      <div className="tdp-cta__description tdp-cta__content-item tdp-content-item">
+                                        {" Extrae datos de imágenes y PDFs para llenar formularios. "}
+                                      </div>
+                                      {" "}
+                                    </div>
+                                    {" "}
+                                  </a>
+                                  {" "}
+                                </div>
+                                {" "}
+                                <div className="tdp-element tdp-element-faca9b2 tdp-cta--valign-top tdp-widget__width-initial tdp-cta--skin-classic tdp-animated-content tdp-widget tdp-widget-call-to-action" data-id="faca9b2" data-element_type="widget" data-e-type="widget" data-widget_type="call-to-action.default">
+                                  {" "}
+                                  <a className="tdp-cta" href="/agente-de-voz-con-ia-voicebot/">
+                                    {" "}
+                                    <div className="tdp-cta__content">
+                                      {" "}
+                                      <span className="tdp-cta__title tdp-cta__content-item tdp-content-item">
+                                        {" 🎙️ Agente de Voz con IA (Voicebot) "}
+                                      </span>
+                                      {" "}
+                                      <div className="tdp-cta__description tdp-cta__content-item tdp-content-item">
+                                        {" Tu IA que contesta, gestiona trámites y analiza conversaciones. "}
+                                      </div>
+                                      {" "}
+                                    </div>
+                                    {" "}
+                                  </a>
+                                  {" "}
+                                </div>
+                                {" "}
+                                <div className="tdp-element tdp-element-8bd3de0 tdp-widget tdp-widget-heading" data-id="8bd3de0" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+                                  {" "}
+                                  <span className="tdp-heading-title tdp-size-default">
+                                    {"TELEFONÍA"}
+                                  </span>
+                                  {" "}
+                                </div>
+                                {" "}
+                                <div className="tdp-element tdp-element-0928f86 tdp-cta--valign-top tdp-widget__width-initial tdp-cta--skin-classic tdp-animated-content tdp-widget tdp-widget-call-to-action" data-id="0928f86" data-element_type="widget" data-e-type="widget" data-widget_type="call-to-action.default">
+                                  {" "}
+                                  <a className="tdp-cta" href="/pbx-movil/">
+                                    {" "}
+                                    <div className="tdp-cta__content">
+                                      {" "}
+                                      <span className="tdp-cta__title tdp-cta__content-item tdp-content-item">
+                                        {" 📱 PBX Móvil "}
+                                      </span>
+                                      {" "}
+                                      <div className="tdp-cta__description tdp-cta__content-item tdp-content-item">
+                                        {" Tu extensión telefónica empresarial en el celular en la Nube. "}
+                                      </div>
+                                      {" "}
+                                    </div>
+                                    {" "}
+                                  </a>
+                                  {" "}
+                                </div>
+                                {" "}
+                                <div className="tdp-element tdp-element-5c3b33b tdp-cta--valign-top tdp-widget__width-initial tdp-cta--skin-classic tdp-animated-content tdp-widget tdp-widget-call-to-action" data-id="5c3b33b" data-element_type="widget" data-e-type="widget" data-widget_type="call-to-action.default">
+                                  {" "}
+                                  <a className="tdp-cta" href="/agente-virtual-ivr/">
+                                    {" "}
+                                    <div className="tdp-cta__content">
+                                      {" "}
+                                      <span className="tdp-cta__title tdp-cta__content-item tdp-content-item">
+                                        {" 🔀 Portal de Autogestión Telefónica "}
+                                      </span>
+                                      {" "}
+                                      <div className="tdp-cta__description tdp-cta__content-item tdp-content-item">
+                                        {" Integra telefonía y datos para respuestas en tiempo real. "}
+                                      </div>
+                                      {" "}
+                                    </div>
+                                    {" "}
+                                  </a>
+                                  {" "}
+                                </div>
+                                {" "}
+                                <div className="tdp-element tdp-element-6fe122f tdp-cta--valign-top tdp-widget__width-initial tdp-cta--skin-classic tdp-animated-content tdp-widget tdp-widget-call-to-action" data-id="6fe122f" data-element_type="widget" data-e-type="widget" data-widget_type="call-to-action.default">
+                                  {" "}
+                                  <a className="tdp-cta" href="/telefoniaip/">
+                                    {" "}
+                                    <div className="tdp-cta__content">
+                                      {" "}
+                                      <span className="tdp-cta__title tdp-cta__content-item tdp-content-item">
+                                        {" 📞 Troncales y Telefonía IP "}
+                                      </span>
+                                      {" "}
+                                      <div className="tdp-cta__description tdp-cta__content-item tdp-content-item">
+                                        {" Conectividad empresarial robusta y numeración "}
+                                      </div>
+                                      {" "}
+                                    </div>
+                                    {" "}
+                                  </a>
+                                  {" "}
+                                </div>
+                                {" "}
+                              </div>
+                              {" "}
+                            </div>
+                            {" "}
+                          </div>
+                          {" "}
+                        </div>
+                        {" "}
+                      </li>
+                      {" "}
+                      <li className="e-n-menu-item">
+                        {" "}
+                        <div id="e-n-menu-title-1963" className="e-n-menu-title">
+                          {" "}
+                          <a className="e-n-menu-title-container e-focus e-link" href="/blog/">
+                            {" "}
+                            <span className="e-n-menu-title-text">
+                              {" Nuestro blog "}
+                            </span>
+                            {" "}
+                          </a>
+                          {" "}
+                        </div>
+                        {" "}
+                      </li>
+                      {" "}
+                      <li className="e-n-menu-item">
+                        {" "}
+                        <div id="e-n-menu-title-1964" className="e-n-menu-title">
+                          {" "}
+                          <a className="e-n-menu-title-container e-focus e-link" href="/reportes-telefonia/">
+                            {" "}
+                            <span className="e-n-menu-title-text">
+                              {" Acceso Clientes "}
+                            </span>
+                            {" "}
+                          </a>
+                          {" "}
+                        </div>
+                        {" "}
+                      </li>
+                      {" "}
+                    </ul>
+                    {" "}
+                  </div>
+                  {" "}
+                </nav>
+                {" "}
+              </div>
+              {" "}
+            </div>
+            {" "}
+          </div>
+          {" "}
+        </div>
+        {" "}
+      </header>
       <main id="content" className="site-main post-910 page type-page status-publish hentry">
         {" "}
         <div className="page-content">
           {" "}
-          <div data-elementor-type="wp-page" data-elementor-id="910" className="elementor elementor-910" data-elementor-post-type="page">
+          <div data-tdp-type="page" data-tdp-id="910" className="tdp tdp-910" data-tdp-post-type="page">
             {" "}
-            <section className="elementor-section elementor-top-section elementor-element elementor-element-4e1d4b6 elementor-section-height-min-height elementor-section-items-stretch elementor-section-content-bottom elementor-section-boxed elementor-section-height-default" data-id="4e1d4b6" data-element_type="section" data-e-type="section" data-settings={"{\"background_background\":\"slideshow\",\"background_slideshow_gallery\":[{\"id\":4124,\"url\":\"\\/wp-content\\/uploads\\/2023\\/07\\/GettyImages-1446755424-scaled.jpg\"},{\"id\":988795,\"url\":\"\\/wp-content\\/uploads\\/2024\\/11\\/iStock-1039711340-scaled.webp\"}],\"background_slideshow_slide_duration\":3500,\"background_slideshow_transition_duration\":3500,\"background_slideshow_loop\":\"yes\",\"background_slideshow_slide_transition\":\"fade\"}"}>
+            <section className="tdp-section tdp-top-section tdp-element tdp-element-4e1d4b6 tdp-section-height-min-height tdp-section-items-stretch tdp-section-content-bottom tdp-section-boxed tdp-section-height-default" data-id="4e1d4b6" data-element_type="section" data-e-type="section" data-settings={"{\"background_background\":\"slideshow\",\"background_slideshow_gallery\":[{\"id\":4124,\"url\":\"\\/assets\\/uploads\\/2023\\/07\\/GettyImages-1446755424-scaled.jpg\"},{\"id\":988795,\"url\":\"\\/assets\\/uploads\\/2024\\/11\\/iStock-1039711340-scaled.webp\"}],\"background_slideshow_slide_duration\":3500,\"background_slideshow_transition_duration\":3500,\"background_slideshow_loop\":\"yes\",\"background_slideshow_slide_transition\":\"fade\"}"}>
               {" "}
-              <div className="elementor-background-overlay"></div>
+              <div className="tdp-background-overlay"></div>
               {" "}
-              <div className="elementor-container elementor-column-gap-default">
+              <div className="tdp-container tdp-column-gap-default">
                 {" "}
-                <div className="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-30220cc" data-id="30220cc" data-element_type="column" data-e-type="column">
+                <div className="tdp-column tdp-col-100 tdp-top-column tdp-element tdp-element-30220cc" data-id="30220cc" data-element_type="column" data-e-type="column">
                   {" "}
-                  <div className="elementor-widget-wrap elementor-element-populated">
+                  <div className="tdp-widget-wrap tdp-element-populated">
                     {" "}
-                    <div className="elementor-element elementor-element-7996fd1 elementor-headline--style-rotate animated-slow elementor-widget-mobile__width-initial elementor-invisible elementor-widget elementor-widget-animated-headline" data-id="7996fd1" data-element_type="widget" data-e-type="widget" data-settings={"{\"headline_style\":\"rotate\",\"animation_type\":\"blinds\",\"rotating_text\":\"IA para WhatsApp\\nPBX M\\u00f3vil\\nAgentes de voz con IA\",\"rotate_iteration_delay\":4200,\"_animation\":\"fadeIn\",\"_animation_delay\":300,\"loop\":\"yes\"}"} data-widget_type="animated-headline.default">
+                    <div className="tdp-element tdp-element-7996fd1 tdp-headline--style-rotate animated-slow tdp-widget-mobile__width-initial tdp-invisible tdp-widget tdp-widget-animated-headline" data-id="7996fd1" data-element_type="widget" data-e-type="widget" data-settings={"{\"headline_style\":\"rotate\",\"animation_type\":\"blinds\",\"rotating_text\":\"IA para WhatsApp\\nPBX M\\u00f3vil\\nAgentes de voz con IA\",\"rotate_iteration_delay\":4200,\"_animation\":\"fadeIn\",\"_animation_delay\":300,\"loop\":\"yes\"}"} data-widget_type="animated-headline.default">
                       {" "}
-                      <h1 className="elementor-headline elementor-headline-animation-type-blinds elementor-headline-letters">
+                      <h1 className="tdp-headline tdp-headline-animation-type-blinds tdp-headline-letters">
                         {" "}
-                        <span className="elementor-headline-plain-text elementor-headline-text-wrapper">
+                        <span className="tdp-headline-plain-text tdp-headline-text-wrapper">
                           {"Telefonía en la nube e IA para empresas"}
                           <br />
                           {" "}
                         </span>
                         {" "}
-                        <span className="elementor-headline-dynamic-wrapper elementor-headline-text-wrapper">
+                        <span className="tdp-headline-dynamic-wrapper tdp-headline-text-wrapper">
                           {" "}
-                          <span className="elementor-headline-dynamic-text elementor-headline-text-active">
+                          <span className="tdp-headline-dynamic-text tdp-headline-text-active">
                             {" IA para WhatsApp "}
                           </span>
                           {" "}
-                          <span className="elementor-headline-dynamic-text">
+                          <span className="tdp-headline-dynamic-text">
                             {" PBX Móvil "}
                           </span>
                           {" "}
-                          <span className="elementor-headline-dynamic-text">
+                          <span className="tdp-headline-dynamic-text">
                             {" Agentes de voz con IA "}
                           </span>
                           {" "}
@@ -60,21 +777,21 @@ export default function PageHome({ path }: { path: string }) {
                       {" "}
                     </div>
                     {" "}
-                    <div className="elementor-element elementor-element-33821d2 elementor-widget__width-initial elementor-widget elementor-widget-heading" data-id="33821d2" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+                    <div className="tdp-element tdp-element-33821d2 tdp-widget__width-initial tdp-widget tdp-widget-heading" data-id="33821d2" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
                       {" "}
-                      <h5 className="elementor-heading-title elementor-size-default">
+                      <h5 className="tdp-heading-title tdp-size-default">
                         {"TodoIP es una empresa colombiana que une llamadas, WhatsApp e inteligencia artificial en un solo número para atender y vender 24/7."}
                       </h5>
                       {" "}
                     </div>
                     {" "}
-                    <div className="elementor-element elementor-element-944854b elementor-widget elementor-widget-button" data-id="944854b" data-element_type="widget" data-e-type="widget" data-widget_type="button.default">
+                    <div className="tdp-element tdp-element-944854b tdp-widget tdp-widget-button" data-id="944854b" data-element_type="widget" data-e-type="widget" data-widget_type="button.default">
                       {" "}
-                      <a className="elementor-button elementor-button-link elementor-size-sm" href="#form-mobie">
+                      <a className="tdp-button tdp-button-link tdp-size-sm" href="#form-mobie">
                         {" "}
-                        <span className="elementor-button-content-wrapper">
+                        <span className="tdp-button-content-wrapper">
                           {" "}
-                          <span className="elementor-button-text">
+                          <span className="tdp-button-text">
                             {"Conoce TodoIP"}
                           </span>
                           {" "}
@@ -84,11 +801,11 @@ export default function PageHome({ path }: { path: string }) {
                       {" "}
                     </div>
                     {" "}
-                    <div className="elementor-element elementor-element-1d5fc43 elementor-widget elementor-widget-spacer" data-id="1d5fc43" data-element_type="widget" data-e-type="widget" data-widget_type="spacer.default">
+                    <div className="tdp-element tdp-element-1d5fc43 tdp-widget tdp-widget-spacer" data-id="1d5fc43" data-element_type="widget" data-e-type="widget" data-widget_type="spacer.default">
                       {" "}
-                      <div className="elementor-spacer">
+                      <div className="tdp-spacer">
                         {" "}
-                        <div className="elementor-spacer-inner"></div>
+                        <div className="tdp-spacer-inner"></div>
                         {" "}
                       </div>
                       {" "}
@@ -102,13 +819,13 @@ export default function PageHome({ path }: { path: string }) {
               {" "}
             </section>
             {" "}
-            <div className="elementor-element elementor-element-217bb99 e-flex e-con-boxed e-con e-parent" data-id="217bb99" data-element_type="container" data-e-type="container">
+            <div className="tdp-element tdp-element-217bb99 e-flex e-con-boxed e-con e-parent" data-id="217bb99" data-element_type="container" data-e-type="container">
               {" "}
               <div className="e-con-inner">
                 {" "}
-                <div className="elementor-element elementor-element-8c8a61e elementor-widget elementor-widget-products-catalog" data-id="8c8a61e" data-element_type="widget" data-e-type="widget" data-widget_type="products-catalog.default">
+                <div className="tdp-element tdp-element-8c8a61e tdp-widget tdp-widget-products-catalog" data-id="8c8a61e" data-element_type="widget" data-e-type="widget" data-widget_type="products-catalog.default">
                   {" "}
-                  <div className="elementor-widget-container">
+                  <div className="tdp-widget-container">
                     {" "}
                     <section className="pa-products-catalog pa-full-width">
                       {" "}
@@ -392,19 +1109,19 @@ export default function PageHome({ path }: { path: string }) {
               {" "}
             </div>
             {" "}
-            <section className="elementor-section elementor-top-section elementor-element elementor-element-e493e13 elementor-reverse-mobile elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="e493e13" data-element_type="section" data-e-type="section">
+            <section className="tdp-section tdp-top-section tdp-element tdp-element-e493e13 tdp-reverse-mobile tdp-section-boxed tdp-section-height-default tdp-section-height-default" data-id="e493e13" data-element_type="section" data-e-type="section">
               {" "}
-              <div className="elementor-container elementor-column-gap-no">
+              <div className="tdp-container tdp-column-gap-no">
                 {" "}
-                <div className="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-f0928a0" data-id="f0928a0" data-element_type="column" data-e-type="column" data-settings={"{\"background_background\":\"classic\"}"}>
+                <div className="tdp-column tdp-col-50 tdp-top-column tdp-element tdp-element-f0928a0" data-id="f0928a0" data-element_type="column" data-e-type="column" data-settings={"{\"background_background\":\"classic\"}"}>
                   {" "}
-                  <div className="elementor-widget-wrap elementor-element-populated">
+                  <div className="tdp-widget-wrap tdp-element-populated">
                     {" "}
-                    <div className="elementor-element elementor-element-69cf1ac elementor-widget elementor-widget-spacer" data-id="69cf1ac" data-element_type="widget" data-e-type="widget" data-widget_type="spacer.default">
+                    <div className="tdp-element tdp-element-69cf1ac tdp-widget tdp-widget-spacer" data-id="69cf1ac" data-element_type="widget" data-e-type="widget" data-widget_type="spacer.default">
                       {" "}
-                      <div className="elementor-spacer">
+                      <div className="tdp-spacer">
                         {" "}
-                        <div className="elementor-spacer-inner"></div>
+                        <div className="tdp-spacer-inner"></div>
                         {" "}
                       </div>
                       {" "}
@@ -414,33 +1131,33 @@ export default function PageHome({ path }: { path: string }) {
                   {" "}
                 </div>
                 {" "}
-                <div className="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-e75f3cd" data-id="e75f3cd" data-element_type="column" data-e-type="column" data-settings={"{\"background_background\":\"classic\"}"}>
+                <div className="tdp-column tdp-col-50 tdp-top-column tdp-element tdp-element-e75f3cd" data-id="e75f3cd" data-element_type="column" data-e-type="column" data-settings={"{\"background_background\":\"classic\"}"}>
                   {" "}
-                  <div className="elementor-widget-wrap elementor-element-populated">
+                  <div className="tdp-widget-wrap tdp-element-populated">
                     {" "}
-                    <div className="elementor-element elementor-element-21fba6d elementor-widget elementor-widget-heading" data-id="21fba6d" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+                    <div className="tdp-element tdp-element-21fba6d tdp-widget tdp-widget-heading" data-id="21fba6d" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
                       {" "}
-                      <h4 className="elementor-heading-title elementor-size-default">
+                      <h4 className="tdp-heading-title tdp-size-default">
                         {"Por qué clínicas, empresas de cobranza, agencias de viajes y call centers eligen TodoIP"}
                       </h4>
                       {" "}
                     </div>
                     {" "}
-                    <section className="elementor-section elementor-inner-section elementor-element elementor-element-a500264 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="a500264" data-element_type="section" data-e-type="section">
+                    <section className="tdp-section tdp-inner-section tdp-element tdp-element-a500264 tdp-section-boxed tdp-section-height-default tdp-section-height-default" data-id="a500264" data-element_type="section" data-e-type="section">
                       {" "}
-                      <div className="elementor-container elementor-column-gap-no">
+                      <div className="tdp-container tdp-column-gap-no">
                         {" "}
-                        <div className="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-2cfe8c2" data-id="2cfe8c2" data-element_type="column" data-e-type="column">
+                        <div className="tdp-column tdp-col-50 tdp-inner-column tdp-element tdp-element-2cfe8c2" data-id="2cfe8c2" data-element_type="column" data-e-type="column">
                           {" "}
-                          <div className="elementor-widget-wrap elementor-element-populated">
+                          <div className="tdp-widget-wrap tdp-element-populated">
                             {" "}
-                            <div className="elementor-element elementor-element-ea8901a elementor-view-default elementor-position-block-start elementor-mobile-position-block-start elementor-widget elementor-widget-icon-box" data-id="ea8901a" data-element_type="widget" data-e-type="widget" data-widget_type="icon-box.default">
+                            <div className="tdp-element tdp-element-ea8901a tdp-view-default tdp-position-block-start tdp-mobile-position-block-start tdp-widget tdp-widget-icon-box" data-id="ea8901a" data-element_type="widget" data-e-type="widget" data-widget_type="icon-box.default">
                               {" "}
-                              <div className="elementor-icon-box-wrapper">
+                              <div className="tdp-icon-box-wrapper">
                                 {" "}
-                                <div className="elementor-icon-box-icon">
+                                <div className="tdp-icon-box-icon">
                                   {" "}
-                                  <span className="elementor-icon">
+                                  <span className="tdp-icon">
                                     {" "}
                                     <i aria-hidden="true" className="vamtamtheme- vamtam-theme-check"></i>
                                     {" "}
@@ -448,9 +1165,9 @@ export default function PageHome({ path }: { path: string }) {
                                   {" "}
                                 </div>
                                 {" "}
-                                <div className="elementor-icon-box-content">
+                                <div className="tdp-icon-box-content">
                                   {" "}
-                                  <h6 className="elementor-icon-box-title">
+                                  <h6 className="tdp-icon-box-title">
                                     {" "}
                                     <span>
                                       {" Casi 20 años en telefonía "}
@@ -458,7 +1175,7 @@ export default function PageHome({ path }: { path: string }) {
                                     {" "}
                                   </h6>
                                   {" "}
-                                  <p className="elementor-icon-box-description">
+                                  <p className="tdp-icon-box-description">
                                     {" Fundada en 2007 en Cali, TodoIP combina experiencia en telefonía IP con inteligencia artificial aplicada. "}
                                   </p>
                                   {" "}
@@ -468,13 +1185,13 @@ export default function PageHome({ path }: { path: string }) {
                               {" "}
                             </div>
                             {" "}
-                            <div className="elementor-element elementor-element-e1f2c6f elementor-view-default elementor-position-block-start elementor-mobile-position-block-start elementor-widget elementor-widget-icon-box" data-id="e1f2c6f" data-element_type="widget" data-e-type="widget" data-widget_type="icon-box.default">
+                            <div className="tdp-element tdp-element-e1f2c6f tdp-view-default tdp-position-block-start tdp-mobile-position-block-start tdp-widget tdp-widget-icon-box" data-id="e1f2c6f" data-element_type="widget" data-e-type="widget" data-widget_type="icon-box.default">
                               {" "}
-                              <div className="elementor-icon-box-wrapper">
+                              <div className="tdp-icon-box-wrapper">
                                 {" "}
-                                <div className="elementor-icon-box-icon">
+                                <div className="tdp-icon-box-icon">
                                   {" "}
-                                  <span className="elementor-icon">
+                                  <span className="tdp-icon">
                                     {" "}
                                     <i aria-hidden="true" className="vamtamtheme- vamtam-theme-check"></i>
                                     {" "}
@@ -482,9 +1199,9 @@ export default function PageHome({ path }: { path: string }) {
                                   {" "}
                                 </div>
                                 {" "}
-                                <div className="elementor-icon-box-content">
+                                <div className="tdp-icon-box-content">
                                   {" "}
-                                  <h6 className="elementor-icon-box-title">
+                                  <h6 className="tdp-icon-box-title">
                                     {" "}
                                     <span>
                                       {" Un solo número para voz y WhatsApp "}
@@ -492,7 +1209,7 @@ export default function PageHome({ path }: { path: string }) {
                                     {" "}
                                   </h6>
                                   {" "}
-                                  <p className="elementor-icon-box-description">
+                                  <p className="tdp-icon-box-description">
                                     {" El mismo número recibe llamadas simultáneas y chats por WhatsApp Business API oficial, con números legales de Tigo UNE. "}
                                   </p>
                                   {" "}
@@ -506,17 +1223,17 @@ export default function PageHome({ path }: { path: string }) {
                           {" "}
                         </div>
                         {" "}
-                        <div className="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-7035c6f" data-id="7035c6f" data-element_type="column" data-e-type="column">
+                        <div className="tdp-column tdp-col-50 tdp-inner-column tdp-element tdp-element-7035c6f" data-id="7035c6f" data-element_type="column" data-e-type="column">
                           {" "}
-                          <div className="elementor-widget-wrap elementor-element-populated">
+                          <div className="tdp-widget-wrap tdp-element-populated">
                             {" "}
-                            <div className="elementor-element elementor-element-81b986d elementor-view-default elementor-position-block-start elementor-mobile-position-block-start elementor-widget elementor-widget-icon-box" data-id="81b986d" data-element_type="widget" data-e-type="widget" data-widget_type="icon-box.default">
+                            <div className="tdp-element tdp-element-81b986d tdp-view-default tdp-position-block-start tdp-mobile-position-block-start tdp-widget tdp-widget-icon-box" data-id="81b986d" data-element_type="widget" data-e-type="widget" data-widget_type="icon-box.default">
                               {" "}
-                              <div className="elementor-icon-box-wrapper">
+                              <div className="tdp-icon-box-wrapper">
                                 {" "}
-                                <div className="elementor-icon-box-icon">
+                                <div className="tdp-icon-box-icon">
                                   {" "}
-                                  <span className="elementor-icon">
+                                  <span className="tdp-icon">
                                     {" "}
                                     <i aria-hidden="true" className="vamtamtheme- vamtam-theme-check"></i>
                                     {" "}
@@ -524,9 +1241,9 @@ export default function PageHome({ path }: { path: string }) {
                                   {" "}
                                 </div>
                                 {" "}
-                                <div className="elementor-icon-box-content">
+                                <div className="tdp-icon-box-content">
                                   {" "}
-                                  <h6 className="elementor-icon-box-title">
+                                  <h6 className="tdp-icon-box-title">
                                     {" "}
                                     <span>
                                       {" Más de 50 instituciones de salud "}
@@ -534,7 +1251,7 @@ export default function PageHome({ path }: { path: string }) {
                                     {" "}
                                   </h6>
                                   {" "}
-                                  <p className="elementor-icon-box-description">
+                                  <p className="tdp-icon-box-description">
                                     {" Clínicas, IPS y hospitales en Colombia automatizan citas, cotizaciones y confirmaciones con TodoIP. "}
                                   </p>
                                   {" "}
@@ -544,13 +1261,13 @@ export default function PageHome({ path }: { path: string }) {
                               {" "}
                             </div>
                             {" "}
-                            <div className="elementor-element elementor-element-08ef906 elementor-view-default elementor-position-block-start elementor-mobile-position-block-start elementor-widget elementor-widget-icon-box" data-id="08ef906" data-element_type="widget" data-e-type="widget" data-widget_type="icon-box.default">
+                            <div className="tdp-element tdp-element-08ef906 tdp-view-default tdp-position-block-start tdp-mobile-position-block-start tdp-widget tdp-widget-icon-box" data-id="08ef906" data-element_type="widget" data-e-type="widget" data-widget_type="icon-box.default">
                               {" "}
-                              <div className="elementor-icon-box-wrapper">
+                              <div className="tdp-icon-box-wrapper">
                                 {" "}
-                                <div className="elementor-icon-box-icon">
+                                <div className="tdp-icon-box-icon">
                                   {" "}
-                                  <span className="elementor-icon">
+                                  <span className="tdp-icon">
                                     {" "}
                                     <i aria-hidden="true" className="vamtamtheme- vamtam-theme-check"></i>
                                     {" "}
@@ -558,9 +1275,9 @@ export default function PageHome({ path }: { path: string }) {
                                   {" "}
                                 </div>
                                 {" "}
-                                <div className="elementor-icon-box-content">
+                                <div className="tdp-icon-box-content">
                                   {" "}
-                                  <h6 className="elementor-icon-box-title">
+                                  <h6 className="tdp-icon-box-title">
                                     {" "}
                                     <span>
                                       {" Sin costo de implementación "}
@@ -568,7 +1285,7 @@ export default function PageHome({ path }: { path: string }) {
                                     {" "}
                                   </h6>
                                   {" "}
-                                  <p className="elementor-icon-box-description">
+                                  <p className="tdp-icon-box-description">
                                     {" No cobramos setup, la mensualidad empieza cuando la solución está operando y el soporte técnico está incluido. "}
                                   </p>
                                   {" "}
@@ -594,19 +1311,19 @@ export default function PageHome({ path }: { path: string }) {
               {" "}
             </section>
             {" "}
-            <section className="elementor-section elementor-top-section elementor-element elementor-element-13099e9 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="13099e9" data-element_type="section" data-e-type="section">
+            <section className="tdp-section tdp-top-section tdp-element tdp-element-13099e9 tdp-section-boxed tdp-section-height-default tdp-section-height-default" data-id="13099e9" data-element_type="section" data-e-type="section">
               {" "}
-              <div className="elementor-container elementor-column-gap-no">
+              <div className="tdp-container tdp-column-gap-no">
                 {" "}
-                <div className="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-148ea04" data-id="148ea04" data-element_type="column" data-e-type="column">
+                <div className="tdp-column tdp-col-100 tdp-top-column tdp-element tdp-element-148ea04" data-id="148ea04" data-element_type="column" data-e-type="column">
                   {" "}
-                  <div className="elementor-widget-wrap elementor-element-populated">
+                  <div className="tdp-widget-wrap tdp-element-populated">
                     {" "}
-                    <div className="elementor-element elementor-element-4d34589 elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="4d34589" data-element_type="widget" data-e-type="widget" data-widget_type="divider.default">
+                    <div className="tdp-element tdp-element-4d34589 tdp-widget-divider--view-line tdp-widget tdp-widget-divider" data-id="4d34589" data-element_type="widget" data-e-type="widget" data-widget_type="divider.default">
                       {" "}
-                      <div className="elementor-divider">
+                      <div className="tdp-divider">
                         {" "}
-                        <span className="elementor-divider-separator">
+                        <span className="tdp-divider-separator">
                           {" "}
                         </span>
                         {" "}
@@ -622,25 +1339,25 @@ export default function PageHome({ path }: { path: string }) {
               {" "}
             </section>
             {" "}
-            <section className="elementor-section elementor-top-section elementor-element elementor-element-b5ed83c elementor-section-content-bottom elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="b5ed83c" data-element_type="section" data-e-type="section">
+            <section className="tdp-section tdp-top-section tdp-element tdp-element-b5ed83c tdp-section-content-bottom tdp-section-boxed tdp-section-height-default tdp-section-height-default" data-id="b5ed83c" data-element_type="section" data-e-type="section">
               {" "}
-              <div className="elementor-container elementor-column-gap-default">
+              <div className="tdp-container tdp-column-gap-default">
                 {" "}
-                <div className="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-2a385d0" data-id="2a385d0" data-element_type="column" data-e-type="column">
+                <div className="tdp-column tdp-col-50 tdp-top-column tdp-element tdp-element-2a385d0" data-id="2a385d0" data-element_type="column" data-e-type="column">
                   {" "}
-                  <div className="elementor-widget-wrap elementor-element-populated">
+                  <div className="tdp-widget-wrap tdp-element-populated">
                     {" "}
-                    <div className="elementor-element elementor-element-fb57e8c elementor-widget elementor-widget-heading" data-id="fb57e8c" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+                    <div className="tdp-element tdp-element-fb57e8c tdp-widget tdp-widget-heading" data-id="fb57e8c" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
                       {" "}
-                      <p className="elementor-heading-title elementor-size-default">
+                      <p className="tdp-heading-title tdp-size-default">
                         {"Nuestro blog"}
                       </p>
                       {" "}
                     </div>
                     {" "}
-                    <div className="elementor-element elementor-element-b071fcc elementor-widget elementor-widget-heading" data-id="b071fcc" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+                    <div className="tdp-element tdp-element-b071fcc tdp-widget tdp-widget-heading" data-id="b071fcc" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
                       {" "}
-                      <h3 className="elementor-heading-title elementor-size-default">
+                      <h3 className="tdp-heading-title tdp-size-default">
                         {"Guías prácticas sobre IA, WhatsApp y telefonía para empresas"}
                       </h3>
                       {" "}
@@ -650,17 +1367,17 @@ export default function PageHome({ path }: { path: string }) {
                   {" "}
                 </div>
                 {" "}
-                <div className="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-e9cb7b4" data-id="e9cb7b4" data-element_type="column" data-e-type="column">
+                <div className="tdp-column tdp-col-50 tdp-top-column tdp-element tdp-element-e9cb7b4" data-id="e9cb7b4" data-element_type="column" data-e-type="column">
                   {" "}
-                  <div className="elementor-widget-wrap elementor-element-populated">
+                  <div className="tdp-widget-wrap tdp-element-populated">
                     {" "}
-                    <div className="elementor-element elementor-element-fdbcf74 elementor-align-right elementor-tablet-align-left elementor-hidden-desktop elementor-hidden-tablet elementor-mobile-align-center elementor-hidden-mobile elementor-widget elementor-widget-button" data-id="fdbcf74" data-element_type="widget" data-e-type="widget" data-widget_type="button.default">
+                    <div className="tdp-element tdp-element-fdbcf74 tdp-align-right tdp-tablet-align-left tdp-hidden-desktop tdp-hidden-tablet tdp-mobile-align-center tdp-hidden-mobile tdp-widget tdp-widget-button" data-id="fdbcf74" data-element_type="widget" data-e-type="widget" data-widget_type="button.default">
                       {" "}
-                      <a className="elementor-button elementor-button-link elementor-size-sm" href="#">
+                      <a className="tdp-button tdp-button-link tdp-size-sm" href="#">
                         {" "}
-                        <span className="elementor-button-content-wrapper">
+                        <span className="tdp-button-content-wrapper">
                           {" "}
-                          <span className="elementor-button-text">
+                          <span className="tdp-button-text">
                             {"Ver todas las guías"}
                           </span>
                           {" "}
@@ -678,37 +1395,37 @@ export default function PageHome({ path }: { path: string }) {
               {" "}
             </section>
             {" "}
-            <section className="elementor-section elementor-top-section elementor-element elementor-element-faa9ac4 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="faa9ac4" data-element_type="section" data-e-type="section">
+            <section className="tdp-section tdp-top-section tdp-element tdp-element-faa9ac4 tdp-section-boxed tdp-section-height-default tdp-section-height-default" data-id="faa9ac4" data-element_type="section" data-e-type="section">
               {" "}
-              <div className="elementor-container elementor-column-gap-no">
+              <div className="tdp-container tdp-column-gap-no">
                 {" "}
-                <div className="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-158deb9" data-id="158deb9" data-element_type="column" data-e-type="column">
+                <div className="tdp-column tdp-col-100 tdp-top-column tdp-element tdp-element-158deb9" data-id="158deb9" data-element_type="column" data-e-type="column">
                   {" "}
-                  <div className="elementor-widget-wrap elementor-element-populated">
+                  <div className="tdp-widget-wrap tdp-element-populated">
                     {" "}
-                    <div className="elementor-element elementor-element-346b548 elementor-grid-3 elementor-grid-tablet-2 elementor-grid-mobile-1 elementor-widget elementor-widget-loop-grid" data-id="346b548" data-element_type="widget" data-e-type="widget" data-settings={"{\"template_id\":\"6729\",\"_skin\":\"post\",\"columns\":\"3\",\"columns_tablet\":\"2\",\"columns_mobile\":\"1\",\"edit_handle_selector\":\"[data-elementor-type=\\\"loop-item\\\"]\",\"row_gap\":{\"unit\":\"px\",\"size\":\"\",\"sizes\":[]},\"row_gap_tablet\":{\"unit\":\"px\",\"size\":\"\",\"sizes\":[]},\"row_gap_mobile\":{\"unit\":\"px\",\"size\":\"\",\"sizes\":[]}}"} data-widget_type="loop-grid.post">
+                    <div className="tdp-element tdp-element-346b548 tdp-grid-3 tdp-grid-tablet-2 tdp-grid-mobile-1 tdp-widget tdp-widget-loop-grid" data-id="346b548" data-element_type="widget" data-e-type="widget" data-settings={"{\"template_id\":\"6729\",\"_skin\":\"post\",\"columns\":\"3\",\"columns_tablet\":\"2\",\"columns_mobile\":\"1\",\"edit_handle_selector\":\"[data-tdp-type=\\\"loop-item\\\"]\",\"row_gap\":{\"unit\":\"px\",\"size\":\"\",\"sizes\":[]},\"row_gap_tablet\":{\"unit\":\"px\",\"size\":\"\",\"sizes\":[]},\"row_gap_mobile\":{\"unit\":\"px\",\"size\":\"\",\"sizes\":[]}}"} data-widget_type="loop-grid.post">
                       {" "}
-                      <div className="elementor-widget-container">
+                      <div className="tdp-widget-container">
                         {" "}
-                        <div className="elementor-loop-container elementor-grid" role="list">
+                        <div className="tdp-loop-container tdp-grid" role="list">
                           {" "}
-                          <style href="wpb-b9990d8fa4" precedence="wp-body">{".elementor-6729 .elementor-element.elementor-element-37da4f0{overflow:hidden;border-style:solid;border-width:1px 1px 1px 1px;border-color:var( --e-global-color-vamtam_accent_7 );margin-top:8px;margin-bottom:0px;padding:0px 0px 0px 0px;z-index:9999;}.elementor-6729 .elementor-element.elementor-element-deedb44 > .elementor-widget-wrap > .elementor-widget:not(.elementor-widget__width-auto):not(.elementor-widget__width-initial):not(:last-child):not(.elementor-absolute){--kit-widget-spacing:15px;}.elementor-6729 .elementor-element.elementor-element-deedb44 > .elementor-element-populated{padding:0px 30px 50px 30px;}.elementor-6729 .elementor-element.elementor-element-deedb44{z-index:99;}.elementor-6729 .elementor-element.elementor-element-88f3b21{margin:-10px 0px calc(var(--kit-widget-spacing, 0px) + -5px) 0px;}.elementor-6729 .elementor-element.elementor-element-88f3b21 .elementor-icon-wrapper{text-align:start;}.elementor-6729 .elementor-element.elementor-element-88f3b21.elementor-view-stacked .elementor-icon{background-color:#8DC74D;}.elementor-6729 .elementor-element.elementor-element-88f3b21.elementor-view-framed .elementor-icon, .elementor-6729 .elementor-element.elementor-element-88f3b21.elementor-view-default .elementor-icon{color:#8DC74D;border-color:#8DC74D;}.elementor-6729 .elementor-element.elementor-element-88f3b21.elementor-view-framed .elementor-icon, .elementor-6729 .elementor-element.elementor-element-88f3b21.elementor-view-default .elementor-icon svg{fill:#8DC74D;}.elementor-6729 .elementor-element.elementor-element-88f3b21 .elementor-icon{font-size:18px;}.elementor-6729 .elementor-element.elementor-element-88f3b21 .elementor-icon svg{height:18px;}.elementor-6729 .elementor-element.elementor-element-51fa80b .elementor-icon-list-icon{width:14px;}.elementor-6729 .elementor-element.elementor-element-51fa80b .elementor-icon-list-icon i{font-size:14px;}.elementor-6729 .elementor-element.elementor-element-51fa80b .elementor-icon-list-icon svg{--e-icon-list-icon-size:14px;}.elementor-6729 .elementor-element.elementor-element-51fa80b .elementor-icon-list-item{font-size:var( --e-global-typography-3c3cdc2-font-size );font-weight:var( --e-global-typography-3c3cdc2-font-weight );line-height:var( --e-global-typography-3c3cdc2-line-height );}.elementor-6729 .elementor-element.elementor-element-f004e66:hover img{filter:brightness( 100% ) contrast( 100% ) saturate( 100% ) blur( 0px ) hue-rotate( 0deg );}.elementor-6729 .elementor-element.elementor-element-d6f4768 .elementor-button:hover, .elementor-6729 .elementor-element.elementor-element-d6f4768 .elementor-button:focus{background-color:#FFFFFF00;}.elementor-6729 .elementor-element.elementor-element-d6f4768{margin:9px 0px calc(var(--kit-widget-spacing, 0px) + 8px) 0px;}.elementor-6729 .elementor-element.elementor-element-d6f4768 .elementor-button{font-family:var( --e-global-typography-vamtam_h5-font-family ), Sans-serif;font-size:var( --e-global-typography-vamtam_h5-font-size );font-weight:var( --e-global-typography-vamtam_h5-font-weight );text-transform:var( --e-global-typography-vamtam_h5-text-transform );font-style:var( --e-global-typography-vamtam_h5-font-style );line-height:var( --e-global-typography-vamtam_h5-line-height );letter-spacing:var( --e-global-typography-vamtam_h5-letter-spacing );border-style:none;padding:0px 0px 0px 0px;}.elementor-6729 .elementor-element.elementor-element-414b5fc{font-size:var( --e-global-typography-610c833-font-size );line-height:var( --e-global-typography-610c833-line-height );}@media(max-width:1024px){.elementor-6729 .elementor-element.elementor-element-51fa80b .elementor-icon-list-item{font-size:var( --e-global-typography-3c3cdc2-font-size );line-height:var( --e-global-typography-3c3cdc2-line-height );}.elementor-6729 .elementor-element.elementor-element-d6f4768 .elementor-button{font-size:var( --e-global-typography-vamtam_h5-font-size );line-height:var( --e-global-typography-vamtam_h5-line-height );letter-spacing:var( --e-global-typography-vamtam_h5-letter-spacing );}.elementor-6729 .elementor-element.elementor-element-414b5fc{font-size:var( --e-global-typography-610c833-font-size );line-height:var( --e-global-typography-610c833-line-height );}}@media(max-width:767px){.elementor-6729 .elementor-element.elementor-element-37da4f0{z-index:0;}.elementor-6729 .elementor-element.elementor-element-deedb44{z-index:0;}.elementor-6729 .elementor-element.elementor-element-51fa80b .elementor-icon-list-item{font-size:var( --e-global-typography-3c3cdc2-font-size );line-height:var( --e-global-typography-3c3cdc2-line-height );}.elementor-6729 .elementor-element.elementor-element-d6f4768 .elementor-button{font-size:var( --e-global-typography-vamtam_h5-font-size );line-height:var( --e-global-typography-vamtam_h5-line-height );letter-spacing:var( --e-global-typography-vamtam_h5-letter-spacing );}.elementor-6729 .elementor-element.elementor-element-414b5fc{font-size:var( --e-global-typography-610c833-font-size );line-height:var( --e-global-typography-610c833-line-height );}}/* Start custom CSS for button, class: .elementor-element-d6f4768 */.elementor-6729 .elementor-element.elementor-element-d6f4768 a {\n    text-align: left !important\n}/* End custom CSS */"}</style>
+                          <style href="wpb-b9990d8fa4" precedence="wp-body">{".tdp-6729 .tdp-element.tdp-element-37da4f0{overflow:hidden;border-style:solid;border-width:1px 1px 1px 1px;border-color:var( --e-global-color-vamtam_accent_7 );margin-top:8px;margin-bottom:0px;padding:0px 0px 0px 0px;z-index:9999;}.tdp-6729 .tdp-element.tdp-element-deedb44 > .tdp-widget-wrap > .tdp-widget:not(.tdp-widget__width-auto):not(.tdp-widget__width-initial):not(:last-child):not(.tdp-absolute){--kit-widget-spacing:15px;}.tdp-6729 .tdp-element.tdp-element-deedb44 > .tdp-element-populated{padding:0px 30px 50px 30px;}.tdp-6729 .tdp-element.tdp-element-deedb44{z-index:99;}.tdp-6729 .tdp-element.tdp-element-88f3b21{margin:-10px 0px calc(var(--kit-widget-spacing, 0px) + -5px) 0px;}.tdp-6729 .tdp-element.tdp-element-88f3b21 .tdp-icon-wrapper{text-align:start;}.tdp-6729 .tdp-element.tdp-element-88f3b21.tdp-view-stacked .tdp-icon{background-color:#8DC74D;}.tdp-6729 .tdp-element.tdp-element-88f3b21.tdp-view-framed .tdp-icon, .tdp-6729 .tdp-element.tdp-element-88f3b21.tdp-view-default .tdp-icon{color:#8DC74D;border-color:#8DC74D;}.tdp-6729 .tdp-element.tdp-element-88f3b21.tdp-view-framed .tdp-icon, .tdp-6729 .tdp-element.tdp-element-88f3b21.tdp-view-default .tdp-icon svg{fill:#8DC74D;}.tdp-6729 .tdp-element.tdp-element-88f3b21 .tdp-icon{font-size:18px;}.tdp-6729 .tdp-element.tdp-element-88f3b21 .tdp-icon svg{height:18px;}.tdp-6729 .tdp-element.tdp-element-51fa80b .tdp-icon-list-icon{width:14px;}.tdp-6729 .tdp-element.tdp-element-51fa80b .tdp-icon-list-icon i{font-size:14px;}.tdp-6729 .tdp-element.tdp-element-51fa80b .tdp-icon-list-icon svg{--e-icon-list-icon-size:14px;}.tdp-6729 .tdp-element.tdp-element-51fa80b .tdp-icon-list-item{font-size:var( --e-global-typography-3c3cdc2-font-size );font-weight:var( --e-global-typography-3c3cdc2-font-weight );line-height:var( --e-global-typography-3c3cdc2-line-height );}.tdp-6729 .tdp-element.tdp-element-f004e66:hover img{filter:brightness( 100% ) contrast( 100% ) saturate( 100% ) blur( 0px ) hue-rotate( 0deg );}.tdp-6729 .tdp-element.tdp-element-d6f4768 .tdp-button:hover, .tdp-6729 .tdp-element.tdp-element-d6f4768 .tdp-button:focus{background-color:#FFFFFF00;}.tdp-6729 .tdp-element.tdp-element-d6f4768{margin:9px 0px calc(var(--kit-widget-spacing, 0px) + 8px) 0px;}.tdp-6729 .tdp-element.tdp-element-d6f4768 .tdp-button{font-family:var( --e-global-typography-vamtam_h5-font-family ), Sans-serif;font-size:var( --e-global-typography-vamtam_h5-font-size );font-weight:var( --e-global-typography-vamtam_h5-font-weight );text-transform:var( --e-global-typography-vamtam_h5-text-transform );font-style:var( --e-global-typography-vamtam_h5-font-style );line-height:var( --e-global-typography-vamtam_h5-line-height );letter-spacing:var( --e-global-typography-vamtam_h5-letter-spacing );border-style:none;padding:0px 0px 0px 0px;}.tdp-6729 .tdp-element.tdp-element-414b5fc{font-size:var( --e-global-typography-610c833-font-size );line-height:var( --e-global-typography-610c833-line-height );}@media(max-width:1024px){.tdp-6729 .tdp-element.tdp-element-51fa80b .tdp-icon-list-item{font-size:var( --e-global-typography-3c3cdc2-font-size );line-height:var( --e-global-typography-3c3cdc2-line-height );}.tdp-6729 .tdp-element.tdp-element-d6f4768 .tdp-button{font-size:var( --e-global-typography-vamtam_h5-font-size );line-height:var( --e-global-typography-vamtam_h5-line-height );letter-spacing:var( --e-global-typography-vamtam_h5-letter-spacing );}.tdp-6729 .tdp-element.tdp-element-414b5fc{font-size:var( --e-global-typography-610c833-font-size );line-height:var( --e-global-typography-610c833-line-height );}}@media(max-width:767px){.tdp-6729 .tdp-element.tdp-element-37da4f0{z-index:0;}.tdp-6729 .tdp-element.tdp-element-deedb44{z-index:0;}.tdp-6729 .tdp-element.tdp-element-51fa80b .tdp-icon-list-item{font-size:var( --e-global-typography-3c3cdc2-font-size );line-height:var( --e-global-typography-3c3cdc2-line-height );}.tdp-6729 .tdp-element.tdp-element-d6f4768 .tdp-button{font-size:var( --e-global-typography-vamtam_h5-font-size );line-height:var( --e-global-typography-vamtam_h5-line-height );letter-spacing:var( --e-global-typography-vamtam_h5-letter-spacing );}.tdp-6729 .tdp-element.tdp-element-414b5fc{font-size:var( --e-global-typography-610c833-font-size );line-height:var( --e-global-typography-610c833-line-height );}}/* Start custom CSS for button, class: .tdp-element-d6f4768 */.tdp-6729 .tdp-element.tdp-element-d6f4768 a {\n    text-align: left !important\n}/* End custom CSS */"}</style>
                           {" "}
-                          <div data-elementor-type="loop-item" data-elementor-id="6729" className="elementor elementor-6729 e-loop-item e-loop-item-991865 post-991865 post type-post status-publish format-standard has-post-thumbnail hentry category-inteligencia-artificial" data-elementor-post-type="elementor_library" data-custom-edit-handle="1">
+                          <div data-tdp-type="loop-item" data-tdp-id="6729" className="tdp tdp-6729 e-loop-item e-loop-item-991865 post-991865 post type-post status-publish format-standard has-post-thumbnail hentry category-inteligencia-artificial" data-tdp-post-type="tdp_library" data-custom-edit-handle="1">
                             {" "}
-                            <section className="elementor-section elementor-top-section elementor-element elementor-element-37da4f0 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="37da4f0" data-element_type="section" data-e-type="section">
+                            <section className="tdp-section tdp-top-section tdp-element tdp-element-37da4f0 tdp-section-boxed tdp-section-height-default tdp-section-height-default" data-id="37da4f0" data-element_type="section" data-e-type="section">
                               {" "}
-                              <div className="elementor-container elementor-column-gap-no">
+                              <div className="tdp-container tdp-column-gap-no">
                                 {" "}
-                                <div className="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-deedb44" data-id="deedb44" data-element_type="column" data-e-type="column">
+                                <div className="tdp-column tdp-col-100 tdp-top-column tdp-element tdp-element-deedb44" data-id="deedb44" data-element_type="column" data-e-type="column">
                                   {" "}
-                                  <div className="elementor-widget-wrap elementor-element-populated">
+                                  <div className="tdp-widget-wrap tdp-element-populated">
                                     {" "}
-                                    <div className="elementor-element elementor-element-88f3b21 elementor-view-default elementor-widget elementor-widget-icon" data-id="88f3b21" data-element_type="widget" data-e-type="widget" data-widget_type="icon.default">
+                                    <div className="tdp-element tdp-element-88f3b21 tdp-view-default tdp-widget tdp-widget-icon" data-id="88f3b21" data-element_type="widget" data-e-type="widget" data-widget_type="icon.default">
                                       {" "}
-                                      <div className="elementor-icon-wrapper">
+                                      <div className="tdp-icon-wrapper">
                                         {" "}
-                                        <div className="elementor-icon">
+                                        <div className="tdp-icon">
                                           {" "}
                                           <i aria-hidden="true" className="vamtamtheme- vamtam-theme-brand-symbol"></i>
                                           {" "}
@@ -718,17 +1435,17 @@ export default function PageHome({ path }: { path: string }) {
                                       {" "}
                                     </div>
                                     {" "}
-                                    <div className="elementor-element elementor-element-51fa80b elementor-widget elementor-widget-post-info" data-id="51fa80b" data-element_type="widget" data-e-type="widget" data-widget_type="post-info.default">
+                                    <div className="tdp-element tdp-element-51fa80b tdp-widget tdp-widget-post-info" data-id="51fa80b" data-element_type="widget" data-e-type="widget" data-widget_type="post-info.default">
                                       {" "}
-                                      <ul className="elementor-inline-items elementor-icon-list-items elementor-post-info">
+                                      <ul className="tdp-inline-items tdp-icon-list-items tdp-post-info">
                                         {" "}
-                                        <li className="elementor-icon-list-item elementor-repeater-item-d361108 elementor-inline-item" itemProp="about">
+                                        <li className="tdp-icon-list-item tdp-repeater-item-d361108 tdp-inline-item" itemProp="about">
                                           {" "}
-                                          <span className="elementor-icon-list-text elementor-post-info__item elementor-post-info__item--type-terms">
+                                          <span className="tdp-icon-list-text tdp-post-info__item tdp-post-info__item--type-terms">
                                             {" "}
-                                            <span className="elementor-post-info__terms-list">
+                                            <span className="tdp-post-info__terms-list">
                                               {" "}
-                                              <a href="/category/inteligencia-artificial/" className="elementor-post-info__terms-list-item">
+                                              <a href="/category/inteligencia-artificial/" className="tdp-post-info__terms-list-item">
                                                 {"Inteligencia Artificial"}
                                               </a>
                                               {" "}
@@ -742,23 +1459,23 @@ export default function PageHome({ path }: { path: string }) {
                                       {" "}
                                     </div>
                                     {" "}
-                                    <div className="elementor-element elementor-element-f004e66 elementor-widget elementor-widget-theme-post-featured-image elementor-widget-image" data-id="f004e66" data-element_type="widget" data-e-type="widget" data-widget_type="theme-post-featured-image.default">
+                                    <div className="tdp-element tdp-element-f004e66 tdp-widget tdp-widget-theme-post-featured-image tdp-widget-image" data-id="f004e66" data-element_type="widget" data-e-type="widget" data-widget_type="theme-post-featured-image.default">
                                       {" "}
                                       <a href="/agente-de-whatsapp-para-agencias-de-viajes-cotiza-rapido-y-no-pierdas-ventas-fuera-de-horario/">
                                         {" "}
-                                        <img decoding="async" src="/wp-content/uploads/elementor/thumbs/Imagen-agente-whatsapp-agencias-viajes-1-rvj27ir3k4zqrjvvurgbwh36ges5ug3fch9hsy5msc.png" title="Imagen agente WhatsApp agencias de viajes 1" alt="Agente de WhatsApp con IA que cotiza y califica viajeros 24/7 para agencias de viajes" loading="lazy" />
+                                        <img decoding="async" src="/assets/uploads/tdp/thumbs/Imagen-agente-whatsapp-agencias-viajes-1-rvj27ir3k4zqrjvvurgbwh36ges5ug3fch9hsy5msc.png" title="Imagen agente WhatsApp agencias de viajes 1" alt="Agente de WhatsApp con IA que cotiza y califica viajeros 24/7 para agencias de viajes" loading="lazy" />
                                         {" "}
                                       </a>
                                       {" "}
                                     </div>
                                     {" "}
-                                    <div className="elementor-element elementor-element-d6f4768 elementor-align-left elementor-widget elementor-widget-button" data-id="d6f4768" data-element_type="widget" data-e-type="widget" data-widget_type="button.default">
+                                    <div className="tdp-element tdp-element-d6f4768 tdp-align-left tdp-widget tdp-widget-button" data-id="d6f4768" data-element_type="widget" data-e-type="widget" data-widget_type="button.default">
                                       {" "}
-                                      <a className="elementor-button elementor-button-link elementor-size-sm" href="/agente-de-whatsapp-para-agencias-de-viajes-cotiza-rapido-y-no-pierdas-ventas-fuera-de-horario/">
+                                      <a className="tdp-button tdp-button-link tdp-size-sm" href="/agente-de-whatsapp-para-agencias-de-viajes-cotiza-rapido-y-no-pierdas-ventas-fuera-de-horario/">
                                         {" "}
-                                        <span className="elementor-button-content-wrapper">
+                                        <span className="tdp-button-content-wrapper">
                                           {" "}
-                                          <span className="elementor-button-text">
+                                          <span className="tdp-button-text">
                                             {"Agente de WhatsApp para agencias de viajes: cotiza rápido y no pierdas ventas fuera de horario"}
                                           </span>
                                           {" "}
@@ -768,7 +1485,7 @@ export default function PageHome({ path }: { path: string }) {
                                       {" "}
                                     </div>
                                     {" "}
-                                    <div className="elementor-element elementor-element-414b5fc elementor-widget elementor-widget-theme-post-excerpt" data-id="414b5fc" data-element_type="widget" data-e-type="widget" data-widget_type="theme-post-excerpt.default">
+                                    <div className="tdp-element tdp-element-414b5fc tdp-widget tdp-widget-theme-post-excerpt" data-id="414b5fc" data-element_type="widget" data-e-type="widget" data-widget_type="theme-post-excerpt.default">
                                       {" Tu pauta llena el WhatsApp, pero no todos pueden viajar. Descubre cómo un agente de WhatsApp con IA cotiza al instante, filtra a los curiosos "}
                                     </div>
                                     {" "}
@@ -782,21 +1499,21 @@ export default function PageHome({ path }: { path: string }) {
                             {" "}
                           </div>
                           {" "}
-                          <div data-elementor-type="loop-item" data-elementor-id="6729" className="elementor elementor-6729 e-loop-item e-loop-item-991860 post-991860 post type-post status-publish format-standard has-post-thumbnail hentry category-inteligencia-artificial" data-elementor-post-type="elementor_library" data-custom-edit-handle="1">
+                          <div data-tdp-type="loop-item" data-tdp-id="6729" className="tdp tdp-6729 e-loop-item e-loop-item-991860 post-991860 post type-post status-publish format-standard has-post-thumbnail hentry category-inteligencia-artificial" data-tdp-post-type="tdp_library" data-custom-edit-handle="1">
                             {" "}
-                            <section className="elementor-section elementor-top-section elementor-element elementor-element-37da4f0 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="37da4f0" data-element_type="section" data-e-type="section">
+                            <section className="tdp-section tdp-top-section tdp-element tdp-element-37da4f0 tdp-section-boxed tdp-section-height-default tdp-section-height-default" data-id="37da4f0" data-element_type="section" data-e-type="section">
                               {" "}
-                              <div className="elementor-container elementor-column-gap-no">
+                              <div className="tdp-container tdp-column-gap-no">
                                 {" "}
-                                <div className="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-deedb44" data-id="deedb44" data-element_type="column" data-e-type="column">
+                                <div className="tdp-column tdp-col-100 tdp-top-column tdp-element tdp-element-deedb44" data-id="deedb44" data-element_type="column" data-e-type="column">
                                   {" "}
-                                  <div className="elementor-widget-wrap elementor-element-populated">
+                                  <div className="tdp-widget-wrap tdp-element-populated">
                                     {" "}
-                                    <div className="elementor-element elementor-element-88f3b21 elementor-view-default elementor-widget elementor-widget-icon" data-id="88f3b21" data-element_type="widget" data-e-type="widget" data-widget_type="icon.default">
+                                    <div className="tdp-element tdp-element-88f3b21 tdp-view-default tdp-widget tdp-widget-icon" data-id="88f3b21" data-element_type="widget" data-e-type="widget" data-widget_type="icon.default">
                                       {" "}
-                                      <div className="elementor-icon-wrapper">
+                                      <div className="tdp-icon-wrapper">
                                         {" "}
-                                        <div className="elementor-icon">
+                                        <div className="tdp-icon">
                                           {" "}
                                           <i aria-hidden="true" className="vamtamtheme- vamtam-theme-brand-symbol"></i>
                                           {" "}
@@ -806,17 +1523,17 @@ export default function PageHome({ path }: { path: string }) {
                                       {" "}
                                     </div>
                                     {" "}
-                                    <div className="elementor-element elementor-element-51fa80b elementor-widget elementor-widget-post-info" data-id="51fa80b" data-element_type="widget" data-e-type="widget" data-widget_type="post-info.default">
+                                    <div className="tdp-element tdp-element-51fa80b tdp-widget tdp-widget-post-info" data-id="51fa80b" data-element_type="widget" data-e-type="widget" data-widget_type="post-info.default">
                                       {" "}
-                                      <ul className="elementor-inline-items elementor-icon-list-items elementor-post-info">
+                                      <ul className="tdp-inline-items tdp-icon-list-items tdp-post-info">
                                         {" "}
-                                        <li className="elementor-icon-list-item elementor-repeater-item-d361108 elementor-inline-item" itemProp="about">
+                                        <li className="tdp-icon-list-item tdp-repeater-item-d361108 tdp-inline-item" itemProp="about">
                                           {" "}
-                                          <span className="elementor-icon-list-text elementor-post-info__item elementor-post-info__item--type-terms">
+                                          <span className="tdp-icon-list-text tdp-post-info__item tdp-post-info__item--type-terms">
                                             {" "}
-                                            <span className="elementor-post-info__terms-list">
+                                            <span className="tdp-post-info__terms-list">
                                               {" "}
-                                              <a href="/category/inteligencia-artificial/" className="elementor-post-info__terms-list-item">
+                                              <a href="/category/inteligencia-artificial/" className="tdp-post-info__terms-list-item">
                                                 {"Inteligencia Artificial"}
                                               </a>
                                               {" "}
@@ -830,23 +1547,23 @@ export default function PageHome({ path }: { path: string }) {
                                       {" "}
                                     </div>
                                     {" "}
-                                    <div className="elementor-element elementor-element-f004e66 elementor-widget elementor-widget-theme-post-featured-image elementor-widget-image" data-id="f004e66" data-element_type="widget" data-e-type="widget" data-widget_type="theme-post-featured-image.default">
+                                    <div className="tdp-element tdp-element-f004e66 tdp-widget tdp-widget-theme-post-featured-image tdp-widget-image" data-id="f004e66" data-element_type="widget" data-e-type="widget" data-widget_type="theme-post-featured-image.default">
                                       {" "}
                                       <a href="/de-la-ventanilla-al-celular-como-digitalizar-el-ingreso-de-pacientes-sin-cambiar-de-sistema/">
                                         {" "}
-                                        <img decoding="async" src="/wp-content/uploads/elementor/thumbs/Imagen-ventanilla-al-celular-1-rvixtkxd7as9ybav3zq2ftvx4n8vhc33ar1du6c2ak.png" title="Imagen ventanilla al celular 1" alt="Paciente registrando su ingreso con una foto de su documento desde el celular" loading="lazy" />
+                                        <img decoding="async" src="/assets/uploads/tdp/thumbs/Imagen-ventanilla-al-celular-1-rvixtkxd7as9ybav3zq2ftvx4n8vhc33ar1du6c2ak.png" title="Imagen ventanilla al celular 1" alt="Paciente registrando su ingreso con una foto de su documento desde el celular" loading="lazy" />
                                         {" "}
                                       </a>
                                       {" "}
                                     </div>
                                     {" "}
-                                    <div className="elementor-element elementor-element-d6f4768 elementor-align-left elementor-widget elementor-widget-button" data-id="d6f4768" data-element_type="widget" data-e-type="widget" data-widget_type="button.default">
+                                    <div className="tdp-element tdp-element-d6f4768 tdp-align-left tdp-widget tdp-widget-button" data-id="d6f4768" data-element_type="widget" data-e-type="widget" data-widget_type="button.default">
                                       {" "}
-                                      <a className="elementor-button elementor-button-link elementor-size-sm" href="/de-la-ventanilla-al-celular-como-digitalizar-el-ingreso-de-pacientes-sin-cambiar-de-sistema/">
+                                      <a className="tdp-button tdp-button-link tdp-size-sm" href="/de-la-ventanilla-al-celular-como-digitalizar-el-ingreso-de-pacientes-sin-cambiar-de-sistema/">
                                         {" "}
-                                        <span className="elementor-button-content-wrapper">
+                                        <span className="tdp-button-content-wrapper">
                                           {" "}
-                                          <span className="elementor-button-text">
+                                          <span className="tdp-button-text">
                                             {"De la ventanilla al celular: cómo digitalizar el ingreso de pacientes sin cambiar de sistema"}
                                           </span>
                                           {" "}
@@ -856,7 +1573,7 @@ export default function PageHome({ path }: { path: string }) {
                                       {" "}
                                     </div>
                                     {" "}
-                                    <div className="elementor-element elementor-element-414b5fc elementor-widget elementor-widget-theme-post-excerpt" data-id="414b5fc" data-element_type="widget" data-e-type="widget" data-widget_type="theme-post-excerpt.default">
+                                    <div className="tdp-element tdp-element-414b5fc tdp-widget tdp-widget-theme-post-excerpt" data-id="414b5fc" data-element_type="widget" data-e-type="widget" data-widget_type="theme-post-excerpt.default">
                                       {" Tu recepción sigue dependiendo del dictado y del papel. Descubre cómo digitalizar el ingreso de pacientes con una foto desde el celular y entregar resultados "}
                                     </div>
                                     {" "}
@@ -870,21 +1587,21 @@ export default function PageHome({ path }: { path: string }) {
                             {" "}
                           </div>
                           {" "}
-                          <div data-elementor-type="loop-item" data-elementor-id="6729" className="elementor elementor-6729 e-loop-item e-loop-item-991840 post-991840 post type-post status-publish format-standard has-post-thumbnail hentry category-analysis" data-elementor-post-type="elementor_library" data-custom-edit-handle="1">
+                          <div data-tdp-type="loop-item" data-tdp-id="6729" className="tdp tdp-6729 e-loop-item e-loop-item-991840 post-991840 post type-post status-publish format-standard has-post-thumbnail hentry category-analysis" data-tdp-post-type="tdp_library" data-custom-edit-handle="1">
                             {" "}
-                            <section className="elementor-section elementor-top-section elementor-element elementor-element-37da4f0 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="37da4f0" data-element_type="section" data-e-type="section">
+                            <section className="tdp-section tdp-top-section tdp-element tdp-element-37da4f0 tdp-section-boxed tdp-section-height-default tdp-section-height-default" data-id="37da4f0" data-element_type="section" data-e-type="section">
                               {" "}
-                              <div className="elementor-container elementor-column-gap-no">
+                              <div className="tdp-container tdp-column-gap-no">
                                 {" "}
-                                <div className="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-deedb44" data-id="deedb44" data-element_type="column" data-e-type="column">
+                                <div className="tdp-column tdp-col-100 tdp-top-column tdp-element tdp-element-deedb44" data-id="deedb44" data-element_type="column" data-e-type="column">
                                   {" "}
-                                  <div className="elementor-widget-wrap elementor-element-populated">
+                                  <div className="tdp-widget-wrap tdp-element-populated">
                                     {" "}
-                                    <div className="elementor-element elementor-element-88f3b21 elementor-view-default elementor-widget elementor-widget-icon" data-id="88f3b21" data-element_type="widget" data-e-type="widget" data-widget_type="icon.default">
+                                    <div className="tdp-element tdp-element-88f3b21 tdp-view-default tdp-widget tdp-widget-icon" data-id="88f3b21" data-element_type="widget" data-e-type="widget" data-widget_type="icon.default">
                                       {" "}
-                                      <div className="elementor-icon-wrapper">
+                                      <div className="tdp-icon-wrapper">
                                         {" "}
-                                        <div className="elementor-icon">
+                                        <div className="tdp-icon">
                                           {" "}
                                           <i aria-hidden="true" className="vamtamtheme- vamtam-theme-brand-symbol"></i>
                                           {" "}
@@ -894,17 +1611,17 @@ export default function PageHome({ path }: { path: string }) {
                                       {" "}
                                     </div>
                                     {" "}
-                                    <div className="elementor-element elementor-element-51fa80b elementor-widget elementor-widget-post-info" data-id="51fa80b" data-element_type="widget" data-e-type="widget" data-widget_type="post-info.default">
+                                    <div className="tdp-element tdp-element-51fa80b tdp-widget tdp-widget-post-info" data-id="51fa80b" data-element_type="widget" data-e-type="widget" data-widget_type="post-info.default">
                                       {" "}
-                                      <ul className="elementor-inline-items elementor-icon-list-items elementor-post-info">
+                                      <ul className="tdp-inline-items tdp-icon-list-items tdp-post-info">
                                         {" "}
-                                        <li className="elementor-icon-list-item elementor-repeater-item-d361108 elementor-inline-item" itemProp="about">
+                                        <li className="tdp-icon-list-item tdp-repeater-item-d361108 tdp-inline-item" itemProp="about">
                                           {" "}
-                                          <span className="elementor-icon-list-text elementor-post-info__item elementor-post-info__item--type-terms">
+                                          <span className="tdp-icon-list-text tdp-post-info__item tdp-post-info__item--type-terms">
                                             {" "}
-                                            <span className="elementor-post-info__terms-list">
+                                            <span className="tdp-post-info__terms-list">
                                               {" "}
-                                              <a href="/category/analysis/" className="elementor-post-info__terms-list-item">
+                                              <a href="/category/analysis/" className="tdp-post-info__terms-list-item">
                                                 {"Omnicanal"}
                                               </a>
                                               {" "}
@@ -918,23 +1635,23 @@ export default function PageHome({ path }: { path: string }) {
                                       {" "}
                                     </div>
                                     {" "}
-                                    <div className="elementor-element elementor-element-f004e66 elementor-widget elementor-widget-theme-post-featured-image elementor-widget-image" data-id="f004e66" data-element_type="widget" data-e-type="widget" data-widget_type="theme-post-featured-image.default">
+                                    <div className="tdp-element tdp-element-f004e66 tdp-widget tdp-widget-theme-post-featured-image tdp-widget-image" data-id="f004e66" data-element_type="widget" data-e-type="widget" data-widget_type="theme-post-featured-image.default">
                                       {" "}
                                       <a href="/resolucion-256-como-cumplir-la-ley-sin-enloquecer-a-tu-equipo/">
                                         {" "}
-                                        <img decoding="async" src="/wp-content/uploads/elementor/thumbs/Imagen-resolucion-256-rts6xz81tqdo0ck8h5a00jr4th7uxawdk34h1npy8s.png" title="Imagen resolución 256" alt="Imagen resolución 256" loading="lazy" />
+                                        <img decoding="async" src="/assets/uploads/tdp/thumbs/Imagen-resolucion-256-rts6xz81tqdo0ck8h5a00jr4th7uxawdk34h1npy8s.png" title="Imagen resolución 256" alt="Imagen resolución 256" loading="lazy" />
                                         {" "}
                                       </a>
                                       {" "}
                                     </div>
                                     {" "}
-                                    <div className="elementor-element elementor-element-d6f4768 elementor-align-left elementor-widget elementor-widget-button" data-id="d6f4768" data-element_type="widget" data-e-type="widget" data-widget_type="button.default">
+                                    <div className="tdp-element tdp-element-d6f4768 tdp-align-left tdp-widget tdp-widget-button" data-id="d6f4768" data-element_type="widget" data-e-type="widget" data-widget_type="button.default">
                                       {" "}
-                                      <a className="elementor-button elementor-button-link elementor-size-sm" href="/resolucion-256-como-cumplir-la-ley-sin-enloquecer-a-tu-equipo/">
+                                      <a className="tdp-button tdp-button-link tdp-size-sm" href="/resolucion-256-como-cumplir-la-ley-sin-enloquecer-a-tu-equipo/">
                                         {" "}
-                                        <span className="elementor-button-content-wrapper">
+                                        <span className="tdp-button-content-wrapper">
                                           {" "}
-                                          <span className="elementor-button-text">
+                                          <span className="tdp-button-text">
                                             {"Resolución 256: cómo cumplir la ley sin enloquecer a tu equipo"}
                                           </span>
                                           {" "}
@@ -944,7 +1661,7 @@ export default function PageHome({ path }: { path: string }) {
                                       {" "}
                                     </div>
                                     {" "}
-                                    <div className="elementor-element elementor-element-414b5fc elementor-widget elementor-widget-theme-post-excerpt" data-id="414b5fc" data-element_type="widget" data-e-type="widget" data-widget_type="theme-post-excerpt.default">
+                                    <div className="tdp-element tdp-element-414b5fc tdp-widget tdp-widget-theme-post-excerpt" data-id="414b5fc" data-element_type="widget" data-e-type="widget" data-widget_type="theme-post-excerpt.default">
                                       {" Cumplir con la Resolución 256 del Ministerio de Salud ya no tiene que ser un dolor de cabeza ni obligarte a cambiar toda la infraestructura "}
                                     </div>
                                     {" "}
@@ -972,33 +1689,33 @@ export default function PageHome({ path }: { path: string }) {
               {" "}
             </section>
             {" "}
-            <section className="elementor-section elementor-top-section elementor-element elementor-element-8b43317 elementor-section-content-bottom elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="8b43317" data-element_type="section" data-e-type="section">
+            <section className="tdp-section tdp-top-section tdp-element tdp-element-8b43317 tdp-section-content-bottom tdp-section-boxed tdp-section-height-default tdp-section-height-default" data-id="8b43317" data-element_type="section" data-e-type="section">
               {" "}
-              <div className="elementor-container elementor-column-gap-no">
+              <div className="tdp-container tdp-column-gap-no">
                 {" "}
-                <div className="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-c3b0b59" data-id="c3b0b59" data-element_type="column" data-e-type="column">
+                <div className="tdp-column tdp-col-50 tdp-top-column tdp-element tdp-element-c3b0b59" data-id="c3b0b59" data-element_type="column" data-e-type="column">
                   {" "}
-                  <div className="elementor-widget-wrap elementor-element-populated">
+                  <div className="tdp-widget-wrap tdp-element-populated">
                     {" "}
-                    <div className="elementor-element elementor-element-df9ef22 elementor-widget elementor-widget-heading" data-id="df9ef22" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+                    <div className="tdp-element tdp-element-df9ef22 tdp-widget tdp-widget-heading" data-id="df9ef22" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
                       {" "}
-                      <h5 className="elementor-heading-title elementor-size-default">
+                      <h5 className="tdp-heading-title tdp-size-default">
                         {"Contáctanos"}
                       </h5>
                       {" "}
                     </div>
                     {" "}
-                    <div className="elementor-element elementor-element-79d5ff0 elementor-widget elementor-widget-heading" data-id="79d5ff0" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+                    <div className="tdp-element tdp-element-79d5ff0 tdp-widget tdp-widget-heading" data-id="79d5ff0" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
                       {" "}
-                      <h3 className="elementor-heading-title elementor-size-default">
+                      <h3 className="tdp-heading-title tdp-size-default">
                         {"Cuéntanos qué necesitas y un asesor te contacta por WhatsApp."}
                       </h3>
                       {" "}
                     </div>
                     {" "}
-                    <div className="elementor-element elementor-element-83b8882 elementor-widget elementor-widget-image" data-id="83b8882" data-element_type="widget" data-e-type="widget" data-settings={"{\"motion_fx_motion_fx_scrolling\":\"yes\",\"motion_fx_translateY_effect\":\"yes\",\"motion_fx_translateY_speed\":{\"unit\":\"px\",\"size\":1,\"sizes\":[]},\"motion_fx_translateY_affectedRange\":{\"unit\":\"%\",\"size\":\"\",\"sizes\":{\"start\":0,\"end\":50}},\"motion_fx_devices\":[\"desktop\"]}"} data-widget_type="image.default">
+                    <div className="tdp-element tdp-element-83b8882 tdp-widget tdp-widget-image" data-id="83b8882" data-element_type="widget" data-e-type="widget" data-settings={"{\"motion_fx_motion_fx_scrolling\":\"yes\",\"motion_fx_translateY_effect\":\"yes\",\"motion_fx_translateY_speed\":{\"unit\":\"px\",\"size\":1,\"sizes\":[]},\"motion_fx_translateY_affectedRange\":{\"unit\":\"%\",\"size\":\"\",\"sizes\":{\"start\":0,\"end\":50}},\"motion_fx_devices\":[\"desktop\"]}"} data-widget_type="image.default">
                       {" "}
-                      <img fetchPriority="high" decoding="async" width="1536" height="1029" src="/wp-content/uploads/2024/11/formpic.webp" className="attachment-full size-full wp-image-989028" alt="Ejecutivo sosteniendo una tableta con íconos de llamada, correo y chat en tiempo real" srcSet="/wp-content/uploads/2024/11/formpic.webp 1536w, /wp-content/uploads/2024/11/formpic-300x201.webp 300w, /wp-content/uploads/2024/11/formpic-1024x686.webp 1024w, /wp-content/uploads/2024/11/formpic-768x515.webp 768w" sizes="(max-width: 1536px) 100vw, 1536px" title="Inicio 1" />
+                      <img fetchPriority="high" decoding="async" width="1536" height="1029" src="/assets/uploads/2024/11/formpic.webp" className="attachment-full size-full img-989028" alt="Ejecutivo sosteniendo una tableta con íconos de llamada, correo y chat en tiempo real" srcSet="/assets/uploads/2024/11/formpic.webp 1536w, /assets/uploads/2024/11/formpic-300x201.webp 300w, /assets/uploads/2024/11/formpic-1024x686.webp 1024w, /assets/uploads/2024/11/formpic-768x515.webp 768w" sizes="(max-width: 1536px) 100vw, 1536px" title="Inicio 1" />
                       {" "}
                     </div>
                     {" "}
@@ -1006,37 +1723,37 @@ export default function PageHome({ path }: { path: string }) {
                   {" "}
                 </div>
                 {" "}
-                <div className="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-d039324" data-id="d039324" data-element_type="column" data-e-type="column" data-settings={"{\"motion_fx_motion_fx_scrolling\":\"yes\",\"motion_fx_translateY_effect\":\"yes\",\"motion_fx_translateY_speed\":{\"unit\":\"px\",\"size\":3,\"sizes\":[]},\"motion_fx_translateY_affectedRange\":{\"unit\":\"%\",\"size\":\"\",\"sizes\":{\"start\":0,\"end\":60}},\"motion_fx_devices\":[\"desktop\"]}"}>
+                <div className="tdp-column tdp-col-50 tdp-top-column tdp-element tdp-element-d039324" data-id="d039324" data-element_type="column" data-e-type="column" data-settings={"{\"motion_fx_motion_fx_scrolling\":\"yes\",\"motion_fx_translateY_effect\":\"yes\",\"motion_fx_translateY_speed\":{\"unit\":\"px\",\"size\":3,\"sizes\":[]},\"motion_fx_translateY_affectedRange\":{\"unit\":\"%\",\"size\":\"\",\"sizes\":{\"start\":0,\"end\":60}},\"motion_fx_devices\":[\"desktop\"]}"}>
                   {" "}
-                  <div className="elementor-widget-wrap elementor-element-populated">
+                  <div className="tdp-widget-wrap tdp-element-populated">
                     {" "}
-                    <div className="elementor-element elementor-element-9cd98ce elementor-widget elementor-widget-menu-anchor" data-id="9cd98ce" data-element_type="widget" data-e-type="widget" data-widget_type="menu-anchor.default">
+                    <div className="tdp-element tdp-element-9cd98ce tdp-widget tdp-widget-menu-anchor" data-id="9cd98ce" data-element_type="widget" data-e-type="widget" data-widget_type="menu-anchor.default">
                       {" "}
-                      <div className="elementor-menu-anchor" id="form-mobie"></div>
+                      <div className="tdp-menu-anchor" id="form-mobie"></div>
                       {" "}
                     </div>
                     {" "}
-                    <div className="elementor-element elementor-element-2ccf18a elementor-invisible elementor-widget elementor-widget-heading" data-id="2ccf18a" data-element_type="widget" data-e-type="widget" data-settings={"{\"_animation\":\"slideInUp\",\"_animation_delay\":200,\"_animation_mobile\":\"none\"}"} data-widget_type="heading.default">
+                    <div className="tdp-element tdp-element-2ccf18a tdp-invisible tdp-widget tdp-widget-heading" data-id="2ccf18a" data-element_type="widget" data-e-type="widget" data-settings={"{\"_animation\":\"slideInUp\",\"_animation_delay\":200,\"_animation_mobile\":\"none\"}"} data-widget_type="heading.default">
                       {" "}
-                      <h3 className="elementor-heading-title elementor-size-default">
+                      <h3 className="tdp-heading-title tdp-size-default">
                         {"Formulario de"}
                       </h3>
                       {" "}
                     </div>
                     {" "}
-                    <div className="elementor-element elementor-element-922a16f elementor-invisible elementor-widget elementor-widget-heading" data-id="922a16f" data-element_type="widget" data-e-type="widget" data-settings={"{\"_animation\":\"slideInUp\",\"_animation_delay\":300,\"_animation_mobile\":\"none\"}"} data-widget_type="heading.default">
+                    <div className="tdp-element tdp-element-922a16f tdp-invisible tdp-widget tdp-widget-heading" data-id="922a16f" data-element_type="widget" data-e-type="widget" data-settings={"{\"_animation\":\"slideInUp\",\"_animation_delay\":300,\"_animation_mobile\":\"none\"}"} data-widget_type="heading.default">
                       {" "}
-                      <h3 className="elementor-heading-title elementor-size-default">
+                      <h3 className="tdp-heading-title tdp-size-default">
                         {"contacto"}
                       </h3>
                       {" "}
                     </div>
                     {" "}
-                    <div className="elementor-element elementor-element-af598d3 e-transform elementor-widget__width-auto elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="af598d3" data-element_type="widget" data-e-type="widget" data-settings={"{\"_transform_rotateZ_effect\":{\"unit\":\"px\",\"size\":90,\"sizes\":[]},\"_transform_rotateZ_effect_tablet\":{\"unit\":\"deg\",\"size\":\"\",\"sizes\":[]},\"_transform_rotateZ_effect_mobile\":{\"unit\":\"deg\",\"size\":\"\",\"sizes\":[]}}"} data-widget_type="divider.default">
+                    <div className="tdp-element tdp-element-af598d3 e-transform tdp-widget__width-auto tdp-widget-divider--view-line tdp-widget tdp-widget-divider" data-id="af598d3" data-element_type="widget" data-e-type="widget" data-settings={"{\"_transform_rotateZ_effect\":{\"unit\":\"px\",\"size\":90,\"sizes\":[]},\"_transform_rotateZ_effect_tablet\":{\"unit\":\"deg\",\"size\":\"\",\"sizes\":[]},\"_transform_rotateZ_effect_mobile\":{\"unit\":\"deg\",\"size\":\"\",\"sizes\":[]}}"} data-widget_type="divider.default">
                       {" "}
-                      <div className="elementor-divider">
+                      <div className="tdp-divider">
                         {" "}
-                        <span className="elementor-divider-separator">
+                        <span className="tdp-divider-separator">
                           {" "}
                         </span>
                         {" "}
@@ -1044,7 +1761,7 @@ export default function PageHome({ path }: { path: string }) {
                       {" "}
                     </div>
                     {" "}
-                    <div className="elementor-element elementor-element-604859e elementor-widget elementor-widget-text-editor" data-id="604859e" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
+                    <div className="tdp-element tdp-element-604859e tdp-widget tdp-widget-text-editor" data-id="604859e" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
                       {" "}
                       <p>
                         {"Proporciona información correcta, incluyendo su número de teléfono móvil con WhatsApp."}
@@ -1060,29 +1777,29 @@ export default function PageHome({ path }: { path: string }) {
               {" "}
             </section>
             {" "}
-            <section className="elementor-section elementor-top-section elementor-element elementor-element-734073c elementor-reverse-mobile elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="734073c" data-element_type="section" data-e-type="section">
+            <section className="tdp-section tdp-top-section tdp-element tdp-element-734073c tdp-reverse-mobile tdp-section-boxed tdp-section-height-default tdp-section-height-default" data-id="734073c" data-element_type="section" data-e-type="section">
               {" "}
-              <div className="elementor-container elementor-column-gap-no">
+              <div className="tdp-container tdp-column-gap-no">
                 {" "}
-                <div className="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-9fbb78d" data-id="9fbb78d" data-element_type="column" data-e-type="column">
+                <div className="tdp-column tdp-col-50 tdp-top-column tdp-element tdp-element-9fbb78d" data-id="9fbb78d" data-element_type="column" data-e-type="column">
                   {" "}
-                  <div className="elementor-widget-wrap elementor-element-populated">
+                  <div className="tdp-widget-wrap tdp-element-populated">
                     {" "}
-                    <div className="elementor-element elementor-element-401b9e4 elementor-widget elementor-widget-heading" data-id="401b9e4" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+                    <div className="tdp-element tdp-element-401b9e4 tdp-widget tdp-widget-heading" data-id="401b9e4" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
                       {" "}
-                      <div className="elementor-heading-title elementor-size-default">
+                      <div className="tdp-heading-title tdp-size-default">
                         {"CANALES DE ATENCIÓN"}
                       </div>
                       {" "}
                     </div>
                     {" "}
-                    <div className="elementor-element elementor-element-36d90ef elementor-widget elementor-widget-button" data-id="36d90ef" data-element_type="widget" data-e-type="widget" data-widget_type="button.default">
+                    <div className="tdp-element tdp-element-36d90ef tdp-widget tdp-widget-button" data-id="36d90ef" data-element_type="widget" data-e-type="widget" data-widget_type="button.default">
                       {" "}
-                      <a className="elementor-button elementor-button-link elementor-size-sm" href={"https://api.whatsapp.com/send?phone=573009122820&text=Hola%2C%20ingrese%20por%20canal%20WhatsApp%2C%20necesito%20m%C3%A1s%20informaci%C3%B3n"} rel="nofollow noopener" target="_blank">
+                      <a className="tdp-button tdp-button-link tdp-size-sm" href={"https://api.whatsapp.com/send?phone=573009122820&text=Hola%2C%20ingrese%20por%20canal%20WhatsApp%2C%20necesito%20m%C3%A1s%20informaci%C3%B3n"} rel="nofollow noopener" target="_blank">
                         {" "}
-                        <span className="elementor-button-content-wrapper">
+                        <span className="tdp-button-content-wrapper">
                           {" "}
-                          <span className="elementor-button-text">
+                          <span className="tdp-button-text">
                             <b>
                               {"WhatsApp: "}
                             </b>
@@ -1095,13 +1812,13 @@ export default function PageHome({ path }: { path: string }) {
                       {" "}
                     </div>
                     {" "}
-                    <div className="elementor-element elementor-element-220663c elementor-widget elementor-widget-button" data-id="220663c" data-element_type="widget" data-e-type="widget" data-widget_type="button.default">
+                    <div className="tdp-element tdp-element-220663c tdp-widget tdp-widget-button" data-id="220663c" data-element_type="widget" data-e-type="widget" data-widget_type="button.default">
                       {" "}
-                      <a className="elementor-button elementor-button-link elementor-size-sm" href="tel:6025244008">
+                      <a className="tdp-button tdp-button-link tdp-size-sm" href="tel:6025244008">
                         {" "}
-                        <span className="elementor-button-content-wrapper">
+                        <span className="tdp-button-content-wrapper">
                           {" "}
-                          <span className="elementor-button-text">
+                          <span className="tdp-button-text">
                             <b>
                               {"Línea Local:"}
                             </b>
@@ -1114,13 +1831,13 @@ export default function PageHome({ path }: { path: string }) {
                       {" "}
                     </div>
                     {" "}
-                    <div className="elementor-element elementor-element-9e79e4b elementor-align-justify elementor-widget elementor-widget-button" data-id="9e79e4b" data-element_type="widget" data-e-type="widget" data-widget_type="button.default">
+                    <div className="tdp-element tdp-element-9e79e4b tdp-align-justify tdp-widget tdp-widget-button" data-id="9e79e4b" data-element_type="widget" data-e-type="widget" data-widget_type="button.default">
                       {" "}
-                      <a className="elementor-button elementor-button-link elementor-size-sm" href="mailto:info@todoip.com" target="_blank" rel="nofollow">
+                      <a className="tdp-button tdp-button-link tdp-size-sm" href="mailto:info@todoip.com" target="_blank" rel="nofollow">
                         {" "}
-                        <span className="elementor-button-content-wrapper">
+                        <span className="tdp-button-content-wrapper">
                           {" "}
-                          <span className="elementor-button-text">
+                          <span className="tdp-button-text">
                             {"info@todoip.com"}
                           </span>
                           {" "}
@@ -1130,15 +1847,15 @@ export default function PageHome({ path }: { path: string }) {
                       {" "}
                     </div>
                     {" "}
-                    <div className="elementor-element elementor-element-8a79bae elementor-shape-circle e-grid-align-left elementor-grid-0 elementor-widget elementor-widget-social-icons" data-id="8a79bae" data-element_type="widget" data-e-type="widget" data-widget_type="social-icons.default">
+                    <div className="tdp-element tdp-element-8a79bae tdp-shape-circle e-grid-align-left tdp-grid-0 tdp-widget tdp-widget-social-icons" data-id="8a79bae" data-element_type="widget" data-e-type="widget" data-widget_type="social-icons.default">
                       {" "}
-                      <div className="elementor-social-icons-wrapper elementor-grid" role="list">
+                      <div className="tdp-social-icons-wrapper tdp-grid" role="list">
                         {" "}
-                        <span className="elementor-grid-item" role="listitem">
+                        <span className="tdp-grid-item" role="listitem">
                           {" "}
-                          <a className="elementor-icon elementor-social-icon elementor-social-icon-linkedin elementor-repeater-item-bdc65d0" href="https://www.linkedin.com/company/todo-ip/" target="_blank" rel="nofollow noopener">
+                          <a className="tdp-icon tdp-social-icon tdp-social-icon-linkedin tdp-repeater-item-bdc65d0" href="https://www.linkedin.com/company/todo-ip/" target="_blank" rel="nofollow noopener">
                             {" "}
-                            <span className="elementor-screen-only">
+                            <span className="tdp-screen-only">
                               {"Linkedin"}
                             </span>
                             {" "}
@@ -1150,11 +1867,11 @@ export default function PageHome({ path }: { path: string }) {
                           {" "}
                         </span>
                         {" "}
-                        <span className="elementor-grid-item" role="listitem">
+                        <span className="tdp-grid-item" role="listitem">
                           {" "}
-                          <a className="elementor-icon elementor-social-icon elementor-social-icon-facebook elementor-repeater-item-346e47a" href="https://www.facebook.com/todoip" target="_blank" rel="nofollow noopener">
+                          <a className="tdp-icon tdp-social-icon tdp-social-icon-facebook tdp-repeater-item-346e47a" href="https://www.facebook.com/todoip" target="_blank" rel="nofollow noopener">
                             {" "}
-                            <span className="elementor-screen-only">
+                            <span className="tdp-screen-only">
                               {"Facebook"}
                             </span>
                             {" "}
@@ -1166,11 +1883,11 @@ export default function PageHome({ path }: { path: string }) {
                           {" "}
                         </span>
                         {" "}
-                        <span className="elementor-grid-item" role="listitem">
+                        <span className="tdp-grid-item" role="listitem">
                           {" "}
-                          <a className="elementor-icon elementor-social-icon elementor-social-icon-instagram elementor-repeater-item-e732ed0" href="https://www.instagram.com/todo_ip/" target="_blank" rel="nofollow noopener">
+                          <a className="tdp-icon tdp-social-icon tdp-social-icon-instagram tdp-repeater-item-e732ed0" href="https://www.instagram.com/todo_ip/" target="_blank" rel="nofollow noopener">
                             {" "}
-                            <span className="elementor-screen-only">
+                            <span className="tdp-screen-only">
                               {"Instagram"}
                             </span>
                             {" "}
@@ -1182,11 +1899,11 @@ export default function PageHome({ path }: { path: string }) {
                           {" "}
                         </span>
                         {" "}
-                        <span className="elementor-grid-item" role="listitem">
+                        <span className="tdp-grid-item" role="listitem">
                           {" "}
-                          <a className="elementor-icon elementor-social-icon elementor-social-icon-youtube elementor-repeater-item-e43a03c" href="https://www.youtube.com/@TodoIP" target="_blank" rel="nofollow noopener">
+                          <a className="tdp-icon tdp-social-icon tdp-social-icon-youtube tdp-repeater-item-e43a03c" href="https://www.youtube.com/@TodoIP" target="_blank" rel="nofollow noopener">
                             {" "}
-                            <span className="elementor-screen-only">
+                            <span className="tdp-screen-only">
                               {"Youtube"}
                             </span>
                             {" "}
@@ -1202,21 +1919,21 @@ export default function PageHome({ path }: { path: string }) {
                       {" "}
                     </div>
                     {" "}
-                    <div className="elementor-element elementor-element-51903e2 elementor-widget elementor-widget-spacer" data-id="51903e2" data-element_type="widget" data-e-type="widget" data-widget_type="spacer.default">
+                    <div className="tdp-element tdp-element-51903e2 tdp-widget tdp-widget-spacer" data-id="51903e2" data-element_type="widget" data-e-type="widget" data-widget_type="spacer.default">
                       {" "}
-                      <div className="elementor-spacer">
+                      <div className="tdp-spacer">
                         {" "}
-                        <div className="elementor-spacer-inner"></div>
+                        <div className="tdp-spacer-inner"></div>
                         {" "}
                       </div>
                       {" "}
                     </div>
                     {" "}
-                    <div className="elementor-element elementor-element-1994bdb elementor-hidden-mobile elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="1994bdb" data-element_type="widget" data-e-type="widget" data-widget_type="divider.default">
+                    <div className="tdp-element tdp-element-1994bdb tdp-hidden-mobile tdp-widget-divider--view-line tdp-widget tdp-widget-divider" data-id="1994bdb" data-element_type="widget" data-e-type="widget" data-widget_type="divider.default">
                       {" "}
-                      <div className="elementor-divider">
+                      <div className="tdp-divider">
                         {" "}
-                        <span className="elementor-divider-separator">
+                        <span className="tdp-divider-separator">
                           {" "}
                         </span>
                         {" "}
@@ -1224,35 +1941,35 @@ export default function PageHome({ path }: { path: string }) {
                       {" "}
                     </div>
                     {" "}
-                    <div className="elementor-element elementor-element-0b7cf84 elementor-widget__width-auto elementor-widget elementor-widget-image" data-id="0b7cf84" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
+                    <div className="tdp-element tdp-element-0b7cf84 tdp-widget__width-auto tdp-widget tdp-widget-image" data-id="0b7cf84" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
                       {" "}
-                      <img loading="lazy" decoding="async" width="42" height="42" src="/wp-content/uploads/2023/07/Google_22G22_Logo.svg" className="attachment-medium size-medium wp-image-7831" alt="Logotipo de Google" title="Inicio 2" />
+                      <img loading="lazy" decoding="async" width="42" height="42" src="/assets/uploads/2023/07/Google_22G22_Logo.svg" className="attachment-medium size-medium img-7831" alt="Logotipo de Google" title="Inicio 2" />
                       {" "}
                     </div>
                     {" "}
-                    <div className="elementor-element elementor-element-5f50e6a elementor-star-rating--align-start elementor-widget__width-auto elementor--star-style-star_unicode elementor-widget elementor-widget-star-rating" data-id="5f50e6a" data-element_type="widget" data-e-type="widget" data-widget_type="star-rating.default">
+                    <div className="tdp-element tdp-element-5f50e6a tdp-star-rating--align-start tdp-widget__width-auto tdp--star-style-star_unicode tdp-widget tdp-widget-star-rating" data-id="5f50e6a" data-element_type="widget" data-e-type="widget" data-widget_type="star-rating.default">
                       {" "}
-                      <div className="elementor-star-rating__wrapper">
+                      <div className="tdp-star-rating__wrapper">
                         {" "}
-                        <div className="elementor-star-rating" itemType="http://schema.org/Rating" itemScope={true} itemProp="reviewRating">
+                        <div className="tdp-star-rating" itemType="http://schema.org/Rating" itemScope={true} itemProp="reviewRating">
                           {" "}
-                          <i className="elementor-star-full" aria-hidden="true">
+                          <i className="tdp-star-full" aria-hidden="true">
                             {"★"}
                           </i>
-                          <i className="elementor-star-full" aria-hidden="true">
+                          <i className="tdp-star-full" aria-hidden="true">
                             {"★"}
                           </i>
-                          <i className="elementor-star-full" aria-hidden="true">
+                          <i className="tdp-star-full" aria-hidden="true">
                             {"★"}
                           </i>
-                          <i className="elementor-star-full" aria-hidden="true">
+                          <i className="tdp-star-full" aria-hidden="true">
                             {"★"}
                           </i>
-                          <i className="elementor-star-8" aria-hidden="true">
+                          <i className="tdp-star-8" aria-hidden="true">
                             {"★"}
                           </i>
                           {" "}
-                          <span itemProp="ratingValue" className="elementor-screen-only">
+                          <span itemProp="ratingValue" className="tdp-screen-only">
                             {"Valorado con 4.8 de 5"}
                           </span>
                           {" "}
@@ -1262,27 +1979,27 @@ export default function PageHome({ path }: { path: string }) {
                       {" "}
                     </div>
                     {" "}
-                    <div className="elementor-element elementor-element-d568a83 elementor-widget__width-auto elementor-widget elementor-widget-heading" data-id="d568a83" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+                    <div className="tdp-element tdp-element-d568a83 tdp-widget__width-auto tdp-widget tdp-widget-heading" data-id="d568a83" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
                       {" "}
-                      <span className="elementor-heading-title elementor-size-default">
+                      <span className="tdp-heading-title tdp-size-default">
                         {"5.0"}
                       </span>
                       {" "}
                     </div>
                     {" "}
-                    <div className="elementor-element elementor-element-feebba1 elementor-widget elementor-widget-spacer" data-id="feebba1" data-element_type="widget" data-e-type="widget" data-widget_type="spacer.default">
+                    <div className="tdp-element tdp-element-feebba1 tdp-widget tdp-widget-spacer" data-id="feebba1" data-element_type="widget" data-e-type="widget" data-widget_type="spacer.default">
                       {" "}
-                      <div className="elementor-spacer">
+                      <div className="tdp-spacer">
                         {" "}
-                        <div className="elementor-spacer-inner"></div>
+                        <div className="tdp-spacer-inner"></div>
                         {" "}
                       </div>
                       {" "}
                     </div>
                     {" "}
-                    <div className="elementor-element elementor-element-6cc0372 elementor-widget__width-auto elementor-widget elementor-widget-heading" data-id="6cc0372" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+                    <div className="tdp-element tdp-element-6cc0372 tdp-widget__width-auto tdp-widget tdp-widget-heading" data-id="6cc0372" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
                       {" "}
-                      <span className="elementor-heading-title elementor-size-default">
+                      <span className="tdp-heading-title tdp-size-default">
                         <a href="https://g.co/kgs/qbypxtR" target="_blank" rel="nofollow">
                           {"Opiniones en Google"}
                         </a>
@@ -1294,19 +2011,19 @@ export default function PageHome({ path }: { path: string }) {
                   {" "}
                 </div>
                 {" "}
-                <div className="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-5383364" data-id="5383364" data-element_type="column" data-e-type="column" data-settings={"{\"background_background\":\"classic\"}"}>
+                <div className="tdp-column tdp-col-50 tdp-top-column tdp-element tdp-element-5383364" data-id="5383364" data-element_type="column" data-e-type="column" data-settings={"{\"background_background\":\"classic\"}"}>
                   {" "}
-                  <div className="elementor-widget-wrap elementor-element-populated">
+                  <div className="tdp-widget-wrap tdp-element-populated">
                     {" "}
-                    <div className="elementor-element elementor-element-89d30a2 elementor-widget elementor-widget-menu-anchor" data-id="89d30a2" data-element_type="widget" data-e-type="widget" data-widget_type="menu-anchor.default">
+                    <div className="tdp-element tdp-element-89d30a2 tdp-widget tdp-widget-menu-anchor" data-id="89d30a2" data-element_type="widget" data-e-type="widget" data-widget_type="menu-anchor.default">
                       {" "}
-                      <div className="elementor-menu-anchor" id="form"></div>
+                      <div className="tdp-menu-anchor" id="form"></div>
                       {" "}
                     </div>
                     {" "}
-                    <div className="elementor-element elementor-element-ad64a1c elementor-button-align-start dd-ele-form elementor-widget elementor-widget-form" data-id="ad64a1c" data-element_type="widget" data-e-type="widget" data-settings={"{\"step_next_label\":\"Next\",\"step_previous_label\":\"Previous\",\"button_width\":\"33\",\"step_type\":\"number_text\",\"step_icon_shape\":\"circle\"}"} data-widget_type="form.default">
+                    <div className="tdp-element tdp-element-ad64a1c tdp-button-align-start dd-ele-form tdp-widget tdp-widget-form" data-id="ad64a1c" data-element_type="widget" data-e-type="widget" data-settings={"{\"step_next_label\":\"Next\",\"step_previous_label\":\"Previous\",\"button_width\":\"33\",\"step_type\":\"number_text\",\"step_icon_shape\":\"circle\"}"} data-widget_type="form.default">
                       {" "}
-                      <form className="elementor-form" method="post" name="Schedule consultation - form" aria-label="Schedule consultation - form" noValidate={true}>
+                      <form className="tdp-form" method="post" name="Schedule consultation - form" aria-label="Schedule consultation - form" noValidate={true}>
                         {" "}
                         <input type="hidden" name="post_id" value="910" />
                         {" "}
@@ -1316,65 +2033,65 @@ export default function PageHome({ path }: { path: string }) {
                         {" "}
                         <input type="hidden" name="queried_id" value="910" />
                         {" "}
-                        <div className="elementor-form-fields-wrapper elementor-labels-above">
+                        <div className="tdp-form-fields-wrapper tdp-labels-above">
                           {" "}
-                          <div className="elementor-field-type-text elementor-field-group elementor-column elementor-field-group-name elementor-col-100 elementor-field-required">
+                          <div className="tdp-field-type-text tdp-field-group tdp-column tdp-field-group-name tdp-col-100 tdp-field-required">
                             {" "}
-                            <label htmlFor="form-field-name" className="elementor-field-label">
+                            <label htmlFor="form-field-name" className="tdp-field-label">
                               {" Nombre "}
                             </label>
                             {" "}
-                            <input size={1} type="text" name="form_fields[name]" id="form-field-name" className="elementor-field elementor-size-md  elementor-field-textual" required={true} />
+                            <input size={1} type="text" name="form_fields[name]" id="form-field-name" className="tdp-field tdp-size-md  tdp-field-textual" required={true} />
                             {" "}
                           </div>
                           {" "}
-                          <div className="elementor-field-type-email elementor-field-group elementor-column elementor-field-group-email elementor-col-50 elementor-field-required">
+                          <div className="tdp-field-type-email tdp-field-group tdp-column tdp-field-group-email tdp-col-50 tdp-field-required">
                             {" "}
-                            <label htmlFor="form-field-email" className="elementor-field-label">
+                            <label htmlFor="form-field-email" className="tdp-field-label">
                               {" E-mail "}
                             </label>
                             {" "}
-                            <input size={1} type="email" name="form_fields[email]" id="form-field-email" className="elementor-field elementor-size-md  elementor-field-textual" required={true} />
+                            <input size={1} type="email" name="form_fields[email]" id="form-field-email" className="tdp-field tdp-size-md  tdp-field-textual" required={true} />
                             {" "}
                           </div>
                           {" "}
-                          <div className="elementor-field-type-number elementor-field-group elementor-column elementor-field-group-field_b6dbfc9 elementor-col-50 elementor-field-required">
+                          <div className="tdp-field-type-number tdp-field-group tdp-column tdp-field-group-field_b6dbfc9 tdp-col-50 tdp-field-required">
                             {" "}
-                            <label htmlFor="form-field-field_b6dbfc9" className="elementor-field-label">
+                            <label htmlFor="form-field-field_b6dbfc9" className="tdp-field-label">
                               {" Celular "}
                             </label>
                             {" "}
-                            <input type="number" name="form_fields[field_b6dbfc9]" id="form-field-field_b6dbfc9" className="elementor-field elementor-size-md  elementor-field-textual" required={true} min="0" max="0" />
+                            <input type="number" name="form_fields[field_b6dbfc9]" id="form-field-field_b6dbfc9" className="tdp-field tdp-size-md  tdp-field-textual" required={true} min="0" max="0" />
                             {" "}
                           </div>
                           {" "}
-                          <div className="elementor-field-type-text elementor-field-group elementor-column elementor-field-group-field_d50fdd0 elementor-col-50 elementor-field-required">
+                          <div className="tdp-field-type-text tdp-field-group tdp-column tdp-field-group-field_d50fdd0 tdp-col-50 tdp-field-required">
                             {" "}
-                            <label htmlFor="form-field-field_d50fdd0" className="elementor-field-label">
+                            <label htmlFor="form-field-field_d50fdd0" className="tdp-field-label">
                               {" Nombre de la empresa "}
                             </label>
                             {" "}
-                            <input size={1} type="text" name="form_fields[field_d50fdd0]" id="form-field-field_d50fdd0" className="elementor-field elementor-size-md  elementor-field-textual" required={true} />
+                            <input size={1} type="text" name="form_fields[field_d50fdd0]" id="form-field-field_d50fdd0" className="tdp-field tdp-size-md  tdp-field-textual" required={true} />
                             {" "}
                           </div>
                           {" "}
-                          <div className="elementor-field-type-text elementor-field-group elementor-column elementor-field-group-field_027e865 elementor-col-50 elementor-field-required">
+                          <div className="tdp-field-type-text tdp-field-group tdp-column tdp-field-group-field_027e865 tdp-col-50 tdp-field-required">
                             {" "}
-                            <label htmlFor="form-field-field_027e865" className="elementor-field-label">
+                            <label htmlFor="form-field-field_027e865" className="tdp-field-label">
                               {" Sitio Web o Instagram "}
                             </label>
                             {" "}
-                            <input size={1} type="text" name="form_fields[field_027e865]" id="form-field-field_027e865" className="elementor-field elementor-size-md  elementor-field-textual" required={true} />
+                            <input size={1} type="text" name="form_fields[field_027e865]" id="form-field-field_027e865" className="tdp-field tdp-size-md  tdp-field-textual" required={true} />
                             {" "}
                           </div>
                           {" "}
-                          <div className="elementor-field-type-select elementor-field-group elementor-column elementor-field-group-field_33e0b15 elementor-col-100 elementor-field-required">
+                          <div className="tdp-field-type-select tdp-field-group tdp-column tdp-field-group-field_33e0b15 tdp-col-100 tdp-field-required">
                             {" "}
-                            <label htmlFor="form-field-field_33e0b15" className="elementor-field-label">
+                            <label htmlFor="form-field-field_33e0b15" className="tdp-field-label">
                               {" Interesado en "}
                             </label>
                             {" "}
-                            <div className="elementor-field elementor-select-wrapper remove-before ">
+                            <div className="tdp-field tdp-select-wrapper remove-before ">
                               {" "}
                               <div className="select-caret-down-wrapper">
                                 {" "}
@@ -1384,7 +2101,7 @@ export default function PageHome({ path }: { path: string }) {
                                 {" "}
                               </div>
                               {" "}
-                              <select name="form_fields[field_33e0b15]" id="form-field-field_33e0b15" className="elementor-field-textual elementor-size-md" required={true}>
+                              <select name="form_fields[field_33e0b15]" id="form-field-field_33e0b15" className="tdp-field-textual tdp-size-md" required={true}>
                                 <option value=" ">
                                   {"Por favor seleccione el producto de interés "}
                                 </option>
@@ -1415,31 +2132,31 @@ export default function PageHome({ path }: { path: string }) {
                             {" "}
                           </div>
                           {" "}
-                          <div className="elementor-field-type-textarea elementor-field-group elementor-column elementor-field-group-message elementor-col-100 elementor-field-required">
+                          <div className="tdp-field-type-textarea tdp-field-group tdp-column tdp-field-group-message tdp-col-100 tdp-field-required">
                             {" "}
-                            <label htmlFor="form-field-message" className="elementor-field-label">
+                            <label htmlFor="form-field-message" className="tdp-field-label">
                               {" Mensaje "}
                             </label>
                             {" "}
-                            <textarea className="elementor-field-textual elementor-field  elementor-size-md" name="form_fields[message]" id="form-field-message" rows={5} placeholder="Cuéntanos como podemos ayudarte" required={true} />
+                            <textarea className="tdp-field-textual tdp-field  tdp-size-md" name="form_fields[message]" id="form-field-message" rows={5} placeholder="Cuéntanos como podemos ayudarte" required={true} />
                             {" "}
                           </div>
                           {" "}
-                          <div className="elementor-field-type-recaptcha elementor-field-group elementor-column elementor-field-group-field_315b82b elementor-col-100">
+                          <div className="tdp-field-type-recaptcha tdp-field-group tdp-column tdp-field-group-field_315b82b tdp-col-100">
                             {" "}
-                            <div className="elementor-field" id="form-field-field_315b82b">
-                              <div className="elementor-g-recaptcha" data-sitekey="6LcHq38qAAAAAJoDF8XNp7Gj5OipTK5VMR3RSWlX" data-type="v2_checkbox" data-theme="light" data-size="normal"></div>
+                            <div className="tdp-field" id="form-field-field_315b82b">
+                              <div className="tdp-g-recaptcha" data-sitekey="6LcHq38qAAAAAJoDF8XNp7Gj5OipTK5VMR3RSWlX" data-type="v2_checkbox" data-theme="light" data-size="normal"></div>
                             </div>
                             {" "}
                           </div>
                           {" "}
-                          <div className="elementor-field-group elementor-column elementor-field-type-submit elementor-col-33 e-form__buttons">
+                          <div className="tdp-field-group tdp-column tdp-field-type-submit tdp-col-33 e-form__buttons">
                             {" "}
-                            <button className="elementor-button elementor-size-sm" type="submit">
+                            <button className="tdp-button tdp-size-sm" type="submit">
                               {" "}
-                              <span className="elementor-button-content-wrapper">
+                              <span className="tdp-button-content-wrapper">
                                 {" "}
-                                <span className="elementor-button-text">
+                                <span className="tdp-button-text">
                                   {"Enviar "}
                                 </span>
                                 {" "}
@@ -1455,17 +2172,17 @@ export default function PageHome({ path }: { path: string }) {
                       {" "}
                     </div>
                     {" "}
-                    <div className="elementor-element elementor-element-8cea415 elementor-widget elementor-widget-heading" data-id="8cea415" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+                    <div className="tdp-element tdp-element-8cea415 tdp-widget tdp-widget-heading" data-id="8cea415" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
                       {" "}
-                      <h2 className="elementor-heading-title elementor-size-default">
+                      <h2 className="tdp-heading-title tdp-size-default">
                         {" Al hacer clic en el botón \"Enviar\" estás aceptando nuestra"}
                       </h2>
                       {" "}
                     </div>
                     {" "}
-                    <div className="elementor-element elementor-element-aa7062f elementor-widget elementor-widget-heading" data-id="aa7062f" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+                    <div className="tdp-element tdp-element-aa7062f tdp-widget tdp-widget-heading" data-id="aa7062f" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
                       {" "}
-                      <h2 className="elementor-heading-title elementor-size-default">
+                      <h2 className="tdp-heading-title tdp-size-default">
                         <a href="/aviso-de-privacidad/" target="_blank" rel="nofollow">
                           {"Política de tratamiento de datos"}
                         </a>
@@ -1473,12 +2190,12 @@ export default function PageHome({ path }: { path: string }) {
                       {" "}
                     </div>
                     {" "}
-                    <div className="elementor-element elementor-element-0bdd614 elementor-widget elementor-widget-html" data-id="0bdd614" data-element_type="widget" data-e-type="widget" data-widget_type="html.default">
+                    <div className="tdp-element tdp-element-0bdd614 tdp-widget tdp-widget-html" data-id="0bdd614" data-element_type="widget" data-e-type="widget" data-widget_type="html.default">
                       {" "}
                       {" "}
                     </div>
                     {" "}
-                    <div className="elementor-element elementor-element-6038611 elementor-widget elementor-widget-html" data-id="6038611" data-element_type="widget" data-e-type="widget" data-widget_type="html.default">
+                    <div className="tdp-element tdp-element-6038611 tdp-widget tdp-widget-html" data-id="6038611" data-element_type="widget" data-e-type="widget" data-widget_type="html.default">
                       {" "}
                       {" "}
                     </div>
@@ -1500,11 +2217,11 @@ export default function PageHome({ path }: { path: string }) {
       <Footer988867 path={path} />
       <Popup9913 path={path} />
       <IdWidgetPostInfoCss path={path} />
-      <link rel="stylesheet" id="widget-icon-list-css" href="/wp-content/plugins/elementor/assets/css/widget-icon-list.min.css?ver=4.2.4" media="all" />
+      <link rel="stylesheet" id="widget-icon-list-css" href="/assets/plugins/tdp/assets/css/widget-icon-list.min.css?ver=4.2.4" media="all" />
       <IdEgeiroWhfab path={path} />
       <div className="pafe-break-point" data-pafe-break-point-md="767" data-pafe-break-point-lg="1024" data-pafe-ajax-url="/wp-admin/admin-ajax.php"></div>
-      <div data-pafe-form-builder-tinymce-upload="/wp-content/plugins/piotnet-addons-for-elementor-pro/inc/tinymce/tinymce-upload.php"></div>
-      <div data-pafe-plugin-url="/wp-content/plugins"></div>
+      <div data-pafe-form-builder-tinymce-upload="/assets/plugins/piotnet-addons-for-tdp-pro/inc/tinymce/tinymce-upload.php"></div>
+      <div data-pafe-plugin-url="/assets/plugins"></div>
     </>
   );
 }

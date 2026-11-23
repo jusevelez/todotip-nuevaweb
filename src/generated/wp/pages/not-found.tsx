@@ -14,21 +14,21 @@ export default function PageNotFound({ path }: { path: string }) {
     <>
       <SkipLink path={path} />
       <Header6979 path={path} />
-      <div data-elementor-type="error-404" data-elementor-id="7772" className="elementor elementor-7772 elementor-location-single" data-elementor-post-type="elementor_library">
+      <div data-tdp-type="error-404" data-tdp-id="7772" className="tdp tdp-7772 tdp-location-single" data-tdp-post-type="tdp_library">
         {" "}
-        <section className="elementor-section elementor-top-section elementor-element elementor-element-2a1c304 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="2a1c304" data-element_type="section" data-e-type="section">
+        <section className="tdp-section tdp-top-section tdp-element tdp-element-2a1c304 tdp-section-boxed tdp-section-height-default tdp-section-height-default" data-id="2a1c304" data-element_type="section" data-e-type="section">
           {" "}
-          <div className="elementor-container elementor-column-gap-default">
+          <div className="tdp-container tdp-column-gap-default">
             {" "}
-            <div className="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-b8177aa" data-id="b8177aa" data-element_type="column" data-e-type="column">
+            <div className="tdp-column tdp-col-50 tdp-top-column tdp-element tdp-element-b8177aa" data-id="b8177aa" data-element_type="column" data-e-type="column">
               {" "}
-              <div className="elementor-widget-wrap elementor-element-populated">
+              <div className="tdp-widget-wrap tdp-element-populated">
                 {" "}
-                <div className="elementor-element elementor-element-d6580ce elementor-view-default elementor-invisible elementor-widget elementor-widget-icon" data-id="d6580ce" data-element_type="widget" data-e-type="widget" data-settings={"{\"_animation\":\"slideInLeft\"}"} data-widget_type="icon.default">
+                <div className="tdp-element tdp-element-d6580ce tdp-view-default tdp-invisible tdp-widget tdp-widget-icon" data-id="d6580ce" data-element_type="widget" data-e-type="widget" data-settings={"{\"_animation\":\"slideInLeft\"}"} data-widget_type="icon.default">
                   {" "}
-                  <div className="elementor-icon-wrapper">
+                  <div className="tdp-icon-wrapper">
                     {" "}
-                    <div className="elementor-icon">
+                    <div className="tdp-icon">
                       {" "}
                       <svg xmlns="http://www.w3.org/2000/svg" height="558.232932" viewBox="0 0 500 558.232932" width="500">
                         <g fill="none" fillRule="evenodd">
@@ -190,23 +190,23 @@ export default function PageNotFound({ path }: { path: string }) {
               {" "}
             </div>
             {" "}
-            <div className="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-86316dc" data-id="86316dc" data-element_type="column" data-e-type="column">
+            <div className="tdp-column tdp-col-50 tdp-top-column tdp-element tdp-element-86316dc" data-id="86316dc" data-element_type="column" data-e-type="column">
               {" "}
-              <div className="elementor-widget-wrap elementor-element-populated">
+              <div className="tdp-widget-wrap tdp-element-populated">
                 {" "}
-                <div className="elementor-element elementor-element-ba40fbc elementor-widget__width-auto animated-slow elementor-invisible elementor-widget elementor-widget-counter" data-id="ba40fbc" data-element_type="widget" data-e-type="widget" data-settings={"{\"_animation\":\"fadeIn\",\"_animation_delay\":100}"} data-widget_type="counter.default">
+                <div className="tdp-element tdp-element-ba40fbc tdp-widget__width-auto animated-slow tdp-invisible tdp-widget tdp-widget-counter" data-id="ba40fbc" data-element_type="widget" data-e-type="widget" data-settings={"{\"_animation\":\"fadeIn\",\"_animation_delay\":100}"} data-widget_type="counter.default">
                   {" "}
-                  <div className="elementor-counter">
+                  <div className="tdp-counter">
                     {" "}
-                    <div className="elementor-counter-number-wrapper">
+                    <div className="tdp-counter-number-wrapper">
                       {" "}
-                      <span className="elementor-counter-number-prefix"></span>
+                      <span className="tdp-counter-number-prefix"></span>
                       {" "}
-                      <span className="elementor-counter-number" data-duration="700" data-to-value="404" data-from-value="0" data-delimiter=",">
+                      <span className="tdp-counter-number" data-duration="700" data-to-value="404" data-from-value="0" data-delimiter=",">
                         {"0"}
                       </span>
                       {" "}
-                      <span className="elementor-counter-number-suffix"></span>
+                      <span className="tdp-counter-number-suffix"></span>
                       {" "}
                     </div>
                     {" "}
@@ -214,15 +214,15 @@ export default function PageNotFound({ path }: { path: string }) {
                   {" "}
                 </div>
                 {" "}
-                <div className="elementor-element elementor-element-e6b0cdb animated-slow elementor-invisible elementor-widget elementor-widget-heading" data-id="e6b0cdb" data-element_type="widget" data-e-type="widget" data-settings={"{\"_animation\":\"fadeIn\",\"_animation_delay\":100}"} data-widget_type="heading.default">
+                <div className="tdp-element tdp-element-e6b0cdb animated-slow tdp-invisible tdp-widget tdp-widget-heading" data-id="e6b0cdb" data-element_type="widget" data-e-type="widget" data-settings={"{\"_animation\":\"fadeIn\",\"_animation_delay\":100}"} data-widget_type="heading.default">
                   {" "}
-                  <h2 className="elementor-heading-title elementor-size-default">
+                  <h2 className="tdp-heading-title tdp-size-default">
                     {"Esta página no existe"}
                   </h2>
                   {" "}
                 </div>
                 {" "}
-                <div className="elementor-element elementor-element-068454b animated-slow elementor-invisible elementor-widget elementor-widget-text-editor" data-id="068454b" data-element_type="widget" data-e-type="widget" data-settings={"{\"_animation\":\"fadeIn\",\"_animation_delay\":100}"} data-widget_type="text-editor.default">
+                <div className="tdp-element tdp-element-068454b animated-slow tdp-invisible tdp-widget tdp-widget-text-editor" data-id="068454b" data-element_type="widget" data-e-type="widget" data-settings={"{\"_animation\":\"fadeIn\",\"_animation_delay\":100}"} data-widget_type="text-editor.default">
                   {" "}
                   <p>
                     {"No podemos encontrar la página que buscas te sugerimos regresar a nuestra  "}
@@ -248,8 +248,8 @@ export default function PageNotFound({ path }: { path: string }) {
       <Popup1670 path={path} />
       <IdEgeiroWhfab path={path} />
       <div className="pafe-break-point" data-pafe-break-point-md="767" data-pafe-break-point-lg="1024" data-pafe-ajax-url="/wp-admin/admin-ajax.php"></div>
-      <div data-pafe-form-builder-tinymce-upload="/wp-content/plugins/piotnet-addons-for-elementor-pro/inc/tinymce/tinymce-upload.php"></div>
-      <div data-pafe-plugin-url="/wp-content/plugins"></div>
+      <div data-pafe-form-builder-tinymce-upload="/assets/plugins/piotnet-addons-for-tdp-pro/inc/tinymce/tinymce-upload.php"></div>
+      <div data-pafe-plugin-url="/assets/plugins"></div>
     </>
   );
 }

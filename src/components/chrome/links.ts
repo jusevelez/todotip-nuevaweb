@@ -7,8 +7,8 @@
 export type NavLink = { href: string; label: string };
 export type ProductLink = NavLink & { description: string; icon: string };
 
-export const LOGO_COLOR = "/wp-content/uploads/2023/07/logo-TodoIP.webp";
-export const LOGO_BLANCO = "/wp-content/uploads/2023/07/TODO-IP-PIEZA-LOGOTIPO-FINAL2019-negativo1.webp";
+export const LOGO_COLOR = "/assets/uploads/2023/07/logo-TodoIP.webp";
+export const LOGO_BLANCO = "/assets/uploads/2023/07/TODO-IP-PIEZA-LOGOTIPO-FINAL2019-negativo1.webp";
 
 export const WHATSAPP_HEADER =
   "https://api.whatsapp.com/send?phone=573009122820&text=Hola%2C%20ingrese%20por%20el%20link%20WhatsApp%2C%20necesito%20m%C3%A1s%20informaci%C3%B3n";

@@ -19,27 +19,27 @@ export default function PageReferidos({ path }: { path: string }) {
         {" "}
         <div className="page-content">
           {" "}
-          <div data-elementor-type="wp-page" data-elementor-id="990097" className="elementor elementor-990097" data-elementor-post-type="page">
+          <div data-tdp-type="page" data-tdp-id="990097" className="tdp tdp-990097" data-tdp-post-type="page">
             {" "}
-            <section className="elementor-section elementor-top-section elementor-element elementor-element-4e0627cf elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="4e0627cf" data-element_type="section" data-e-type="section" data-settings={"{\"background_background\":\"classic\"}"}>
+            <section className="tdp-section tdp-top-section tdp-element tdp-element-4e0627cf tdp-section-full_width tdp-section-height-default tdp-section-height-default" data-id="4e0627cf" data-element_type="section" data-e-type="section" data-settings={"{\"background_background\":\"classic\"}"}>
               {" "}
-              <div className="elementor-background-overlay"></div>
+              <div className="tdp-background-overlay"></div>
               {" "}
-              <div className="elementor-container elementor-column-gap-default">
+              <div className="tdp-container tdp-column-gap-default">
                 {" "}
-                <div className="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-38f685b9" data-id="38f685b9" data-element_type="column" data-e-type="column">
+                <div className="tdp-column tdp-col-50 tdp-top-column tdp-element tdp-element-38f685b9" data-id="38f685b9" data-element_type="column" data-e-type="column">
                   {" "}
-                  <div className="elementor-widget-wrap elementor-element-populated">
+                  <div className="tdp-widget-wrap tdp-element-populated">
                     {" "}
-                    <div className="elementor-element elementor-element-59ef3aaa elementor-widget elementor-widget-heading" data-id="59ef3aaa" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+                    <div className="tdp-element tdp-element-59ef3aaa tdp-widget tdp-widget-heading" data-id="59ef3aaa" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
                       {" "}
-                      <span className="elementor-heading-title elementor-size-default">
+                      <span className="tdp-heading-title tdp-size-default">
                         {"Plan de referidos"}
                       </span>
                       {" "}
                     </div>
                     {" "}
-                    <div className="elementor-element elementor-element-65a7d3aa elementor-widget__width-inherit elementor-widget elementor-widget-text-editor" data-id="65a7d3aa" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
+                    <div className="tdp-element tdp-element-65a7d3aa tdp-widget__width-inherit tdp-widget tdp-widget-text-editor" data-id="65a7d3aa" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
                       {" "}
                       <p>
                         {"¿Amas nuestros productos y soporte técnico? "}
@@ -47,17 +47,17 @@ export default function PageReferidos({ path }: { path: string }) {
                       {" "}
                     </div>
                     {" "}
-                    <div className="elementor-element elementor-element-6577697f elementor-widget__width-inherit elementor-widget elementor-widget-heading" data-id="6577697f" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+                    <div className="tdp-element tdp-element-6577697f tdp-widget__width-inherit tdp-widget tdp-widget-heading" data-id="6577697f" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
                       {" "}
-                      <span className="elementor-heading-title elementor-size-default">
+                      <span className="tdp-heading-title tdp-size-default">
                         {"Recomienda nuestras soluciones a empresas que puedan beneficiarse y disfruta de premios exclusivos para ti."}
                       </span>
                       {" "}
                     </div>
                     {" "}
-                    <div className="elementor-element elementor-element-5148a998 elementor-widget elementor-widget-heading" data-id="5148a998" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+                    <div className="tdp-element tdp-element-5148a998 tdp-widget tdp-widget-heading" data-id="5148a998" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
                       {" "}
-                      <span className="elementor-heading-title elementor-size-default">
+                      <span className="tdp-heading-title tdp-size-default">
                         <span>
                           {"* "}
                         </span>
@@ -66,17 +66,17 @@ export default function PageReferidos({ path }: { path: string }) {
                       {" "}
                     </div>
                     {" "}
-                    <section className="elementor-section elementor-inner-section elementor-element elementor-element-3a834bd7 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="3a834bd7" data-element_type="section" data-e-type="section">
+                    <section className="tdp-section tdp-inner-section tdp-element tdp-element-3a834bd7 tdp-section-boxed tdp-section-height-default tdp-section-height-default" data-id="3a834bd7" data-element_type="section" data-e-type="section">
                       {" "}
-                      <div className="elementor-container elementor-column-gap-default">
+                      <div className="tdp-container tdp-column-gap-default">
                         {" "}
-                        <div className="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-7b621a1e" data-id="7b621a1e" data-element_type="column" data-e-type="column">
+                        <div className="tdp-column tdp-col-50 tdp-inner-column tdp-element tdp-element-7b621a1e" data-id="7b621a1e" data-element_type="column" data-e-type="column">
                           {" "}
-                          <div className="elementor-widget-wrap elementor-element-populated">
+                          <div className="tdp-widget-wrap tdp-element-populated">
                             {" "}
-                            <div className="elementor-element elementor-element-1398c49b elementor-widget elementor-widget-image" data-id="1398c49b" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
+                            <div className="tdp-element tdp-element-1398c49b tdp-widget tdp-widget-image" data-id="1398c49b" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
                               {" "}
-                              <img decoding="async" width="140" height="132" src="/wp-content/uploads/2024/11/PREMIOS-1.webp" className="attachment-large size-large wp-image-990106" alt="PREMIOS 1" title="Referidos 1" />
+                              <img decoding="async" width="140" height="132" src="/assets/uploads/2024/11/PREMIOS-1.webp" className="attachment-large size-large img-990106" alt="PREMIOS 1" title="Referidos 1" />
                               {" "}
                             </div>
                             {" "}
@@ -84,13 +84,13 @@ export default function PageReferidos({ path }: { path: string }) {
                           {" "}
                         </div>
                         {" "}
-                        <div className="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-10e3c46" data-id="10e3c46" data-element_type="column" data-e-type="column">
+                        <div className="tdp-column tdp-col-50 tdp-inner-column tdp-element tdp-element-10e3c46" data-id="10e3c46" data-element_type="column" data-e-type="column">
                           {" "}
-                          <div className="elementor-widget-wrap elementor-element-populated">
+                          <div className="tdp-widget-wrap tdp-element-populated">
                             {" "}
-                            <div className="elementor-element elementor-element-a1a3341 elementor-widget elementor-widget-heading" data-id="a1a3341" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+                            <div className="tdp-element tdp-element-a1a3341 tdp-widget tdp-widget-heading" data-id="a1a3341" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
                               {" "}
-                              <span className="elementor-heading-title elementor-size-default">
+                              <span className="tdp-heading-title tdp-size-default">
                                 {"Dinero "}
                                 <b>
                                   {"en efectivo"}
@@ -107,17 +107,17 @@ export default function PageReferidos({ path }: { path: string }) {
                       {" "}
                     </section>
                     {" "}
-                    <section className="elementor-section elementor-inner-section elementor-element elementor-element-7daba588 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="7daba588" data-element_type="section" data-e-type="section">
+                    <section className="tdp-section tdp-inner-section tdp-element tdp-element-7daba588 tdp-section-boxed tdp-section-height-default tdp-section-height-default" data-id="7daba588" data-element_type="section" data-e-type="section">
                       {" "}
-                      <div className="elementor-container elementor-column-gap-default">
+                      <div className="tdp-container tdp-column-gap-default">
                         {" "}
-                        <div className="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-63318b3c" data-id="63318b3c" data-element_type="column" data-e-type="column">
+                        <div className="tdp-column tdp-col-50 tdp-inner-column tdp-element tdp-element-63318b3c" data-id="63318b3c" data-element_type="column" data-e-type="column">
                           {" "}
-                          <div className="elementor-widget-wrap elementor-element-populated">
+                          <div className="tdp-widget-wrap tdp-element-populated">
                             {" "}
-                            <div className="elementor-element elementor-element-68559a3b elementor-widget elementor-widget-image" data-id="68559a3b" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
+                            <div className="tdp-element tdp-element-68559a3b tdp-widget tdp-widget-image" data-id="68559a3b" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
                               {" "}
-                              <img loading="lazy" decoding="async" width="152" height="144" src="/wp-content/uploads/2024/11/PREMIOS-2.webp" className="attachment-large size-large wp-image-990107" alt="PREMIOS 2" title="Referidos 2" />
+                              <img loading="lazy" decoding="async" width="152" height="144" src="/assets/uploads/2024/11/PREMIOS-2.webp" className="attachment-large size-large img-990107" alt="PREMIOS 2" title="Referidos 2" />
                               {" "}
                             </div>
                             {" "}
@@ -125,13 +125,13 @@ export default function PageReferidos({ path }: { path: string }) {
                           {" "}
                         </div>
                         {" "}
-                        <div className="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-7b5b5aae" data-id="7b5b5aae" data-element_type="column" data-e-type="column">
+                        <div className="tdp-column tdp-col-50 tdp-inner-column tdp-element tdp-element-7b5b5aae" data-id="7b5b5aae" data-element_type="column" data-e-type="column">
                           {" "}
-                          <div className="elementor-widget-wrap elementor-element-populated">
+                          <div className="tdp-widget-wrap tdp-element-populated">
                             {" "}
-                            <div className="elementor-element elementor-element-179cfe17 elementor-widget elementor-widget-heading" data-id="179cfe17" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+                            <div className="tdp-element tdp-element-179cfe17 tdp-widget tdp-widget-heading" data-id="179cfe17" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
                               {" "}
-                              <span className="elementor-heading-title elementor-size-default">
+                              <span className="tdp-heading-title tdp-size-default">
                                 {"Noches "}
                                 <b>
                                   {"de cine"}
@@ -148,17 +148,17 @@ export default function PageReferidos({ path }: { path: string }) {
                       {" "}
                     </section>
                     {" "}
-                    <section className="elementor-section elementor-inner-section elementor-element elementor-element-fc9b403 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="fc9b403" data-element_type="section" data-e-type="section">
+                    <section className="tdp-section tdp-inner-section tdp-element tdp-element-fc9b403 tdp-section-boxed tdp-section-height-default tdp-section-height-default" data-id="fc9b403" data-element_type="section" data-e-type="section">
                       {" "}
-                      <div className="elementor-container elementor-column-gap-default">
+                      <div className="tdp-container tdp-column-gap-default">
                         {" "}
-                        <div className="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-15262d35" data-id="15262d35" data-element_type="column" data-e-type="column">
+                        <div className="tdp-column tdp-col-50 tdp-inner-column tdp-element tdp-element-15262d35" data-id="15262d35" data-element_type="column" data-e-type="column">
                           {" "}
-                          <div className="elementor-widget-wrap elementor-element-populated">
+                          <div className="tdp-widget-wrap tdp-element-populated">
                             {" "}
-                            <div className="elementor-element elementor-element-69c11fdb elementor-widget elementor-widget-image" data-id="69c11fdb" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
+                            <div className="tdp-element tdp-element-69c11fdb tdp-widget tdp-widget-image" data-id="69c11fdb" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
                               {" "}
-                              <img loading="lazy" decoding="async" width="137" height="143" src="/wp-content/uploads/2024/11/PREMIOS-3.webp" className="attachment-large size-large wp-image-990105" alt="PREMIOS 3" title="Referidos 3" />
+                              <img loading="lazy" decoding="async" width="137" height="143" src="/assets/uploads/2024/11/PREMIOS-3.webp" className="attachment-large size-large img-990105" alt="PREMIOS 3" title="Referidos 3" />
                               {" "}
                             </div>
                             {" "}
@@ -166,13 +166,13 @@ export default function PageReferidos({ path }: { path: string }) {
                           {" "}
                         </div>
                         {" "}
-                        <div className="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-248fc2d1" data-id="248fc2d1" data-element_type="column" data-e-type="column">
+                        <div className="tdp-column tdp-col-50 tdp-inner-column tdp-element tdp-element-248fc2d1" data-id="248fc2d1" data-element_type="column" data-e-type="column">
                           {" "}
-                          <div className="elementor-widget-wrap elementor-element-populated">
+                          <div className="tdp-widget-wrap tdp-element-populated">
                             {" "}
-                            <div className="elementor-element elementor-element-28ee48fa elementor-widget elementor-widget-heading" data-id="28ee48fa" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+                            <div className="tdp-element tdp-element-28ee48fa tdp-widget tdp-widget-heading" data-id="28ee48fa" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
                               {" "}
-                              <span className="elementor-heading-title elementor-size-default">
+                              <span className="tdp-heading-title tdp-size-default">
                                 {"Cenas"}
                                 <b>
                                   {" en restaurantes"}
@@ -189,9 +189,9 @@ export default function PageReferidos({ path }: { path: string }) {
                       {" "}
                     </section>
                     {" "}
-                    <div className="elementor-element elementor-element-5d4041e2 elementor-widget elementor-widget-heading" data-id="5d4041e2" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+                    <div className="tdp-element tdp-element-5d4041e2 tdp-widget tdp-widget-heading" data-id="5d4041e2" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
                       {" "}
-                      <span className="elementor-heading-title elementor-size-default">
+                      <span className="tdp-heading-title tdp-size-default">
                         <span>
                           {"* "}
                         </span>
@@ -204,21 +204,21 @@ export default function PageReferidos({ path }: { path: string }) {
                   {" "}
                 </div>
                 {" "}
-                <div className="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-5dc5206" data-id="5dc5206" data-element_type="column" data-e-type="column" data-settings={"{\"background_background\":\"classic\"}"}>
+                <div className="tdp-column tdp-col-50 tdp-top-column tdp-element tdp-element-5dc5206" data-id="5dc5206" data-element_type="column" data-e-type="column" data-settings={"{\"background_background\":\"classic\"}"}>
                   {" "}
-                  <div className="elementor-widget-wrap elementor-element-populated">
+                  <div className="tdp-widget-wrap tdp-element-populated">
                     {" "}
-                    <section className="elementor-section elementor-inner-section elementor-element elementor-element-60d37472 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="60d37472" data-element_type="section" data-e-type="section">
+                    <section className="tdp-section tdp-inner-section tdp-element tdp-element-60d37472 tdp-section-boxed tdp-section-height-default tdp-section-height-default" data-id="60d37472" data-element_type="section" data-e-type="section">
                       {" "}
-                      <div className="elementor-container elementor-column-gap-default">
+                      <div className="tdp-container tdp-column-gap-default">
                         {" "}
-                        <div className="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-4b563ae6" data-id="4b563ae6" data-element_type="column" data-e-type="column">
+                        <div className="tdp-column tdp-col-100 tdp-inner-column tdp-element tdp-element-4b563ae6" data-id="4b563ae6" data-element_type="column" data-e-type="column">
                           {" "}
-                          <div className="elementor-widget-wrap elementor-element-populated">
+                          <div className="tdp-widget-wrap tdp-element-populated">
                             {" "}
-                            <div className="elementor-element elementor-element-5ad3ec33 elementor-widget__width-inherit elementor-widget elementor-widget-heading" data-id="5ad3ec33" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+                            <div className="tdp-element tdp-element-5ad3ec33 tdp-widget__width-inherit tdp-widget tdp-widget-heading" data-id="5ad3ec33" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
                               {" "}
-                              <span className="elementor-heading-title elementor-size-default">
+                              <span className="tdp-heading-title tdp-size-default">
                                 {"Por favor, proporcione información correcta, llamaremos primero a su celular para confirmar datos."}
                               </span>
                               {" "}
@@ -232,28 +232,28 @@ export default function PageReferidos({ path }: { path: string }) {
                       {" "}
                     </section>
                     {" "}
-                    <section className="elementor-section elementor-inner-section elementor-element elementor-element-5367ad78 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="5367ad78" data-element_type="section" data-e-type="section">
+                    <section className="tdp-section tdp-inner-section tdp-element tdp-element-5367ad78 tdp-section-boxed tdp-section-height-default tdp-section-height-default" data-id="5367ad78" data-element_type="section" data-e-type="section">
                       {" "}
-                      <div className="elementor-container elementor-column-gap-default">
+                      <div className="tdp-container tdp-column-gap-default">
                         {" "}
-                        <div className="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-3a34155" data-id="3a34155" data-element_type="column" data-e-type="column">
+                        <div className="tdp-column tdp-col-50 tdp-inner-column tdp-element tdp-element-3a34155" data-id="3a34155" data-element_type="column" data-e-type="column">
                           {" "}
-                          <div className="elementor-widget-wrap elementor-element-populated">
+                          <div className="tdp-widget-wrap tdp-element-populated">
                             {" "}
-                            <div className="elementor-element elementor-element-7e7b4b62 elementor-widget elementor-widget-pafe-form-builder-field" data-id="7e7b4b62" data-element_type="widget" data-e-type="widget" data-widget_type="pafe-form-builder-field.default">
+                            <div className="tdp-element tdp-element-7e7b4b62 tdp-widget tdp-widget-pafe-form-builder-field" data-id="7e7b4b62" data-element_type="widget" data-e-type="widget" data-widget_type="pafe-form-builder-field.default">
                               {" "}
-                              <div className="elementor-widget-container">
+                              <div className="tdp-widget-container">
                                 {" "}
-                                <div className="elementor-form-fields-wrapper elementor-labels-above pafe-form-builder-field">
+                                <div className="tdp-form-fields-wrapper tdp-labels-above pafe-form-builder-field">
                                   {" "}
-                                  <div className="elementor-field-type-text elementor-field-group elementor-column elementor-field-group-nombre elementor-col-100 elementor-field-required elementor-mark-required">
+                                  <div className="tdp-field-type-text tdp-field-group tdp-column tdp-field-group-nombre tdp-col-100 tdp-field-required tdp-mark-required">
                                     {" "}
-                                    <label htmlFor="form-field-nombre" className="elementor-field-label">
+                                    <label htmlFor="form-field-nombre" className="tdp-field-label">
                                       {"Escribe tu nombre completo "}
                                     </label>
                                     <div data-pafe-form-builder-required=""></div>
                                     <div className="pafe-field-container">
-                                      <input size={1} className="elementor-field elementor-size- " type="text" name="form_fields[nombre]" id="form-field-nombre" maxLength={30} autoComplete="on" data-pafe-form-builder-default-value="" required={true} aria-required="true" data-pafe-form-builder-form-id="F_FORM_REFERIDOS" />
+                                      <input size={1} className="tdp-field tdp-size- " type="text" name="form_fields[nombre]" id="form-field-nombre" maxLength={30} autoComplete="on" data-pafe-form-builder-default-value="" required={true} aria-required="true" data-pafe-form-builder-form-id="F_FORM_REFERIDOS" />
                                     </div>
                                     {" "}
                                   </div>
@@ -264,20 +264,20 @@ export default function PageReferidos({ path }: { path: string }) {
                               {" "}
                             </div>
                             {" "}
-                            <div className="elementor-element elementor-element-5936348a elementor-widget elementor-widget-pafe-form-builder-field" data-id="5936348a" data-element_type="widget" data-e-type="widget" data-widget_type="pafe-form-builder-field.default">
+                            <div className="tdp-element tdp-element-5936348a tdp-widget tdp-widget-pafe-form-builder-field" data-id="5936348a" data-element_type="widget" data-e-type="widget" data-widget_type="pafe-form-builder-field.default">
                               {" "}
-                              <div className="elementor-widget-container">
+                              <div className="tdp-widget-container">
                                 {" "}
-                                <div className="elementor-form-fields-wrapper elementor-labels-above pafe-form-builder-field">
+                                <div className="tdp-form-fields-wrapper tdp-labels-above pafe-form-builder-field">
                                   {" "}
-                                  <div className="elementor-field-type-text elementor-field-group elementor-column elementor-field-group-nombre_referido elementor-col-100 elementor-field-required elementor-mark-required">
+                                  <div className="tdp-field-type-text tdp-field-group tdp-column tdp-field-group-nombre_referido tdp-col-100 tdp-field-required tdp-mark-required">
                                     {" "}
-                                    <label htmlFor="form-field-nombre_referido" className="elementor-field-label">
+                                    <label htmlFor="form-field-nombre_referido" className="tdp-field-label">
                                       {"Nombre completo de tu referido"}
                                     </label>
                                     <div data-pafe-form-builder-required=""></div>
                                     <div className="pafe-field-container">
-                                      <input size={1} className="elementor-field elementor-size- " type="text" name="form_fields[nombre_referido]" id="form-field-nombre_referido" maxLength={30} autoComplete="on" data-pafe-form-builder-default-value="" required={true} aria-required="true" data-pafe-form-builder-form-id="F_FORM_REFERIDOS" />
+                                      <input size={1} className="tdp-field tdp-size- " type="text" name="form_fields[nombre_referido]" id="form-field-nombre_referido" maxLength={30} autoComplete="on" data-pafe-form-builder-default-value="" required={true} aria-required="true" data-pafe-form-builder-form-id="F_FORM_REFERIDOS" />
                                     </div>
                                     {" "}
                                   </div>
@@ -292,24 +292,24 @@ export default function PageReferidos({ path }: { path: string }) {
                           {" "}
                         </div>
                         {" "}
-                        <div className="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-93a6385" data-id="93a6385" data-element_type="column" data-e-type="column">
+                        <div className="tdp-column tdp-col-50 tdp-inner-column tdp-element tdp-element-93a6385" data-id="93a6385" data-element_type="column" data-e-type="column">
                           {" "}
-                          <div className="elementor-widget-wrap elementor-element-populated">
+                          <div className="tdp-widget-wrap tdp-element-populated">
                             {" "}
-                            <div className="elementor-element elementor-element-9404df2 elementor-widget elementor-widget-pafe-form-builder-field" data-id="9404df2" data-element_type="widget" data-e-type="widget" data-widget_type="pafe-form-builder-field.default">
+                            <div className="tdp-element tdp-element-9404df2 tdp-widget tdp-widget-pafe-form-builder-field" data-id="9404df2" data-element_type="widget" data-e-type="widget" data-widget_type="pafe-form-builder-field.default">
                               {" "}
-                              <div className="elementor-widget-container">
+                              <div className="tdp-widget-container">
                                 {" "}
-                                <div className="elementor-form-fields-wrapper elementor-labels-above pafe-form-builder-field">
+                                <div className="tdp-form-fields-wrapper tdp-labels-above pafe-form-builder-field">
                                   {" "}
-                                  <div className="elementor-field-type-text elementor-field-group elementor-column elementor-field-group-celular elementor-col-100 elementor-field-required elementor-mark-required">
+                                  <div className="tdp-field-type-text tdp-field-group tdp-column tdp-field-group-celular tdp-col-100 tdp-field-required tdp-mark-required">
                                     {" "}
-                                    <label htmlFor="form-field-celular" className="elementor-field-label">
+                                    <label htmlFor="form-field-celular" className="tdp-field-label">
                                       {"Escribe tu número celular "}
                                     </label>
                                     <div data-pafe-form-builder-required=""></div>
                                     <div className="pafe-field-container">
-                                      <input size={1} className="elementor-field elementor-size- " type="text" name="form_fields[celular]" id="form-field-celular" maxLength={10} pattern={"[0-9]{10}"} autoComplete="on" data-pafe-form-builder-default-value="" required={true} aria-required="true" data-pafe-form-builder-form-id="F_FORM_REFERIDOS" data-invalid-message="Número celular debe contener 10 digitos" data-clear-validity="" />
+                                      <input size={1} className="tdp-field tdp-size- " type="text" name="form_fields[celular]" id="form-field-celular" maxLength={10} pattern={"[0-9]{10}"} autoComplete="on" data-pafe-form-builder-default-value="" required={true} aria-required="true" data-pafe-form-builder-form-id="F_FORM_REFERIDOS" data-invalid-message="Número celular debe contener 10 digitos" data-clear-validity="" />
                                     </div>
                                     {" "}
                                   </div>
@@ -320,20 +320,20 @@ export default function PageReferidos({ path }: { path: string }) {
                               {" "}
                             </div>
                             {" "}
-                            <div className="elementor-element elementor-element-5aff3be5 elementor-widget elementor-widget-pafe-form-builder-field" data-id="5aff3be5" data-element_type="widget" data-e-type="widget" data-widget_type="pafe-form-builder-field.default">
+                            <div className="tdp-element tdp-element-5aff3be5 tdp-widget tdp-widget-pafe-form-builder-field" data-id="5aff3be5" data-element_type="widget" data-e-type="widget" data-widget_type="pafe-form-builder-field.default">
                               {" "}
-                              <div className="elementor-widget-container">
+                              <div className="tdp-widget-container">
                                 {" "}
-                                <div className="elementor-form-fields-wrapper elementor-labels-above pafe-form-builder-field">
+                                <div className="tdp-form-fields-wrapper tdp-labels-above pafe-form-builder-field">
                                   {" "}
-                                  <div className="elementor-field-type-text elementor-field-group elementor-column elementor-field-group-cargo elementor-col-100 elementor-field-required elementor-mark-required">
+                                  <div className="tdp-field-type-text tdp-field-group tdp-column tdp-field-group-cargo tdp-col-100 tdp-field-required tdp-mark-required">
                                     {" "}
-                                    <label htmlFor="form-field-cargo" className="elementor-field-label">
+                                    <label htmlFor="form-field-cargo" className="tdp-field-label">
                                       {"¿Cuál es el cargo de tu referido?"}
                                     </label>
                                     <div data-pafe-form-builder-required=""></div>
                                     <div className="pafe-field-container">
-                                      <input size={1} className="elementor-field elementor-size- " type="text" name="form_fields[cargo]" id="form-field-cargo" maxLength={30} autoComplete="on" data-pafe-form-builder-default-value="" required={true} aria-required="true" data-pafe-form-builder-form-id="F_FORM_REFERIDOS" />
+                                      <input size={1} className="tdp-field tdp-size- " type="text" name="form_fields[cargo]" id="form-field-cargo" maxLength={30} autoComplete="on" data-pafe-form-builder-default-value="" required={true} aria-required="true" data-pafe-form-builder-form-id="F_FORM_REFERIDOS" />
                                     </div>
                                     {" "}
                                   </div>
@@ -352,28 +352,28 @@ export default function PageReferidos({ path }: { path: string }) {
                       {" "}
                     </section>
                     {" "}
-                    <section className="elementor-section elementor-inner-section elementor-element elementor-element-2fb2b7bb elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="2fb2b7bb" data-element_type="section" data-e-type="section">
+                    <section className="tdp-section tdp-inner-section tdp-element tdp-element-2fb2b7bb tdp-section-boxed tdp-section-height-default tdp-section-height-default" data-id="2fb2b7bb" data-element_type="section" data-e-type="section">
                       {" "}
-                      <div className="elementor-container elementor-column-gap-default">
+                      <div className="tdp-container tdp-column-gap-default">
                         {" "}
-                        <div className="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-dddcdb2" data-id="dddcdb2" data-element_type="column" data-e-type="column">
+                        <div className="tdp-column tdp-col-50 tdp-inner-column tdp-element tdp-element-dddcdb2" data-id="dddcdb2" data-element_type="column" data-e-type="column">
                           {" "}
-                          <div className="elementor-widget-wrap elementor-element-populated">
+                          <div className="tdp-widget-wrap tdp-element-populated">
                             {" "}
-                            <div className="elementor-element elementor-element-6f3b50bc elementor-widget elementor-widget-pafe-form-builder-field" data-id="6f3b50bc" data-element_type="widget" data-e-type="widget" data-widget_type="pafe-form-builder-field.default">
+                            <div className="tdp-element tdp-element-6f3b50bc tdp-widget tdp-widget-pafe-form-builder-field" data-id="6f3b50bc" data-element_type="widget" data-e-type="widget" data-widget_type="pafe-form-builder-field.default">
                               {" "}
-                              <div className="elementor-widget-container">
+                              <div className="tdp-widget-container">
                                 {" "}
-                                <div className="elementor-form-fields-wrapper elementor-labels-above pafe-form-builder-field">
+                                <div className="tdp-form-fields-wrapper tdp-labels-above pafe-form-builder-field">
                                   {" "}
-                                  <div className="elementor-field-type-text elementor-field-group elementor-column elementor-field-group-empresa elementor-col-100 elementor-field-required elementor-mark-required">
+                                  <div className="tdp-field-type-text tdp-field-group tdp-column tdp-field-group-empresa tdp-col-100 tdp-field-required tdp-mark-required">
                                     {" "}
-                                    <label htmlFor="form-field-empresa" className="elementor-field-label">
+                                    <label htmlFor="form-field-empresa" className="tdp-field-label">
                                       {"Nombre de la empresa"}
                                     </label>
                                     <div data-pafe-form-builder-required=""></div>
                                     <div className="pafe-field-container">
-                                      <input size={1} className="elementor-field elementor-size- " type="text" name="form_fields[empresa]" id="form-field-empresa" maxLength={30} autoComplete="on" data-pafe-form-builder-default-value="" required={true} aria-required="true" data-pafe-form-builder-form-id="F_FORM_REFERIDOS" />
+                                      <input size={1} className="tdp-field tdp-size- " type="text" name="form_fields[empresa]" id="form-field-empresa" maxLength={30} autoComplete="on" data-pafe-form-builder-default-value="" required={true} aria-required="true" data-pafe-form-builder-form-id="F_FORM_REFERIDOS" />
                                     </div>
                                     {" "}
                                   </div>
@@ -388,9 +388,9 @@ export default function PageReferidos({ path }: { path: string }) {
                           {" "}
                         </div>
                         {" "}
-                        <div className="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-6b97edce" data-id="6b97edce" data-element_type="column" data-e-type="column">
+                        <div className="tdp-column tdp-col-50 tdp-inner-column tdp-element tdp-element-6b97edce" data-id="6b97edce" data-element_type="column" data-e-type="column">
                           {" "}
-                          <div className="elementor-widget-wrap">
+                          <div className="tdp-widget-wrap">
                             {" "}
                           </div>
                           {" "}
@@ -400,23 +400,23 @@ export default function PageReferidos({ path }: { path: string }) {
                       {" "}
                     </section>
                     {" "}
-                    <section className="elementor-section elementor-inner-section elementor-element elementor-element-47868202 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="47868202" data-element_type="section" data-e-type="section">
+                    <section className="tdp-section tdp-inner-section tdp-element tdp-element-47868202 tdp-section-boxed tdp-section-height-default tdp-section-height-default" data-id="47868202" data-element_type="section" data-e-type="section">
                       {" "}
-                      <div className="elementor-container elementor-column-gap-default">
+                      <div className="tdp-container tdp-column-gap-default">
                         {" "}
-                        <div className="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-1a75ef70" data-id="1a75ef70" data-element_type="column" data-e-type="column">
+                        <div className="tdp-column tdp-col-50 tdp-inner-column tdp-element tdp-element-1a75ef70" data-id="1a75ef70" data-element_type="column" data-e-type="column">
                           {" "}
-                          <div className="elementor-widget-wrap elementor-element-populated">
+                          <div className="tdp-widget-wrap tdp-element-populated">
                             {" "}
-                            <div className="elementor-element elementor-element-69f1cdae elementor-widget elementor-widget-pafe-form-builder-field" data-id="69f1cdae" data-element_type="widget" data-e-type="widget" data-widget_type="pafe-form-builder-field.default">
+                            <div className="tdp-element tdp-element-69f1cdae tdp-widget tdp-widget-pafe-form-builder-field" data-id="69f1cdae" data-element_type="widget" data-e-type="widget" data-widget_type="pafe-form-builder-field.default">
                               {" "}
-                              <div className="elementor-widget-container">
+                              <div className="tdp-widget-container">
                                 {" "}
-                                <div className="elementor-form-fields-wrapper elementor-labels-above pafe-form-builder-field">
+                                <div className="tdp-form-fields-wrapper tdp-labels-above pafe-form-builder-field">
                                   {" "}
-                                  <div className="elementor-field-type-checkbox elementor-field-group elementor-column elementor-field-group-producto_interes elementor-col-100 elementor-field-required elementor-mark-required">
+                                  <div className="tdp-field-type-checkbox tdp-field-group tdp-column tdp-field-group-producto_interes tdp-col-100 tdp-field-required tdp-mark-required">
                                     {" "}
-                                    <label htmlFor="form-field-producto_interes" className="elementor-field-label">
+                                    <label htmlFor="form-field-producto_interes" className="tdp-field-label">
                                       {"Productos de interés (selección "}
                                       <br />
                                       {" múltiple) "}
@@ -424,43 +424,43 @@ export default function PageReferidos({ path }: { path: string }) {
                                     <div data-pafe-form-builder-required=""></div>
                                     <div className="pafe-field-container">
                                       <form>
-                                        <div className="elementor-field-subgroup  ">
-                                          <span className="elementor-field-option">
+                                        <div className="tdp-field-subgroup  ">
+                                          <span className="tdp-field-option">
                                             <input type="checkbox" value="Telefonía IP (empresarial y Callcenter)" data-value="Telefonía IP (empresarial y Callcenter)" id="form-field-producto_interes-0" name="form_fields[producto_interes][]" data-pafe-form-builder-default-value="" data-pafe-form-builder-form-id="F_FORM_REFERIDOS" data-clear-validity="" data-invalid-message="Selecciona un producto" />
                                             {" "}
                                             <label htmlFor="form-field-producto_interes-0" className="pafe-checkbox-label">
                                               {"Telefonía IP (empresarial y Callcenter)"}
                                             </label>
                                           </span>
-                                          <span className="elementor-field-option">
+                                          <span className="tdp-field-option">
                                             <input type="checkbox" value="PBX Móvil en Nube" data-value="PBX Móvil en Nube" id="form-field-producto_interes-1" name="form_fields[producto_interes][]" data-pafe-form-builder-default-value="" data-pafe-form-builder-form-id="F_FORM_REFERIDOS" data-clear-validity="" data-invalid-message="Selecciona un producto" />
                                             {" "}
                                             <label htmlFor="form-field-producto_interes-1" className="pafe-checkbox-label">
                                               {"PBX Móvil en Nube"}
                                             </label>
                                           </span>
-                                          <span className="elementor-field-option">
+                                          <span className="tdp-field-option">
                                             <input type="checkbox" value="Chatbot WhatsApp" data-value="Chatbot WhatsApp" id="form-field-producto_interes-2" name="form_fields[producto_interes][]" data-pafe-form-builder-default-value="" data-pafe-form-builder-form-id="F_FORM_REFERIDOS" data-clear-validity="" data-invalid-message="Selecciona un producto" />
                                             {" "}
                                             <label htmlFor="form-field-producto_interes-2" className="pafe-checkbox-label">
                                               {"Chatbot WhatsApp"}
                                             </label>
                                           </span>
-                                          <span className="elementor-field-option">
+                                          <span className="tdp-field-option">
                                             <input type="checkbox" value="Multiagente WhatsApp" data-value="Multiagente WhatsApp" id="form-field-producto_interes-3" name="form_fields[producto_interes][]" data-pafe-form-builder-default-value="" data-pafe-form-builder-form-id="F_FORM_REFERIDOS" data-clear-validity="" data-invalid-message="Selecciona un producto" />
                                             {" "}
                                             <label htmlFor="form-field-producto_interes-3" className="pafe-checkbox-label">
                                               {"Multiagente WhatsApp"}
                                             </label>
                                           </span>
-                                          <span className="elementor-field-option">
+                                          <span className="tdp-field-option">
                                             <input type="checkbox" value="WhatsApp e IVR para sector Salud" data-value="WhatsApp e IVR para sector Salud" id="form-field-producto_interes-4" name="form_fields[producto_interes][]" data-pafe-form-builder-default-value="" data-pafe-form-builder-form-id="F_FORM_REFERIDOS" data-clear-validity="" data-invalid-message="Selecciona un producto" />
                                             {" "}
                                             <label htmlFor="form-field-producto_interes-4" className="pafe-checkbox-label">
                                               {"WhatsApp e IVR para sector Salud"}
                                             </label>
                                           </span>
-                                          <span className="elementor-field-option">
+                                          <span className="tdp-field-option">
                                             <input type="checkbox" value="Clasificador de Leads y CRM" data-value="Clasificador de Leads y CRM" id="form-field-producto_interes-5" name="form_fields[producto_interes][]" data-pafe-form-builder-default-value="" data-pafe-form-builder-form-id="F_FORM_REFERIDOS" data-clear-validity="" data-invalid-message="Selecciona un producto" />
                                             {" "}
                                             <label htmlFor="form-field-producto_interes-5" className="pafe-checkbox-label">
@@ -483,13 +483,13 @@ export default function PageReferidos({ path }: { path: string }) {
                           {" "}
                         </div>
                         {" "}
-                        <div className="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-7f0958cf" data-id="7f0958cf" data-element_type="column" data-e-type="column">
+                        <div className="tdp-column tdp-col-50 tdp-inner-column tdp-element tdp-element-7f0958cf" data-id="7f0958cf" data-element_type="column" data-e-type="column">
                           {" "}
-                          <div className="elementor-widget-wrap elementor-element-populated">
+                          <div className="tdp-widget-wrap tdp-element-populated">
                             {" "}
-                            <div className="elementor-element elementor-element-676d587 elementor-align-left elementor-mobile-align-center elementor-widget elementor-widget-pafe-form-builder-submit" data-id="676d587" data-element_type="widget" data-e-type="widget" data-widget_type="pafe-form-builder-submit.default">
+                            <div className="tdp-element tdp-element-676d587 tdp-align-left tdp-mobile-align-center tdp-widget tdp-widget-pafe-form-builder-submit" data-id="676d587" data-element_type="widget" data-e-type="widget" data-widget_type="pafe-form-builder-submit.default">
                               {" "}
-                              <div className="elementor-widget-container">
+                              <div className="tdp-widget-container">
                                 {" "}
                                 <input type="hidden" name="post_id" value="990097" data-pafe-form-builder-hidden-form-id="F_FORM_REFERIDOS" />
                                 {" "}
@@ -499,17 +499,17 @@ export default function PageReferidos({ path }: { path: string }) {
                                 {" "}
                                 <input type="hidden" name="redirect" value="/registro-exitoso/" data-pafe-form-builder-hidden-form-id="F_FORM_REFERIDOS" data-pafe-form-builder-open-new-tab="" />
                                 {" "}
-                                <div className="elementor-button-wrapper">
+                                <div className="tdp-button-wrapper">
                                   {" "}
-                                  <button className="elementor-button pafe-form-builder-button elementor-size-sm" data-pafe-submit-keyboard="false" data-pafe-submit-hide="false" role="button" data-pafe-form-builder-required-text="Campo requerido" data-pafe-form-builder-submit-form-id="F_FORM_REFERIDOS" data-pafe-razor-payment="no" data-pafe-razor-sub="no">
+                                  <button className="tdp-button pafe-form-builder-button tdp-size-sm" data-pafe-submit-keyboard="false" data-pafe-submit-hide="false" role="button" data-pafe-form-builder-required-text="Campo requerido" data-pafe-form-builder-submit-form-id="F_FORM_REFERIDOS" data-pafe-razor-payment="no" data-pafe-razor-sub="no">
                                     {" "}
-                                    <span className="elementor-button-content-wrapper">
+                                    <span className="tdp-button-content-wrapper">
                                       {" "}
-                                      <span className="elementor-button-text elementor-form-spinner">
+                                      <span className="tdp-button-text tdp-form-spinner">
                                         <i className="fa fa-spinner fa-spin"></i>
                                       </span>
                                       {" "}
-                                      <span className="elementor-button-text">
+                                      <span className="tdp-button-text">
                                         {"REGISTRAR REFERIDO"}
                                       </span>
                                       {" "}
@@ -525,11 +525,11 @@ export default function PageReferidos({ path }: { path: string }) {
                                 {" "}
                                 <div className="pafe-form-builder-alert pafe-form-builder-alert--mail">
                                   {" "}
-                                  <div className="elementor-message elementor-message-success" role="alert" data-pafe-form-builder-message="Gracias por registrarte.">
+                                  <div className="tdp-message tdp-message-success" role="alert" data-pafe-form-builder-message="Gracias por registrarte.">
                                     {"Gracias por registrarte."}
                                   </div>
                                   {" "}
-                                  <div className="elementor-message elementor-message-danger" role="alert" data-pafe-form-builder-message="Ocurrio un error">
+                                  <div className="tdp-message tdp-message-danger" role="alert" data-pafe-form-builder-message="Ocurrio un error">
                                     {"Ocurrio un error"}
                                   </div>
                                   {" "}
@@ -548,25 +548,25 @@ export default function PageReferidos({ path }: { path: string }) {
                       {" "}
                     </section>
                     {" "}
-                    <section className="elementor-section elementor-inner-section elementor-element elementor-element-ea2318f elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="ea2318f" data-element_type="section" data-e-type="section">
+                    <section className="tdp-section tdp-inner-section tdp-element tdp-element-ea2318f tdp-section-boxed tdp-section-height-default tdp-section-height-default" data-id="ea2318f" data-element_type="section" data-e-type="section">
                       {" "}
-                      <div className="elementor-container elementor-column-gap-default">
+                      <div className="tdp-container tdp-column-gap-default">
                         {" "}
-                        <div className="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-7550033e" data-id="7550033e" data-element_type="column" data-e-type="column">
+                        <div className="tdp-column tdp-col-100 tdp-inner-column tdp-element tdp-element-7550033e" data-id="7550033e" data-element_type="column" data-e-type="column">
                           {" "}
-                          <div className="elementor-widget-wrap elementor-element-populated">
+                          <div className="tdp-widget-wrap tdp-element-populated">
                             {" "}
-                            <div className="elementor-element elementor-element-3e2d5a98 elementor-widget elementor-widget-pafe-form-builder-field" data-id="3e2d5a98" data-element_type="widget" data-e-type="widget" data-widget_type="pafe-form-builder-field.default">
+                            <div className="tdp-element tdp-element-3e2d5a98 tdp-widget tdp-widget-pafe-form-builder-field" data-id="3e2d5a98" data-element_type="widget" data-e-type="widget" data-widget_type="pafe-form-builder-field.default">
                               {" "}
-                              <div className="elementor-widget-container">
+                              <div className="tdp-widget-container">
                                 {" "}
-                                <div className="elementor-form-fields-wrapper elementor-labels-above pafe-form-builder-field">
+                                <div className="tdp-form-fields-wrapper tdp-labels-above pafe-form-builder-field">
                                   {" "}
-                                  <div className="elementor-field-type-hidden elementor-field-group elementor-column elementor-field-group-hidden elementor-col-100">
+                                  <div className="tdp-field-type-hidden tdp-field-group tdp-column tdp-field-group-hidden tdp-col-100">
                                     {" "}
                                     <div data-pafe-form-builder-required=""></div>
                                     <div className="pafe-field-container">
-                                      <input size={1} className="elementor-field elementor-size- " type="hidden" name="form_fields[hidden]" id="form-field-hidden" autoComplete="on" data-pafe-form-builder-default-value="FORM REFERIDOS" value="FORM REFERIDOS" data-pafe-form-builder-value="FORM REFERIDOS" data-pafe-form-builder-form-id="F_FORM_REFERIDOS" />
+                                      <input size={1} className="tdp-field tdp-size- " type="hidden" name="form_fields[hidden]" id="form-field-hidden" autoComplete="on" data-pafe-form-builder-default-value="FORM REFERIDOS" value="FORM REFERIDOS" data-pafe-form-builder-value="FORM REFERIDOS" data-pafe-form-builder-form-id="F_FORM_REFERIDOS" />
                                     </div>
                                     {" "}
                                   </div>
@@ -577,20 +577,20 @@ export default function PageReferidos({ path }: { path: string }) {
                               {" "}
                             </div>
                             {" "}
-                            <div className="elementor-element elementor-element-3976921c elementor-widget elementor-widget-pafe-form-builder-field" data-id="3976921c" data-element_type="widget" data-e-type="widget" data-widget_type="pafe-form-builder-field.default">
+                            <div className="tdp-element tdp-element-3976921c tdp-widget tdp-widget-pafe-form-builder-field" data-id="3976921c" data-element_type="widget" data-e-type="widget" data-widget_type="pafe-form-builder-field.default">
                               {" "}
-                              <div className="elementor-widget-container">
+                              <div className="tdp-widget-container">
                                 {" "}
-                                <div className="elementor-form-fields-wrapper elementor-labels-above pafe-form-builder-field">
+                                <div className="tdp-form-fields-wrapper tdp-labels-above pafe-form-builder-field">
                                   {" "}
-                                  <div className="elementor-field-type-hidden elementor-field-group elementor-column elementor-field-group-tipo_request elementor-col-100">
+                                  <div className="tdp-field-type-hidden tdp-field-group tdp-column tdp-field-group-tipo_request tdp-col-100">
                                     {" "}
-                                    <label htmlFor="form-field-tipo_request" className="elementor-field-label">
+                                    <label htmlFor="form-field-tipo_request" className="tdp-field-label">
                                       {"tipo_request"}
                                     </label>
                                     <div data-pafe-form-builder-required=""></div>
                                     <div className="pafe-field-container">
-                                      <input size={1} className="elementor-field elementor-size- " type="hidden" name="form_fields[tipo_request]" id="form-field-tipo_request" autoComplete="on" data-pafe-form-builder-default-value="CUSTOM_ACTION" value="CUSTOM_ACTION" data-pafe-form-builder-value="CUSTOM_ACTION" data-pafe-form-builder-form-id="F_FORM_REFERIDOS" />
+                                      <input size={1} className="tdp-field tdp-size- " type="hidden" name="form_fields[tipo_request]" id="form-field-tipo_request" autoComplete="on" data-pafe-form-builder-default-value="CUSTOM_ACTION" value="CUSTOM_ACTION" data-pafe-form-builder-value="CUSTOM_ACTION" data-pafe-form-builder-form-id="F_FORM_REFERIDOS" />
                                     </div>
                                     {" "}
                                   </div>
@@ -601,20 +601,20 @@ export default function PageReferidos({ path }: { path: string }) {
                               {" "}
                             </div>
                             {" "}
-                            <div className="elementor-element elementor-element-402e74b0 elementor-widget elementor-widget-pafe-form-builder-field" data-id="402e74b0" data-element_type="widget" data-e-type="widget" data-widget_type="pafe-form-builder-field.default">
+                            <div className="tdp-element tdp-element-402e74b0 tdp-widget tdp-widget-pafe-form-builder-field" data-id="402e74b0" data-element_type="widget" data-e-type="widget" data-widget_type="pafe-form-builder-field.default">
                               {" "}
-                              <div className="elementor-widget-container">
+                              <div className="tdp-widget-container">
                                 {" "}
-                                <div className="elementor-form-fields-wrapper elementor-labels-above pafe-form-builder-field">
+                                <div className="tdp-form-fields-wrapper tdp-labels-above pafe-form-builder-field">
                                   {" "}
-                                  <div className="elementor-field-type-hidden elementor-field-group elementor-column elementor-field-group-action elementor-col-100">
+                                  <div className="tdp-field-type-hidden tdp-field-group tdp-column tdp-field-group-action tdp-col-100">
                                     {" "}
-                                    <label htmlFor="form-field-action" className="elementor-field-label">
+                                    <label htmlFor="form-field-action" className="tdp-field-label">
                                       {"action"}
                                     </label>
                                     <div data-pafe-form-builder-required=""></div>
                                     <div className="pafe-field-container">
-                                      <input size={1} className="elementor-field elementor-size- " type="hidden" name="form_fields[action]" id="form-field-action" autoComplete="on" data-pafe-form-builder-default-value="CALIFICADOR_FORM" value="CALIFICADOR_FORM" data-pafe-form-builder-value="CALIFICADOR_FORM" data-pafe-form-builder-form-id="F_FORM_REFERIDOS" />
+                                      <input size={1} className="tdp-field tdp-size- " type="hidden" name="form_fields[action]" id="form-field-action" autoComplete="on" data-pafe-form-builder-default-value="CALIFICADOR_FORM" value="CALIFICADOR_FORM" data-pafe-form-builder-value="CALIFICADOR_FORM" data-pafe-form-builder-form-id="F_FORM_REFERIDOS" />
                                     </div>
                                     {" "}
                                   </div>
@@ -625,17 +625,17 @@ export default function PageReferidos({ path }: { path: string }) {
                               {" "}
                             </div>
                             {" "}
-                            <div className="elementor-element elementor-element-209420e1 elementor-widget elementor-widget-heading" data-id="209420e1" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+                            <div className="tdp-element tdp-element-209420e1 tdp-widget tdp-widget-heading" data-id="209420e1" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
                               {" "}
-                              <h2 className="elementor-heading-title elementor-size-default">
+                              <h2 className="tdp-heading-title tdp-size-default">
                                 {" Al hacer clic en el botón \"Registrar Referido\" estás aceptando nuestra"}
                               </h2>
                               {" "}
                             </div>
                             {" "}
-                            <div className="elementor-element elementor-element-13ad65e3 elementor-widget elementor-widget-heading" data-id="13ad65e3" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+                            <div className="tdp-element tdp-element-13ad65e3 tdp-widget tdp-widget-heading" data-id="13ad65e3" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
                               {" "}
-                              <h2 className="elementor-heading-title elementor-size-default">
+                              <h2 className="tdp-heading-title tdp-size-default">
                                 <a href="/aviso-de-privacidad/" target="_blank" rel="nofollow">
                                   {"Política de tratamiento de datos"}
                                 </a>
@@ -670,8 +670,8 @@ export default function PageReferidos({ path }: { path: string }) {
       <Popup1670 path={path} />
       <IdEgeiroWhfab path={path} />
       <div className="pafe-break-point" data-pafe-break-point-md="767" data-pafe-break-point-lg="1024" data-pafe-ajax-url="/wp-admin/admin-ajax.php"></div>
-      <div data-pafe-form-builder-tinymce-upload="/wp-content/plugins/piotnet-addons-for-elementor-pro/inc/tinymce/tinymce-upload.php"></div>
-      <div data-pafe-plugin-url="/wp-content/plugins"></div>
+      <div data-pafe-form-builder-tinymce-upload="/assets/plugins/piotnet-addons-for-tdp-pro/inc/tinymce/tinymce-upload.php"></div>
+      <div data-pafe-plugin-url="/assets/plugins"></div>
     </>
   );
 }

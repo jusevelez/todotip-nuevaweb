@@ -14,39 +14,39 @@ export default function PageRevolucionamosLaComunicacionOmnicanalLanzamientoDeNu
     <>
       <SkipLink path={path} />
       <Header6979 path={path} />
-      <div data-elementor-type="single-post" data-elementor-id="990945" className="elementor elementor-990945 elementor-location-single post-990687 post type-post status-publish format-standard has-post-thumbnail hentry category-analysis tag-sin-cta" data-elementor-post-type="elementor_library">
+      <div data-tdp-type="single-post" data-tdp-id="990945" className="tdp tdp-990945 tdp-location-single post-990687 post type-post status-publish format-standard has-post-thumbnail hentry category-analysis tag-sin-cta" data-tdp-post-type="tdp_library">
         {" "}
-        <section className="elementor-section elementor-top-section elementor-element elementor-element-0836a56 elementor-section-full_width elementor-section-content-middle elementor-section-height-default elementor-section-height-default" data-id="0836a56" data-element_type="section" data-e-type="section" data-settings={"{\"background_background\":\"classic\"}"}>
+        <section className="tdp-section tdp-top-section tdp-element tdp-element-0836a56 tdp-section-full_width tdp-section-content-middle tdp-section-height-default tdp-section-height-default" data-id="0836a56" data-element_type="section" data-e-type="section" data-settings={"{\"background_background\":\"classic\"}"}>
           {" "}
-          <div className="elementor-background-overlay"></div>
+          <div className="tdp-background-overlay"></div>
           {" "}
-          <div className="elementor-container elementor-column-gap-no">
+          <div className="tdp-container tdp-column-gap-no">
             {" "}
-            <div className="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-8c6d3d3" data-id="8c6d3d3" data-element_type="column" data-e-type="column" data-settings={"{\"background_background\":\"classic\"}"}>
+            <div className="tdp-column tdp-col-100 tdp-top-column tdp-element tdp-element-8c6d3d3" data-id="8c6d3d3" data-element_type="column" data-e-type="column" data-settings={"{\"background_background\":\"classic\"}"}>
               {" "}
-              <div className="elementor-widget-wrap elementor-element-populated">
+              <div className="tdp-widget-wrap tdp-element-populated">
                 {" "}
-                <section className="elementor-section elementor-inner-section elementor-element elementor-element-e13df0c elementor-section-height-min-height elementor-section-content-bottom elementor-section-boxed elementor-section-height-default" data-id="e13df0c" data-element_type="section" data-e-type="section">
+                <section className="tdp-section tdp-inner-section tdp-element tdp-element-e13df0c tdp-section-height-min-height tdp-section-content-bottom tdp-section-boxed tdp-section-height-default" data-id="e13df0c" data-element_type="section" data-e-type="section">
                   {" "}
-                  <div className="elementor-container elementor-column-gap-no">
+                  <div className="tdp-container tdp-column-gap-no">
                     {" "}
-                    <div className="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-61ca081" data-id="61ca081" data-element_type="column" data-e-type="column">
+                    <div className="tdp-column tdp-col-50 tdp-inner-column tdp-element tdp-element-61ca081" data-id="61ca081" data-element_type="column" data-e-type="column">
                       {" "}
-                      <div className="elementor-widget-wrap elementor-element-populated">
+                      <div className="tdp-widget-wrap tdp-element-populated">
                         {" "}
-                        <div className="elementor-element elementor-element-a4f74c4 elementor-align-start elementor-widget__width-auto elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="a4f74c4" data-element_type="widget" data-e-type="widget" data-widget_type="icon-list.default">
+                        <div className="tdp-element tdp-element-a4f74c4 tdp-align-start tdp-widget__width-auto tdp-icon-list--layout-traditional tdp-list-item-link-full_width tdp-widget tdp-widget-icon-list" data-id="a4f74c4" data-element_type="widget" data-e-type="widget" data-widget_type="icon-list.default">
                           {" "}
-                          <ul className="elementor-icon-list-items">
+                          <ul className="tdp-icon-list-items">
                             {" "}
-                            <li className="elementor-icon-list-item">
+                            <li className="tdp-icon-list-item">
                               {" "}
-                              <span className="elementor-icon-list-icon">
+                              <span className="tdp-icon-list-icon">
                                 {" "}
                                 <i aria-hidden="true" className="vamtamtheme- vamtam-theme-brand-symbol"></i>
                                 {" "}
                               </span>
                               {" "}
-                              <span className="elementor-icon-list-text">
+                              <span className="tdp-icon-list-text">
                                 <span>
                                   {"Omnicanal"}
                                 </span>
@@ -58,9 +58,9 @@ export default function PageRevolucionamosLaComunicacionOmnicanalLanzamientoDeNu
                           {" "}
                         </div>
                         {" "}
-                        <div className="elementor-element elementor-element-608f714 elementor-widget elementor-widget-theme-post-title elementor-page-title elementor-widget-heading" data-id="608f714" data-element_type="widget" data-e-type="widget" data-settings={"{\"_animation_tablet\":\"none\"}"} data-widget_type="theme-post-title.default">
+                        <div className="tdp-element tdp-element-608f714 tdp-widget tdp-widget-theme-post-title tdp-page-title tdp-widget-heading" data-id="608f714" data-element_type="widget" data-e-type="widget" data-settings={"{\"_animation_tablet\":\"none\"}"} data-widget_type="theme-post-title.default">
                           {" "}
-                          <h1 className="elementor-heading-title elementor-size-default">
+                          <h1 className="tdp-heading-title tdp-size-default">
                             {"Revolucionamos la comunicación omnicanal: lanzamiento de nuestras nuevas soluciones."}
                           </h1>
                           {" "}
@@ -70,9 +70,9 @@ export default function PageRevolucionamosLaComunicacionOmnicanalLanzamientoDeNu
                       {" "}
                     </div>
                     {" "}
-                    <div className="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-048fdb8" data-id="048fdb8" data-element_type="column" data-e-type="column">
+                    <div className="tdp-column tdp-col-50 tdp-inner-column tdp-element tdp-element-048fdb8" data-id="048fdb8" data-element_type="column" data-e-type="column">
                       {" "}
-                      <div className="elementor-widget-wrap">
+                      <div className="tdp-widget-wrap">
                         {" "}
                       </div>
                       {" "}
@@ -90,15 +90,15 @@ export default function PageRevolucionamosLaComunicacionOmnicanalLanzamientoDeNu
           {" "}
         </section>
         {" "}
-        <section className="elementor-section elementor-top-section elementor-element elementor-element-c524c07 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="c524c07" data-element_type="section" data-e-type="section" data-settings={"{\"background_background\":\"classic\"}"}>
+        <section className="tdp-section tdp-top-section tdp-element tdp-element-c524c07 tdp-section-boxed tdp-section-height-default tdp-section-height-default" data-id="c524c07" data-element_type="section" data-e-type="section" data-settings={"{\"background_background\":\"classic\"}"}>
           {" "}
-          <div className="elementor-container elementor-column-gap-no">
+          <div className="tdp-container tdp-column-gap-no">
             {" "}
-            <div className="elementor-column elementor-col-66 elementor-top-column elementor-element elementor-element-3e2d622" data-id="3e2d622" data-element_type="column" data-e-type="column">
+            <div className="tdp-column tdp-col-66 tdp-top-column tdp-element tdp-element-3e2d622" data-id="3e2d622" data-element_type="column" data-e-type="column">
               {" "}
-              <div className="elementor-widget-wrap elementor-element-populated">
+              <div className="tdp-widget-wrap tdp-element-populated">
                 {" "}
-                <div className="elementor-element elementor-element-24d3622 elementor-widget elementor-widget-theme-post-content" data-id="24d3622" data-element_type="widget" data-e-type="widget" data-widget_type="theme-post-content.default">
+                <div className="tdp-element tdp-element-24d3622 tdp-widget tdp-widget-theme-post-content" data-id="24d3622" data-element_type="widget" data-e-type="widget" data-widget_type="theme-post-content.default">
                   {" "}
                   <p className="wp-block-paragraph">
                     <strong>
@@ -111,7 +111,7 @@ export default function PageRevolucionamosLaComunicacionOmnicanalLanzamientoDeNu
                   </p>
                   {" "}
                   <figure className="wp-block-image size-large">
-                    <img fetchPriority="high" decoding="async" width="1024" height="683" src="/wp-content/uploads/2024/12/Evento-3-1536x1024-1-1024x683.jpg" alt="Evento 3 1536x1024 1" className="wp-image-990689" title="Revolucionamos la comunicación omnicanal: lanzamiento de nuestras nuevas soluciones. 1" srcSet="/wp-content/uploads/2024/12/Evento-3-1536x1024-1-1024x683.jpg 1024w, /wp-content/uploads/2024/12/Evento-3-1536x1024-1-300x200.jpg 300w, /wp-content/uploads/2024/12/Evento-3-1536x1024-1-768x512.jpg 768w, /wp-content/uploads/2024/12/Evento-3-1536x1024-1.jpg 1536w" sizes="(max-width: 1024px) 100vw, 1024px" />
+                    <img fetchPriority="high" decoding="async" width="1024" height="683" src="/assets/uploads/2024/12/Evento-3-1536x1024-1-1024x683.jpg" alt="Evento 3 1536x1024 1" className="img-990689" title="Revolucionamos la comunicación omnicanal: lanzamiento de nuestras nuevas soluciones. 1" srcSet="/assets/uploads/2024/12/Evento-3-1536x1024-1-1024x683.jpg 1024w, /assets/uploads/2024/12/Evento-3-1536x1024-1-300x200.jpg 300w, /assets/uploads/2024/12/Evento-3-1536x1024-1-768x512.jpg 768w, /assets/uploads/2024/12/Evento-3-1536x1024-1.jpg 1536w" sizes="(max-width: 1024px) 100vw, 1024px" />
                   </figure>
                   {" "}
                   <p className="wp-block-paragraph">
@@ -135,7 +135,7 @@ export default function PageRevolucionamosLaComunicacionOmnicanalLanzamientoDeNu
                     <div className="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
                       {" "}
                       <figure className="wp-block-image size-large">
-                        <img decoding="async" width="1024" height="683" src="/wp-content/uploads/2024/12/Evento-2-1536x1024-1-1024x683.jpg" alt="Evento 2 1536x1024 1" className="wp-image-990690" title="Revolucionamos la comunicación omnicanal: lanzamiento de nuestras nuevas soluciones. 2" srcSet="/wp-content/uploads/2024/12/Evento-2-1536x1024-1-1024x683.jpg 1024w, /wp-content/uploads/2024/12/Evento-2-1536x1024-1-300x200.jpg 300w, /wp-content/uploads/2024/12/Evento-2-1536x1024-1-768x512.jpg 768w, /wp-content/uploads/2024/12/Evento-2-1536x1024-1.jpg 1536w" sizes="(max-width: 1024px) 100vw, 1024px" />
+                        <img decoding="async" width="1024" height="683" src="/assets/uploads/2024/12/Evento-2-1536x1024-1-1024x683.jpg" alt="Evento 2 1536x1024 1" className="img-990690" title="Revolucionamos la comunicación omnicanal: lanzamiento de nuestras nuevas soluciones. 2" srcSet="/assets/uploads/2024/12/Evento-2-1536x1024-1-1024x683.jpg 1024w, /assets/uploads/2024/12/Evento-2-1536x1024-1-300x200.jpg 300w, /assets/uploads/2024/12/Evento-2-1536x1024-1-768x512.jpg 768w, /assets/uploads/2024/12/Evento-2-1536x1024-1.jpg 1536w" sizes="(max-width: 1024px) 100vw, 1024px" />
                       </figure>
                       {" "}
                     </div>
@@ -143,7 +143,7 @@ export default function PageRevolucionamosLaComunicacionOmnicanalLanzamientoDeNu
                     <div className="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
                       {" "}
                       <figure className="wp-block-image size-large">
-                        <img decoding="async" width="1024" height="683" src="/wp-content/uploads/2024/12/Evento-1-1536x1024-1-1024x683.jpg" alt="Evento 1 1536x1024 1" className="wp-image-990691" title="Revolucionamos la comunicación omnicanal: lanzamiento de nuestras nuevas soluciones. 3" srcSet="/wp-content/uploads/2024/12/Evento-1-1536x1024-1-1024x683.jpg 1024w, /wp-content/uploads/2024/12/Evento-1-1536x1024-1-300x200.jpg 300w, /wp-content/uploads/2024/12/Evento-1-1536x1024-1-768x512.jpg 768w, /wp-content/uploads/2024/12/Evento-1-1536x1024-1.jpg 1536w" sizes="(max-width: 1024px) 100vw, 1024px" />
+                        <img decoding="async" width="1024" height="683" src="/assets/uploads/2024/12/Evento-1-1536x1024-1-1024x683.jpg" alt="Evento 1 1536x1024 1" className="img-990691" title="Revolucionamos la comunicación omnicanal: lanzamiento de nuestras nuevas soluciones. 3" srcSet="/assets/uploads/2024/12/Evento-1-1536x1024-1-1024x683.jpg 1024w, /assets/uploads/2024/12/Evento-1-1536x1024-1-300x200.jpg 300w, /assets/uploads/2024/12/Evento-1-1536x1024-1-768x512.jpg 768w, /assets/uploads/2024/12/Evento-1-1536x1024-1.jpg 1536w" sizes="(max-width: 1024px) 100vw, 1024px" />
                       </figure>
                       {" "}
                     </div>
@@ -160,9 +160,9 @@ export default function PageRevolucionamosLaComunicacionOmnicanalLanzamientoDeNu
               {" "}
             </div>
             {" "}
-            <div className="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-cd064e1" data-id="cd064e1" data-element_type="column" data-e-type="column">
+            <div className="tdp-column tdp-col-33 tdp-top-column tdp-element tdp-element-cd064e1" data-id="cd064e1" data-element_type="column" data-e-type="column">
               {" "}
-              <div className="elementor-widget-wrap">
+              <div className="tdp-widget-wrap">
                 {" "}
               </div>
               {" "}
@@ -180,8 +180,8 @@ export default function PageRevolucionamosLaComunicacionOmnicanalLanzamientoDeNu
       <style href="wpb-d5007283f7" precedence="wp-body">{".wp-container-core-columns-is-layout-7387b849{flex-wrap:nowrap;}\n/*# sourceURL=core-block-supports-inline-css */"}</style>
       <IdEgeiroWhfab path={path} />
       <div className="pafe-break-point" data-pafe-break-point-md="767" data-pafe-break-point-lg="1024" data-pafe-ajax-url="/wp-admin/admin-ajax.php"></div>
-      <div data-pafe-form-builder-tinymce-upload="/wp-content/plugins/piotnet-addons-for-elementor-pro/inc/tinymce/tinymce-upload.php"></div>
-      <div data-pafe-plugin-url="/wp-content/plugins"></div>
+      <div data-pafe-form-builder-tinymce-upload="/assets/plugins/piotnet-addons-for-tdp-pro/inc/tinymce/tinymce-upload.php"></div>
+      <div data-pafe-plugin-url="/assets/plugins"></div>
     </>
   );
 }

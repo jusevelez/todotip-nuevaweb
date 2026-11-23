@@ -8,31 +8,31 @@ export default function PageRegistroExitoso({ path }: { path: string }) {
   void path;
   return (
     <>
-      <div data-elementor-type="wp-page" data-elementor-id="990112" className="elementor elementor-990112" data-elementor-post-type="page">
+      <div data-tdp-type="page" data-tdp-id="990112" className="tdp tdp-990112" data-tdp-post-type="page">
         {" "}
-        <div className="elementor-element elementor-element-48fc529 e-flex e-con-boxed e-con e-parent" data-id="48fc529" data-element_type="container" data-e-type="container">
+        <div className="tdp-element tdp-element-48fc529 e-flex e-con-boxed e-con e-parent" data-id="48fc529" data-element_type="container" data-e-type="container">
           {" "}
           <div className="e-con-inner">
             {" "}
-            <div className="elementor-element elementor-element-49d8693 elementor-widget elementor-widget-image" data-id="49d8693" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
+            <div className="tdp-element tdp-element-49d8693 tdp-widget tdp-widget-image" data-id="49d8693" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
               {" "}
-              <img decoding="async" width="272" height="111" src="/wp-content/uploads/2023/07/logo-TodoIP.webp" className="attachment-large size-large wp-image-988449" alt="Logotipo de TodoIP" title="Registro Exitoso 1" />
+              <img decoding="async" width="272" height="111" src="/assets/uploads/2023/07/logo-TodoIP.webp" className="attachment-large size-large img-988449" alt="Logotipo de TodoIP" title="Registro Exitoso 1" />
               {" "}
             </div>
             {" "}
-            <div className="elementor-element elementor-element-0a97fa2 elementor-align-center elementor-widget__width-initial elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="0a97fa2" data-element_type="widget" data-e-type="widget" data-widget_type="icon-list.default">
+            <div className="tdp-element tdp-element-0a97fa2 tdp-align-center tdp-widget__width-initial tdp-icon-list--layout-traditional tdp-list-item-link-full_width tdp-widget tdp-widget-icon-list" data-id="0a97fa2" data-element_type="widget" data-e-type="widget" data-widget_type="icon-list.default">
               {" "}
-              <ul className="elementor-icon-list-items">
+              <ul className="tdp-icon-list-items">
                 {" "}
-                <li className="elementor-icon-list-item">
+                <li className="tdp-icon-list-item">
                   {" "}
-                  <span className="elementor-icon-list-icon">
+                  <span className="tdp-icon-list-icon">
                     {" "}
                     <i aria-hidden="true" className="vamtamtheme- vamtam-theme-brand-symbol"></i>
                     {" "}
                   </span>
                   {" "}
-                  <span className="elementor-icon-list-text">
+                  <span className="tdp-icon-list-text">
                     {"Gracias por registrarte "}
                   </span>
                   {" "}
@@ -42,25 +42,25 @@ export default function PageRegistroExitoso({ path }: { path: string }) {
               {" "}
             </div>
             {" "}
-            <div className="elementor-element elementor-element-1e17502 elementor-widget elementor-widget-heading" data-id="1e17502" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+            <div className="tdp-element tdp-element-1e17502 tdp-widget tdp-widget-heading" data-id="1e17502" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
               {" "}
-              <div className="elementor-heading-title elementor-size-default">
+              <div className="tdp-heading-title tdp-size-default">
                 {"Enlaces de Interés"}
               </div>
               {" "}
             </div>
             {" "}
-            <div className="elementor-element elementor-element-701a454 e-con-full e-flex e-con e-child" data-id="701a454" data-element_type="container" data-e-type="container">
+            <div className="tdp-element tdp-element-701a454 e-con-full e-flex e-con e-child" data-id="701a454" data-element_type="container" data-e-type="container">
               {" "}
-              <div className="elementor-element elementor-element-4c8b930 e-con-full e-flex e-con e-child" data-id="4c8b930" data-element_type="container" data-e-type="container">
+              <div className="tdp-element tdp-element-4c8b930 e-con-full e-flex e-con e-child" data-id="4c8b930" data-element_type="container" data-e-type="container">
                 {" "}
-                <div className="elementor-element elementor-element-572cba9 elementor-align-justify elementor-widget elementor-widget-button" data-id="572cba9" data-element_type="widget" data-e-type="widget" data-widget_type="button.default">
+                <div className="tdp-element tdp-element-572cba9 tdp-align-justify tdp-widget tdp-widget-button" data-id="572cba9" data-element_type="widget" data-e-type="widget" data-widget_type="button.default">
                   {" "}
-                  <a className="elementor-button elementor-button-link elementor-size-sm" href={"https://api.whatsapp.com/send?phone=573009122820&text=Hola%2C%20ingrese%20por%20el%20formulario%2C%20necesito%20m%C3%A1s%20informaci%C3%B3n"} target="_blank" rel="nofollow noopener">
+                  <a className="tdp-button tdp-button-link tdp-size-sm" href={"https://api.whatsapp.com/send?phone=573009122820&text=Hola%2C%20ingrese%20por%20el%20formulario%2C%20necesito%20m%C3%A1s%20informaci%C3%B3n"} target="_blank" rel="nofollow noopener">
                     {" "}
-                    <span className="elementor-button-content-wrapper">
+                    <span className="tdp-button-content-wrapper">
                       {" "}
-                      <span className="elementor-button-text">
+                      <span className="tdp-button-text">
                         {"Hablar con un Asesor"}
                       </span>
                       {" "}
@@ -72,15 +72,15 @@ export default function PageRegistroExitoso({ path }: { path: string }) {
                 {" "}
               </div>
               {" "}
-              <div className="elementor-element elementor-element-415d802 e-con-full e-flex e-con e-child" data-id="415d802" data-element_type="container" data-e-type="container">
+              <div className="tdp-element tdp-element-415d802 e-con-full e-flex e-con e-child" data-id="415d802" data-element_type="container" data-e-type="container">
                 {" "}
-                <div className="elementor-element elementor-element-a47604d elementor-align-justify elementor-widget elementor-widget-button" data-id="a47604d" data-element_type="widget" data-e-type="widget" data-widget_type="button.default">
+                <div className="tdp-element tdp-element-a47604d tdp-align-justify tdp-widget tdp-widget-button" data-id="a47604d" data-element_type="widget" data-e-type="widget" data-widget_type="button.default">
                   {" "}
-                  <a className="elementor-button elementor-button-link elementor-size-sm" href="/referidos/">
+                  <a className="tdp-button tdp-button-link tdp-size-sm" href="/referidos/">
                     {" "}
-                    <span className="elementor-button-content-wrapper">
+                    <span className="tdp-button-content-wrapper">
                       {" "}
-                      <span className="elementor-button-text">
+                      <span className="tdp-button-text">
                         {"Refiere y Gana"}
                       </span>
                       {" "}
@@ -92,15 +92,15 @@ export default function PageRegistroExitoso({ path }: { path: string }) {
                 {" "}
               </div>
               {" "}
-              <div className="elementor-element elementor-element-0d05ddb e-con-full e-flex e-con e-child" data-id="0d05ddb" data-element_type="container" data-e-type="container">
+              <div className="tdp-element tdp-element-0d05ddb e-con-full e-flex e-con e-child" data-id="0d05ddb" data-element_type="container" data-e-type="container">
                 {" "}
-                <div className="elementor-element elementor-element-7ce3621 elementor-align-justify elementor-widget elementor-widget-button" data-id="7ce3621" data-element_type="widget" data-e-type="widget" data-widget_type="button.default">
+                <div className="tdp-element tdp-element-7ce3621 tdp-align-justify tdp-widget tdp-widget-button" data-id="7ce3621" data-element_type="widget" data-e-type="widget" data-widget_type="button.default">
                   {" "}
-                  <a className="elementor-button elementor-button-link elementor-size-sm" href="/">
+                  <a className="tdp-button tdp-button-link tdp-size-sm" href="/">
                     {" "}
-                    <span className="elementor-button-content-wrapper">
+                    <span className="tdp-button-content-wrapper">
                       {" "}
-                      <span className="elementor-button-text">
+                      <span className="tdp-button-text">
                         {"Ir al Inicio "}
                       </span>
                       {" "}
@@ -114,11 +114,11 @@ export default function PageRegistroExitoso({ path }: { path: string }) {
               {" "}
             </div>
             {" "}
-            <div className="elementor-element elementor-element-9ad0564 elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="9ad0564" data-element_type="widget" data-e-type="widget" data-widget_type="divider.default">
+            <div className="tdp-element tdp-element-9ad0564 tdp-widget-divider--view-line tdp-widget tdp-widget-divider" data-id="9ad0564" data-element_type="widget" data-e-type="widget" data-widget_type="divider.default">
               {" "}
-              <div className="elementor-divider">
+              <div className="tdp-divider">
                 {" "}
-                <span className="elementor-divider-separator">
+                <span className="tdp-divider-separator">
                   {" "}
                 </span>
                 {" "}
@@ -135,8 +135,8 @@ export default function PageRegistroExitoso({ path }: { path: string }) {
       <Popup1670 path={path} />
       <IdEgeiroWhfab path={path} />
       <div className="pafe-break-point" data-pafe-break-point-md="767" data-pafe-break-point-lg="1024" data-pafe-ajax-url="/wp-admin/admin-ajax.php"></div>
-      <div data-pafe-form-builder-tinymce-upload="/wp-content/plugins/piotnet-addons-for-elementor-pro/inc/tinymce/tinymce-upload.php"></div>
-      <div data-pafe-plugin-url="/wp-content/plugins"></div>
+      <div data-pafe-form-builder-tinymce-upload="/assets/plugins/piotnet-addons-for-tdp-pro/inc/tinymce/tinymce-upload.php"></div>
+      <div data-pafe-plugin-url="/assets/plugins"></div>
     </>
   );
 }
