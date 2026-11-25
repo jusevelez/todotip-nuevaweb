@@ -111,7 +111,9 @@ async function formGuard(browser) {
   const ctx = await browser.newContext(DESKTOP);
   const page = await ctx.newPage();
   const posts = [];
-  page.on("request", (r) => r.method() !== "GET" && posts.push(`${r.method()} ${r.url()}`));
+  page.on("request", (r) => {
+    if (r.method() !== "GET") posts.push({ method: r.method(), url: r.url() });
+  });
   await page.goto(CLONE + "/", { waitUntil: "networkidle" });
   const form = page.locator("form.tdp-form").last();
   await form.scrollIntoViewIfNeeded();
@@ -127,8 +129,25 @@ async function formGuard(browser) {
   await form.locator('button[type="submit"]').click();
   await sleep(1500);
   const notice = await page.locator(".clone-form-notice").first().textContent().catch(() => null);
+  const hasTurnstile = (await form.locator(".cf-turnstile").count()) > 0;
+  const recaptchaLeft = (await form.locator(".tdp-g-recaptcha, .g-recaptcha").count()) > 0;
+  const contactPosts = posts.filter((p) => p.method === "POST" && /\/api\/contact\/?(\?|$)/.test(p.url));
+  const otherPosts = posts.filter((p) => !(p.method === "POST" && /\/api\/contact\/?(\?|$)/.test(p.url)));
+  const pendingBlocked = typeof notice === "string" && /aún no está conectado/.test(notice);
+  const verificationNotice = typeof notice === "string" && /verificaci[oó]n|verificar/.test(notice);
   await ctx.close();
-  return { notice, nonGetRequests: posts, pass: !!notice && posts.length === 0 };
+  return {
+    notice,
+    posts,
+    hasTurnstile,
+    recaptchaLeft,
+    pass:
+      hasTurnstile &&
+      !recaptchaLeft &&
+      !pendingBlocked &&
+      otherPosts.length === 0 &&
+      (contactPosts.length > 0 || verificationNotice),
+  };
 }
 
 async function telephonyLoginPosts(browser) {
