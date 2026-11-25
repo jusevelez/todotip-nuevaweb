@@ -104,17 +104,10 @@ for (const [p, v] of pages) {
   perUrl[p] = { status: res.status, xRobotsTag: xrt, title: clone.title, robots: clone.robots, canonical: clone.canonical };
   if (res.status !== expectedStatus) add(p, "status", expectedStatus, res.status);
 
-  if (MODE === "preview") {
-    if (expectedStatus === 404 && same(clone.robots, ["noindex", PREVIEW_ROBOTS]))
-      known.push({ url: p, field: "robots", note: "Next.js always injects <meta name=robots content=noindex> on 404 responses (alongside the preview directive)." });
-    else if (!same(clone.robots, [PREVIEW_ROBOTS])) add(p, "robots(preview)", [PREVIEW_ROBOTS], clone.robots);
-    if (xrt !== PREVIEW_ROBOTS) add(p, "x-robots-tag(preview)", PREVIEW_ROBOTS, xrt);
-  } else {
-    if (expectedStatus === 404 && same(clone.robots, ["noindex", ...live.robots]))
-      known.push({ url: p, field: "robots", note: "Next.js always injects <meta name=robots content=noindex> on 404 responses; the original 'follow, noindex' is kept. Same effective directive." });
-    else if (!same(live.robots, clone.robots)) add(p, "robots", live.robots, clone.robots);
-    if (xrt) add(p, "x-robots-tag", null, xrt);
-  }
+  if (expectedStatus === 404 && same(clone.robots, ["noindex", PREVIEW_ROBOTS]))
+    known.push({ url: p, field: "robots", note: "Next.js always injects <meta name=robots content=noindex> on 404 responses (alongside the global noindex, nofollow directive)." });
+  else if (!same(clone.robots, [PREVIEW_ROBOTS])) add(p, "robots", [PREVIEW_ROBOTS], clone.robots);
+  if (xrt !== PREVIEW_ROBOTS) add(p, "x-robots-tag", PREVIEW_ROBOTS, xrt);
   for (const f of ["title", "canonical", "alternates", "meta", "jsonld", "lang", "h1"]) {
     if (!same(live[f], clone[f])) add(p, f, live[f], clone[f]);
   }
@@ -160,7 +153,7 @@ for (const p of ["/", "/pbx-movil/"]) {
   if (r.status !== 301 || l !== `https://www.todoip.com${p}`) add(`todoip.com${p}`, "redirect(non-www)", `301 https://www.todoip.com${p}`, `${r.status} ${l}`);
 }
 
-// Special files: byte equality with the capture (robots.txt differs on purpose in preview).
+// Special files: byte equality with the capture (robots.txt is always Disallow: /).
 const files = {
   "/robots.txt": "_robots.txt",
   "/llms.txt": "_llms.txt",
@@ -177,13 +170,8 @@ for (const [p, f] of Object.entries(files)) {
   const r = await fetchClone(p);
   const body = await r.text();
   if (r.status !== 200) add(p, "status", 200, r.status);
-  if (p === "/robots.txt" && MODE === "preview") {
-    if (!/Disallow: \/\s*$/m.test(body)) add(p, "robots.txt(preview)", "Disallow: /", body);
-  } else if (p === "/robots.txt") {
-    const expectedRobots = /^Disallow:\s*\/firmas\//m.test(expected)
-      ? expected
-      : expected.replace("Disallow: /imunify-bot-check\n", "Disallow: /imunify-bot-check\nDisallow: /firmas/\n");
-    if (body !== expectedRobots) add(p, "body", `${expectedRobots.length} bytes`, `${body.length} bytes`);
+  if (p === "/robots.txt") {
+    if (!/Disallow: \/\s*$/m.test(body)) add(p, "robots.txt", "Disallow: /", body);
   } else if (body !== expected) add(p, "body", `${expected.length} bytes`, `${body.length} bytes`);
   if (/sitemap|xsl/.test(p) && !/noindex/.test(r.headers.get("x-robots-tag") ?? "")) add(p, "x-robots-tag", "noindex", r.headers.get("x-robots-tag"));
 }

@@ -1,15 +1,13 @@
 /**
  * Indexing guard.
  *
- * - Production (VERCEL_ENV=production, or SITE_ENV=production outside Vercel):
- *   every URL keeps the robots directive captured from the live site
- *   (index on WP pages, `noindex, follow` on the ads landings, etc.).
- * - Anything else (Vercel preview, local dev, `next start` without SITE_ENV):
- *   the whole site is `noindex, nofollow` (meta + X-Robots-Tag + robots.txt).
+ * This repository (jusevelez/todotip-nuevaweb) is not the official TodoIP site
+ * (that will live at github.com/todoip/website). Every environment — preview,
+ * local, and production, including www.todoip.com if DNS still points here —
+ * ships global `noindex, nofollow` (meta, X-Robots-Tag, robots.txt Disallow: /).
  *
- * SITE_FORCE_NOINDEX=1 forces global noindex even in production; the build
- * refuses that combination unless ALLOW_PRODUCTION_NOINDEX=1 is also set
- * (see scripts/check-seo-env.mjs), so production cannot ship all-noindex by accident.
+ * siteMode() still distinguishes production vs preview for tracking and other
+ * non-indexing behaviour.
  */
 export const SITE_ORIGIN = "https://www.todoip.com";
 export const CANONICAL_HOST = "www.todoip.com";
@@ -25,8 +23,7 @@ export function siteMode(): SiteMode {
 }
 
 export function isIndexingEnabled(): boolean {
-  if (process.env.SITE_FORCE_NOINDEX === "1") return false;
-  return siteMode() === "production";
+  return false;
 }
 
 export const PREVIEW_ROBOTS = "noindex, nofollow";
@@ -55,10 +52,9 @@ export function withFirmasDisallow(robotsTxt: string): string {
   return `User-agent: *\nDisallow: /firmas/\n\n${robotsTxt}`;
 }
 
-/** Robots directive to render for a URL whose captured directive is `original`. */
-export function robotsFor(original: string | null | undefined): string | null {
-  if (!isIndexingEnabled()) return PREVIEW_ROBOTS;
-  return original ?? null;
+/** Robots directive: this unofficial clone is always noindex, nofollow. */
+export function robotsFor(_original?: string | null): string {
+  return PREVIEW_ROBOTS;
 }
 
 /** Analytics/tracking tags (GTM, GA4, Site Kit tag, Hotjar) only run in production. */

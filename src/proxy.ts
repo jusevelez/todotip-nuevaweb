@@ -1,5 +1,5 @@
 import { NextResponse, type NextRequest } from "next/server";
-import { CANONICAL_HOST, isIndexingEnabled, isSignatureNoindexPath, SIGNATURE_NOINDEX, siteMode } from "@/lib/site-env";
+import { CANONICAL_HOST, SIGNATURE_NOINDEX } from "@/lib/site-env";
 import { feeds } from "@/generated/feeds";
 
 // Same normalisation the live TodoIP/LiteSpeed stack applies, with 301s:
@@ -10,8 +10,13 @@ import { feeds } from "@/generated/feeds";
 const SITEMAP_ALIASES = new Set(["/sitemap.xml", "/wp-sitemap.xml"]);
 const FILE_LIKE = /\/[^/]+\.[a-z0-9]{1,6}$/i;
 
+function withNoindex(response: NextResponse) {
+  response.headers.set("X-Robots-Tag", SIGNATURE_NOINDEX);
+  return response;
+}
+
 function permanent(url: URL | string) {
-  return NextResponse.redirect(url, 301);
+  return withNoindex(NextResponse.redirect(url, 301));
 }
 
 export function proxy(request: NextRequest) {
@@ -41,17 +46,8 @@ export function proxy(request: NextRequest) {
   const response = feed
     ? new NextResponse(feed, { headers: { "Content-Type": "application/rss+xml; charset=UTF-8" } })
     : NextResponse.next();
-  // Preview/dev: whole site noindex. Production: only the canonical host is indexable
-  // (the *.vercel.app production alias stays noindex). Email signatures stay noindex
-  // on every host, including www.todoip.com.
-  if (
-    isSignatureNoindexPath(url.pathname) ||
-    !isIndexingEnabled() ||
-    (siteMode() === "production" && host !== CANONICAL_HOST)
-  ) {
-    response.headers.set("X-Robots-Tag", SIGNATURE_NOINDEX);
-  }
-  return response;
+  // Unofficial clone: every host and environment stays noindex, nofollow.
+  return withNoindex(response);
 }
 
 export const config = {

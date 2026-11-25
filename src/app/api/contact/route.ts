@@ -1,4 +1,5 @@
 import type { NextRequest } from "next/server";
+import { PREVIEW_ROBOTS } from "@/lib/site-env";
 import { verifyTurnstileToken } from "@/lib/turnstile";
 
 export const dynamic = "force-dynamic";
@@ -13,8 +14,10 @@ function clientIp(request: NextRequest): string | undefined {
   return realIp || undefined;
 }
 
+const NOINDEX = { "X-Robots-Tag": PREVIEW_ROBOTS };
+
 function forbidden() {
-  return new Response("forbidden", { status: 403 });
+  return new Response("forbidden", { status: 403, headers: NOINDEX });
 }
 
 export async function POST(request: NextRequest) {
@@ -26,8 +29,11 @@ export async function POST(request: NextRequest) {
   if (!verified) return forbidden();
 
   // Existing handler: accept the POST. No mail/CRM (out of Spin scope).
-  return Response.json({
-    ok: true,
-    message: "Recibimos tu solicitud.",
-  });
+  return Response.json(
+    {
+      ok: true,
+      message: "Recibimos tu solicitud.",
+    },
+    { headers: NOINDEX },
+  );
 }
