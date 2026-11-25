@@ -1,5 +1,5 @@
 import type { NextConfig } from "next";
-import { isIndexingEnabled, SIGNATURE_NOINDEX, SIGNATURE_NOINDEX_IMAGES } from "./src/lib/site-env";
+import { SIGNATURE_NOINDEX, SIGNATURE_NOINDEX_IMAGES } from "./src/lib/site-env";
 
 const NOINDEX_HEADER = [{ key: "X-Robots-Tag", value: SIGNATURE_NOINDEX }];
 
@@ -23,12 +23,9 @@ const nextConfig: NextConfig = {
       { source: "/firmas/:path*", headers: NOINDEX_HEADER },
       ...SIGNATURE_NOINDEX_IMAGES.map((source) => ({ source, headers: NOINDEX_HEADER })),
     ];
-    // Static assets under /assets and /lib bypass the proxy, so preview noindex
-    // is also set here for the rest of the site.
-    if (!isIndexingEnabled()) {
-      return [{ source: "/:path*", headers: NOINDEX_HEADER }, ...signatureHeaders];
-    }
-    return signatureHeaders;
+    // Unofficial clone: every path is noindex, nofollow, including production
+    // and static assets under /assets and /lib that bypass the proxy.
+    return [{ source: "/:path*", headers: NOINDEX_HEADER }, ...signatureHeaders];
   },
   async rewrites() {
     // Directory URLs like /firmas/2026/cristina/ must serve that folder's index.html

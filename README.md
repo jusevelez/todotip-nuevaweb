@@ -25,18 +25,13 @@ npm run dev            # http://127.0.0.1:4317 (modo preview: todo noindex)
 npm run build && npm start   # build de producción en http://127.0.0.1:4318
 ```
 
-## Guardas de indexación por entorno
+## Guardas de indexación
 
-El modo se decide **en el build** (las páginas son estáticas) en `src/lib/site-env.ts`:
+Este repo **no es el sitio oficial** (ese irá en `github.com/todoip/website`). En todos los
+entornos — preview, local y producción, incluido `www.todoip.com` si el DNS sigue aquí —
+el clon va con `noindex, nofollow` global: meta, `X-Robots-Tag` y `robots.txt` con
+`Disallow: /`. Los sitemaps se siguen sirviendo (mismas rutas) con `X-Robots-Tag`.
 
-| Entorno | Cómo se detecta | Robots |
-| --- | --- | --- |
-| Producción | `VERCEL_ENV=production`, o `SITE_ENV=production` fuera de Vercel | Robots original por URL (landings de ads `noindex, follow`); `X-Robots-Tag: noindex` si el host no es `www.todoip.com` |
-| Preview / dev / local | todo lo demás | `noindex, nofollow` global (meta + `X-Robots-Tag` + `robots.txt` con `Disallow: /`) |
-
-- `SITE_FORCE_NOINDEX=1` fuerza noindex global; en un build de producción el `prebuild`
-  (`scripts/check-seo-env.mjs`) **falla** salvo que también se defina
-  `ALLOW_PRODUCTION_NOINDEX=1`. Así no se publica producción entera en noindex por accidente.
 - `SITE_DISABLE_TRACKING=1` desactiva GTM/GA4/Site Kit/Hotjar (que solo se cargan en
   producción). Recomendado en cualquier despliegue de producción previo al cambio de DNS,
   para no mezclar tráfico de prueba con la analítica real.
