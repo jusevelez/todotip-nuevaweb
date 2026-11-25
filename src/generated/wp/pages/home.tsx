@@ -2023,7 +2023,7 @@ export default function PageHome({ path }: { path: string }) {
                     {" "}
                     <div className="tdp-element tdp-element-ad64a1c tdp-button-align-start dd-ele-form tdp-widget tdp-widget-form" data-id="ad64a1c" data-element_type="widget" data-e-type="widget" data-settings={"{\"step_next_label\":\"Next\",\"step_previous_label\":\"Previous\",\"button_width\":\"33\",\"step_type\":\"number_text\",\"step_icon_shape\":\"circle\"}"} data-widget_type="form.default">
                       {" "}
-                      <form className="tdp-form" method="post" name="Schedule consultation - form" aria-label="Schedule consultation - form" noValidate={true}>
+                      <form className="tdp-form" method="post" action="/api/contact/" name="Schedule consultation - form" aria-label="Schedule consultation - form" noValidate={true}>
                         {" "}
                         <input type="hidden" name="post_id" value="910" />
                         {" "}
@@ -2142,10 +2142,10 @@ export default function PageHome({ path }: { path: string }) {
                             {" "}
                           </div>
                           {" "}
-                          <div className="tdp-field-type-recaptcha tdp-field-group tdp-column tdp-field-group-field_315b82b tdp-col-100">
+                          <div className="tdp-field-type-turnstile tdp-field-group tdp-column tdp-field-group-field_315b82b tdp-col-100">
                             {" "}
                             <div className="tdp-field" id="form-field-field_315b82b">
-                              <div className="tdp-g-recaptcha" data-sitekey="6LcHq38qAAAAAJoDF8XNp7Gj5OipTK5VMR3RSWlX" data-type="v2_checkbox" data-theme="light" data-size="normal"></div>
+                              <div className="cf-turnstile" data-sitekey="0x4AAAAAAGRtmkBrP7pfie6_" data-action="contact"></div>
                             </div>
                             {" "}
                           </div>

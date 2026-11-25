@@ -26,8 +26,14 @@ export function proxy(request: NextRequest) {
     return permanent(new URL("/sitemap_index.xml", url));
   }
 
-  if (!url.pathname.endsWith("/") && !FILE_LIKE.test(url.pathname)) {
+  const mutating = request.method !== "GET" && request.method !== "HEAD";
+  if (
+    !url.pathname.endsWith("/") &&
+    !FILE_LIKE.test(url.pathname) &&
+    !(mutating && url.pathname.startsWith("/api/"))
+  ) {
     // A plain URL: NextURL re-applies its own trailing-slash formatting on clone().
+    // Mutating /api/* stays put so a POST body is not dropped on a 301.
     return permanent(new URL(`${url.pathname}/${url.search}`, request.url));
   }
 

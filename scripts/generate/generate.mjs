@@ -123,6 +123,34 @@ const wpPaths = Object.entries(manifest.pages)
   .map(([p]) => p);
 const pages = [...wpPaths.map((p) => ({ path: p, file: manifest.pages[p].file })), { path: "__404", file: "html/__404.html" }];
 
+const TURNSTILE_SITEKEY = "0x4AAAAAAGRtmkBrP7pfie6_";
+
+/** Replace the home reCAPTCHA v2 slot with the existing Turnstile widget. */
+function rewriteHomeRecaptchaToTurnstile($) {
+  $("div.elementor-g-recaptcha, div.tdp-g-recaptcha, div.g-recaptcha").each((_, el) => {
+    const $el = $(el);
+    $el
+      .removeClass("elementor-g-recaptcha tdp-g-recaptcha g-recaptcha")
+      .addClass("cf-turnstile")
+      .attr("data-sitekey", TURNSTILE_SITEKEY)
+      .attr("data-action", "contact")
+      .removeAttr("data-type")
+      .removeAttr("data-theme")
+      .removeAttr("data-size")
+      .empty();
+    $el
+      .closest(".elementor-field-type-recaptcha, .tdp-field-type-recaptcha")
+      .removeClass("elementor-field-type-recaptcha tdp-field-type-recaptcha")
+      .addClass("tdp-field-type-turnstile");
+  });
+  $("form.elementor-form, form.tdp-form").each((_, el) => {
+    const $form = $(el);
+    if (($form.attr("name") || "") === "Schedule consultation - form") {
+      $form.attr("action", "/api/contact/");
+    }
+  });
+}
+
 /** Drop login forms that POST to telefonia.com (missing .todoip) — credential leak. */
 function stripCredentialLeakLoginForms($) {
   $("form[action]").each((_, el) => {
@@ -148,6 +176,7 @@ for (const pg of pages) {
   const html = await fs.readFile(path.join(CAP, pg.file), "utf8");
   const $ = cheerio.load(html);
   stripCredentialLeakLoginForms($);
+  rewriteHomeRecaptchaToTurnstile($);
   const body = $("body")[0];
   const kids = significantChildren(body, null).filter((c) => !(c.type === "text" && !c.data.trim()));
   parsed.push({ ...pg, $, head: headData($, pg.path), body, kids, htmlAttrs: { ...$("html")[0].attribs } });
